@@ -726,20 +726,20 @@ ACHIEVEMENT_KILL_MEDUMET_TITLE,Bot,Bot
 ACHIEVEMENT_KILL_YETTI_TITLE,Bigfoot,Bigfoot
 ACHIEVEMENT_KILL_GHOSTKING_TITLE,Reaper,Reaper
 ACHIEVEMENT_KILL_MAMMOTH_TITLE,Prehistoric,Prehistoric
-ACHIEVEMENT_KILL_AUGU_TITLE,Sushi Chef,Sushi Chef
+ACHIEVEMENT_KILL_AUGU_TITLE,Sushi Chef,Szef Kuchni Sushi
 ACHIEVEMENT_KILL_ATROX_TITLE,Antlion,Antlion
 ACHIEVEMENT_KILL_TIGAR_TITLE,Vicious,Okrutny
 ACHIEVEMENT_KILL_MERAL_TITLE,Pirate,Pirate
 ACHIEVEMENT_KILL_KINGSTER_TITLE,Boiled,Boiled
 ACHIEVEMENT_KILL_CREPER_TITLE,Crabby,Crabby
-ACHIEVEMENT_KILL_NAGA_TITLE,Cold Blooded,Cold Blooded
+ACHIEVEMENT_KILL_NAGA_TITLE,Cold Blooded,Zimna Krew
 ACHIEVEMENT_KILL_DORIAN_TITLE,Fishy,Fishy
-ACHIEVEMENT_KILL_OKEAN_TITLE,Waterlogged,Waterlogged
-ACHIEVEMENT_KILL_KRAKEN_TITLE,Sea King,Sea King
-ACHIEVEMENT_KILL_DREADFIN_TITLE,Sea Snack,Sea Snack
+ACHIEVEMENT_KILL_OKEAN_TITLE,Waterlogged,Przechodząc Wodę
+ACHIEVEMENT_KILL_KRAKEN_TITLE,Sea King,Król Morza
+ACHIEVEMENT_KILL_DREADFIN_TITLE,Sea Snack,Morska Przekąska
 ACHIEVEMENT_KILL_DREADSCALE_TITLE,Slurp,Slurp
 ACHIEVEMENT_KILL_LUMINFIN_TITLE,Lumos,Lumos
-ACHIEVEMENT_KILL_PUPPETWOLF_TITLE,Sharp Slayer,Sharp Slayer
+ACHIEVEMENT_KILL_PUPPETWOLF_TITLE,Sharp Slayer,Ostry Zabójca
 ACHIEVEMENT_KILL_RYSENTRY_TITLE,Echowalker,Echowalker
 ACHIEVEMENT_KILL_RYGUARD_TITLE,Shadowbrand,Shadowbrand
 ACHIEVEMENT_KILL_RYARCHER_TITLE,Judicator,Judicator
@@ -747,22 +747,22 @@ ACHIEVEMENT_KILL_RYMAGI_TITLE,Bloodflare,Bloodflare
 ACHIEVEMENT_KILL_RYWARRIOR_TITLE,Warchant,Warchant
 ACHIEVEMENT_KILL_SKELWOLF_TITLE,Hellborn,Hellborn
 ACHIEVEMENT_KILL_RYBARGA_TITLE,Keokai,Keokai
-ACHIEVEMENT_KILL_REDMETEONYKER_TITLE,Reduced to Ashes,Reduced to Ashes
-ACHIEVEMENT_KILL_CAVEMANCHIEF_TITLE,Cave Dweller,Cave Dweller
+ACHIEVEMENT_KILL_REDMETEONYKER_TITLE,Reduced to Ashes,Zmieniony w Popiół
+ACHIEVEMENT_KILL_CAVEMANCHIEF_TITLE,Cave Dweller,Mieszkaniec Jaskini
 ACHIEVEMENT_KILL_TEMPLEGUARDIAN_TITLE,Electrified,Electrified
 ACHIEVEMENT_KILL_GREATKRAKEN_TITLE,Drowned,Drowned
 ACHIEVEMENT_KILL_PYRAMIDGUARDIAN_TITLE,Risen,Risen
 ACHIEVEMENT_KILL_CRYSTALDEVIL_TITLE,Numb,Numb
-ACHIEVEMENT_KILL_BEASTKINGKHAN_TITLE,Conqueror of the Wilds,Conqueror of the Wilds
+ACHIEVEMENT_KILL_BEASTKINGKHAN_TITLE,Conqueror of the Wilds,Zdobywca Dziczy
 ACHIEVEMENT_KILL_SHADEKRITON_TITLE,Shade Hunter,Łowca Shade
-ACHIEVEMENT_KILL_BEHEMOTH03_TITLE,God of Death,God of Death
+ACHIEVEMENT_KILL_BEHEMOTH03_TITLE,God of Death,Bóg Śmierci
 ACHIEVEMENT_JUMP_NAME,Jump,Skocz
 ACHIEVEMENT_JUMP_DESC,Jump a certain number of times.,Skocz określoną ilość razy.
 ACHIEVEMENT_JUMP_TITLE,Jump Master,Skoczny Mistrz
 ACHIEVEMENT_PLAY_TIME_NAME,Total Play Time,Całkowity Czas Gry
 ACHIEVEMENT_PLAY_TIME_DESC,Reach a certain play time (hours) to earn rewards.,"Osiągnij określony czas gry (w godzinach), aby zdobyć nagrody."
 ACHIEVEMENT_PLAY_TIME_LVL1,FlyFF Novice!,FlyFF Początkujący!
-ACHIEVEMENT_PLAY_TIME_LVL2,FlyFF Fan!,FlyFF Fan!
+ACHIEVEMENT_PLAY_TIME_LVL2,FlyFF Fan!,Fan FlyFF!
 ACHIEVEMENT_PLAY_TIME_LVL3,FlyFF Devotee!,FlyFF Oddany!
 ACHIEVEMENT_PLAY_TIME_LVL4,FlyFF Enthusiast!,FlyFF Entuzjasta!
 ACHIEVEMENT_PLAY_TIME_LVL5,FlyFF Addict!,FlyFF Uzależniony!
@@ -806,7 +806,7 @@ ACHIEVEMENT_USE_CHOCOLATE_TITLE,Chocoholic,Czokoholik
 ACHIEVEMENT_USE_MILK_NAME,Milk,Mleko
 ACHIEVEMENT_USE_MILK_DESC,"Drink 200,000 Cartons of Milk.","Wypij 200,000 kartonów Mleka."
 ACHIEVEMENT_USE_MILK_TITLE,Legendairy,Mlekołak
-ACHIEVEMENT_USE_HOTDOG_NAME,Hot Dog,Hot Dog
+ACHIEVEMENT_USE_HOTDOG_NAME,Hot Dog,Gorący Pies
 ACHIEVEMENT_USE_HOTDOG_DESC,"Eat 200,000 Hot Dogs.","Zjedz 200,000 Hot Dogów."
 ACHIEVEMENT_USE_HOTDOG_TITLE,Top Dog,Wielbiciel Parówek
 ACHIEVEMENT_USE_PIZZA_NAME,Pizza,Pizza
@@ -881,15 +881,15 @@ ACHIEVEMENT_USE_ICECREAMCAKE_TITLE,Chilled,Wyluzowany
 ACHIEVEMENT_USE_BISCUIT_NAME,Biscuit,Ciastko
 ACHIEVEMENT_USE_BISCUIT_DESC,"Eat 200,000 Biscuits.","Zjedz 200,000 ciastek."
 ACHIEVEMENT_USE_BISCUIT_TITLE,Baker,Piekarz
-ACHIEVEMENT_USE_CORAL_ISLAND_CURRY_NAME,Coral Island Curry,Coral Island Curry
+ACHIEVEMENT_USE_CORAL_ISLAND_CURRY_NAME,Coral Island Curry,Curry Wyspy Koralowej
 ACHIEVEMENT_USE_CORAL_ISLAND_CURRY_DESC,"Eat 50,000 Coral Island Curries.",Zjedz 50 000 Coral Island Curry.
 ACHIEVEMENT_USE_CORAL_ISLAND_CURRY_TITLE,Saucy,Saucy
 ACHIEVEMENT_USE_FRUIT_PUNCH_NAME,Fruit Punch,Poncz owocowy
 ACHIEVEMENT_USE_FRUIT_PUNCH_DESC,"Eat 200,000 Fruit Punch.",Zjedz 200 000 Punczów owocowych.
 ACHIEVEMENT_USE_FRUIT_PUNCH_TITLE,Punta Cana,Punta Cana
-ACHIEVEMENT_USE_TUNASUSHI_NAME,Tuna Sushi,Tuna Sushi
+ACHIEVEMENT_USE_TUNASUSHI_NAME,Tuna Sushi,Sushi Tuńczyka
 ACHIEVEMENT_USE_TUNASUSHI_DESC,"Eat 200,000 Tuna Sushi.",Zjedz 200 000 Tuna Sushi.
-ACHIEVEMENT_USE_TUNASUSHI_TITLE,Soy Sauce,Soy Sauce
+ACHIEVEMENT_USE_TUNASUSHI_TITLE,Soy Sauce,Sos Sojowy
 ACHIEVEMENT_STAT_STRENGTH_NAME,Strength,Siła
 ACHIEVEMENT_STAT_STRENGTH_DESC,Get 253 BASE STR.,Osiągnij 253 bazowego STR.
 ACHIEVEMENT_STAT_STRENGTH_TITLE,Mighty,Potężny
@@ -904,10 +904,10 @@ ACHIEVEMENT_STAT_INTELLIGENCE_DESC,Get 253 BASE INT.,Osiągnij 253 bazowego INT.
 ACHIEVEMENT_STAT_INTELLIGENCE_TITLE,Sage,Mędrzec
 ACHIEVEMENT_DAILY_PLAY_TIME_NAME,Daily play time,Dzienny czas gry
 ACHIEVEMENT_DAILY_PLAY_TIME_DESC,"Play 10, 20, 30 and 40 minutes in the day to earn rewards. Reset at midnight.","Graj 10, 20, 30 i 40 minut dziennie, aby zdobywać nagrody. Naliczanie resetuje się o północy."
-ACHIEVEMENT_DAILY_PLAY_TIME_LVL1,10 mn,10 mn
-ACHIEVEMENT_DAILY_PLAY_TIME_LVL2,20 mn,20 mn
-ACHIEVEMENT_DAILY_PLAY_TIME_LVL3,30 mn,30 mn
-ACHIEVEMENT_DAILY_PLAY_TIME_LVL4,40 mn,40 mn
+ACHIEVEMENT_DAILY_PLAY_TIME_LVL1,10 mn,10 min
+ACHIEVEMENT_DAILY_PLAY_TIME_LVL2,20 mn,20 min
+ACHIEVEMENT_DAILY_PLAY_TIME_LVL3,30 mn,30 min
+ACHIEVEMENT_DAILY_PLAY_TIME_LVL4,40 mn,40 min
 ACHIEVEMENT_CONNECTION_SERIES_NAME,Connection series,Seria Zalogowań
 ACHIEVEMENT_CONNECTION_SERIES_DESC,Log in multiple days in a row to earn rewards. Reset at midnight.,"Zaloguj się kilka dni z rzędu, aby zdobywać nagrody."
 ACHIEVEMENT_CONNECTION_SERIES_LVL1,Day 1,Dzień 1
@@ -947,7 +947,7 @@ ACHIEVEMENT_TOTAL_CONNECTION_LVL28,Day 27,Dzień 27
 ACHIEVEMENT_TOTAL_CONNECTION_LVL29,Day 28,Dzień 28
 ACHIEVEMENT_TOTAL_CONNECTION_LVL10,Day 30,Dzień 30
 ACHIEVEMENT_SKILL_RESURRECTION_NAME,Savior,Savior
-ACHIEVEMENT_SKILL_RESURRECTION_DESC,"Resurrect 1,000 players.","Resurrect 1,000 players."
+ACHIEVEMENT_SKILL_RESURRECTION_DESC,"Resurrect 1,000 players.",Wskrzesij 1000 graczy.
 ACHIEVEMENT_ALPHA_TESTER_NAME,Alpha Tester Reward,Nagroda dla Testera Alpha
 ACHIEVEMENT_ALPHA_TESTER_DESC,A unique reward for players who participated in the FlyForFun.io Alpha Test in 2019!,"Wyjątkowa nagroda dla graczy, którzy uczestniczyli w Alpha Test FlyForFun.io w 2019!"
 ACHIEVEMENT_ALPHA_TESTER_TITLE,Alpha Tester,Tester Alpha
@@ -963,58 +963,58 @@ ACHIEVEMENT_FLYFFIPEDIA_TITLE,Flyffipedia,Flyffipedia
 ACHIEVEMENT_TRANSLATOR_NAME,Translator Reward,Nagroda dla Tłumacza
 ACHIEVEMENT_TRANSLATOR_DESC,A unique reward for players who help creating game translations.,"Wyjątkowa nagroda dla graczy, którzy pomagają tworzyć tłumaczenia gry."
 ACHIEVEMENT_TRANSLATOR_TITLE,Translator,Translator
-ACHIEVEMENT_MASTER60_NAME,Master 60 - 70,Master 60 - 70
-ACHIEVEMENT_MASTER60_DESC,Complete the first Master Quest,Complete the first Master Quest
-ACHIEVEMENT_MASTER70_NAME,Master 70 - 80,Master 70 - 80
-ACHIEVEMENT_MASTER70_DESC,Complete the second Master Quest,Complete the second Master Quest
-ACHIEVEMENT_MASTER80_NAME,Master 80 - 90,Master 80 - 90
-ACHIEVEMENT_MASTER80_DESC,Complete the third Master Quest,Complete the third Master Quest
-ACHIEVEMENT_MASTER90_NAME,Master 90 - 100,Master 90 - 100
-ACHIEVEMENT_MASTER90_DESC,Complete the fourth Master Quest,Complete the fourth Master Quest
-ACHIEVEMENT_MASTER100_NAME,Master 100 - 110,Master 100 - 110
-ACHIEVEMENT_MASTER100_DESC,Complete the fifth Master Quest,Complete the fifth Master Quest
-ACHIEVEMENT_MASTER110_NAME,Master 110 - 120,Master 110 - 120
-ACHIEVEMENT_MASTER110_DESC,Complete the last Master Quest,Complete the last Master Quest
+ACHIEVEMENT_MASTER60_NAME,Master 60 - 70,Mistrz 60 - 70
+ACHIEVEMENT_MASTER60_DESC,Complete the first Master Quest,Ukończ pierwszą Quest Mistrza
+ACHIEVEMENT_MASTER70_NAME,Master 70 - 80,Mistrz 70 - 80
+ACHIEVEMENT_MASTER70_DESC,Complete the second Master Quest,Ukończ drugą Quest Mistrza
+ACHIEVEMENT_MASTER80_NAME,Master 80 - 90,Mistrz 80 - 90
+ACHIEVEMENT_MASTER80_DESC,Complete the third Master Quest,Ukończ trzecią Quest Mistrza
+ACHIEVEMENT_MASTER90_NAME,Master 90 - 100,Mistrz 90 - 100
+ACHIEVEMENT_MASTER90_DESC,Complete the fourth Master Quest,Ukończ czwartą Quest Mistrza
+ACHIEVEMENT_MASTER100_NAME,Master 100 - 110,Mistrz 100 - 110
+ACHIEVEMENT_MASTER100_DESC,Complete the fifth Master Quest,Ukończ piątą Quest Mistrza
+ACHIEVEMENT_MASTER110_NAME,Master 110 - 120,Mistrz 110 - 120
+ACHIEVEMENT_MASTER110_DESC,Complete the last Master Quest,Ukończ ostatnią Quest Mistrza
 ACHIEVEMENT_MASTER120_NAME,Hero,Hero
-ACHIEVEMENT_MASTER120_NAME2,Hero 120 - 125,Hero 120 - 125
-ACHIEVEMENT_MASTER120_DESC,Complete the Hero Quest,Complete the Hero Quest
-ACHIEVEMENT_FWCPARTICIPANT_NAME,FWC Participant,FWC Participant
-ACHIEVEMENT_FWCPARTICIPANT_DESC,Reach level 16 in the Flyff World Championship.,Reach level 16 in the Flyff World Championship.
-ACHIEVEMENT_FWCHERO_NAME,FWC Contender,FWC Contender
-ACHIEVEMENT_FWCHERO_DESC,Reach level 120 in the Flyff World Championship.,Reach level 120 in the Flyff World Championship.
-ACHIEVEMENT_FWCPVPSECOND_NAME,FWC Arena 2nd,FWC Arena 2nd
-ACHIEVEMENT_FWCPVPSECOND_DESC,Get second place in the Flyff World Championship PvP Competition.,Get second place in the Flyff World Championship PvP Competition.
-ACHIEVEMENT_FWCPVPTHIRD_NAME,FWC Arena 3rd,FWC Arena 3rd
-ACHIEVEMENT_FWCPVPTHIRD_DESC,Get third place in the Flyff World Championship PvP Competition.,Get third place in the Flyff World Championship PvP Competition.
-ACHIEVEMENT_FWCPVPWINNER_NAME,FWC Arena Champion,FWC Arena Champion
-ACHIEVEMENT_FWCPVPWINNER_DESC,Win the Flyff World Championship PvP competition.,Win the Flyff World Championship PvP competition.
-ACHIEVEMENT_FWCPVECHAMPION_NAME,FWC Colosseum Champion,FWC Colosseum Champion
-ACHIEVEMENT_FWCPVECHAMPION_DESC,Win the Flyff World Championship PvE competition.,Win the Flyff World Championship PvE competition.
-ACHIEVEMENT_FWCPVESECOND_NAME,FWC Colosseum 2nd,FWC Colosseum 2nd
-ACHIEVEMENT_FWCPVESECOND_DESC,Get second place in the Flyff World Championship PvE Competition.,Get second place in the Flyff World Championship PvE Competition.
-ACHIEVEMENT_FWCPVETHIRD_NAME,FWC Colosseum 3rd,FWC Colosseum 3rd
-ACHIEVEMENT_FWCPVETHIRD_DESC,Get third place in the Flyff World Championship PvE Competition.,Get third place in the Flyff World Championship PvE Competition.
-ACHIEVEMENT_ROULETTE_1,First connection,First connection
-ACHIEVEMENT_ROULETTE_2,Play 2 hours,Play 2 hours
-ACHIEVEMENT_ROULETTE_3,Play 4 hours,Play 4 hours
-ACHIEVEMENT_ROULETTE_4,Play 6 hours,Play 6 hours
-ACHIEVEMENT_ROULETTE_5,Play 8 hours,Play 8 hours
-ACHIEVEMENT_ROULETTE_6,Play 10 hours,Play 10 hours
-ACHIEVEMENT_ROULETTE_7,Play 12 hours,Play 12 hours
-ACHIEVEMENT_ROULETTE_8,Play 14 hours,Play 14 hours
-ACHIEVEMENT_ROULETTE_9,Play 16 hours,Play 16 hours
-ACHIEVEMENT_ROULETTE_10,Play 18 hours,Play 18 hours
-ACHIEVEMENT_ROULETTE_11,Play 20 hours,Play 20 hours
-ACHIEVEMENT_ROULETTE_12,Play 22 hours,Play 22 hours
-ACHIEVEMENT_RETURNING_TITLE,Homecoming Attendance,Homecoming Attendance
-ACHIEVEMENT_RETURNING_DESC,You haven't logged in for a long time! Log in every day and receive rewards! Thank you for your presence.,You haven't logged in for a long time! Log in every day and receive rewards! Thank you for your presence.
-ACHIEVEMENT_RAINBOWRACE_NAME,Rainbow Race Winner,Rainbow Race Winner
-ACHIEVEMENT_RAINBOWRACE_DESC,A unique reward for those who win the Rainbow Race.,A unique reward for those who win the Rainbow Race.
-ACHIEVEMENT_RAINBOWRACE_TITLE,Speed Demon,Speed Demon
-ACHIEVEMENT_RAINBOWRACE_WINS_NAME,Rainbow Race Champion,Rainbow Race Champion
-ACHIEVEMENT_RAINBOWRACE_WINS_DESC,Unique rewards based on how many Rainbow Race wins you can get!,Unique rewards based on how many Rainbow Race wins you can get!
+ACHIEVEMENT_MASTER120_NAME2,Hero 120 - 125,Bohater 120 - 125
+ACHIEVEMENT_MASTER120_DESC,Complete the Hero Quest,Ukończ Quest Bohatera
+ACHIEVEMENT_FWCPARTICIPANT_NAME,FWC Participant,Uczestnik FWC
+ACHIEVEMENT_FWCPARTICIPANT_DESC,Reach level 16 in the Flyff World Championship.,Osiągnij poziom 16 w Mistrzostwach Świata FlyFF.
+ACHIEVEMENT_FWCHERO_NAME,FWC Contender,Kandydat FWC
+ACHIEVEMENT_FWCHERO_DESC,Reach level 120 in the Flyff World Championship.,Osiągnij poziom 120 w Mistrzostwach Świata FlyFF.
+ACHIEVEMENT_FWCPVPSECOND_NAME,FWC Arena 2nd,Arena FWC 2nd
+ACHIEVEMENT_FWCPVPSECOND_DESC,Get second place in the Flyff World Championship PvP Competition.,Osiągnij drugie miejsce w Mistrzostwach Świata FlyFF PvP.
+ACHIEVEMENT_FWCPVPTHIRD_NAME,FWC Arena 3rd,Arena FWC 3rd
+ACHIEVEMENT_FWCPVPTHIRD_DESC,Get third place in the Flyff World Championship PvP Competition.,Osiągnij trzecie miejsce w Mistrzostwach Świata FlyFF PvP.
+ACHIEVEMENT_FWCPVPWINNER_NAME,FWC Arena Champion,Mistrz Areny FWC
+ACHIEVEMENT_FWCPVPWINNER_DESC,Win the Flyff World Championship PvP competition.,Wygraj Mistrzostwa Świata FlyFF PvP.
+ACHIEVEMENT_FWCPVECHAMPION_NAME,FWC Colosseum Champion,Mistrz Koloseum FWC
+ACHIEVEMENT_FWCPVECHAMPION_DESC,Win the Flyff World Championship PvE competition.,Wygraj Mistrzostwa Świata FlyFF PvE.
+ACHIEVEMENT_FWCPVESECOND_NAME,FWC Colosseum 2nd,Koloseum FWC 2nd
+ACHIEVEMENT_FWCPVESECOND_DESC,Get second place in the Flyff World Championship PvE Competition.,Osiągnij drugie miejsce w Mistrzostwach Świata FlyFF PvE.
+ACHIEVEMENT_FWCPVETHIRD_NAME,FWC Colosseum 3rd,Koloseum FWC 3rd
+ACHIEVEMENT_FWCPVETHIRD_DESC,Get third place in the Flyff World Championship PvE Competition.,Osiągnij trzecie miejsce w Mistrzostwach Świata FlyFF PvE.
+ACHIEVEMENT_ROULETTE_1,First connection,Pierwsze zalogowanie
+ACHIEVEMENT_ROULETTE_2,Play 2 hours,Graj 2 godziny
+ACHIEVEMENT_ROULETTE_3,Play 4 hours,Graj 4 godziny
+ACHIEVEMENT_ROULETTE_4,Play 6 hours,Graj 6 godzin
+ACHIEVEMENT_ROULETTE_5,Play 8 hours,Graj 8 godzin
+ACHIEVEMENT_ROULETTE_6,Play 10 hours,Graj 10 godzin
+ACHIEVEMENT_ROULETTE_7,Play 12 hours,Graj 12 godzin
+ACHIEVEMENT_ROULETTE_8,Play 14 hours,Graj 14 godzin
+ACHIEVEMENT_ROULETTE_9,Play 16 hours,Graj 16 godzin
+ACHIEVEMENT_ROULETTE_10,Play 18 hours,Graj 18 godzin
+ACHIEVEMENT_ROULETTE_11,Play 20 hours,Graj 20 godzin
+ACHIEVEMENT_ROULETTE_12,Play 22 hours,Graj 22 godzin
+ACHIEVEMENT_RETURNING_TITLE,Homecoming Attendance,Powrót do Domu
+ACHIEVEMENT_RETURNING_DESC,You haven't logged in for a long time! Log in every day and receive rewards! Thank you for your presence.,Długo się nie logowałeś! Loguj się każdego dnia i otrzymuj nagrody! Dziękujemy za Twoją obecność.
+ACHIEVEMENT_RAINBOWRACE_NAME,Rainbow Race Winner,Zwycięzca Wyścigu Tęczy
+ACHIEVEMENT_RAINBOWRACE_DESC,A unique reward for those who win the Rainbow Race.,Unikalna nagroda dla zwycięzców Wyścigu Tęczy.
+ACHIEVEMENT_RAINBOWRACE_TITLE,Speed Demon,Demon Prędkości
+ACHIEVEMENT_RAINBOWRACE_WINS_NAME,Rainbow Race Champion,Mistrz Wyścigu Tęczy
+ACHIEVEMENT_RAINBOWRACE_WINS_DESC,Unique rewards based on how many Rainbow Race wins you can get!,Unikalne nagrody na podstawie wygranych Wyścigów Tęczy!
 ACHIEVEMENT_MASTER110_TITLE,Master,Mistrz
-ACHIEVEMENT_DAILY_PLAY_TIME_PREMIUM_DESC,Use fCoin to earn additional attendance rewards.,Use fCoin to earn additional attendance rewards.
+ACHIEVEMENT_DAILY_PLAY_TIME_PREMIUM_DESC,Use fCoin to earn additional attendance rewards.,"Używaj fCoin, aby zarobić dodatkowe nagrody uczestnictwa."
 ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_NAME,Connection Pack,Pakiet Zalogowań
 ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_DESC,Log in a certain number of times to earn premium rewards.,"Zaloguj się określoną ilość razy, aby zdobyć premium nagrody."
 ACHIEVEMENT_FWC_2024_BEGINNER_NAME,2024 FWC Beginner,FWC 2024 Początkujący
@@ -1026,111 +1026,111 @@ ACHIEVEMENT_FWC_2024_MASTER_NAME,2024 FWC Master,FWC 2024 Mistrz
 ACHIEVEMENT_FWC_2024_MASTER_DESC,Reach level 160 in the Flyff World Championship.,Osiągnij poziom 160 w Mistrzostwa Świata FlyFF.
 ACHIEVEMENT_FWC_2024_EMPEROR_NAME,2024 FWC Emperor,FWC 2024 Cesarz
 ACHIEVEMENT_FWC_2024_EMPEROR_DESC,Complete all Gear Exchange in the Flyff World Championship.,Ukończ wymianę całego sprzętu w Mistrzostwach Świata FlyFF.
-ACHIEVEMENT_COUPLE_FORM_01_NAME,Couple 1,Couple 1
-ACHIEVEMENT_COUPLE_FORM_01_TITLE,Solo Escape,Solo Escape
-ACHIEVEMENT_COUPLE_FORM_02_NAME,Couple 10,Couple 10
-ACHIEVEMENT_COUPLE_FORM_02_TITLE,Experienced,Experienced
-ACHIEVEMENT_COUPLE_FORM_03_NAME,Couple 100,Couple 100
+ACHIEVEMENT_COUPLE_FORM_01_NAME,Couple 1,Para 1
+ACHIEVEMENT_COUPLE_FORM_01_TITLE,Solo Escape,Samotna Ucieczka
+ACHIEVEMENT_COUPLE_FORM_02_NAME,Couple 10,Para 10
+ACHIEVEMENT_COUPLE_FORM_02_TITLE,Experienced,Doświadczony
+ACHIEVEMENT_COUPLE_FORM_03_NAME,Couple 100,Para 100
 ACHIEVEMENT_COUPLE_FORM_03_TITLE,Casanova,Casanova
-ACHIEVEMENT_COUPLE_FORM_DESC,Find a partner and form a couple.,Find a partner and form a couple.
-ACHIEVEMENT_COUPLE_LEVEL_01_NAME,Couple Level 5,Couple Level 5
-ACHIEVEMENT_COUPLE_LEVEL_01_TITLE,Getting to Know,Getting to Know
-ACHIEVEMENT_COUPLE_LEVEL_02_NAME,Couple Level 10,Couple Level 10
-ACHIEVEMENT_COUPLE_LEVEL_02_TITLE,Close Acquaintances,Close Acquaintances
-ACHIEVEMENT_COUPLE_LEVEL_03_NAME,Couple Level 15,Couple Level 15
-ACHIEVEMENT_COUPLE_LEVEL_03_TITLE,Destined Couple,Destined Couple
-ACHIEVEMENT_COUPLE_LEVEL_DESC,Raise your couple's level.,Raise your couple's level.
-ACHIEVEMENT_COUPLE_DURATION_01_NAME,Couple Duration 100,Couple Duration 100
-ACHIEVEMENT_COUPLE_DURATION_01_TITLE,100 Days of Love,100 Days of Love
-ACHIEVEMENT_COUPLE_DURATION_02_NAME,Couple Duration 200,Couple Duration 200
-ACHIEVEMENT_COUPLE_DURATION_02_TITLE,200 Days of Love,200 Days of Love
-ACHIEVEMENT_COUPLE_DURATION_03_NAME,Couple Duration 365,Couple Duration 365
-ACHIEVEMENT_COUPLE_DURATION_03_TITLE,365 Days of Love,365 Days of Love
-ACHIEVEMENT_COUPLE_DURATION_DESC,Maintain a couple with your partner for consecutive days.,Maintain a couple with your partner for consecutive days.
-ACHIEVEMENT_COUPLE_SKILL_NAME,Couple Skills,Couple Skills
-ACHIEVEMENT_COUPLE_SKILL_TITLE,Better Together,Better Together
-ACHIEVEMENT_COUPLE_SKILL_DESC,Use any couple skills.,Use any couple skills.
-ACHIEVEMENT_COUPLE_MOTION_01_NAME,Couple Motions 100,Couple Motions 100
-ACHIEVEMENT_COUPLE_MOTION_01_TITLE,Like Bread and Butter,Like Bread and Butter
-ACHIEVEMENT_COUPLE_MOTION_02_NAME,Couple Motions 1000,Couple Motions 1000
-ACHIEVEMENT_COUPLE_MOTION_02_TITLE,Great Couples Think Alike,Great Couples Think Alike
-ACHIEVEMENT_COUPLE_MOTION_03_NAME,Couple Motions 10000,Couple Motions 10000
-ACHIEVEMENT_COUPLE_MOTION_03_TITLE,"One Mind, One Body","One Mind, One Body"
-ACHIEVEMENT_COUPLE_MOTION_DESC,Use any couple motions.,Use any couple motions.
-ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_NAME,Great Success!,Great Success!
-ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_TITLE01,Bonus Obtained,Bonus Obtained
+ACHIEVEMENT_COUPLE_FORM_DESC,Find a partner and form a couple.,Znajdź partnera i stwórz parę.
+ACHIEVEMENT_COUPLE_LEVEL_01_NAME,Couple Level 5,Poziom Pary 5
+ACHIEVEMENT_COUPLE_LEVEL_01_TITLE,Getting to Know,Poznawanie się
+ACHIEVEMENT_COUPLE_LEVEL_02_NAME,Couple Level 10,Poziom Pary 10
+ACHIEVEMENT_COUPLE_LEVEL_02_TITLE,Close Acquaintances,Bliskie znajomości
+ACHIEVEMENT_COUPLE_LEVEL_03_NAME,Couple Level 15,Poziom Pary 15
+ACHIEVEMENT_COUPLE_LEVEL_03_TITLE,Destined Couple,Przeznaczona Para
+ACHIEVEMENT_COUPLE_LEVEL_DESC,Raise your couple's level.,Podnieś poziom pary.
+ACHIEVEMENT_COUPLE_DURATION_01_NAME,Couple Duration 100,Czas Pary 100
+ACHIEVEMENT_COUPLE_DURATION_01_TITLE,100 Days of Love,100 Dni Miłości
+ACHIEVEMENT_COUPLE_DURATION_02_NAME,Couple Duration 200,Czas Pary 200
+ACHIEVEMENT_COUPLE_DURATION_02_TITLE,200 Days of Love,200 Dni Miłości
+ACHIEVEMENT_COUPLE_DURATION_03_NAME,Couple Duration 365,Czas Pary 365
+ACHIEVEMENT_COUPLE_DURATION_03_TITLE,365 Days of Love,365 Dni Miłości
+ACHIEVEMENT_COUPLE_DURATION_DESC,Maintain a couple with your partner for consecutive days.,Utrzymuj parę z partnerem przez kolejne dni.
+ACHIEVEMENT_COUPLE_SKILL_NAME,Couple Skills,Umiejętności Pary
+ACHIEVEMENT_COUPLE_SKILL_TITLE,Better Together,Lepiej Razem
+ACHIEVEMENT_COUPLE_SKILL_DESC,Use any couple skills.,Użyj dowolnej umiejętności pary.
+ACHIEVEMENT_COUPLE_MOTION_01_NAME,Couple Motions 100,Ruchy Pary 100
+ACHIEVEMENT_COUPLE_MOTION_01_TITLE,Like Bread and Butter,Jak Chleb i Masło
+ACHIEVEMENT_COUPLE_MOTION_02_NAME,Couple Motions 1000,Ruchy Pary 1000
+ACHIEVEMENT_COUPLE_MOTION_02_TITLE,Great Couples Think Alike,Wspaniale Pary Myślą Jednakowo
+ACHIEVEMENT_COUPLE_MOTION_03_NAME,Couple Motions 10000,Ruchy Pary 10000
+ACHIEVEMENT_COUPLE_MOTION_03_TITLE,"One Mind, One Body","Jeden Umysł, Jedno Ciało"
+ACHIEVEMENT_COUPLE_MOTION_DESC,Use any couple motions.,Użyj dowolnych ruchów pary.
+ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_NAME,Great Success!,Wspaniały Sukces!
+ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_TITLE01,Bonus Obtained,Bonus Uzyskany
 ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_TITLE02,Bonus-full,Bonus-full
-ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_DESC,Do a great success for a lifestyle skill.,Do a great success for a lifestyle skill.
-ACHIEVEMENT_LIFE_MASTERY_POINTS_NAME,Reach for the mastery points.,Reach for the mastery points.
-ACHIEVEMENT_LIFE_MASTERY_TITLE01,Lifestyle Beginner,Lifestyle Beginner
-ACHIEVEMENT_LIFE_MASTERY_TITLE02,Lifestyle Newbie,Lifestyle Newbie
-ACHIEVEMENT_LIFE_MASTERY_TITLE03,Lifestyle Expert,Lifestyle Expert
-ACHIEVEMENT_LIFE_MASTERY_TITLE04,Lifestyle Guru,Lifestyle Guru
-ACHIEVEMENT_LIFE_MASTERY_POINTS_DESC,Raise your Lifestyle mastery.,Raise your Lifestyle mastery.
-ACHIEVEMENT_HERB_GATHERING_POINTS_NAME,Master of Herb Gathering,Master of Herb Gathering
-ACHIEVEMENT_HERB_GATHERING_TITLE01,Newbie Gatherer,Newbie Gatherer
+ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_DESC,Do a great success for a lifestyle skill.,Osiągnij wspaniały sukces w umiejętności stylu życia.
+ACHIEVEMENT_LIFE_MASTERY_POINTS_NAME,Reach for the mastery points.,Dąż do punktów mistrzostwa.
+ACHIEVEMENT_LIFE_MASTERY_TITLE01,Lifestyle Beginner,Początkujący w Stylu Życia
+ACHIEVEMENT_LIFE_MASTERY_TITLE02,Lifestyle Newbie,Nowicjusz Stylu Życia
+ACHIEVEMENT_LIFE_MASTERY_TITLE03,Lifestyle Expert,Ekspert Stylu Życia
+ACHIEVEMENT_LIFE_MASTERY_TITLE04,Lifestyle Guru,Guru Stylu Życia
+ACHIEVEMENT_LIFE_MASTERY_POINTS_DESC,Raise your Lifestyle mastery.,Podnieś mistrzostwo Stylu Życia.
+ACHIEVEMENT_HERB_GATHERING_POINTS_NAME,Master of Herb Gathering,Mistrzostwo Zbierania Ziół
+ACHIEVEMENT_HERB_GATHERING_TITLE01,Newbie Gatherer,Początkujący Zbieracz
 ACHIEVEMENT_HERB_GATHERING_TITLE02,Gatherer,Gatherer
-ACHIEVEMENT_HERB_GATHERING_TITLE03,Expert Gatherer,Expert Gatherer
-ACHIEVEMENT_HERB_GATHERING_TITLE04,Master Gatherer,Master Gatherer
-ACHIEVEMENT_HERB_GATHERING_POINTS_DESC,Raise your Herb Gathering mastery.,Raise your Herb Gathering mastery.
-ACHIEVEMENT_WOOD_CUTTING_POINTS_NAME,Master of Woodcutting,Master of Woodcutting
-ACHIEVEMENT_WOOD_CUTTING_TITLE01,Newbie Lumberjack,Newbie Lumberjack
+ACHIEVEMENT_HERB_GATHERING_TITLE03,Expert Gatherer,Ekspert Zbieracz
+ACHIEVEMENT_HERB_GATHERING_TITLE04,Master Gatherer,Mistrz Zbieracz
+ACHIEVEMENT_HERB_GATHERING_POINTS_DESC,Raise your Herb Gathering mastery.,Podnieś mistrzostwo Zbierania Ziół.
+ACHIEVEMENT_WOOD_CUTTING_POINTS_NAME,Master of Woodcutting,Mistrzostwo Cięcia Drewna
+ACHIEVEMENT_WOOD_CUTTING_TITLE01,Newbie Lumberjack,Początkujący Drwal
 ACHIEVEMENT_WOOD_CUTTING_TITLE02,Lumberjack,Drwal
-ACHIEVEMENT_WOOD_CUTTING_TITLE03,Expert Lumberjack,Expert Lumberjack
-ACHIEVEMENT_WOOD_CUTTING_TITLE04,Master Lumberjack,Master Lumberjack
-ACHIEVEMENT_WOOD_CUTTING_POINTS_DESC,Raise your Woodcutting mastery.,Raise your Woodcutting mastery.
-ACHIEVEMENT_MINING_POINTS_NAME,Master of Mining,Master of Mining
-ACHIEVEMENT_MINING_TITLE01,Newbie Miner,Newbie Miner
+ACHIEVEMENT_WOOD_CUTTING_TITLE03,Expert Lumberjack,Ekspert Drwal
+ACHIEVEMENT_WOOD_CUTTING_TITLE04,Master Lumberjack,Mistrz Drwal
+ACHIEVEMENT_WOOD_CUTTING_POINTS_DESC,Raise your Woodcutting mastery.,Podnieś mistrzostwo Cięcia Drewna.
+ACHIEVEMENT_MINING_POINTS_NAME,Master of Mining,Mistrzostwo Kopania
+ACHIEVEMENT_MINING_TITLE01,Newbie Miner,Początkujący Górnik
 ACHIEVEMENT_MINING_TITLE02,Miner,Miner
-ACHIEVEMENT_MINING_TITLE03,Expert Miner,Expert Miner
-ACHIEVEMENT_MINING_TITLE04,Master Miner,Master Miner
-ACHIEVEMENT_MINING_POINTS_DESC,Raise your Mining mastery.,Raise your Mining mastery.
-ACHIEVEMENT_FISHING_POINTS_NAME,Master of Fishing,Master of Fishing
-ACHIEVEMENT_FISHING_TITLE01,Newbie Fisher,Newbie Fisher
+ACHIEVEMENT_MINING_TITLE03,Expert Miner,Ekspert Górnik
+ACHIEVEMENT_MINING_TITLE04,Master Miner,Mistrz Górnik
+ACHIEVEMENT_MINING_POINTS_DESC,Raise your Mining mastery.,Podnieś mistrzostwo Kopania.
+ACHIEVEMENT_FISHING_POINTS_NAME,Master of Fishing,Mistrzostwo Połowu Ryb
+ACHIEVEMENT_FISHING_TITLE01,Newbie Fisher,Początkujący Rybak
 ACHIEVEMENT_FISHING_TITLE02,Fisher,Fisher
-ACHIEVEMENT_FISHING_TITLE03,Expert Fisher,Expert Fisher
-ACHIEVEMENT_FISHING_TITLE04,Master Fisher,Master Fisher
-ACHIEVEMENT_FISHING_POINTS_DESC,Raise your Fishing mastery.,Raise your Fishing mastery.
-ACHIEVEMENT_COOKING_POINTS_NAME,Master of Cooking,Master of Cooking
-ACHIEVEMENT_COOKING_TITLE01,Newbie Cook,Newbie Cook
+ACHIEVEMENT_FISHING_TITLE03,Expert Fisher,Ekspert Rybak
+ACHIEVEMENT_FISHING_TITLE04,Master Fisher,Mistrz Rybak
+ACHIEVEMENT_FISHING_POINTS_DESC,Raise your Fishing mastery.,Podnieś mistrzostwo Połowu Ryb.
+ACHIEVEMENT_COOKING_POINTS_NAME,Master of Cooking,Mistrzostwo Gotowania
+ACHIEVEMENT_COOKING_TITLE01,Newbie Cook,Początkujący Kucharz
 ACHIEVEMENT_COOKING_TITLE02,Cook,Cook
-ACHIEVEMENT_COOKING_TITLE03,Expert Cook,Expert Cook
-ACHIEVEMENT_COOKING_TITLE04,Master Cook,Master Cook
-ACHIEVEMENT_COOKING_POINTS_DESC,Raise your Cooking mastery.,Raise your Cooking mastery.
-ACHIEVEMENT_ALCHEMY_POINTS_NAME,Master of Alchemy,Master of Alchemy
-ACHIEVEMENT_ALCHEMY_TITLE01,Newbie Alchemist,Newbie Alchemist
+ACHIEVEMENT_COOKING_TITLE03,Expert Cook,Ekspert Kucharz
+ACHIEVEMENT_COOKING_TITLE04,Master Cook,Mistrz Kucharz
+ACHIEVEMENT_COOKING_POINTS_DESC,Raise your Cooking mastery.,Podnieś mistrzostwo Gotowania.
+ACHIEVEMENT_ALCHEMY_POINTS_NAME,Master of Alchemy,Mistrzostwo Alchemii
+ACHIEVEMENT_ALCHEMY_TITLE01,Newbie Alchemist,Początkujący Alchemik
 ACHIEVEMENT_ALCHEMY_TITLE02,Alchemist,Alchemist
-ACHIEVEMENT_ALCHEMY_TITLE03,Expert Alchemist,Expert Alchemist
-ACHIEVEMENT_ALCHEMY_TITLE04,Master Alchemist,Master Alchemist
-ACHIEVEMENT_ALCHEMY_POINTS_DESC,Raise your Alchemy mastery.,Raise your Alchemy mastery.
-ACHIEVEMENT_CARPENTRY_POINTS_NAME,Master of Carpentry,Master of Carpentry
-ACHIEVEMENT_CARPENTRY_TITLE01,Newbie Carpenter,Newbie Carpenter
+ACHIEVEMENT_ALCHEMY_TITLE03,Expert Alchemist,Ekspert Alchemik
+ACHIEVEMENT_ALCHEMY_TITLE04,Master Alchemist,Mistrz Alchemik
+ACHIEVEMENT_ALCHEMY_POINTS_DESC,Raise your Alchemy mastery.,Podnieś mistrzostwo Alchemii.
+ACHIEVEMENT_CARPENTRY_POINTS_NAME,Master of Carpentry,Mistrzostwo Cieślictwa
+ACHIEVEMENT_CARPENTRY_TITLE01,Newbie Carpenter,Początkujący Cieśla
 ACHIEVEMENT_CARPENTRY_TITLE02,Carpenter,Carpenter
-ACHIEVEMENT_CARPENTRY_TITLE03,Expert Carpenter,Expert Carpenter
-ACHIEVEMENT_CARPENTRY_TITLE04,Master Carpenter,Master Carpenter
-ACHIEVEMENT_CARPENTRY_POINTS_DESC,Raise your Carpentry mastery.,Raise your Carpentry mastery.
-ACHIEVEMENT_SMITHING_POINTS_NAME,Master of Smithing,Master of Smithing
-ACHIEVEMENT_SMITHING_TITLE01,Newbie Smith,Newbie Smith
+ACHIEVEMENT_CARPENTRY_TITLE03,Expert Carpenter,Ekspert Cieśla
+ACHIEVEMENT_CARPENTRY_TITLE04,Master Carpenter,Mistrz Cieśla
+ACHIEVEMENT_CARPENTRY_POINTS_DESC,Raise your Carpentry mastery.,Podnieś mistrzostwo Cieślictwa.
+ACHIEVEMENT_SMITHING_POINTS_NAME,Master of Smithing,Mistrzostwo Kowalstwa
+ACHIEVEMENT_SMITHING_TITLE01,Newbie Smith,Początkujący Kowal
 ACHIEVEMENT_SMITHING_TITLE02,Smith,Smith
-ACHIEVEMENT_SMITHING_TITLE03,Expert Smith,Expert Smith
-ACHIEVEMENT_SMITHING_TITLE04,Master Smith,Master Smith
-ACHIEVEMENT_SMITHING_POINTS_DESC,Raise your Smithing mastery.,Raise your Smithing mastery.
+ACHIEVEMENT_SMITHING_TITLE03,Expert Smith,Ekspert Kowal
+ACHIEVEMENT_SMITHING_TITLE04,Master Smith,Mistrz Kowal
+ACHIEVEMENT_SMITHING_POINTS_DESC,Raise your Smithing mastery.,Podnieś mistrzostwo Kowalstwa.
 ACHIEVEMENT_FWCPVP2WINNER_NAME,2024 FWC Arena Champion,Mistrz Areny FWC 2024
-ACHIEVEMENT_FWCPVP2WINNER_DESC,Win the Flyff World Championship 2024 PvP Competition.,Win the Flyff World Championship 2024 PvP Competition.
+ACHIEVEMENT_FWCPVP2WINNER_DESC,Win the Flyff World Championship 2024 PvP Competition.,Wygraj Mistrzostwa Świata FlyFF 2024 PvP.
 ACHIEVEMENT_FWCPVP2SECOND_NAME,2024 FWC Arena 2nd,FWC 2024 Arena 2. miejsce
-ACHIEVEMENT_FWCPVP2SECOND_DESC,Get second place in the Flyff World Championship 2024 PvP Competition.,Get second place in the Flyff World Championship 2024 PvP Competition.
+ACHIEVEMENT_FWCPVP2SECOND_DESC,Get second place in the Flyff World Championship 2024 PvP Competition.,Osiągnij drugie miejsce w Mistrzostwach Świata FlyFF 2024 PvP.
 ACHIEVEMENT_FWCPVP2THIRD_NAME,2024 FWC Arena 3rd,FWC 2024 Arena 3. miejsce
-ACHIEVEMENT_FWCPVP2THIRD_DESC,Get third place in the Flyff World Championship 2024 PvP Competition.,Get third place in the Flyff World Championship 2024 PvP Competition.
+ACHIEVEMENT_FWCPVP2THIRD_DESC,Get third place in the Flyff World Championship 2024 PvP Competition.,Osiągnij trzecie miejsce w Mistrzostwach Świata FlyFF 2024 PvP.
 ACHIEVEMENT_FWCPVP2FINALIST_NAME,2024 FWC Arena Finalist,Finalista Areny FWC 2024
-ACHIEVEMENT_FWCPVP2FINALIST_DESC,Participate to the Flyff World Championship 2024 PvP Finals.,Participate to the Flyff World Championship 2024 PvP Finals.
-ACHIEVEMENT_MASTER125_NAME,Hero 125 - 140,Hero 125 - 140
-ACHIEVEMENT_MASTER125_DESC,Complete the second Hero Quest,Complete the second Hero Quest
-ACHIEVEMENT_MASTER140_NAME,Hero 140 - 160,Hero 140 - 160
-ACHIEVEMENT_MASTER140_DESC,Complete the third Hero Quest,Complete the third Hero Quest
-ACHIEVEMENT_CHRISTMAS_ATTENDANCE_NAME,Christmas Gift for all Flyffers,Christmas Gift for all Flyffers
-ACHIEVEMENT_CHRISTMAS_ATTENDANCE_DESC,Login each day for 30 minutes and receive rewards!,Login each day for 30 minutes and receive rewards!
-ACHIEVEMENT_CHRISTMAS_INVASION,Christmas Invasion,Christmas Invasion
-ACHIEVEMENT_ATTENDANCE_NAME,Attendance Event,Attendance Event
+ACHIEVEMENT_FWCPVP2FINALIST_DESC,Participate to the Flyff World Championship 2024 PvP Finals.,Uczestniczyj w Finałach Mistrzostw Świata FlyFF 2024 PvP.
+ACHIEVEMENT_MASTER125_NAME,Hero 125 - 140,Bohater 125 - 140
+ACHIEVEMENT_MASTER125_DESC,Complete the second Hero Quest,Ukończ drugą Quest Bohatera
+ACHIEVEMENT_MASTER140_NAME,Hero 140 - 160,Bohater 140 - 160
+ACHIEVEMENT_MASTER140_DESC,Complete the third Hero Quest,Ukończ trzecią Quest Bohatera
+ACHIEVEMENT_CHRISTMAS_ATTENDANCE_NAME,Christmas Gift for all Flyffers,Prezent Bożonarodzeniowy dla wszystkich Gracz FlyFF
+ACHIEVEMENT_CHRISTMAS_ATTENDANCE_DESC,Login each day for 30 minutes and receive rewards!,Loguj się każdego dnia przez 30 minut i otrzymuj nagrody!
+ACHIEVEMENT_CHRISTMAS_INVASION,Christmas Invasion,Inwazja Bożonarodzeniowa
+ACHIEVEMENT_ATTENDANCE_NAME,Attendance Event,Impreza Uczestnictwa
 ACHIEVEMENT_ATTENDANCE_DESC,Login each day for 40 minutes and receive rewards!,Loguj się każdego dnia przez 40 minut i otrzymuj nagrody!
 ACHIEVEMENT_ATTENDANCE_LVL1,Day 1,Dzień 1
 ACHIEVEMENT_ATTENDANCE_LVL2,Day 2,Dzień 2
@@ -1160,75 +1160,75 @@ ACHIEVEMENT_ATTENDANCE_LVL25,Day 25,Dzień 25
 ACHIEVEMENT_ATTENDANCE_LVL26,Day 26,Dzień 26
 ACHIEVEMENT_ATTENDANCE_LVL27,Day 27,Dzień 27
 ACHIEVEMENT_ATTENDANCE_LVL28,Day 28,Dzień 28
-ACHIEVEMENT_ATTENDANCE_LVL29,Day 29,Day 29
+ACHIEVEMENT_ATTENDANCE_LVL29,Day 29,Dzień 29
 ACHIEVEMENT_ATTENDANCE_LVL30,Day 30,Dzień 30
-ACHIEVEMENT_ATTENDANCE_LVL31,Day 31,Day 31
-ACHIEVEMENT_ATTENDANCE_LVL32,Day 32,Day 32
-ACHIEVEMENT_ATTENDANCE_LVL33,Day 33,Day 33
-ACHIEVEMENT_ATTENDANCE_LVL34,Day 34,Day 34
-ACHIEVEMENT_ATTENDANCE_LVL35,Day 35,Day 35
-ACHIEVEMENT_ATTENDANCE_LVL36,Day 36,Day 36
-ACHIEVEMENT_ATTENDANCE_LVL37,Day 37,Day 37
-ACHIEVEMENT_ATTENDANCE_LVL38,Day 38,Day 38
-ACHIEVEMENT_ATTENDANCE_LVL39,Day 39,Day 39
-ACHIEVEMENT_ATTENDANCE_LVL40,Day 40,Day 40
-ACHIEVEMENT_ATTENDANCE_LVL41,Day 41,Day 41
-ACHIEVEMENT_ATTENDANCE_LVL42,Day 42,Day 42
-ACHIEVEMENT_NEWYEAR_ATTENDANCE,New Year Event,New Year Event
-ACHIEVEMENT_PLAYTIME_30,Play 30m,Play 30m
-ACHIEVEMENT_PLAYTIME_60,Play 1h,Play 1h
-ACHIEVEMENT_PLAYTIME_90,Play 1h 30m,Play 1h 30m
-ACHIEVEMENT_PLAYTIME_120,Play 2h,Play 2h
-ACHIEVEMENT_PLAYTIME_150,Play 2h 30m,Play 2h 30m
-ACHIEVEMENT_PLAYTIME_180,Play 3h,Play 3h
-ACHIEVEMENT_PLAYTIME_210,Play 3h 30m,Play 3h 30m
-ACHIEVEMENT_PLAYTIME_240,Play 4h,Play 4h
-ACHIEVEMENT_PLAYTIME_270,Play 4h 30m,Play 4h 30m
-ACHIEVEMENT_PLAYTIME_300,Play 5h,Play 5h
-ACHIEVEMENT_PLAYTIME_330,Play 5h 30m,Play 5h 30m
-ACHIEVEMENT_PLAYTIME_360,Play 6h,Play 6h
-ACHIEVEMENT_PLAYTIME_390,Play 6h 30m,Play 6h 30m
-ACHIEVEMENT_PLAYTIME_420,Play 7h,Play 7h
-ACHIEVEMENT_PLAYTIME_450,Play 7h 30m,Play 7h 30m
-ACHIEVEMENT_PLAYTIME_480,Play 8h,Play 8h
-ACHIEVEMENT_PLAYTIME_510,Play 8h 30m,Play 8h 30m
-ACHIEVEMENT_PLAYTIME_540,Play 9h,Play 9h
-ACHIEVEMENT_PLAYTIME_570,Play 9h 30m,Play 9h 30m
-ACHIEVEMENT_PLAYTIME_600,Play 10h,Play 10h
-ACHIEVEMENT_PLAYTIME_630,Play 10h 30m,Play 10h 30m
-ACHIEVEMENT_PLAYTIME_660,Play 11h,Play 11h
-ACHIEVEMENT_PLAYTIME_690,Play 11h 30m,Play 11h 30m
-ACHIEVEMENT_PLAYTIME_720,Play 12h,Play 12h
-ACHIEVEMENT_PLAYTIME_750,Play 12h 30m,Play 12h 30m
-ACHIEVEMENT_PLAYTIME_780,Play 13h,Play 13h
-ACHIEVEMENT_PLAYTIME_810,Play 13h 30m,Play 13h 30m
-ACHIEVEMENT_PLAYTIME_840,Play 14h,Play 14h
-ACHIEVEMENT_PLAYTIME_870,Play 14h 30m,Play 14h 30m
-ACHIEVEMENT_PLAYTIME_900,Play 15h,Play 15h
-ACHIEVEMENT_PLAYTIME_930,Play 15h 30m,Play 15h 30m
-ACHIEVEMENT_PLAYTIME_960,Play 16h,Play 16h
-ACHIEVEMENT_PLAYTIME_990,Play 16h 30m,Play 16h 30m
-ACHIEVEMENT_PLAYTIME_1020,Play 17h,Play 17h
-ACHIEVEMENT_PLAYTIME_1050,Play 17h 30m,Play 17h 30m
-ACHIEVEMENT_PLAYTIME_1080,Play 18h,Play 18h
-ACHIEVEMENT_PLAYTIME_1110,Play 18h 30m,Play 18h 30m
-ACHIEVEMENT_PLAYTIME_1140,Play 19h,Play 19h
-ACHIEVEMENT_PLAYTIME_1170,Play 19h 30m,Play 19h 30m
-ACHIEVEMENT_PLAYTIME_1200,Play 20h,Play 20h
-ACHIEVEMENT_PLAYTIME_1230,Play 20h 30m,Play 20h 30m
-ACHIEVEMENT_PLAYTIME_1260,Play 21h,Play 21h
-ACHIEVEMENT_PLAYTIME_1290,Play 21h 30m,Play 21h 30m
-ACHIEVEMENT_PLAYTIME_1320,Play 22h,Play 22h
-ACHIEVEMENT_PLAYTIME_1350,Play 22h 30m,Play 22h 30m
-ACHIEVEMENT_PLAYTIME_1380,Play 23h,Play 23h
-ACHIEVEMENT_PLAYTIME_1410,Play 23h 30m,Play 23h 30m
-ACHIEVEMENT_PLAYTIME_1439,Play 23h 59m,Play 23h 59m
-ACHIEVEMENT_YEAROFTHESNAKE,Year of the Snake,Year of the Snake
-ACHIEVEMENT_EASTER_EGG_2025,Find Easter Eggs,Find Easter Eggs
-ACHIEVEMENT_EASTER_EGG_5,Gather 5 Easter Eggs,Gather 5 Easter Eggs
-ACHIEVEMENT_EASTER_EGG_10,Gather 10 Easter Eggs,Gather 10 Easter Eggs
-ACHIEVEMENT_EASTER_EGG_15,Gather 15 Easter Eggs,Gather 15 Easter Eggs
-ACHIEVEMENT_EASTER_EGG_20,Gather 20 Easter Eggs,Gather 20 Easter Eggs
+ACHIEVEMENT_ATTENDANCE_LVL31,Day 31,Dzień 31
+ACHIEVEMENT_ATTENDANCE_LVL32,Day 32,Dzień 32
+ACHIEVEMENT_ATTENDANCE_LVL33,Day 33,Dzień 33
+ACHIEVEMENT_ATTENDANCE_LVL34,Day 34,Dzień 34
+ACHIEVEMENT_ATTENDANCE_LVL35,Day 35,Dzień 35
+ACHIEVEMENT_ATTENDANCE_LVL36,Day 36,Dzień 36
+ACHIEVEMENT_ATTENDANCE_LVL37,Day 37,Dzień 37
+ACHIEVEMENT_ATTENDANCE_LVL38,Day 38,Dzień 38
+ACHIEVEMENT_ATTENDANCE_LVL39,Day 39,Dzień 39
+ACHIEVEMENT_ATTENDANCE_LVL40,Day 40,Dzień 40
+ACHIEVEMENT_ATTENDANCE_LVL41,Day 41,Dzień 41
+ACHIEVEMENT_ATTENDANCE_LVL42,Day 42,Dzień 42
+ACHIEVEMENT_NEWYEAR_ATTENDANCE,New Year Event,Impreza Nowego Roku
+ACHIEVEMENT_PLAYTIME_30,Play 30m,Graj 30m
+ACHIEVEMENT_PLAYTIME_60,Play 1h,Graj 1h
+ACHIEVEMENT_PLAYTIME_90,Play 1h 30m,Graj 1h 30m
+ACHIEVEMENT_PLAYTIME_120,Play 2h,Graj 2h
+ACHIEVEMENT_PLAYTIME_150,Play 2h 30m,Graj 2h 30m
+ACHIEVEMENT_PLAYTIME_180,Play 3h,Graj 3h
+ACHIEVEMENT_PLAYTIME_210,Play 3h 30m,Graj 3h 30m
+ACHIEVEMENT_PLAYTIME_240,Play 4h,Graj 4h
+ACHIEVEMENT_PLAYTIME_270,Play 4h 30m,Graj 4h 30m
+ACHIEVEMENT_PLAYTIME_300,Play 5h,Graj 5h
+ACHIEVEMENT_PLAYTIME_330,Play 5h 30m,Graj 5h 30m
+ACHIEVEMENT_PLAYTIME_360,Play 6h,Graj 6h
+ACHIEVEMENT_PLAYTIME_390,Play 6h 30m,Graj 6h 30m
+ACHIEVEMENT_PLAYTIME_420,Play 7h,Graj 7h
+ACHIEVEMENT_PLAYTIME_450,Play 7h 30m,Graj 7h 30m
+ACHIEVEMENT_PLAYTIME_480,Play 8h,Graj 8h
+ACHIEVEMENT_PLAYTIME_510,Play 8h 30m,Graj 8h 30m
+ACHIEVEMENT_PLAYTIME_540,Play 9h,Graj 9h
+ACHIEVEMENT_PLAYTIME_570,Play 9h 30m,Graj 9h 30m
+ACHIEVEMENT_PLAYTIME_600,Play 10h,Graj 10h
+ACHIEVEMENT_PLAYTIME_630,Play 10h 30m,Graj 10h 30m
+ACHIEVEMENT_PLAYTIME_660,Play 11h,Graj 11h
+ACHIEVEMENT_PLAYTIME_690,Play 11h 30m,Graj 11h 30m
+ACHIEVEMENT_PLAYTIME_720,Play 12h,Graj 12h
+ACHIEVEMENT_PLAYTIME_750,Play 12h 30m,Graj 12h 30m
+ACHIEVEMENT_PLAYTIME_780,Play 13h,Graj 13h
+ACHIEVEMENT_PLAYTIME_810,Play 13h 30m,Graj 13h 30m
+ACHIEVEMENT_PLAYTIME_840,Play 14h,Graj 14h
+ACHIEVEMENT_PLAYTIME_870,Play 14h 30m,Graj 14h 30m
+ACHIEVEMENT_PLAYTIME_900,Play 15h,Graj 15h
+ACHIEVEMENT_PLAYTIME_930,Play 15h 30m,Graj 15h 30m
+ACHIEVEMENT_PLAYTIME_960,Play 16h,Graj 16h
+ACHIEVEMENT_PLAYTIME_990,Play 16h 30m,Graj 16h 30m
+ACHIEVEMENT_PLAYTIME_1020,Play 17h,Graj 17h
+ACHIEVEMENT_PLAYTIME_1050,Play 17h 30m,Graj 17h 30m
+ACHIEVEMENT_PLAYTIME_1080,Play 18h,Graj 18h
+ACHIEVEMENT_PLAYTIME_1110,Play 18h 30m,Graj 18h 30m
+ACHIEVEMENT_PLAYTIME_1140,Play 19h,Graj 19h
+ACHIEVEMENT_PLAYTIME_1170,Play 19h 30m,Graj 19h 30m
+ACHIEVEMENT_PLAYTIME_1200,Play 20h,Graj 20h
+ACHIEVEMENT_PLAYTIME_1230,Play 20h 30m,Graj 20h 30m
+ACHIEVEMENT_PLAYTIME_1260,Play 21h,Graj 21h
+ACHIEVEMENT_PLAYTIME_1290,Play 21h 30m,Graj 21h 30m
+ACHIEVEMENT_PLAYTIME_1320,Play 22h,Graj 22h
+ACHIEVEMENT_PLAYTIME_1350,Play 22h 30m,Graj 22h 30m
+ACHIEVEMENT_PLAYTIME_1380,Play 23h,Graj 23h
+ACHIEVEMENT_PLAYTIME_1410,Play 23h 30m,Graj 23h 30m
+ACHIEVEMENT_PLAYTIME_1439,Play 23h 59m,Graj 23h 59m
+ACHIEVEMENT_YEAROFTHESNAKE,Year of the Snake,Rok Węża
+ACHIEVEMENT_EASTER_EGG_2025,Find Easter Eggs,Znajdź Jaja Wielkanocne
+ACHIEVEMENT_EASTER_EGG_5,Gather 5 Easter Eggs,Zbierz 5 Jaj Wielkanocnych
+ACHIEVEMENT_EASTER_EGG_10,Gather 10 Easter Eggs,Zbierz 10 Jaj Wielkanocnych
+ACHIEVEMENT_EASTER_EGG_15,Gather 15 Easter Eggs,Zbierz 15 Jaj Wielkanocnych
+ACHIEVEMENT_EASTER_EGG_20,Gather 20 Easter Eggs,Zbierz 20 Jaj Wielkanocnych
 ACHIEVEMENT_3RD_ANNIV_ATTENDANCE,3rd Anniversary Attendance,Obecność w 3. Rocznicę
 ACHIEVEMENT_FWC_2025_BEGINNER_NAME,2025 FWC Beginner,FWC 2025 Początkujący
 ACHIEVEMENT_FWC_2025_BRAWLER_NAME,2025 FWC Brawler,FWC 2025 Brawler
@@ -1267,39 +1267,39 @@ ACHIEVEMENT_FWC_2025_THEUNLUCKY_NAME,2025 FWC The Unlucky,Pechowiec FWC 2025
 ACHIEVEMENT_FWC_2025_THEUNLUCKY_DESC,The title awarded to the player who spent many FWC Coins but earned the fewest Champion Coin within their own server.,"Tytuł przyznawany graczowi, który wydał wiele Monet FWC, ale zarobił najmniej Monet Mistrza na swoim serwerze."
 ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_NAME,2025 FWC Partner Streamer,Partner Streamer FWC 2025
 ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_ESC,The title awarded to the partner streamers during the FWC 2025.,Tytuł przyznawany streamerom partnerskim podczas FWC 2025.
-ACHIEVEMENT_UPGRADE_1,Upgrade +1,Upgrade +1
-ACHIEVEMENT_UPGRADE_2,Upgrade +2,Upgrade +2
-ACHIEVEMENT_UPGRADE_3,Upgrade +3,Upgrade +3
-ACHIEVEMENT_UPGRADE_4,Upgrade +4,Upgrade +4
-ACHIEVEMENT_UPGRADE_5,Upgrade +5,Upgrade +5
-ACHIEVEMENT_UPGRADE_6,Upgrade +6,Upgrade +6
-ACHIEVEMENT_UPGRADE_7,Upgrade +7,Upgrade +7
-ACHIEVEMENT_UPGRADE_8,Upgrade +8,Upgrade +8
-ACHIEVEMENT_UPGRADE_9,Upgrade +9,Upgrade +9
-ACHIEVEMENT_UPGRADE_10,Upgrade +10,Upgrade +10
+ACHIEVEMENT_UPGRADE_1,Upgrade +1,Ulepszenie +1
+ACHIEVEMENT_UPGRADE_2,Upgrade +2,Ulepszenie +2
+ACHIEVEMENT_UPGRADE_3,Upgrade +3,Ulepszenie +3
+ACHIEVEMENT_UPGRADE_4,Upgrade +4,Ulepszenie +4
+ACHIEVEMENT_UPGRADE_5,Upgrade +5,Ulepszenie +5
+ACHIEVEMENT_UPGRADE_6,Upgrade +6,Ulepszenie +6
+ACHIEVEMENT_UPGRADE_7,Upgrade +7,Ulepszenie +7
+ACHIEVEMENT_UPGRADE_8,Upgrade +8,Ulepszenie +8
+ACHIEVEMENT_UPGRADE_9,Upgrade +9,Ulepszenie +9
+ACHIEVEMENT_UPGRADE_10,Upgrade +10,Ulepszenie +10
 ACHIEVEMENT_MASTER160_NAME,Hero 160 - 180,Hero 160 - 180
 ACHIEVEMENT_MASTER160_DESC,Complete the fourth Hero Quest,Ukończ czwarte Zadanie Bohatera
 ACHIEVEMENT_15UPDATE_ATTENDANCE_NAME,1.5 Update Attendance,Obecność w Aktualizacji 1.5
 ACHIEVEMENT_15UPDATE_ATTENDANCE_DESC,Login each day for 40 minutes and receive rewards!,Loguj się każdego dnia przez 40 minut i otrzymuj nagrody!
-ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_NAME,Into the Eillun,Into the Eillun
+ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_NAME,Into the Eillun,Do Eillun
 ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_DESC,Complete the main quests and earn rewards during the event!,Ukończ główne zadania i zarabiaj nagrody podczas wydarzenia!
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_NAME,Workers of the Kaillun,Workers of the Kaillun
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_NAME,Workers of the Kaillun,Pracownicy Kaillun
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_DESC,Complete the daily quests in Kaillun and earn rewards during the event!,Ukończ codzienne zadania w Kaillun i zarabiaj nagrody podczas wydarzenia!
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL1,Complete Kaillun Daily Quests 10 times.,Ukończ Codzienne Zadania Kaillun 10 razy.
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL2,Complete Kaillun Daily Quests 20 times.,Ukończ Codzienne Zadania Kaillun 20 razy.
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL3,Complete Kaillun Daily Quests 30 times.,Ukończ Codzienne Zadania Kaillun 30 razy.
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL4,Complete Kaillun Daily Quests 45 times.,Ukończ Codzienne Zadania Kaillun 45 razy.
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL5,Complete Kaillun Daily Quests 60 times.,Ukończ Codzienne Zadania Kaillun 60 razy.
-ACHIEVEMENT_TAKETHEANKOUSASYLUM_NAME,Take the Ankou's Asylum,Take the Ankou's Asylum
+ACHIEVEMENT_TAKETHEANKOUSASYLUM_NAME,Take the Ankou's Asylum,Opanuj Azyl Ankou
 ACHIEVEMENT_TAKETHEANKOUSASYLUM_DESC,Challenge yourself to a new dungeon and defeat Ankou to earn rewards during the event!,"Rzuć sobie wyzwanie w nowym tunelu i pokonaj Ankou, aby zarobić nagrody podczas wydarzenia!"
 ACHIEVEMENT_KILL_ANKOU,Defeat Ankou,Pokonaj Ankou
 ACHIEVEMENT_KILL_BLAZINGANKOU,Defeat Blazing Ankou,Pokonaj Blazing Ankou
 ACHIEVEMENT_KILL_DEMONICANKOU,Defeat Demonic Ankou,Pokonaj Demonic Ankou
-ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_NAME,Ultimate Jewel Synthesis Event,Ultimate Jewel Synthesis Event
+ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_NAME,Ultimate Jewel Synthesis Event,Impreza Syntezy Ostatecznego Klejnotu
 ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_DESC,Synthesize Ultimate Jewels and earn rewards during the event!,Syntetyzuj Ostateczne Klejnoty i zarabiaj nagrody podczas wydarzenia!
 ACHIEVEMENT_LEVEL_LVL13,Specialist Level 1,Specjalista Poziom 1
 ACHIEVEMENT_LEVEL_LVL14,Specialist Level 2,Specjalista Poziom 2
 ACHIEVEMENT_LEVEL_LVL15,Specialist Level 3,Specjalista Poziom 3
-ACHIEVEMENT_FIRST_190_NAME,The First Vindicator,The First Vindicator
+ACHIEVEMENT_FIRST_190_NAME,The First Vindicator,Pierwszy Vindicator
 ACHIEVEMENT_FIRST_190_DESC,The title awarded to the first player to reach level 190.,"Tytuł przyznawany pierwszemu graczowi, który osiągnął poziom 190."
-ACHIEVEMENT_YEAROFTHEHORSE,Year of the Horse,Year of the Horse
+ACHIEVEMENT_YEAROFTHEHORSE,Year of the Horse,Rok Konia
