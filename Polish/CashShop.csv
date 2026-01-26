@@ -14,12 +14,12 @@ CS_RECOVERY,Recovery,Regeneracja
 CS_SCROLL,Scroll,Zwój
 CS_BUFF,Buff,Buff
 CS_BLINKWING,Blink Wing,Błyskające Skrzydła
-CS_TRANS,Trans,Transformacja
+CS_TRANS,Trans,Transmutacja
 CS_MATERIAL,Material,Materiał
 CS_PROTECTION,Protection,Ochrona
 CS_AWAKES,Awakes,Przebudzenia
 CS_UPGRADE,Upgrade,Ulepszenie
-CS_RANDOM,Random,Losowo
+CS_RANDOM,Random,Losowe
 CS_STONE,Stone,Kamień
 CS_VENDOR_SHOP,Vendor Shop,Sklep Sprzedawcy
 CS_FLASK_POTION,Flask & Potion,Flaszki i Mikstury
@@ -30,9 +30,9 @@ CS_DISCOUNT,Discount,Rabat
 CS_SPECIAL_PACKAGE,Special Package,Specjalny Pakiet
 CS_BLACK_FRIDAY,Black Friday,Czarny Piątek
 CS_REBORN_SALES,Reborn Sales,Sprzedaż Reborn
-CS_FWC,FWC,FWC
+CS_FWC,FWC,Mistrzowstwa Światowe
 CS_HOUSING,Housing,Mieszkanie
-CS_EVENT,Event,Event
+CS_EVENT,Event,Wydarzenie
 CS_WORLD_TEMPLATE,World Template,Szablon Świata
 CS_WORLD_THEME_PACK,Theme Pack,Pakiet Tematu
 CS_WORLD_BUNDLE_PACK,Bundle Pack,Pakiet Zbiorczy

@@ -23,16 +23,16 @@ NPC_AZRIAMINE,Azria Mine,Kopalnia Azria
 NPC_CURSEDSYMBOL,Cursed Symbol,Przeklęty Symbol
 NPC_GIVESYMBOL,Give the Symbol,Oddaj Symbol
 NPC_HAELLETTER,Hael's Letter,List Haela
-NPC_GIVELETTER,Give Letter,Give Letter
-NPC_TREASURE_BOX,Treasure,Treasure
-NPC_LOSTMEMORIES,Lost Memories,Lost Memories
-NPC_BREWINGPOTIONS,Brewing Potions,Brewing Potions
-NPC_THECURE,The Cure,The Cure
-NPC_GUIDETOFLYING,Guide to Flying,Guide to Flying
-NPC_GUIDETOCOMBATFLYING,Guide to Combat Flying,Guide to Combat Flying
-NPC_SHOPS,Shops?,Shops?
-NPC_DEATH,Death?,Death?
-NPC_RECEIVEADDITIONALREWARDS,Receive additional rewards,Receive additional rewards
+NPC_GIVELETTER,Give Letter,Oddaj List
+NPC_TREASURE_BOX,Treasure,Skarb
+NPC_LOSTMEMORIES,Lost Memories,Stracone Wspomnienia
+NPC_BREWINGPOTIONS,Brewing Potions,Warenie Mikstur
+NPC_THECURE,The Cure,Lekarstwo
+NPC_GUIDETOFLYING,Guide to Flying,Przewodnik po Lataniu
+NPC_GUIDETOCOMBATFLYING,Guide to Combat Flying,Przewodnik po Lataniu Bojowym
+NPC_SHOPS,Shops?,Sklepy?
+NPC_DEATH,Death?,Śmierć?
+NPC_RECEIVEADDITIONALREWARDS,Receive additional rewards,Otrzymaj dodatkowe nagrody
 NPC_000044,"Welcome to Keakoon, human! I've got a favor to ask... C'mere!","Welcome to Keakoon, human! I've got a favor to ask... C'mere!"
 NPC_000045,Fathers Package,Fathers Package
 NPC_000046,"Hrrmph! How strange... How did a human like you manage to get in here, anyway?","Hrrmph! How strange... How did a human like you manage to get in here, anyway?"
