@@ -797,7 +797,7 @@ PROPSKILL_TXT_150216,"Increases attack power. Scaled with number of axes equippe
 PROPSKILL_TXT_150217,Survival Stance,Posture de survie
 PROPSKILL_TXT_150218,"Enhance your defense shortly after being affected by a disable or immobility type debuff.","Renforce ta défense peu après avoir été affecté par un débuff de type désactivation ou immobilisation."
 PROPSKILL_TXT_150219,Blessing of the Wise,Bénédiction des sages
-PROPSKILL_TXT_150220,"Perform a blessing to remove ""disable"" type debuffs on nearby allies.","Effectue une bénédiction pour retirer les débuf
+PROPSKILL_TXT_150220,Perform a blessing to remove ""disable"" type debuffs on nearby allies.,Lancez une bénédiction pour dissiper les malus de type « désactivation » affectant les alliés proches
 PROPSKILL_TXT_150221,Stun Resistance,Résistance à l’étourdissement
 PROPSKILL_TXT_150222,DoT Resistance,Résistance aux dégâts sur la durée
 PROPSKILL_TXT_150223,Area Increase,Augmentation de zone
