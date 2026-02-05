@@ -17894,13 +17894,13 @@ PROPITEM_TXT_133512,Coral Island Curry (B),Curry de l'Île de Corail (B)
 PROPITEM_TXT_133513,Coral Island Curry (A),Curry de l'Île de Corail (A)
 PROPITEM_TXT_133514,Coral Island Curry (A+),Curry de l'Île de Corail (A+)
 PROPITEM_TXT_133515,Recovers 2600 HP,Redonne 2600 PV
-PROPITEM_TXT_133516,Tuna Sushi (D),Sushi au Thon (D)
+PROPITEM_TXT_133516,Tuna Sushi (D),Sushi (D)
 PROPITEM_TXT_133517,Sushi made with tuna on top.,Sushi avec thon sur le dessus
-PROPITEM_TXT_133518,Tuna Sushi (C),Sushi au Thon (C)
+PROPITEM_TXT_133518,Tuna Sushi (C),Sushi (C)
 PROPITEM_TXT_133519,Sushi made with tuna on top.,Sushi avec thon sur le dessus
-PROPITEM_TXT_133520,Tuna Sushi (B),Sushi au Thon (B)
-PROPITEM_TXT_133521,Tuna Sushi (A),Sushi au Thon (A)
-PROPITEM_TXT_133522,Tuna Sushi (A+),Sushi au Thon (A+)
+PROPITEM_TXT_133520,Tuna Sushi (B),Sushi (B)
+PROPITEM_TXT_133521,Tuna Sushi (A),Sushi (A)
+PROPITEM_TXT_133522,Tuna Sushi (A+),Sushi (A+)
 PROPITEM_TXT_133523,Sushi made with tuna on top.,Sushi avec thon sur le dessus
 PROPITEM_TXT_133524,Red Fish Ball (D),Boule de Poisson Rouge (D)
 PROPITEM_TXT_133525,Fish balls infused with alchemical reagents to give them a special effect.,Boules de poisson infusées de réactifs alchimiques pour un effet spécial
@@ -19866,7 +19866,7 @@ PROPITEM_TXT_144155,2025 Red Rice Cake Soup,Soupe de Gâteau de Riz Rouge 2025
 PROPITEM_TXT_144156,This soup made of rice cake will grant you +25 STR for 30 minutes.,Cette soupe de gâteau de riz vous donnera +25 STR pendant 30 minutes.
 PROPITEM_TXT_144157,2025 Green Rice Cake Soup,Soupe de Gâteau de Riz Vert 2025
 PROPITEM_TXT_144158,This soup made of rice cake will grant you +25 DEX for 30 minutes.,Cette soupe de gâteau de riz vous donnera +25 DEX pendant 30 minutes.
-PROPITEM_TXT_144159,2025 Blue Rice Cake Soup,Soupe de Gâteau de Riz Bleu 2025
+PROPITEM_TXT_144159,2025 Blue Rice Cake Soup,Gâteau de riz Bleu 2025
 PROPITEM_TXT_144160,This soup made of rice cake will grant you +25 INT for 30 minutes.,Cette soupe de gâteau de riz vous donnera +25 INT pendant 30 minutes.
 PROPITEM_TXT_144161,2025 Yellow Rice Cake Soup,Soupe de Gâteau de Riz Jaune 2025
 PROPITEM_TXT_144162,This soup made of rice cake will grant you +25 STA for 30 minutes.,Cette soupe de gâteau de riz vous donnera +25 STA pendant 30 minutes.
@@ -25127,7 +25127,7 @@ PROPITEM_TXT_135043,A Lucky Box filled with good luck for the 2026 new year!\nYo
 PROPITEM_TXT_135044,2026 Rice Cake Soup Select Box,Boîte Sélection Soupe de Gâteau de Riz 2026
 PROPITEM_TXT_135045,2026 Red Rice Cake Soup,Soupe de Gâteau de Riz Rouge 2026
 PROPITEM_TXT_135046,2026 Green Rice Cake Soup,Soupe de Gâteau de Riz Verte 2026
-PROPITEM_TXT_135047,2026 Blue Rice Cake Soup,Soupe de Gâteau de Riz Bleue 2026
+PROPITEM_TXT_135047,2026 Blue Rice Cake Soup,Gâteau de riz Bleue 2026
 PROPITEM_TXT_135048,2026 Yellow Rice Cake Soup,Soupe de Gâteau de Riz Jaune 2026
 PROPITEM_TXT_135049,[Event] 2026 New Year Gift Box 1,[Événement] Boîte Cadeau Nouvel An 2026 1
 PROPITEM_TXT_135050,"First reward for New Year Event!\nYou can earn 5x Upcut Stone, 1x Grilled Eel, 1x Scroll of Amplification ES and 5x Repair Hammer.","Première récompense de l'événement Nouvel An !\nVous pouvez obtenir 5x Pierre Upcut, 1x Anguille Grillée, 1x Parchemin Amplification ES et 5x Marteau de Réparation."
