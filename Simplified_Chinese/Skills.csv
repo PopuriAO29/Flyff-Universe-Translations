@@ -596,10 +596,10 @@ PROPSKILL_TXT_150096,Quick Stun,迅速击晕
 PROPSKILL_TXT_150097,Forceful Attack,强力打击
 PROPSKILL_TXT_150098,Maelstrom Strike,漩涡打击
 PROPSKILL_TXT_150099,"A spinning attack that releases a gust of wind, hitting nearby enemies twice with a chance to stun.","发动旋转攻击，释放一股旋风，对附近敌人造成两次打击并有概率触发击晕效果。"
-PROPSKILL_TXT_150100,Enhance Stun,Enhance Stun
-PROPSKILL_TXT_150101,Quick Stun,Quick Stun
-PROPSKILL_TXT_150103,Templar's Call,Templar's Call
-PROPSKILL_TXT_150104,Pull your target towards yourself.,Pull your target towards yourself.
+PROPSKILL_TXT_150100,Enhance Stun,眩晕强化
+PROPSKILL_TXT_150101,Quick Stun,迅速击晕
+PROPSKILL_TXT_150103,Templar's Call,虔信号令
+PROPSKILL_TXT_150104,Pull your target towards yourself.,将目标拉向你自身。
 PROPSKILL_TXT_150105,Ankle Slice,Ankle Slice
 PROPSKILL_TXT_150106,Strong Embrace,Strong Embrace
 PROPSKILL_TXT_150107,Multi-capture,Multi-capture
@@ -827,9 +827,9 @@ PROPSKILL_TXT_150260,Hymn - Liberation,圣歌 - 解放
 PROPSKILL_TXT_150261,Allow other hymn skills to be chanted at the same time.,允许同时吟唱其他圣歌类技能。
 PROPSKILL_TXT_150262,Nen Overflow,念气溢流
 PROPSKILL_TXT_150263,"Unleash all your Nen to enter overflow. While in Nen overflow, certain skills Nen Enhancement variations will be used. Nen cannot be gained while in Nen overflow.",释放全部念气以进入溢流状态。念气溢流期间，将启用特定技能的念气强化变体。溢流状态下无法获得念气。
-PROPSKILL_TXT_150264,Form Enhancement,Form Enhancement
-PROPSKILL_TXT_150265,Mind Enhancement,Mind Enhancement
-PROPSKILL_TXT_150266,Aura Enhancement,Aura Enhancement
+PROPSKILL_TXT_150264,Form Enhancement,形态强化
+PROPSKILL_TXT_150265,Mind Enhancement,心智强化
+PROPSKILL_TXT_150266,Aura Enhancement,灵气强化
 PROPSKILL_TXT_150267,MP Retention,MP Retention
 PROPSKILL_TXT_150268,Nen Afterimage,Nen Afterimage
 PROPSKILL_TXT_150270,Power Palm,Power Palm
