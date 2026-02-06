@@ -2345,7 +2345,7 @@ UI_SERVICE_AGREEMENT_CALIFORNIA_PRIVACY,Check the California Privacy Statement,C
 UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,Agree All
 UI_SERVICE_AGREEMENT_ERROR_TITLE,Agreement error,Agreement error
 UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Por favor, introduzca una fecha de nacimiento válido.
-UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,Debes tener al menos 16 años para jugar el juego.
+UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,Debes tener al menos 16 años para jugar.
 UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,Debes leer y aceptar los términos de servicio y la política de privacidad para continuar.
 UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Por favor, introduzca un código postal válido.
 UI_ROLL_AND_MOVE_START,START,START
