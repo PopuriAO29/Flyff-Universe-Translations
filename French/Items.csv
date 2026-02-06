@@ -2220,7 +2220,7 @@ PROPITEM_TXT_004220,Meat Skewer,Brochette de viande
 PROPITEM_TXT_004221,Recovers 120 HP,Aliment régénérant 120 PV
 PROPITEM_TXT_004222,Barbecue,Barbecue
 PROPITEM_TXT_004223,Recovers 160 HP,Aliment régénérant 160 PV
-PROPITEM_TXT_004224,Seafood Pan Cake,Fruits de mer
+PROPITEM_TXT_004224,Seafood Pancake,Fruits de mer
 PROPITEM_TXT_004225,Recovers 230 HP,Aliment régénérant 230 PV
 PROPITEM_TXT_004226,Fish Soup,Soupe de poisson
 PROPITEM_TXT_004227,Recovers 300 HP,Aliment régénérant 300 PV
@@ -2797,7 +2797,7 @@ PROPITEM_TXT_004897,Quest item that drops from Jack the Hammer.,Perle rare incru
 PROPITEM_TXT_004898,Gigglande,Giggem
 PROPITEM_TXT_004899,Quest item that drops from Giggle Box.,Gemme gardée précieusement par les Gigglebox.
 PROPITEM_TXT_004900,Crescent Stone,Pierre de Lune
-PROPITEM_TXT_004901,Quest item that drops from Rockmuscle.,Une pierre créée à partir du clair de lune.
+PROPITEM_TXT_004901,Quest item that drops from Rock Muscle.,Une pierre créée à partir du clair de lune.
 PROPITEM_TXT_004902,Boband,Bobande
 PROPITEM_TXT_004903,Quest item that drops from Hobo.,Cache-oeil d'Hobo.
 PROPITEM_TXT_004904,Dumbling,Anneau de Bull
@@ -4587,7 +4587,7 @@ PROPITEM_TXT_011913,"Inspector Koko is on the case! With his super high-intensit
 PROPITEM_TXT_011952,Cheshire Cat,Chat du Cheshire
 PROPITEM_TXT_011953,This cheesy kitty follows it's owner around and picks up dropped items. He's also quite mad.,Inutile de lui parler tant que ses oreilles ne sont pas apparues.
 PROPITEM_TXT_011954,The White Rabbit,Lapin blanc
-PROPITEM_TXT_011955,"I'm late! I'm late! For a very important date! No time to say hello, goodbye! I'm late! This tardy little guy follows his master around picking up dropped items.",Je suis en retard ! En retard ! En retard !
+PROPITEM_TXT_011955,"I'm late! I'm late! For a very important date! No time to say hello, goodbye! I'm late! This tardy little guy follows his master around picking up dropped items.","Pour un rendez-vous très important ! Pas le temps de dire bonjour, au revoir ! Je suis en retard ! Ce petit bonhomme toujours en retard suit son maître partout en ramassant les objets tombés."
 PROPITEM_TXT_011956,Tiger Cub,Dinah
 PROPITEM_TXT_011957,This cutie pie follows his *mommy* around and picks up dropped items.,Elle ne vous suivra pas de l'autre côté du miroir.
 PROPITEM_TXT_012180,Mocomochi,Bébé Mochikochi
@@ -7188,7 +7188,7 @@ PROPITEM_TXT_010959,This box contains the Cyber Punk Set for female characters.,
 PROPITEM_TXT_100697,Baby Peakyturtle,Bébé ramasseur Peakyturtle
 PROPITEM_TXT_100698,"A cute and fast, baby, Peakyturtle that follows its master around and picks up dropped items",Fait apparaître un mignon bébé Peakyturtle qui suit son invocateur partout et qui ramasse les objets laissés par les ennemis.
 PROPITEM_TXT_100699,Baby Rock Muscle,Bébé Musclor
-PROPITEM_TXT_100700,"A cute and fast, baby, Rockmuscle that follows its master around and picks up dropped items",Fait apparaître un mignon bébé Musclor qui suit son invocateur partout et qui ramasse les objets laissés par les ennemis.
+PROPITEM_TXT_100700,"A cute and fast, baby, Rock Muscle that follows its master around and picks up dropped items",Fait apparaître un mignon bébé Musclor qui suit son invocateur partout et qui ramasse les objets laissés par les ennemis.
 PROPITEM_TXT_100701,Vital Drink X or Refresher Hold,Boisson Énergétique X ou Fiole de Mana X
 PROPITEM_TXT_100702,Select if you want to receive a Vital Drink X or Refresher Hold!,Choisissez si vous voulez recevoir une Boisson Énergétique X ou Fiole de Mana X !
 PROPITEM_TXT_100703,Kitty or Doggy (7 Days),Bébé Chat ou Bébé Chien (7 Jours)
@@ -13247,10 +13247,10 @@ PROPITEM_TXT_009042,Cotton Candy Box,Boîte à Barbe à Papa
 PROPITEM_TXT_009043,Select which Cotton Candy you want to receive!,Choisissez la barbe à papa que vous souhaitez recevoir !
 PROPITEM_TXT_009046,Turkey Box,Boîte à Dinde
 PROPITEM_TXT_009047,Select which Turkey you want to receive!,Choisissez la dinde que vous souhaitez recevoir !
-PROPITEM_TXT_230212,Additional Attendance Coupon,Coupon de Présence Supplémentaire
-PROPITEM_TXT_230213,Coupon to earn additional attendance rewards.,Coupon pour obtenir des récompenses de présence supplémentaires.
-PROPITEM_TXT_230214,Additional Connection Coupon,Coupon de Connexion Supplémentaire
-PROPITEM_TXT_230215,Coupon to earn additional connection rewards.,Coupon pour obtenir des récompenses de connexion supplémentaires.
+PROPITEM_TXT_230212,Bonus Playtime Coupon,Coupon de Présence Supplémentaire
+PROPITEM_TXT_230213,Unlocks bonus playtime rewards. Can only be used once per day.,Coupon pour obtenir des récompenses de présence supplémentaires.
+PROPITEM_TXT_230214,Bonus Login Coupon,Coupon de Connexion Supplémentaire
+PROPITEM_TXT_230215,"Activates the bonus login rewards track. After claiming all rewards, you can use another coupon to start over.",Coupon pour obtenir des récompenses de connexion supplémentaires.
 PROPITEM_TXT_230216,Extended January Pass,Pass de Janvier Étendu
 PROPITEM_TXT_230217,This purchase gives you many advantages during the January Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat vous offre de nombreux avantages pendant la saison du Pass de Janvier :\n-Plus de récompenses du Battle Pass\n-Banque commune\n-2 jours de boutiques marchandes\n-Carburant d'accélération illimité\n-Verrouillage d'EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite supplémentaire\n-5 téléportations quotidiennes vers les boutiques (recherche)\n...et encore plus à venir avec les mises à jour du jeu !
 PROPITEM_TXT_230218,PlayPark Launch Gift,Cadeau de Lancement PlayPark
@@ -16466,7 +16466,7 @@ PROPITEM_TXT_132268,[Event] Fourth Completion Gift,[Événement] Quatrième Cade
 PROPITEM_TXT_132270,[Event] Dice Set,[Événement] Ensemble de Dés
 PROPITEM_TXT_132271,You can roll the dice on the board and obtain various rewards.,Vous pouvez lancer les dés sur le plateau et obtenir diverses récompenses.
 PROPITEM_TXT_132272,"First completion reward for Roll your Lucky Dice!\nYou can earn 5 Scrolls of Guild Custody, 5 Scrolls of General Shop, and 5 Scrolls of Food Shop.","Récompense de première réussite pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 5 Parchemins de Garde de Guilde, 5 Parchemins de Boutique Générale et 5 Parchemins de Boutique Alimentaire."
-PROPITEM_TXT_132273,"Second completion reward for Roll your Lucky Dice!\nYou can earn 1 Aura Selection Box(15 Days), 1 Card Disc ( 7 Days), and 1 Attendance Ticket.","Récompense de deuxième réussite pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 1 Coffre de Sélection d'Aura (15 jours), 1 Disque de Carte (7 jours) et 1 Billet de Présence."
+PROPITEM_TXT_132273,"Second completion reward for Roll your Lucky Dice!\nYou can earn 1 Aura Selection Box (15 Days), 1 Card Disc (7 Days), and 1 Bonus Playtime Coupon.","Récompense de deuxième réussite pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 1 Coffre de Sélection d'Aura (15 jours), 1 Disque de Carte (7 jours) et 1 Billet de Présence."
 PROPITEM_TXT_132274,"Third completion reward for Roll your Lucky Dice!\nYou can earn 5 Power Scrolls, 5 Scrolls of Velocity, and 5 Def-Upcut Stones.","Récompense de troisième réussite pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 5 Parchemins de Puissance, 5 Parchemins de Vitesse et 5 Pierres Déf-Upcut."
 PROPITEM_TXT_132275,"Fourth completion reward for Roll your Lucky Dice!\nYou can earn 5 Upcut Stones, 5 Vital Drink X or Refresher Hold, 5 Scrolls of Amplification ES, and 5 Scrolls of Return.","Récompense de quatrième réussite pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 5 Pierres Upcut, 5 Vital Drink X ou Refresher Hold, 5 Parchemins d'Amplification ES et 5 Parchemins de Retour."
 PROPITEM_TXT_725583,FWC PvE Supply Package (FWC Only),Pack de Fournitures PvE FWC (FWC uniquement)
@@ -17802,11 +17802,11 @@ PROPITEM_TXT_133421,Fish Ball (B),Boule de Poisson (B)
 PROPITEM_TXT_133422,Fish Ball (A),Boule de Poisson (A)
 PROPITEM_TXT_133423,Fish Ball (A+),Boule de Poisson (A+)
 PROPITEM_TXT_133424,A dish made by making minced fish meat into balls.,Plat à base de poisson haché en boulettes
-PROPITEM_TXT_133425,Seafood Pan Cake (C),Crêpe aux Fruits de Mer (C)
+PROPITEM_TXT_133425,Seafood Pancake (C),Crêpe aux Fruits de Mer (C)
 PROPITEM_TXT_133426,Recovers 276 HP,Redonne 276 PV
-PROPITEM_TXT_133427,Seafood Pan Cake (B),Crêpe aux Fruits de Mer (B)
-PROPITEM_TXT_133428,Seafood Pan Cake (A),Crêpe aux Fruits de Mer (A)
-PROPITEM_TXT_133429,Seafood Pan Cake (A+),Crêpe aux Fruits de Mer (A+)
+PROPITEM_TXT_133427,Seafood Pancake (B),Crêpe aux Fruits de Mer (B)
+PROPITEM_TXT_133428,Seafood Pancake (A),Crêpe aux Fruits de Mer (A)
+PROPITEM_TXT_133429,Seafood Pancake (A+),Crêpe aux Fruits de Mer (A+)
 PROPITEM_TXT_133430,Recovers 299 HP,Redonne 299 PV
 PROPITEM_TXT_133431,Fish Soup (C),Soupe de Poisson (C)
 PROPITEM_TXT_133432,Recovers 360 HP,Redonne 360 PV
@@ -21004,8 +21004,8 @@ PROPITEM_TXT_827582,Neon Valentines White Chair Single Pack,Pack Chaise Saint-Va
 PROPITEM_TXT_827583,Neon Valentines White Bath Single Pack,Pack Baignoire Saint-Valentin Néon Blanc
 PROPITEM_TXT_827584,Neon Valentines White Bed Single Pack,Pack Lit Saint-Valentin Néon Blanc
 PROPITEM_TXT_827585,Neon Valentines White Sofa Single Pack,Pack Canapé Saint-Valentin Néon Blanc
-PROPITEM_TXT_827586,Attendance Coupon Box,Boîte de Coupon de Présence
-PROPITEM_TXT_827587,A package containing 1x Additional Attendance Coupon and 5x Scroll of Amplification ES. All items are also linked.,Un paquet contenant 1x Coupon de Présence Supplémentaire et 5x Parchemins d’Amplification ES. Tous les objets sont également liés.
+PROPITEM_TXT_827586,Playtime Coupon Box,Boîte de Coupon de Présence
+PROPITEM_TXT_827587,A package containing 1x Bonus Playtime Coupon and 5x Scroll of Amplification ES. All items are also linked.,Un paquet contenant 1x Coupon de Présence Supplémentaire et 5x Parchemins d’Amplification ES. Tous les objets sont également liés.
 PROPITEM_TXT_827588,Magical Potion Box,Boîte de Potions Magiques
 PROPITEM_TXT_827589,"A package containing 5x Upcut Stone, 5x Potion Box, 5x Flask Box and 1x Power Scroll. All items are also linked.","Un paquet contenant 5x Pierres Upcut, 5x Boîtes de Potion, 5x Boîtes de Flacon et 1x Parchemin de Puissance. Tous les objets sont également liés."
 PROPITEM_TXT_829999,Lifestyle Mastery Bag,Sac de Maîtrise de Style de Vie
@@ -23247,8 +23247,8 @@ PROPITEM_TXT_134812,FWC Coin,Jeton FWC
 PROPITEM_TXT_134813,Betting currency,Monnaie de paris
 PROPITEM_TXT_134814,2025 FWC Championship Pass,Pass Championnat FWC 2025
 PROPITEM_TXT_134815,This purchase will give you access to many advantages until the end of the 2025 FWC Championship Pass season,Achat donnant accès à de nombreux avantages jusqu'à la fin de la saison du Pass Championnat FWC 2025.
-PROPITEM_TXT_134816,FWC Additional attendance Coupon,Bon de présence supplémentaire FWC
-PROPITEM_TXT_134817,Coupon to earn FWC additional attendance rewards.,Coupon pour gagner des récompenses de présence supplémentaires FWC
+PROPITEM_TXT_134816,FWC Bonus Playtime Coupon,Bon de présence supplémentaire FWC
+PROPITEM_TXT_134817,Unlocks bonus FWC playtime rewards. Can only be used once per day.,Coupon pour gagner des récompenses de présence supplémentaires FWC
 PROPITEM_TXT_134818,Blessing of the FWC coin,Bénédiction de la pièce FWC
 PROPITEM_TXT_134819,Increased probability of FWC Coin appearance by +1~15%,Probabilité augmentée d'apparition de la pièce FWC de +1~15%
 PROPITEM_TXT_901407,Nobility 10% Blue Set,Ensemble Nobility 10% Bleu
@@ -23476,7 +23476,7 @@ PROPITEM_TXT_901600,Firefighter 2025 Red Hands (F),Gants Rouge Pompier 2025 (F)
 PROPITEM_TXT_901601,Firefighter 2025 Neon Hands (M),Gants Néon Pompier 2025 (H)
 PROPITEM_TXT_901602,Firefighter 2025 Neon Hands (F),Gants Néon Pompier 2025 (F)
 PROPITEM_TXT_901603,"First completion reward for Roll your Lucky Dice!\nYou can earn 5 Scroll of Guild Custody, 5 Scroll of General Shop, 5 Scroll of Food Shop","Récompense de première complétion pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 5 Parchemins de Garde de Guilde, 5 Parchemins de Boutique Générale, 5 Parchemins de Boutique Alimentaire"
-PROPITEM_TXT_901604,"Second completion reward for Roll your Lucky Dice!\nYou can earn 1 Aura Selection Box(15 Days), 1 Card Disc ( 7 Days), and 1 Attendance Ticket.","Récompense de deuxième complétion pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 1 Boîte de Sélection Aura (15 jours), 1 Disque Carte (7 jours) et 1 Ticket de Présence."
+PROPITEM_TXT_901604,"Second completion reward for Roll your Lucky Dice!\nYou can earn 1 Aura Selection Box (15 Days), 1 Card Disc (7 Days), and 1 Bonus Playtime Coupon.","Récompense de deuxième complétion pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 1 Boîte de Sélection Aura (15 jours), 1 Disque Carte (7 jours) et 1 Ticket de Présence."
 PROPITEM_TXT_901605,"Third completion reward for Roll your Lucky Dice!\nYou can earn 3 [Event] Shop Advertisement Random Box, 3 Font editor, and 20 2025 FWC PopCorn Select box","Récompense de troisième complétion pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 3 Boîtes Aléatoires Publicité Boutique [Événement], 3 Éditeurs de Police, et 20 Boîtes de Sélection PopCorn FWC 2025"
 PROPITEM_TXT_901606,"Fourth completion reward for Roll your Lucky Dice!\nYou can earn 5 Upcut Stone, 5 Power Scroll, 5 FWC Special combo, and 5 Scrolls of Return.","Récompense de quatrième complétion pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 5 Pierres Upcut, 5 Parchemins de Pouvoir, 5 Combos Spéciaux FWC et 5 Parchemins de Retour"
 PROPITEM_TXT_901607,[Event] Shop Advertisement Random Box,Boîte Aléatoire Publicité Boutique [Événement]
@@ -23669,7 +23669,7 @@ PROPITEM_TXT_901793,"A package containing 10x 2025 FWC PopCorn Select box, 1x Li
 PROPITEM_TXT_901794,2025 FWC Streamer Event Coupon 2,Bon Événement Streamer FWC 2025 2
 PROPITEM_TXT_901795,"A package containing 1x Lifestyle Bag Select Box (15 day), 2x Balloon Select Box (6h) and 10x FWC Snack Select Box. All items are Soul-Linked.","Un paquet contenant 1x Boîte de Sélection Sac Lifestyle (15 jours), 2x Boîte de Sélection Ballon (6h) et 10x Boîte de Sélection Snack FWC. Tous les objets sont liés à l’âme."
 PROPITEM_TXT_901796,2025 FWC Streamer Event Coupon 3,Bon Événement Streamer FWC 2025 3
-PROPITEM_TXT_901797,"A package containing 3x Cotton Candy Box, 1x Additional Attendance Coupon, 1x Aura Selection Box (15 Days) and 5x FWC Special combo. All items are Soul-Linked.","Un paquet contenant 3x Boîte Barbe à Papa, 1x Coupon de Présence Supplémentaire, 1x Boîte de Sélection Aura (15 jours) et 5x Combo Spécial FWC. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901797,"A package containing 3x Cotton Candy Box, 1x Bonus Playtime Coupon, 1x Aura Selection Box (15 Days) and 5x FWC Special combo. All items are Soul-Linked.","Un paquet contenant 3x Boîte Barbe à Papa, 1x Coupon de Présence Supplémentaire, 1x Boîte de Sélection Aura (15 jours) et 5x Combo Spécial FWC. Tous les objets sont liés à l’âme."
 PROPITEM_TXT_901798,Myth Costume Select Box 1,Boîte de Sélection Costume Myth 1
 PROPITEM_TXT_901799,"Select your favorite Myth costume between Little Butterflies Set, Shadow Hunter Set and Snake Samurai Set. All items are Soul-Linked.","Choisissez votre costume Myth préféré entre Little Butterflies Set, Shadow Hunter Set et Snake Samurai Set. Tous les objets sont liés à l’âme."
 PROPITEM_TXT_901800,Butterflies Pet select box,Boîte de Sélection Pet Butterflies
@@ -24546,66 +24546,66 @@ PROPITEM_TXT_155497,Tramien Suit,Tenue Tramien
 PROPITEM_TXT_155498,Tramien Gauntlets,Gantelets Tramien
 PROPITEM_TXT_155499,Tramien Boots,Bottes Tramien
 PROPITEM_TXT_155500,Ankou's Heart,Cœur d’Ankou
-PROPITEM_TXT_155501,Veil of Shade,Voile de l’Ombre
-PROPITEM_TXT_155502,Maw of Judgement,Gueule du Jugement
-PROPITEM_TXT_155503,Oracle,Oracle
-PROPITEM_TXT_155504,Scepter of Disorder,Sceptre du Désordre
+PROPITEM_TXT_155501,Veil of Shade,Grimoire de l’Ombre
+PROPITEM_TXT_155502,Maw of Judgement,Poing du Jugement
+PROPITEM_TXT_155503,Oracle,Sceptre de l’Oracle
+PROPITEM_TXT_155504,Scepter of Disorder,Baguette du Désordre
 PROPITEM_TXT_155505,Roika's Stave,Bâton de Roika
-PROPITEM_TXT_155506,Curtana,Curtana
+PROPITEM_TXT_155506,Curtana,Lame Curtana
 PROPITEM_TXT_155507,Celestial Edge,Tranchant Céleste
 PROPITEM_TXT_155508,Bringer of Souls,Porteur d’Âmes
-PROPITEM_TXT_155509,Butcher's Carnage,Carnage du Boucher
-PROPITEM_TXT_155510,Harbinger,Précurseur
-PROPITEM_TXT_155511,Dementia,Démence
-PROPITEM_TXT_155512,Hell's Gate,Porte de l’Enfer
-PROPITEM_TXT_155513,Dragon's Rain,Pluie du Dragon
-PROPITEM_TXT_155514,K Fang,Croc K
+PROPITEM_TXT_155509,Butcher's Carnage,Hache du carnage
+PROPITEM_TXT_155510,Harbinger,Héraut du Carnage
+PROPITEM_TXT_155511,Dementia,Yo-yo de la Démence
+PROPITEM_TXT_155512,Hell's Gate,Bouclier des Portes de l’Enfer
+PROPITEM_TXT_155513,Dragon's Rain,Arc de la Pluie Draconiaque
+PROPITEM_TXT_155514,K Fang,Lame du Carnage
 PROPITEM_TXT_155515,Vial of Toxins,Fiole de Toxines
 PROPITEM_TXT_155516,A lethal vial carrying a toxic substance. Needed to use toxic Harlequin skills.,Une fiole mortelle contenant une substance toxique. Nécessaire pour utiliser les compétences toxiques de l’Arlequin.
-PROPITEM_TXT_155517,Broken Butcher's Carnage,Carnage du Boucher brisé
-PROPITEM_TXT_155518,Battle-Worn Butcher's Carnage,Carnage du Boucher usé par les combats
-PROPITEM_TXT_155519,Cursed Butcher's Carnage,Carnage du Boucher maudit
-PROPITEM_TXT_155520,Butcher's Carnage,Carnage du Boucher
-PROPITEM_TXT_155521,Broken Dragon's Rain,Pluie du Dragon brisée
-PROPITEM_TXT_155522,Battle-Worn Dragon's Rain,Pluie du Dragon usée par les combats
-PROPITEM_TXT_155523,Cursed Dragon's Rain,Pluie du Dragon maudite
-PROPITEM_TXT_155524,Dragon's Rain,Pluie du Dragon
-PROPITEM_TXT_155525,Broken Maw of Judgement,Gueule du Jugement brisée
-PROPITEM_TXT_155526,Battle-Worn Maw of Judgement,Gueule du Jugement usée par les combats
-PROPITEM_TXT_155527,Cursed Maw of Judgement,Gueule du Jugement maudite
-PROPITEM_TXT_155528,Maw of Judgement,Gueule du Jugement
+PROPITEM_TXT_155517,Broken Butcher's Carnage,Hache du carnage brisée
+PROPITEM_TXT_155518,Battle-Worn Butcher's Carnage,Hache du carnage usée par les combats
+PROPITEM_TXT_155519,Cursed Butcher's Carnage,Hache du carnage maudite
+PROPITEM_TXT_155520,Butcher's Carnage,Hache du carnage
+PROPITEM_TXT_155521,Broken Dragon's Rain,Arc de la Pluie Draconiaque brisée
+PROPITEM_TXT_155522,Battle-Worn Dragon's Rain,Arc de la Pluie Draconiaque usé par les combats
+PROPITEM_TXT_155523,Cursed Dragon's Rain,Arc de la Pluie Draconiaque maudite
+PROPITEM_TXT_155524,Dragon's Rain,Arc de la Pluie Draconiaque
+PROPITEM_TXT_155525,Broken Maw of Judgement,Poing du Jugement brisée
+PROPITEM_TXT_155526,Battle-Worn Maw of Judgement,Poing du Jugement usé par les combats
+PROPITEM_TXT_155527,Cursed Maw of Judgement,Poing du Jugement maudit
+PROPITEM_TXT_155528,Maw of Judgement,Poing du Jugement
 PROPITEM_TXT_155529,Broken Roika's Stave,Bâton de Roika brisé
 PROPITEM_TXT_155530,Battle-Worn Roika's Stave,Bâton de Roika usé par les combats
 PROPITEM_TXT_155531,Cursed Roika's Stave,Bâton de Roika maudit
 PROPITEM_TXT_155532,Roika's Stave,Bâton de Roika
-PROPITEM_TXT_155533,Broken Oracle,Oracle brisé
-PROPITEM_TXT_155534,Battle-Worn Oracle,Oracle usé par les combats
-PROPITEM_TXT_155535,Cursed Oracle,Oracle maudit
-PROPITEM_TXT_155536,Oracle,Oracle
-PROPITEM_TXT_155537,Broken Curtana,Curtana brisée
-PROPITEM_TXT_155538,Battle-Worn Curtana,Curtana usée par les combats
-PROPITEM_TXT_155539,Cursed Curtana,Curtana maudite
-PROPITEM_TXT_155540,Curtana,Curtana
-PROPITEM_TXT_155541,Broken K Fang,Croc K brisé
-PROPITEM_TXT_155542,Battle-Worn K Fang,Croc K usé par les combats
-PROPITEM_TXT_155543,Cursed K Fang,Croc K maudit
-PROPITEM_TXT_155544,K Fang,Croc K
-PROPITEM_TXT_155545,Broken Harbinger,Précurseur brisé
-PROPITEM_TXT_155546,Battle-Worn Harbinger,Précurseur usé par les combats
-PROPITEM_TXT_155547,Cursed Harbinger,Précurseur maudit
-PROPITEM_TXT_155548,Harbinger,Précurseur
+PROPITEM_TXT_155533,Broken Oracle,Sceptre de l’Oracle brisé
+PROPITEM_TXT_155534,Battle-Worn Oracle,Sceptre de l’Oracle usé par les combats
+PROPITEM_TXT_155535,Cursed Oracle,Sceptre de l’Oracle maudit
+PROPITEM_TXT_155536,Oracle,Sceptre de l’Oracle
+PROPITEM_TXT_155537,Broken Curtana,Lame Curtana brisée
+PROPITEM_TXT_155538,Battle-Worn Curtana,Lame Curtana usée par les combats
+PROPITEM_TXT_155539,Cursed Curtana,Lame Curtana maudite
+PROPITEM_TXT_155540,Curtana,Lame Curtana
+PROPITEM_TXT_155541,Broken K Fang,Lame du Carnage brisée
+PROPITEM_TXT_155542,Battle-Worn K Fang,Lame du Carnage usée par les combats
+PROPITEM_TXT_155543,Cursed K Fang,Lame du Carnage maudite
+PROPITEM_TXT_155544,K Fang,Lame du Carnage
+PROPITEM_TXT_155545,Broken Harbinger,Héraut du Carnage brisé
+PROPITEM_TXT_155546,Battle-Worn Harbinger,Héraut du Carnage usé par les combats
+PROPITEM_TXT_155547,Cursed Harbinger,Héraut du Carnage maudit
+PROPITEM_TXT_155548,Harbinger,Héraut du Carnage
 PROPITEM_TXT_155549,Broken Celestial Edge,Tranchant Céleste brisé
 PROPITEM_TXT_155550,Battle-Worn Celestial Edge,Tranchant Céleste usé par les combats
 PROPITEM_TXT_155551,Cursed Celestial Edge,Tranchant Céleste maudit
 PROPITEM_TXT_155552,Celestial Edge,Tranchant Céleste
-PROPITEM_TXT_155553,Broken Scepter of Disorder,Sceptre du Désordre brisé
-PROPITEM_TXT_155554,Battle-Worn Scepter of Disorder,Sceptre du Désordre usé par les combats
-PROPITEM_TXT_155555,Cursed Scepter of Disorder,Sceptre du Désordre maudit
-PROPITEM_TXT_155556,Scepter of Disorder,Sceptre du Désordre
-PROPITEM_TXT_155557,Broken Dementia,Démence brisée
-PROPITEM_TXT_155558,Battle-Worn Dementia,Démence usée par les combats
-PROPITEM_TXT_155559,Cursed Dementia,Démence maudite
-PROPITEM_TXT_155560,Dementia,Démence
+PROPITEM_TXT_155553,Broken Scepter of Disorder,Baguette du Désordre brisée
+PROPITEM_TXT_155554,Battle-Worn Scepter of Disorder,Baguette du Désordre usée par les combats
+PROPITEM_TXT_155555,Cursed Scepter of Disorder,Baguette du Désordre maudit
+PROPITEM_TXT_155556,Scepter of Disorder,Baguette du Désordre
+PROPITEM_TXT_155557,Broken Dementia,Yo-yo de la Démence brisé
+PROPITEM_TXT_155558,Battle-Worn Dementia,Yo-yo de la Démence usé par les combats
+PROPITEM_TXT_155559,Cursed Dementia,Yo-yo de la Démence maudite
+PROPITEM_TXT_155560,Dementia,Yo-yo de la Démence
 PROPITEM_TXT_155561,Scroll of Ultimate Bonus II,Parchemin de Bonus Ultime II
 PROPITEM_TXT_155562,Resets the random stats and values of special options applied to the Ultimate Weapon.,Réinitialise les statistiques aléatoires et les valeurs des options spéciales appliquées à l’Arme Ultime.
 PROPITEM_TXT_155563,FWC 2025 Bloody Death Messenger’s Set (Winners),FWC 2025 Ensemble du Messager de la Mort Sanglant (Vainqueurs)
@@ -25526,6 +25526,13 @@ PROPITEM_TXT_902662,Noble Jockey Red Shoes (F),Chaussures Noble Jockey Rouge (F)
 PROPITEM_TXT_902664,Noble Jockey Red Costume Set (F),Ensemble Costume Noble Jockey Rouge (F)
 PROPITEM_TXT_902665,The Noble Jockey Red Set for male characters.,L'ensemble Noble Jockey Rouge pour personnages masculins.
 PROPITEM_TXT_902666,The Noble Jockey Red Set for female characters.,L'ensemble Noble Jockey Rouge pour personnages féminins.
+PROPITEM_TXT_135089,[Lv 120~190] 2026 Valentine's Day Reward Box A,[Lv 120~190] 2026 Valentine's Day Reward Box A
+PROPITEM_TXT_135090,[Lv 80~119] 2026 Valentine's Day Reward Box A,[Lv 80~119] 2026 Valentine's Day Reward Box A
+PROPITEM_TXT_135091,[Lv 20~79] 2026 Valentine's Day Reward Box A,[Lv 20~79] 2026 Valentine's Day Reward Box A
+PROPITEM_TXT_135092,2026 Valentine's Day Reward Box B,2026 Valentine's Day Reward Box B
+PROPITEM_TXT_135093,2026 Valentine's Day Reward Box C,2026 Valentine's Day Reward Box C
+PROPITEM_TXT_135094,2026 Valentine's Day Reward Box D,2026 Valentine's Day Reward Box D
+PROPITEM_TXT_135095,[Valentine] Pet Random Box,[Valentine] Pet Random Box
 PROPITEM_TXT_902667,2026 MyCard New Year Promotion Box A,Boîte Promotion Nouvel An MyCard 2026 A
 PROPITEM_TXT_902668,"A package containing 3x Grilled Eel, 3x Scroll of Amplification ES, 3x Potion Box, 3x Upcut Stone and 3x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 3x Anguille Grillée, 3x Parchemin Amplification ES, 3x Boîte de Potions, 3x Pierre Upcut et 3x Vital Drink X ou Refresher Hold. Tous les objets sont liés."
 PROPITEM_TXT_902669,2026 MyCard New Year Promotion Box B,Boîte Promotion Nouvel An MyCard 2026 B
@@ -25565,3 +25572,112 @@ PROPITEM_TXT_902702,"Complex thoughts vanish, leaving only your beloved in sight
 PROPITEM_TXT_902703,Scroll of Ultimate Bonus Select Box,Boîte de Sélection Parchemin Bonus Ultime
 PROPITEM_TXT_902704,Select which scroll you want to receive!,Choisissez le parchemin que vous souhaitez recevoir !
 PROPITEM_TXT_902705,Begging Motion,Geste de Mendicité
+PROPITEM_TXT_902706,Button Mark 10% Green Set,Button Mark 10% Green Set
+PROPITEM_TXT_902707,Button Mark Green Backpack,Button Mark Green Backpack
+PROPITEM_TXT_902708,Button Mark Green Mask,Button Mark Green Mask
+PROPITEM_TXT_902709,Button Mark Green Hat (M),Button Mark Green Hat (M)
+PROPITEM_TXT_902710,Button Mark Green Suit (M),Button Mark Green Suit (M)
+PROPITEM_TXT_902711,Button Mark Green Shoes (M),Button Mark Green Shoes (M)
+PROPITEM_TXT_902712,Button Mark 10% Green Set (M),Button Mark 10% Green Set (M)
+PROPITEM_TXT_902713,The Button Mark 10% Green Set for male characters.,The Button Mark 10% Green Set for male characters.
+PROPITEM_TXT_902714,Button Mark Green Hat (F),Button Mark Green Hat (F)
+PROPITEM_TXT_902715,Button Mark Green Suit (F),Button Mark Green Suit (F)
+PROPITEM_TXT_902716,Button Mark Green Shoes (F),Button Mark Green Shoes (F)
+PROPITEM_TXT_902717,Button Mark 10% Green Set (F),Button Mark 10% Green Set (F)
+PROPITEM_TXT_902718,The Button Mark 10% Green Set for female characters.,The Button Mark 10% Green Set for female characters.
+PROPITEM_TXT_902719,Button Mark 10% Turquoise Set,Button Mark 10% Turquoise Set
+PROPITEM_TXT_902720,Button Mark Turquoise Backpack,Button Mark Turquoise Backpack
+PROPITEM_TXT_902721,Button Mark Turquoise Mask,Button Mark Turquoise Mask
+PROPITEM_TXT_902722,Button Mark Turquoise Hat (M),Button Mark Turquoise Hat (M)
+PROPITEM_TXT_902723,Button Mark Turquoise Suit (M),Button Mark Turquoise Suit (M)
+PROPITEM_TXT_902724,Button Mark Turquoise Shoes (M),Button Mark Turquoise Shoes (M)
+PROPITEM_TXT_902725,Button Mark 10% Turquoise Set (M),Button Mark 10% Turquoise Set (M)
+PROPITEM_TXT_902726,The Button Mark 10% Turquoise Set for male characters.,The Button Mark 10% Turquoise Set for male characters.
+PROPITEM_TXT_902727,Button Mark Turquoise Hat (F),Button Mark Turquoise Hat (F)
+PROPITEM_TXT_902728,Button Mark Turquoise Suit (F),Button Mark Turquoise Suit (F)
+PROPITEM_TXT_902729,Button Mark Turquoise Shoes (F),Button Mark Turquoise Shoes (F)
+PROPITEM_TXT_902730,Button Mark 10% Turquoise Set (F),Button Mark 10% Turquoise Set (F)
+PROPITEM_TXT_902731,The Button Mark 10% Turquoise Set for female characters.,The Button Mark 10% Turquoise Set for female characters.
+PROPITEM_TXT_902732,Button Mark 8% Lime Set,Button Mark 8% Lime Set
+PROPITEM_TXT_902733,Button Mark Lime Backpack,Button Mark Lime Backpack
+PROPITEM_TXT_902734,Button Mark Lime Mask,Button Mark Lime Mask
+PROPITEM_TXT_902735,Button Mark Lime Hat (M),Button Mark Lime Hat (M)
+PROPITEM_TXT_902736,Button Mark Lime Suit (M),Button Mark Lime Suit (M)
+PROPITEM_TXT_902737,Button Mark Lime Shoes (M),Button Mark Lime Shoes (M)
+PROPITEM_TXT_902738,Button Mark 8% Lime Set (M),Button Mark 8% Lime Set (M)
+PROPITEM_TXT_902739,The Button Mark 8% Lime Set for male characters.,The Button Mark 8% Lime Set for male characters.
+PROPITEM_TXT_902740,Button Mark Lime Hat (F),Button Mark Lime Hat (F)
+PROPITEM_TXT_902741,Button Mark Lime Suit (F),Button Mark Lime Suit (F)
+PROPITEM_TXT_902742,Button Mark Lime Shoes (F),Button Mark Lime Shoes (F)
+PROPITEM_TXT_902743,Button Mark 8% Lime Set (F),Button Mark 8% Lime Set (F)
+PROPITEM_TXT_902744,The Button Mark 8% Lime Set for female characters.,The Button Mark 8% Lime Set for female characters.
+PROPITEM_TXT_902745,Button Mark 8% Orange Set,Button Mark 8% Orange Set
+PROPITEM_TXT_902746,Button Mark Orange Backpack,Button Mark Orange Backpack
+PROPITEM_TXT_902747,Button Mark Orange Mask,Button Mark Orange Mask
+PROPITEM_TXT_902748,Button Mark Orange Hat (M),Button Mark Orange Hat (M)
+PROPITEM_TXT_902749,Button Mark Orange Suit (M),Button Mark Orange Suit (M)
+PROPITEM_TXT_902750,Button Mark Orange Shoes (M),Button Mark Orange Shoes (M)
+PROPITEM_TXT_902751,Button Mark 8% Orange Set (M),Button Mark 8% Orange Set (M)
+PROPITEM_TXT_902752,The Button Mark 8% Orange Set for male characters.,The Button Mark 8% Orange Set for male characters.
+PROPITEM_TXT_902753,Button Mark Orange Hat (F),Button Mark Orange Hat (F)
+PROPITEM_TXT_902754,Button Mark Orange Suit (F),Button Mark Orange Suit (F)
+PROPITEM_TXT_902755,Button Mark Orange Shoes (F),Button Mark Orange Shoes (F)
+PROPITEM_TXT_902756,Button Mark 8% Orange Set (F),Button Mark 8% Orange Set (F)
+PROPITEM_TXT_902757,The Button Mark 8% Orange Set for female characters.,The Button Mark 8% Orange Set for female characters.
+PROPITEM_TXT_902758,Button Mark 6% Purple Set,Button Mark 6% Purple Set
+PROPITEM_TXT_902759,Button Mark Purple Backpack,Button Mark Purple Backpack
+PROPITEM_TXT_902760,Button Mark Purple Mask,Button Mark Purple Mask
+PROPITEM_TXT_902761,Button Mark Purple Hat (M),Button Mark Purple Hat (M)
+PROPITEM_TXT_902762,Button Mark Purple Suit (M),Button Mark Purple Suit (M)
+PROPITEM_TXT_902763,Button Mark Purple Shoes (M),Button Mark Purple Shoes (M)
+PROPITEM_TXT_902764,Button Mark 6% Purple Set (M),Button Mark 6% Purple Set (M)
+PROPITEM_TXT_902765,The Button Mark 6% Purple Set for male characters.,The Button Mark 6% Purple Set for male characters.
+PROPITEM_TXT_902766,Button Mark Purple Hat (F),Button Mark Purple Hat (F)
+PROPITEM_TXT_902767,Button Mark Purple Suit (F),Button Mark Purple Suit (F)
+PROPITEM_TXT_902768,Button Mark Purple Shoes (F),Button Mark Purple Shoes (F)
+PROPITEM_TXT_902769,Button Mark 6% Purple Set (F),Button Mark 6% Purple Set (F)
+PROPITEM_TXT_902770,The Button Mark 6% Purple Set for female characters.,The Button Mark 6% Purple Set for female characters.
+PROPITEM_TXT_902771,Button Mark 4% Red Set,Button Mark 4% Red Set
+PROPITEM_TXT_902772,Button Mark Red Backpack,Button Mark Red Backpack
+PROPITEM_TXT_902773,Button Mark Red Mask,Button Mark Red Mask
+PROPITEM_TXT_902774,Button Mark Red Hat (M),Button Mark Red Hat (M)
+PROPITEM_TXT_902775,Button Mark Red Suit (M),Button Mark Red Suit (M)
+PROPITEM_TXT_902776,Button Mark Red Shoes (M),Button Mark Red Shoes (M)
+PROPITEM_TXT_902777,Button Mark 4% Red Set (M),Button Mark 4% Red Set (M)
+PROPITEM_TXT_902778,The Button Mark 4% Red Set for male characters.,The Button Mark 4% Red Set for male characters.
+PROPITEM_TXT_902779,Button Mark Red Hat (F),Button Mark Red Hat (F)
+PROPITEM_TXT_902780,Button Mark Red Suit (F),Button Mark Red Suit (F)
+PROPITEM_TXT_902781,Button Mark Red Shoes (F),Button Mark Red Shoes (F)
+PROPITEM_TXT_902782,Button Mark 4% Red Set (F),Button Mark 4% Red Set (F)
+PROPITEM_TXT_902783,The Button Mark 4% Red Set for female characters.,The Button Mark 4% Red Set for female characters.
+PROPITEM_TXT_902784,Button Mark 2% Blue Set,Button Mark 2% Blue Set
+PROPITEM_TXT_902785,Button Mark Blue Backpack,Button Mark Blue Backpack
+PROPITEM_TXT_902786,Button Mark Blue Mask,Button Mark Blue Mask
+PROPITEM_TXT_902787,Button Mark Blue Hat (M),Button Mark Blue Hat (M)
+PROPITEM_TXT_902788,Button Mark Blue Suit (M),Button Mark Blue Suit (M)
+PROPITEM_TXT_902789,Button Mark Blue Shoes (M),Button Mark Blue Shoes (M)
+PROPITEM_TXT_902790,Button Mark 2% Blue Set (M),Button Mark 2% Blue Set (M)
+PROPITEM_TXT_902791,The Button Mark 2% Blue Set for male characters.,The Button Mark 2% Blue Set for male characters.
+PROPITEM_TXT_902792,Button Mark Blue Hat (F),Button Mark Blue Hat (F)
+PROPITEM_TXT_902793,Button Mark Blue Suit (F),Button Mark Blue Suit (F)
+PROPITEM_TXT_902794,Button Mark Blue Shoes (F),Button Mark Blue Shoes (F)
+PROPITEM_TXT_902795,Button Mark 2% Blue Set (F),Button Mark 2% Blue Set (F)
+PROPITEM_TXT_902796,The Button Mark 2% Blue Set for female characters.,The Button Mark 2% Blue Set for female characters.
+PROPITEM_TXT_902797,Button Mark 2% Black Set,Button Mark 2% Black Set
+PROPITEM_TXT_902798,Button Mark Black Backpack,Button Mark Black Backpack
+PROPITEM_TXT_902799,Button Mark Black Mask,Button Mark Black Mask
+PROPITEM_TXT_902800,Button Mark Black Hat (M),Button Mark Black Hat (M)
+PROPITEM_TXT_902801,Button Mark Black Suit (M),Button Mark Black Suit (M)
+PROPITEM_TXT_902802,Button Mark Black Shoes (M),Button Mark Black Shoes (M)
+PROPITEM_TXT_902803,Button Mark 2% Black Set (M),Button Mark 2% Black Set (M)
+PROPITEM_TXT_902804,The Button Mark 2% Black Set for male characters.,The Button Mark 2% Black Set for male characters.
+PROPITEM_TXT_902805,Button Mark Black Hat (F),Button Mark Black Hat (F)
+PROPITEM_TXT_902806,Button Mark Black Suit (F),Button Mark Black Suit (F)
+PROPITEM_TXT_902807,Button Mark Black Shoes (F),Button Mark Black Shoes (F)
+PROPITEM_TXT_902808,Button Mark 2% Black Set (F),Button Mark 2% Black Set (F)
+PROPITEM_TXT_902809,The Button Mark 2% Black Set for female characters.,The Button Mark 2% Black Set for female characters.
+PROPITEM_TXT_902810,Button Mark Costume Lucky Box,Button Mark Costume Lucky Box
+PROPITEM_TXT_902811,This box contains a Button Mark Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Button Mark Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_135096,Yetti's Precious Box,Yetti's Precious Box
+PROPITEM_TXT_135097,Reconnaissance Set Select Box,Reconnaissance Set Select Box
+PROPITEM_TXT_135098,[20~190] Amplification ES Scroll Select Box,[20~190] Amplification ES Scroll Select Box
