@@ -931,7 +931,7 @@ UI_GUILDCOMBAT_JOIN_MSG,Do you join the Guild Siege?,Do you join the Guild Siege
 UI_NETWORK_ERROR_TITLE,Network Error,Errore di rete
 UI_NETWORK_ERROR_MSG,"A network error happened, please check your connection and login again.","A network error happened, please check your connection and login again."
 UI_GUILDCOMBAT_JOINWAR_TITLE,Resurrection Location,Resurrection Location
-UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st zone.,Sei entrato nella 1a zona.
+UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st zone.,Sei entrato nella prima zona.
 UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered the 2nd zone.,Sei entrato nella seconda zona.
 UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered the 3rd zone.,Sei entrato nella terza zona.
 UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th zone.,Sei entrato nella quarto zona.
@@ -1294,7 +1294,7 @@ UI_TIMEINFO_CONNECTION,Connection Time,Connection Time
 UI_TIMEINFO_SESSION,Session Duration,Session Duration
 UI_CHAT_TITLE,Chat,Chat
 UI_CHAT_FILTERS,Filters,Filters
-UI_CHAT_VIEW_LANGUAGES,View Languages,Visualizza lingua
+UI_CHAT_VIEW_LANGUAGES,View Languages,Visualizza lingue
 UI_CHAT_YOUR_LANGUAGE,Your Language,La tua lingua
 UI_INVENTORY_CONVERT_SOULLINK,Convert soul link,Convert soul link
 UI_INVENTORY_PUTCHAT,Link in Chat,Link in Chat
@@ -2470,7 +2470,7 @@ UI_MATOURNAMENT_JOINWAR_TITLE,Resurrection Location,Resurrection Location
 UI_MATOURNAMENT_JOINWAR_1_TIP,You have entered the 1st area.,Sei entrato nella prima area.
 UI_MATOURNAMENT_JOINWAR_2_TIP,You have entered the 2nd area.,Sei entrato nella seconda area.
 UI_MATOURNAMENT_JOINWAR_3_TIP,You have entered the 3rd area.,Sei entrato nella terza area.
-UI_MATOURNAMENT_JOINWAR_4_TIP,You have entered the 4th area.,YSei entrato nella quarta area.
+UI_MATOURNAMENT_JOINWAR_4_TIP,You have entered the 4th area.,Sei entrato nella quarta area.
 UI_MATOURNAMENT_JOINWAR_SELECT,Select the area you wish to enter.,Seleziona l'area in cui desideri entrare.
 UI_MATOURNAMENT_JOINWAR_MSG,"After % d, you enter% s.","After % d, you enter% s."
 UI_MATOURNAMENT_RANKING_TITLE,Madrigal Tournament Contest Ranking,Madrigal Tournament Contest Ranking
