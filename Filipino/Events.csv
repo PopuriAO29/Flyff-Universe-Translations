@@ -5,13 +5,13 @@ UI_EVENT_WEAPONPIERCING,Weapon Piercing!,Piercing ng Sandata!
 UI_EVENT_PARTYEXPBOOST,Party EXP Boost!,Boost ng EXP para sa Party!
 UI_EVENT_GOLDENAIBATT,Find the Golden Aibatt!,Hanapin ang Golden Aibatt!
 UI_EVENT_GOLDENAIBATT_DESC,Kill the Golden Aibatt in dungeons and get drop bonuses!,Patayin ang Golden Aibatt sa mga dungeon at makakuha ng mga drop bonus!
-UI_EVENT_NIGHTBOOST,Night Boost!,Gabi Boost!
+UI_EVENT_NIGHTBOOST,Night Boost!,Gabing Boost!
 UI_EVENT_NIGHTBOOST_DESC,+30% EXP when it's night in-game!,+30% EXP kapag gabi sa laro!
 UI_EVENT_NIGHTBOOST_NIGHT,It's night! x1.3 EXP!,Gabi na! x1.3 EXP!!
 UI_EVENT_NIGHTBOOST_DAY,"The sun is up, x1.3 EXP has ended...","Sumikat na ang araw, tapos na ang x1.3 EXP..."
-UI_EVENT_EASTER,Easter Event,Easter na Kaganapan
+UI_EVENT_EASTER,Easter Event,Pasko ng Pagkabuhay na Event 
 UI_EVENT_EASTER_DESC,Complete Eggcellent's Meadow to get Pink Easter Eggs!,Tapusin ang Eggcellents Meadow para makakuha ng Pink Easter Eggs!
-UI_EVENT_SPRING,Spring Event!,Spring na Kaganapan!
+UI_EVENT_SPRING,Spring Event!,Spring na Event!
 UI_EVENT_DIAMONDINTHESKY,Diamond in the Sky,Diamante sa Langit
 UI_EVENT_DIAMONDINTHESKY_DESC,Destroy the stars in the night sky to obtain star fragments!,Sirain ang mga bituin sa kalangitan ng gabi para makakuha ng mga piraso ng bituin!
 UI_EVENT_DIAMONDINTHESKY_NIGHT,Night has come! The stars are coming out. Find them in the sky!,Dumating na ang gabi! Lumalabas na ang mga bituin.. Hanapin sila sa langit!
@@ -77,41 +77,41 @@ UI_EVENT_DROPBOOST_DESC_100,Drop Chance x2!,Double ang tsansa ng drop!
 UI_EVENT_INSTANCE_DUNGEON_COOLDOWN,Instance Dungeon Cooldown,Cooldown ng Instance Dungeon
 UI_EVENT_UPGRADEBOOST,Upgrade Boost!,Boost sa Upgrade!
 UI_EVENT_UPGRADEBOOST_DESC_100,Upgrade Chance x2!,Tsansa ng Upgrade x2!
-UI_EVENT_2024_VACANCE,2024 Vacance Event,2024 Vacance Event
+UI_EVENT_2024_VACANCE,2024 Vacance Event,2024 Vacance na Event
 UI_EVENT_2024_VACANCE_DESC,Obtain EXP and event items in the dungeon to earn a permanent costume!,Kumuha ng EXP at mga event item sa dungeon at makuha ang permanenteng costume!
 UI_EVENT_ROLL_DICE,Roll your Lucky Dice!,I-roll ang Lucky Dice mo!
 UI_EVENT_ROLL_DICE_DESC,"Complete Daily Quests to earn dice, then roll them for rewards!",Tapusin ang Daily Quests para magkaron ng pagkakataong i-roll ang dice para sa mga gantimpala!
 UI_EVENT_20_ANNIVERSARY,Flyff's 20th Anniversary,Ika-20 Anibersaryo ng Flyff
 UI_EVENT_20_ANNIVERSARY_DESC,Celebrate Flyff's 20th Anniversary!,Ipagdiwang ang ika-20 anibersaryo ng Flyff!
 UI_EVENT_PIRATESHIP,Plunder treasure from the Pirate Ship!,Agawin ang kayamanan mula sa Pirate Ship!
-UI_EVENT_THANKSGIVING,Thanksgiving Event,Thanksgiving Event
+UI_EVENT_THANKSGIVING,Thanksgiving Event,Thanksgiving na Event
 UI_EVENT_FISHINGCHAMPION,1.4.1 Update Celebration,Pagdiriwang ng 1.4.1 Update
-UI_EVENT_145_ATTENDANCE,Playtime Event,Kaganapan sa Pag-login
+UI_EVENT_145_ATTENDANCE,Playtime Event,Event sa Pag-login
 UI_EVENT_145_ATTENDANCE_DESC,Log in each day for 30 minutes to receive rewards!,Mag-login araw-araw nang 30 minuto at makatanggap ng mga gantimpala!
-UI_EVENT_LIFEGATHERINGMASTERY,Life Gathering Mastery Event,Kaganapan: Life Gathering Mastery
+UI_EVENT_LIFEGATHERINGMASTERY,Life Gathering Mastery Event,Event sa Life Gathering Mastery
 UI_EVENT_LIFEGATHERINGMASTERY_DESC_20,Increase your life gathering mastery gain by 20%!,Tumaas ng 20% ang makukuhang life gathering mastery!
-UI_EVENT_LIFEPRODUCTIONMASTERY,Life Production Mastery Event,Kaganapan: Life Production Mastery
+UI_EVENT_LIFEPRODUCTIONMASTERY,Life Production Mastery Event,Event sa Life Production Mastery
 UI_EVENT_LIFEPRODUCTIONMASTERY_DESC_20,Increase your life production mastery gain by 20%!,Tumaas ng 20% ang makukuhang life production mastery!
-UI_EVENT_LIFEMASTERY,Life Mastery Event,Kaganapan: Life Mastery
+UI_EVENT_LIFEMASTERY,Life Mastery Event,Event sa Life Mastery
 UI_EVENT_LIFEMASTERY_DESC_20,Increase all life mastery gains by 20%!,Tumaas ng 20% ang kabuuang makukuhang life mastery!
-UI_EVENT_LIFEGATHERINGSPEED,Life Gathering Speed Event,Kaganapan: Life Gathering Speed
+UI_EVENT_LIFEGATHERINGSPEED,Life Gathering Speed Event,Event sa Life Gathering Speed
 UI_EVENT_LIFEGATHERINGSPEED_DESC_20,Increase your life gathering speed by 20%!,Tumaas ng 20% ang bilis ng life gathering mo!
-UI_EVENT_LIFEPRODUCTIONSPEED,Life Production Speed Event,Kaganapan: Life Production Speed
+UI_EVENT_LIFEPRODUCTIONSPEED,Life Production Speed Event,Event sa Life Production Speed
 UI_EVENT_LIFEPRODUCTIONSPEED_DESC_20,Increase your life production speed by 20%!,Tumaas ng 20% ang bilis ng life production mo!
-UI_EVENT_LIFEGATHERINGDURABILITY,Life Gathering Durability Discount Event!,Kaganapan: Bawas sa Durability Cost ng Life Gathering!
+UI_EVENT_LIFEGATHERINGDURABILITY,Life Gathering Durability Discount Event!,Event sa Bawas sa Durability Cost ng Life Gathering!
 UI_EVENT_LIFEGATHERINGDURABILITY_DESC_1,Reduces durability cost by 1 when gathering!,Binabawasan ng 1 ang durability cost kapag nag-ga-gather!
-UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL,Life Wandering Merchant Early Refresh Event!,Kaganapan: Mas Maagang Renewal ng Life Wandering Merchant!
+UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL,Life Wandering Merchant Early Refresh Event!,Event sa Mas Maagang Renewal ng Life Wandering Merchant!
 UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL_DESC_30,The Wandering Merchant's inventory refreshes 30 minutes earlier during the event!,Ang renewal ng wandering merchant ay magaganap 30 minuto nang mas maaga habang event!
-UI_EVENT_LIFEGATHERINGSPAWN,Life Gathering Spawn Boost Event!,Kaganapan: Nadagdagang Spawn ng Life Gathering!
+UI_EVENT_LIFEGATHERINGSPAWN,Life Gathering Spawn Boost Event!,Event sa Nadagdagang Spawn ng Life Gathering!
 UI_EVENT_LIFEGATHERINGSPAWN_DESC_20,20% more gathering objects spawn during the event!,Tumaas ng 20% ang dami ng lumilitaw na gathering objects!
-UI_EVENT_LIFEWANDERINGMERCHANTITEMS,Life Wandering Merchant Extra Stock Event!,Mga Item ng Life Wandering Merchant!
+UI_EVENT_LIFEWANDERINGMERCHANTITEMS,Life Wandering Merchant Extra Stock Event!,Event sa Mga Item ng Life Wandering Merchant!
 UI_EVENT_LIFEWANDERINGMERCHANTITEMS_DESC_2,The Wandering Merchant offers 2 additional items for sale during the event!,Nadagdagan ng 2 ang maximum na bilang ng item sa shop ng wandering merchant habang event!
 UI_EVENT_3RD_ANNIV_FIELDBOSS,3rd Anniversary Field Boss Event,Ika-3 Anibersaryo: Field Boss Event
-UI_EVENT_FWC_PREDICTION,FWC Prediction Event,FWC Prediction Event
-UI_EVENT_FWC_PREDICTION_DESC,FWC Prediction Event!,FWC Prediction Event!
+UI_EVENT_FWC_PREDICTION,FWC Prediction Event,FWC Hula Event
+UI_EVENT_FWC_PREDICTION_DESC,FWC Prediction Event!,FWC Hula Event!
 UI_EVENT_TIMETOUPGRADE,It's Time to Upgrade!,Panahon na para Mag-upgrade!
 UI_EVENT_TIMETOUPGRADE_DESC,Successfully upgrade an item to each level from +1 to +10 during the event to receive rewards. Complete all 10 stages to receive an Ultimate Accessory Selection Box.,"Maabot ang bawat upgrade level mula 1 hanggang 10 nang isang beses habang event para makatanggap ng gantimpala. Kapag natapos mo ang lahat ng 10 yugto, makakatanggap ka ng Ultimate Accessory Selection Box."
 UI_EVENT_PTS,Public Test Server,Pampublikong Test Server
 UI_EVENT_PTS_DESC,"Rates are increased, dungeon cooldowns are reduced, and more! Visit the Discord for more information.","Tumaas ang rates, nabawasan ang dungeon cooldowns, at marami pang iba! Bisitahin ang Discord para sa karagdagang impormasyon."
 UI_EVENT_LETTER_COLLECTION_2026,2026 Valentine's Day,2026 Valentine's Day
-UI_EVENT_LETTER_COLLECTION_2026_DESC,"During the 2026 Valentine's Day Event, I♥YOU items can be obtained from the Valentine's Day Letter, which drops from defeated monsters; only monsters up to 10 levels below your character's level are eligible to drop the item.","During the 2026 Valentine's Day Event, I♥YOU items can be obtained from the Valentine's Day Letter, which drops from defeated monsters; only monsters up to 10 levels below your character's level are eligible to drop the item."
+UI_EVENT_LETTER_COLLECTION_2026_DESC,"During the 2026 Valentine's Day Event, I♥YOU items can be obtained from the Valentine's Day Letter, which drops from defeated monsters; only monsters up to 10 levels below your character's level are eligible to drop the item.","Sa 2026 Valentine's Day Event, ang I♥YOU aytem ay maaaring makuha mula sa Valentine's Day Letter, na makukuha mula sa mga natalong halimaw; ang mga halimaw lamang na hanggang 10 antas sa ibaba ng antas ng iyong karakter ang karapat-dapat na makakuha ng aytem."
