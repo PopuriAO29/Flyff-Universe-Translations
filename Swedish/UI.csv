@@ -57,7 +57,7 @@ UI_NAVIGATOR_NPC,NPC,NPC
 UI_NAVIGATOR_MONSTER,Monster,Monster
 UI_PRIVACY_NOTICE,Privacy Policy,Privacy Policy
 UI_MSGBOX_ACCEPT,Accept,Acceptera
-UI_MSGBOX_DECLINE,Decline,Nedgång
+UI_MSGBOX_DECLINE,Decline,Avböj
 UI_MSGBOX_CLOSE,Close,Close
 UI_OPTION_SHADOWS,Shadows,Shadows
 UI_OPTION_SHADOWS_MAXDIST,Maximum Distance,Maximum Distance
