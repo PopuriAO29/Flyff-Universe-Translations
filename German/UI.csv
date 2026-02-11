@@ -2477,7 +2477,7 @@ UI_MATOURNAMENT_RANKING_TITLE,Madrigal Tournament Contest Ranking,Madrigal Tourn
 UI_MATOURNAMENT_RANKING_RANKING,Top 50 Ranking,Top 50 Ranking
 UI_MATOURNAMENT_RANKING_FINALTOURNAMENT,Final Tournament,Final Tournament
 UI_MATOURNAMENT_RANKING_BACKUP,Backup Match,Backup Match
-UI_MATOURNAMENT_RANKING_CALENDAR,Calendar,Kalendar
+UI_MATOURNAMENT_RANKING_CALENDAR,Calendar,Kalender
 UI_MATOURNAMENT_RANKING_DESC,"This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!","This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!"
 UI_MATOURNAMENT_REWARD_RANK,Rank,Rang
 UI_MATOURNAMENT_REWARD_REWARD,Reward,Belohnung
