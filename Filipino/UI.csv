@@ -2227,234 +2227,234 @@ UI_WED,Wednesday,Myerkules
 UI_THU,Thursday,Huwebes
 UI_FRI,Friday,Biyernes
 UI_SAT,Saturday,Sabado
-UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,Kalgas Assault Information
-UI_KALGAS_ASSAULT_REGISTRATION_TITLE,Kalgas Assault Registration,Kalgas Assault Registration
-UI_KALGAS_ASSAULT_REGISTER,Registration,Registration
-UI_KALGAS_ASSAULT_REGISTERED,Registered,Registered
-UI_KALGAS_ASSAULT_RANK_TITLE,Rank,Rank
-UI_KALGAS_ASSAULT_RANK_RETURN,Transport to Town,Transport to Town
-UI_KALGAS_ASSAULT_RANK_WINNER,Winner : %s,Winner : %s
-UI_KALGAS_ASSAULT_RANK_MYRANK,My Ranking : %s,My Ranking : %s
-UI_KALGAS_ASSAULT_RANK_NOT_RECORD,No record,No record
+UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,Impormasyon sa Pag-atake ng Kalgas
+UI_KALGAS_ASSAULT_REGISTRATION_TITLE,Kalgas Assault Registration,Pagpaparehistro para sa Kalgas Assault
+UI_KALGAS_ASSAULT_REGISTER,Registration,Pagpaparehistro
+UI_KALGAS_ASSAULT_REGISTERED,Registered,Narehistro
+UI_KALGAS_ASSAULT_RANK_TITLE,Rank,Ranggo
+UI_KALGAS_ASSAULT_RANK_RETURN,Transport to Town,Paglalakbay papuntang bayan
+UI_KALGAS_ASSAULT_RANK_WINNER,Winner : %s,Nanalo : %s
+UI_KALGAS_ASSAULT_RANK_MYRANK,My Ranking : %s,Ang Aking Ranggo : %s
+UI_KALGAS_ASSAULT_RANK_NOT_RECORD,No record,Walang tala
 UI_KALGAS_ASSAULT_RANK_KALGAS,Kalgas,Kalgas
-UI_KALGAS_ASSAULT_RANK_ARTIFACT,Artifact,Artifact
-UI_KALGAS_ASSAULT_RANK_KILL,Kill,Kill
-UI_KALGAS_ASSAULT_RANK_RANKING,Ranking,Ranking
-UI_KALGAS_ASSAULT_RANK_TEAM,Team,Team
-UI_KALGAS_ASSAULT_RANK_NAME,Name,Name
-UI_KALGAS_ASSAULT_RANK_POINT,Point,Point
-UI_TOOLTIP_DST_BOSS_DMG,Boss Monster Damage,Boss Monster Damage
-UI_KALGAS_ASSAULT_KILL_COUNT,Kill Count : %d,Kill Count : %d
-UI_KALGAS_ASSAULT_REVIVAL_TITLE,Kalgas Assault Revival,Kalgas Assault Revival
-UI_KALGAS_ASSAULT_REVIVAL_COUNT,After : %d,After : %d
-UI_KALGAS_ASSAULT_REVIVAL_DEFAULT,Starting Point,Starting Point
-UI_KALGAS_ASSAULT_REVIVAL_GOLD,Use gold coin x%d,Use gold coin x%d
-UI_KALGAS_ASSAULT_REVIVAL_SILVER,Use silver coin,Use silver coin
-UI_KALGAS_ASSAULT_TIMER_KALGAS,Time until Kalgas appears,Time until Kalgas appears
-UI_KALGAS_ASSAULT_TIMER_END,Time until the Kalgas Assault end,Time until the Kalgas Assault end
-UI_KALGAS_ASSAULT_UNFULFILLED_PLAY_TIME,"Due to insufficient participation time, you will be excluded from rewards and rankings.","Due to insufficient participation time, you will be excluded from rewards and rankings."
-UI_KALGAS_ASSAULT_WINNER,Congratulations. %s Team Wins!,Congratulations. %s Team Wins!
-UI_KALGAS_ASSAULT_DRAW,Unfortunately the winner is not decided.,Unfortunately the winner is not decided.
-UI_KALGAS_ASSAULT_RETURN_COUNT,"After %d seconds, you will be automatically moved to town.","After %d seconds, you will be automatically moved to town."
-UI_BLACK,Black,Black
-UI_WHITE,White,White
-UI_DRAW,Draw,Draw
-UI_KALGAS_ASSAULT_READY,Kalgas Assault is about to start!,Kalgas Assault is about to start!
-UI_KALGAS_ASSAULT_ENTRY_CLOSE_REMAINING,Entry for Kalgas Assault will close in %d minutes.,Entry for Kalgas Assault will close in %d minutes.
-UI_KALGAS_ASSAULT_PLAY_START_REMAINING,Kalgas Assault will start in %d minutes.,Kalgas Assault will start in %d minutes.
-UI_RAINBOWRACE_TEAMSELECTION_DESC,"You can team up with your friend to compete in a race.\n\nHowever, once you choose a team, you can't change/cancel it, so choose carefully.","You can team up with your friend to compete in a race.\n\nHowever, once you choose a team, you can't change/cancel it, so choose carefully."
-UI_RAINBOWRACE_RANDOMMATCHING,Random Matching,Random Matching
-UI_RAINBOWRACE_TEAMWITHFRIEND,Team up with a friend,Team up with a friend
-UI_RAINBOWRACE_TEAMINVITATION,Invite a friend,Invite a friend
+UI_KALGAS_ASSAULT_RANK_ARTIFACT,Artifact,Artefakto
+UI_KALGAS_ASSAULT_RANK_KILL,Kill,Pumatay
+UI_KALGAS_ASSAULT_RANK_RANKING,Ranking,Ranngo
+UI_KALGAS_ASSAULT_RANK_TEAM,Team,Koponan
+UI_KALGAS_ASSAULT_RANK_NAME,Name,Pangalan
+UI_KALGAS_ASSAULT_RANK_POINT,Point,Punto
+UI_TOOLTIP_DST_BOSS_DMG,Boss Monster Damage,Damag ng Boss Monster
+UI_KALGAS_ASSAULT_KILL_COUNT,Kill Count : %d,Bilang ng Pagpatay : %d
+UI_KALGAS_ASSAULT_REVIVAL_TITLE,Kalgas Assault Revival,Pagbangon sa Kalgas Assault
+UI_KALGAS_ASSAULT_REVIVAL_COUNT,After : %d,Pagkatapos ng : %d
+UI_KALGAS_ASSAULT_REVIVAL_DEFAULT,Starting Point,Puntong Panimula
+UI_KALGAS_ASSAULT_REVIVAL_GOLD,Use gold coin x%d,Gumamit ng gintong barya x%d
+UI_KALGAS_ASSAULT_REVIVAL_SILVER,Use silver coin,Gumamit ng pilak na barya
+UI_KALGAS_ASSAULT_TIMER_KALGAS,Time until Kalgas appears,Oras bago lumitaw si Kalgas
+UI_KALGAS_ASSAULT_TIMER_END,Time until the Kalgas Assault end,Oras bago matapos ang Kalgas Assault
+UI_KALGAS_ASSAULT_UNFULFILLED_PLAY_TIME,"Due to insufficient participation time, you will be excluded from rewards and rankings.","Dahil sa kakulangan ng oras ng pakikilahok, ikaw ay hindi makakakuha ng gantimpala at ranggo."
+UI_KALGAS_ASSAULT_WINNER,Congratulations. %s Team Wins!,Binabati kita. Ang koponan ng %s ay nanalo!
+UI_KALGAS_ASSAULT_DRAW,Unfortunately the winner is not decided.,Sa kasamaang palad, hindi pa napagpasyahan ang nanalo.
+UI_KALGAS_ASSAULT_RETURN_COUNT,"After %d seconds, you will be automatically moved to town.","Pagkatapos ng %d segundo, ikaw ay awtomatikong ililipat sa bayan."
+UI_BLACK,Black,Itim
+UI_WHITE,White,Puti
+UI_DRAW,Draw,Tabla
+UI_KALGAS_ASSAULT_READY,Kalgas Assault is about to start!,Malapit nang magsimula ang Kalgas Assault!
+UI_KALGAS_ASSAULT_ENTRY_CLOSE_REMAINING,Entry for Kalgas Assault will close in %d minutes.,Magsasara ang pag-entry para sa Kalgas Assault sa loob ng %d minuto.
+UI_KALGAS_ASSAULT_PLAY_START_REMAINING,Kalgas Assault will start in %d minutes.,Magsisimula ang Kalgas Assault sa %d minuto.
+UI_RAINBOWRACE_TEAMSELECTION_DESC,"You can team up with your friend to compete in a race.\n\nHowever, once you choose a team, you can't change/cancel it, so choose carefully.","Maaari kang makipagtulungan sa iyong kaibigan upang makipagkumpitensya sa isang karera. \n\nGayunpaman, kapag napili mo na ang isang koponan, hindi mo na ito mababago o ma-cancel, kaya pumili nang maingat."
+UI_RAINBOWRACE_RANDOMMATCHING,Random Matching,Pagsasamang Hindi Pinili
+UI_RAINBOWRACE_TEAMWITHFRIEND,Team up with a friend,Makipagtulungan sa isang kaibigan
+UI_RAINBOWRACE_TEAMINVITATION,Invite a friend,Imbitahan ang isang kaibigan
 UI_RAINBOWRACE_FRIEND_LEVEL,Level,Lebel
 UI_RAINBOWRACE_FRIEND_NAME,Name,Pangalan
-UI_RAINBOWRACE_FRIEND_APPLICATION,Application,Application
-UI_RAINBOWRACE_INVITATION_CONFIRM,Would you like to participate in the Rainbow Race Duo (%s) with '%s'?\n\nThe application fee is %lld penya.,Would you like to participate in the Rainbow Race Duo (%s) with '%s'?\n\nThe application fee is %lld penya.
+UI_RAINBOWRACE_FRIEND_APPLICATION,Application,Aplikasyon
+UI_RAINBOWRACE_INVITATION_CONFIRM,Would you like to participate in the Rainbow Race Duo (%s) with '%s'?\n\nThe application fee is %lld penya.,Gusto mo bang lumahok sa Rainbow Race Duo (%s) kasama si '%s'?\n\nAng bayad sa aplikasyon ay %lld penya.
 UI_RAINBOWRACE_ITEM,ITEM,ITEM
 UI_RAINBOWRACE_SPEED,SPEED,SPEED
-UI_RAINBOWRACE_TEAM_INVITATION,%s invites you to participate in the Rainbow Race Duo(%s). Do you accept?\n\nThe application fee is %lld penya.,%s invites you to participate in the Rainbow Race Duo(%s). Do you accept?\n\nThe application fee is %lld penya.
-UI_RAINBOWRACE_INDIV_REGISTERED,You have signed up to participate in the Rainbow Race Individual Race (%s).\n\nYou've spent %lld penya.,You have signed up to participate in the Rainbow Race Individual Race (%s).\n\nYou've spent %lld penya.
-UI_RAINBOWRACE_TEAM_REGISTERED_RANDOM,You have signed up to participate in the Rainbow Race Duo Team Race (%s).\n\nYou've spent %lld penya.,You have signed up to participate in the Rainbow Race Duo Team Race (%s).\n\nYou've spent %lld penya.
-UI_RAINBOWRACE_TEAM_REGISTERED,You have signed up to participate in the Rainbow Race Duo Team Race (%s) with '%s'.\n\nYou've spent %lld penya.,You have signed up to participate in the Rainbow Race Duo Team Race (%s) with '%s'.\n\nYou've spent %lld penya.
-UI_RAINBOWRACE_TITLE,Rainbow Race,Rainbow Race
-UI_INVENTORY_ACTION_EQUIP_LEFT,Equip (L),Equip (L)
-UI_FITTINGROOM_RESETEQUIPMENT,Reset Equipment,Reset Equipment
-UI_KALGAS_ASSAULT_RANK_NODATA,No participation information,No participation information
-UI_QUEST_ATTENDANCE,Playtime Minutes #cffc32f07#b%d/%d#nb#nc,Playtime Minutes #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_HOUSING,Housing Entry Count #cffc32f07#b%d/%d#nb#nc,Housing Entry Count #cffc32f07#b%d/%d#nb#nc
-UI_CHATFILTER_TEAM,Team,Team
-UI_CHAT_TEAM_TIP,Sending messages to team member.,Sending messages to team member.
-UI_BATTLEPASS_MISSION_VISIT_FRIENDS_HOUSE,Visit friend's house,Visit friend's house
-UI_BATTLEPASS_MISSION_ENTER_INSTANCE_DUNGEON,Enter instance dungeon,Enter instance dungeon
-UI_BATTLEPASS_MISSION_HOUSING_BOOK_LIKE,Visit Friend's House and press heart,Visit Friend's House and press heart
-UI_TOOLTIP_FLYSPEEDRATE,Fly Speed,Fly Speed
-UI_TOOLTIP_DEATHEXPLOSSDEC,Experience Loss Reduction,Experience Loss Reduction
-UI_TOOLTIP_REVIVEHP,HP Restored on revive,HP Restored on revive
-UI_TOOLTIP_REVIVEMP,MP Restored on revive,MP Restored on revive
-UI_TOOLTIP_REVIVEFP,FP Restored on revive,FP Restored on revive
-UI_TOOLTIP_UPGRADENORMAL,Weapon/Armor upgrade chance,Weapon/Armor upgrade chance
-UI_TOOLTIP_UPGRADEACCESSORY,Accessory upgrade chance,Accessory upgrade chance
-UI_TOOLTIP_UPGRADEPIERCING,Piercing upgrade chance,Piercing upgrade chance
-UI_TOOLTIP_HOUSINGARTIFACT_HPRATE,Battle Artifact HP,Battle Artifact HP
-UI_TOOLTIP_HOUSINGARTIFACT_DEFRATE,Battle Artifact DEF,Battle Artifact DEF
-UI_TOOLTIP_HOUSINGARTIFACT_RECOVERYRATE,Battle Artifact Recovery,Battle Artifact Recovery
-UI_TOOLTIP_PVPBLOCK_PENETRATION,PvP Block Penetration,PvP Block Penetration
-UI_TOOLTIP_VENDORSHOP_DAY,Added Vendor Shop Day(s),Added Vendor Shop Day(s)
-UI_TOOLTIP_PARTYEXP_RATE,Party Exp,Party Exp
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_HP,Allies HP near house artifact,Allies HP near house artifact
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_ATKRATE,Allies ATK near house artifact,Allies ATK near house artifact
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_DEFRATE,Allies DEF near house artifact,Allies DEF near house artifact
-UI_TOOLTIP_HOUSINGARTIFACT_ATKSPEED,Allies Attack Speed near house artifact,Allies Attack Speed near house artifact
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_SPELLRATE,Allies Casting Speed near house artifact,Allies Casting Speed near house artifact
-UI_TOOLTIP_PVPBLOCK_RATE,PvP Melee/Range Block,PvP Melee/Range Block
-UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,PvP Critical Damage
-UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,PvP Critical Chance
-UI_TOOLTIP_PENYA_RATE,Penya Drop Bonus,Penya Drop Bonus
-UI_OPTION_UNDERWATER,Underwater Effect,Underwater Effect
-UI_REVIVAL_LODELIGHT_CONFIRM,Are you sure that you want to resurrect to the Lodelight?,Are you sure that you want to resurrect to the Lodelight?
-UI_REVIVAL_LODESTAR_CONFIRM,Are you sure that you want to resurrect to the Lodestar?,Are you sure that you want to resurrect to the Lodestar?
-UI_CASHSHOP_CONFIRM_MSG_CMT,Do you want to purchase %dx %s (x%d) for %s?,Do you want to purchase %dx %s (x%d) for %s?
-UI_BATTLEPASS_MISSION_HOUSING_BOOK_WRITE,Write friend's house guestbook,Write friend's house guestbook
-UI_PURCHASE_INAPP_SUCCESS,Purchase was successful!,Purchase was successful!
-UI_PURCHASE_INAPP_CANCELED,Purchase has been cancelled.,Purchase has been cancelled.
-UI_PURCHASE_INAPP_ERROR,An error occured and purchase was not completed.,An error occured and purchase was not completed.
-UI_TOOLTIP_MAGIC_CLOCK,Number of uses today: %d,Number of uses today: %d
-UI_BATTLEPASS_MISSION_UPGRADE_GEAR_OR_ACC,Reach gear or accessory upgrade +%s or above,Reach gear or accessory upgrade +%s or above
-UI_ACHIEVEMENTS_TITLE_TARGETMONSTERS,Monster(s) to kill,Monster(s) to kill
-UI_REVIVAL_INSTANT_CONFIRM,Are you sure that you want to use the Scroll of Resurrection to resurrect?,Are you sure that you want to use the Scroll of Resurrection to resurrect?
-UI_EVENT_ITEM_UPGRADE_MATERIAL,Catalyst,Catalyst
-UI_OPTION_ACCOUNT_MANAGE_NOTIFICATIONS,Manage notifications,Manage notifications
-UI_OPTION_ACCOUNT_MANAGE_PRIVACY,Manage privacy,Manage privacy
-UI_OPTION_ACCOUNT_TOS,Terms of Service,Terms of Service
+UI_RAINBOWRACE_TEAM_INVITATION,%s invites you to participate in the Rainbow Race Duo(%s). Do you accept?\n\nThe application fee is %lld penya.,%s ay nag-anyaya sa iyo na lumahok sa Rainbow Race Duo(%s). Tinatanggap mo ba?\n\nAng bayad sa aplikasyon ay %lld penya.
+UI_RAINBOWRACE_INDIV_REGISTERED,You have signed up to participate in the Rainbow Race Individual Race (%s).\n\nYou've spent %lld penya.,Nakapag-sign up ka na upang lumahok sa Rainbow Race Individual Race (%s).\n\nNagastos mo ang %lld penya.
+UI_RAINBOWRACE_TEAM_REGISTERED_RANDOM,You have signed up to participate in the Rainbow Race Duo Team Race (%s).\n\nYou've spent %lld penya.,Nakapag-sign up ka na upang lumahok sa Rainbow Race Duo Team Race (%s).\n\nNagastos mo ang %lld penya.
+UI_RAINBOWRACE_TEAM_REGISTERED,You have signed up to participate in the Rainbow Race Duo Team Race (%s) with '%s'.\n\nYou've spent %lld penya.,Nakapag-sign up ka na upang lumahok sa Rainbow Race Duo Team Race (%s) kasama si '%s'.\n\nNagastos mo ang %lld penya.
+UI_RAINBOWRACE_TITLE,Rainbow Race,Karera ng Bahaghari
+UI_INVENTORY_ACTION_EQUIP_LEFT,Equip (L),Ilagay (L)
+UI_FITTINGROOM_RESETEQUIPMENT,Reset Equipment,I-reset ang Kagamitan
+UI_KALGAS_ASSAULT_RANK_NODATA,Walang impormasyon sa pakikilahok,Walang impormasyon sa pakikilahok
+UI_QUEST_ATTENDANCE,Playtime Minutes #cffc32f07#b%d/%d#nb#nc,Oras ng Paglalaro #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_HOUSING,Housing Entry Count #cffc32f07#b%d/%d#nb#nc,Bilang ng Pagpasok sa Bahay #cffc32f07#b%d/%d#nb#nc
+UI_CHATFILTER_TEAM,Koponan,Koponan
+UI_CHAT_TEAM_TIP,Sending messages to team member.,Pagpapadala ng mga mensahe sa kasapi ng koponan.
+UI_BATTLEPASS_MISSION_VISIT_FRIENDS_HOUSE,Visit friend's house,Bisita sa bahay ng kaibigan
+UI_BATTLEPASS_MISSION_ENTER_INSTANCE_DUNGEON,Enter instance dungeon,Pumasok sa instance dungeon
+UI_BATTLEPASS_MISSION_HOUSING_BOOK_LIKE,Visit Friend's House and press heart,Bisita sa bahay ng kaibigan at pindutin ang puso
+UI_TOOLTIP_FLYSPEEDRATE,Fly Speed,Bilis ng Paglipad
+UI_TOOLTIP_DEATHEXPLOSSDEC,Experience Loss Reduction,Bawasan ang Pagkawala ng Karanasan
+UI_TOOLTIP_REVIVEHP,HP Restored on revive,HP Naibalik sa Pagbangon
+UI_TOOLTIP_REVIVEMP,MP Restored on revive,MP Naibalik sa Pagbangon
+UI_TOOLTIP_REVIVEFP,FP Restored on revive,FP Naibalik sa Pagbangon
+UI_TOOLTIP_UPGRADENORMAL,Weapon/Armor upgrade chance,Tsansa ng pag-upgrade ng sandata/baluti
+UI_TOOLTIP_UPGRADEACCESSORY,Accessory upgrade chance,Tsansa ng pag-upgrade ng aksesorya
+UI_TOOLTIP_UPGRADEPIERCING,Piercing upgrade chance,Tsansa ng pag-upgrade ng panaksak
+UI_TOOLTIP_HOUSINGARTIFACT_HPRATE,Battle Artifact HP,Laban sa Artifact na HP
+UI_TOOLTIP_HOUSINGARTIFACT_DEFRATE,Battle Artifact DEF,Laban sa Artifact na DEF
+UI_TOOLTIP_HOUSINGARTIFACT_RECOVERYRATE,Battle Artifact Recovery,Laban sa Artifact na Pagbawi
+UI_TOOLTIP_PVPBLOCK_PENETRATION,PvP Block Penetration,PvP Bloke ng Penetrasyon
+UI_TOOLTIP_VENDORSHOP_DAY,Added Vendor Shop Day(s),Idinagdag na Araw ng Vendor Shop
+UI_TOOLTIP_PARTYEXP_RATE,Party Exp,Partido Exp
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_HP,Allies HP near house artifact,Mga kaalyado HP malapit sa bahay na artepakto
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_ATKRATE,Allies ATK near house artifact,Mga kaalyado ATK malapit sa bahay na artepakto
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_DEFRATE,Allies DEF near house artifact,Mga kaalyado DEF malapit sa bahay na artepakto
+UI_TOOLTIP_HOUSINGARTIFACT_ATKSPEED,Allies Attack Speed near house artifact,Mga kaalyado Bilis ng Atake malapit sa bahay na artepakto
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_SPELLRATE,Allies Casting Speed near house artifact,Mga kaalyado Bilis ng Pagsasagawa ng Spell malapit sa bahay na artepakto
+UI_TOOLTIP_PVPBLOCK_RATE,PvP Melee/Range Block,PvP Malapitan/Malayuan Block
+UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,PvP Kritikal na Pinsala
+UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,PvP Kritikal na Tsansa
+UI_TOOLTIP_PENYA_RATE,Penya Drop Bonus,Penya Bonus na Pagbagsak
+UI_OPTION_UNDERWATER,Underwater Effect,Epekto sa ilalim ng tubig
+UI_REVIVAL_LODELIGHT_CONFIRM,Are you sure that you want to resurrect to the Lodelight?,Sigurado ka bang gusto mong muling mabuhay sa Lodelight?
+UI_REVIVAL_LODESTAR_CONFIRM,Are you sure that you want to resurrect to the Lodestar?,Sigurado ka bang gusto mong muling mabuhay sa Lodestar?
+UI_CASHSHOP_CONFIRM_MSG_CMT,Do you want to purchase %dx %s (x%d) for %s?,Nais mo bang bilhin ang %dx %s (x%d) para sa %s?
+UI_BATTLEPASS_MISSION_HOUSING_BOOK_WRITE,Write friend's house guestbook,Sumulat sa aklat-bisita ng bahay ng kaibigan.
+UI_PURCHASE_INAPP_SUCCESS,Purchase was successful!,Matagumpay ang pagbili!
+UI_PURCHASE_INAPP_CANCELED,Purchase has been cancelled.,Nakansela ang pagbili.
+UI_PURCHASE_INAPP_ERROR,An error occured and purchase was not completed.,Nagkaroon ng error at hindi natapos ang pagbili.
+UI_TOOLTIP_MAGIC_CLOCK,Number of uses today: %d,Bilang ng mga paggamit ngayon: %d
+UI_BATTLEPASS_MISSION_UPGRADE_GEAR_OR_ACC,Reach gear or accessory upgrade +%s or above,Pag-upgrade ng gear o aksesorya sa +%s o higit pa
+UI_ACHIEVEMENTS_TITLE_TARGETMONSTERS,Monster(s) to kill,Mga halimaw na papatayin
+UI_REVIVAL_INSTANT_CONFIRM,Are you sure that you want to use the Scroll of Resurrection to resurrect?,Sigurado ka bang gusto mong gamitin ang Scroll of Resurrection upang muling mabuhay?
+UI_EVENT_ITEM_UPGRADE_MATERIAL,Catalyst,Katalista
+UI_OPTION_ACCOUNT_MANAGE_NOTIFICATIONS,Manage notifications,Pamahalaan ang mga abiso
+UI_OPTION_ACCOUNT_MANAGE_PRIVACY,Manage privacy,Pamahalaan ang privacy
+UI_OPTION_ACCOUNT_TOS,Terms of Service,Mga Tuntunin ng Serbisyo
 UI_OPTION_ACCOUNT_PRIVACY,Privacy Policy,Patakaran sa privacy
-UI_OPTION_ACCOUNT_MEMBERSHIP_WITHDRAWAL,Membership Withdrawal,Membership Withdrawal
-UI_OPTION_ACCOUNT_CUSTOMER_CENTER,Customer Center,Customer Center
-UI_SERVICE_AGREEMENT_TITLE,Service agreement,Service agreement
-UI_SERVICE_AGREEMENT_BIRTHDATE,(Required) Please enter your date of birth,(Required) Please enter your date of birth
-UI_SERVICE_AGREEMENT_ACCEPT_TERMS,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy
-UI_SERVICE_AGREEMENT_ACCEPT_TERMS_AGREE,(Required) I agree,(Required) I agree
-UI_SERVICE_AGREEMENT_TERMSOFSERVICE,Check the Terms of Service,Check the Terms of Service
-UI_SERVICE_AGREEMENT_PRIVACY_POLICY,Check the Privacy Policy,Check the Privacy Policy
-UI_SERVICE_AGREEMENT_ADVERTISEMENTS,(Optional) I agree to receive advertisements and updates and updates about Flyff Universe and related services published on Flyff Universe,(Optional) I agree to receive advertisements and updates and updates about Flyff Universe and related services published on Flyff Universe
-UI_SERVICE_AGREEMENT_NOTIFICATIONS,In-app push notifications,In-app push notifications
+UI_OPTION_ACCOUNT_MEMBERSHIP_WITHDRAWAL,Membership Withdrawal,Pag-withdraw ng Membership
+UI_OPTION_ACCOUNT_CUSTOMER_CENTER,Customer Center,Sentro ng Customer  
+UI_SERVICE_AGREEMENT_TITLE,Service agreement,Kasunduan sa Serbisyo
+UI_SERVICE_AGREEMENT_BIRTHDATE,(Required) Please enter your date of birth,(Required) Mangyaring ipasok ang iyong petsa ng kapanganakan
+UI_SERVICE_AGREEMENT_ACCEPT_TERMS,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy,Sang-ayon ako sa Mga Tuntunin ng Serbisyo at kinikilala na aking nabasa at naunawaan ang Patakaran sa Privacy
+UI_SERVICE_AGREEMENT_ACCEPT_TERMS_AGREE,(Required) I agree,(Required) Sang-ayon ako
+UI_SERVICE_AGREEMENT_TERMSOFSERVICE,Check the Terms of Service,Suriin ang Mga Tuntunin ng Serbisyo
+UI_SERVICE_AGREEMENT_PRIVACY_POLICY,Check the Privacy Policy,Suriin ang Patakaran sa Privacy
+UI_SERVICE_AGREEMENT_ADVERTISEMENTS,(Optional) I agree to receive advertisements and updates and updates about Flyff Universe and related services published on Flyff Universe,(Optional) Sang-ayon ako na makatanggap ng mga patalastas at mga update tungkol sa Flyff Universe at mga kaugnay na serbisyo na inilathala sa Flyff Universe
+UI_SERVICE_AGREEMENT_NOTIFICATIONS,In-app push notifications,Mga abiso sa loob ng app
 UI_SERVICE_AGREEMENT_EMAIL,Email,Email
 UI_SERVICE_AGREEMENT_PHONE,Phone,Phone
-UI_SERVICE_AGREEMENT_CALIFORNIA_RESIDENT,Are you a California resident?,Are you a California resident?
+UI_SERVICE_AGREEMENT_CALIFORNIA_RESIDENT,Are you a California resident?,Ikaw ba ay residente ng California?
 UI_SERVICE_AGREEMENT_ZIPCODE,ZIPCODE,ZIPCODE
-UI_SERVICE_AGREEMENT_CALIFORNIA_PRIVACY,Check the California Privacy Statement,Check the California Privacy Statement
-UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,Agree All
-UI_SERVICE_AGREEMENT_ERROR_TITLE,Agreement error,Agreement error
-UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Please enter a valid date of birth.
-UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,You must be at least 16 years old to play the game.
-UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,You must read and accept the terms of service and privacy policy to continue.
-UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Please enter a valid zip code.
-UI_ROLL_AND_MOVE_START,START,START
-UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,Roll the dice
-UI_ROLL_AND_MOVE_COMPLETIONREWARD,Completion Reward,Completion Reward
-UI_TRADE_LOG_PUT,Added,Added
-UI_TRADE_LOG_PULL,Removed,Removed
-UI_TRADE_LOG_CONFIRM,Confirmed the trade.,Confirmed the trade.
-UI_TRADE_LOG_ACCEPT,Accepted the trade.,Accepted the trade.
-UI_TRADE_LIST_VIEW,Toggle the list view.,Toggle the list view.
-UI_COUPON_TITLE,Coupon,Coupon
-UI_COUPON_ENTER,Please enter your coupon code.,Please enter your coupon code.
-UI_COUPON_CODE,Coupon Code,Coupon Code
-UI_COUPON_DESCRIPTION,Keys look like the following:\n    AAAA-BBBB-CCCC-DDDD,Keys look like the following:\n    AAAA-BBBB-CCCC-DDDD
-UI_COUPON_CLAIM,Claim,Claim
-UI_COUPON_CODE_PAGE,Claim code ,Claim code 
-UI_COUPON_LOGS_PAGE,Used coupons ,Used coupons 
-UI_COUPON_LOGS_CODE,Code ,Code 
-UI_COUPON_LOGS_USETIME,Used at,Used at
-UI_COUPONGIFT_TITLE,Coupon Gift,Coupon Gift
-UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have just sent you a coupon code in your post box.\nYou can use it from the #bEvents#nb menu whenever you want, on any server or character.\n\nEnjoy!","#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have just sent you a coupon code in your post box.\nYou can use it from the #bEvents#nb menu whenever you want, on any server or character.\n\nEnjoy!"
-UI_MENU_REMOVE_SHORTCUT,Remove this shortcut,Remove this shortcut
-UI_MENU_SAVE,Save changes,Save changes
-UI_MENU_EDIT,Edit the menu,Edit the menu
-UI_MENU_FULL,No more highlighted menus can be set.,No more highlighted menus can be set.
-UI_MENU_UNSPECIFIED,Unspecified,Unspecified
-UI_OPTION_KEYREPEAT,Holding Keys,Holding Keys
-UI_DELETEACCOUNT_TITLE,Delete Account,Delete Account
-UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Password for deleting account\nEnter the password
-UI_DELETEACCOUNT_NOPASS,Do you confirm?,Sumasang-ayon kaba?
-UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies."
-UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Find items in Personal and Vendor shops.
-UI_SEARCHSHOP_RARITY,Rarity,Rarity
-UI_SEARCHSHOP_UPGRADE,Upgrade:,Upgrade:
-UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,Include Keyword
-UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,Exact Keyword
-UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,Distance to Shop
-UI_SEARCHSHOP_NBITEMS,Total # of items: %d,Total # of items: %d
-UI_SEARCHSHOP_NOSHOP,No shop matching your search.,No shop matching your search.
-UI_PARTY_READY_CHECK,Ready,Ready
-UI_PARTY_READY_CHECK_TIP,Initiate a ready check for all party members.,Initiate a ready check for all party members.
-UI_PARTY_READY_CHECK_TEXT,Are you sure you would like to initiate a ready check for all party members?,Are you sure you would like to initiate a ready check for all party members?
-UI_PARTY_READY_PROMPT,Are you ready?,Are you ready?
-UI_PARTY_READY_INFO1,has not responded yet.,has not responded yet.
-UI_PARTY_READY_INFO2,is ready!,is ready!
-UI_PARTY_READY_INFO3,is not ready.,is not ready.
-UI_PARTY_EDIT_NAME,Edit the party's name.,Edit the party's name.
-UI_SEARCHSHOP_ITEMLEVEL_ASC,Item Level (1 - %d),Item Level (1 - %d)
-UI_SEARCHSHOP_ITEMLEVEL_DESC,Item Level (%d - 1),Item Level (%d - 1)
-UI_SEARCHSHOP_UPGRADELEVEL_ASC,Upgrade Level (0 - 20),Upgrade Level (0 - 20)
-UI_SEARCHSHOP_UPGRADELEVEL_DESC,Upgrade Level (20 - 0),Upgrade Level (20 - 0)
-UI_SEARCHSHOP_PLAYERNAME_ASC,Seller Name (A - Z),Seller Name (A - Z)
-UI_SEARCHSHOP_PLAYERNAME_DESC,Seller Name (Z - A),Seller Name (Z - A)
-UI_SEARCHSHOP_SHOPNAME_ASC,Shop Name (A - Z),Shop Name (A - Z)
-UI_SEARCHSHOP_SHOPNAME_DESC,Shop Name (Z - A),Shop Name (Z - A)
-UI_SEARCHSHOP_SELLER,Seller,Seller
-UI_SEARCHSHOP_ITEMNAME_ASC,Item Name (A - Z),Item Name (A - Z)
-UI_SEARCHSHOP_ITEMNAME_DESC,Item Name (Z - A),Item Name (Z - A)
-UI_SEARCHSHOP_LOCATION,Show Location,Show Location
-UI_SEARCHSHOP_MESSAGE,Message Seller,Message Seller
-UI_SEARCHSHOP_TELEPORT,Teleport %d / %d,Teleport %d / %d
+UI_SERVICE_AGREEMENT_CALIFORNIA_PRIVACY,Check the California Privacy Statement,Suriin ang Pahayag sa Privacy ng California
+UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,Sang-ayon sa Lahat
+UI_SERVICE_AGREEMENT_ERROR_TITLE,Agreement error,Error sa Kasunduan
+UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Mangyaring ipasok ang wastong petsa ng kapanganakan.
+UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,Dapat ay hindi bababa sa 16 taong gulang upang maglaro ng laro.
+UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,Dapat mong basahin at tanggapin ang mga tuntunin ng serbisyo at patakaran sa privacy upang magpatuloy.
+UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Mangyaring ipasok ang wastong zip code.
+UI_ROLL_AND_MOVE_START,START,SIMULA
+UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,I-roll ang dice
+UI_ROLL_AND_MOVE_COMPLETIONREWARD,Completion Reward,Gantimpala sa Pagkumpleto
+UI_TRADE_LOG_PUT,Added,Idinagdag
+UI_TRADE_LOG_PULL,Removed,Inalis
+UI_TRADE_LOG_CONFIRM,Confirmed the trade.,Nakumpirma ang kalakalan.
+UI_TRADE_LOG_ACCEPT,Accepted the trade.,Tinanggap ang kalakalan.
+UI_TRADE_LIST_VIEW,Toggle the list view.,I-toggle ang list view.
+UI_COUPON_TITLE,Coupon,Kupon
+UI_COUPON_ENTER,Please enter your coupon code.,Mangyaring ipasok ang iyong kodigo ng kupon.
+UI_COUPON_CODE,Coupon Code,Kodigo ng Kupon
+UI_COUPON_DESCRIPTION,Keys look like the following:\n    AAAA-BBBB-CCCC-DDDD,Ang mga susi ay mukhang ganito:\n    AAAA-BBBB-CCCC-DDDD
+UI_COUPON_CLAIM,Claim,Pag-angkin
+UI_COUPON_CODE_PAGE,Claim code ,Kodigo ng Pag-angkin
+UI_COUPON_LOGS_PAGE,Used coupons ,Ginamit na mga kupon
+UI_COUPON_LOGS_CODE,Code ,Kodigo
+UI_COUPON_LOGS_USETIME,Used at,Ginamit sa
+UI_COUPONGIFT_TITLE,Coupon Gift,Regalo ng Kupon
+UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have just sent you a coupon code in your post box.\nYou can use it from the #bEvents#nb menu whenever you want, on any server or character.\n\nEnjoy!","#cffff0000Mayroon kaming something para sa iyo!#nc\n\nSalamat sa paglalaro ng #b%s#nb na bersyon ng Flyff Universe.\n\nBilang isang regalo, ipinadala namin sa iyo ang isang kodigo ng kupon sa iyong post box.\nMaaari mo itong gamitin mula sa #bEvents#nb menu kahit kailan mo gusto, sa anumang server o karakter.\n\nMag-enjoy!"
+UI_MENU_REMOVE_SHORTCUT,Remove this shortcut,Alisin ang shortcut na ito
+UI_MENU_SAVE,Save changes,Isave ang mga pagbabago
+UI_MENU_EDIT,Edit the menu,I-edit ang menu
+UI_MENU_FULL,No more highlighted menus can be set.,Wala nang higit pang naka-highlight na menu na maaaring itakda.
+UI_MENU_UNSPECIFIED,Unspecified,Hindi tinukoy
+UI_OPTION_KEYREPEAT,Holding Keys,Hawak ang mga susi
+UI_DELETEACCOUNT_TITLE,Delete Account,Burahin ang Account
+UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Password para sa pag-alis ng account\nIpasok ang password
+UI_DELETEACCOUNT_NOPASS,Do you confirm?,Sumasang-ayon ka ba?
+UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","Kapag inalis mo ang iyong pagiging miyembro, lahat ng data ay mabubura at hindi mo magagamit ang serbisyo, maibabalik ang iyong account, o makatanggap ng refund para sa anumang natitirang bayad na item o pera."
+UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Hanapin ang mga item sa Personal at Vendor na tindahan.
+UI_SEARCHSHOP_RARITY,Rarity,Pagkapambihira
+UI_SEARCHSHOP_UPGRADE,Upgrade:,Pag-upgrade:
+UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,Isama ang Keyword
+UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,Tiyak na Keyword
+UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,Distansya sa Tindahan
+UI_SEARCHSHOP_NBITEMS,Total # of items: %d,Kabuuang # ng mga item: %d
+UI_SEARCHSHOP_NOSHOP,No shop matching your search.,Walang tindahan na tumutugma sa iyong paghahanap.
+UI_PARTY_READY_CHECK,Ready,Handa na
+UI_PARTY_READY_CHECK_TIP,Initiate a ready check for all party members.,Simulan ang isang ready check para sa lahat ng miyembro ng party.
+UI_PARTY_READY_CHECK_TEXT,Are you sure you would like to initiate a ready check for all party members?,Sigurado ka bang nais mong simulan ang isang ready check para sa lahat ng miyembro ng party?
+UI_PARTY_READY_PROMPT,Are you ready?,Handa ka na ba?
+UI_PARTY_READY_INFO1,has not responded yet.,hindi pa sumasagot.
+UI_PARTY_READY_INFO2,is ready!,handa na!
+UI_PARTY_READY_INFO3,is not ready.,hindi pa handa.
+UI_PARTY_EDIT_NAME,Edit the party's name.,I-edit ang pangalan ng party.
+UI_SEARCHSHOP_ITEMLEVEL_ASC,Item Level (1 - %d),Antas ng Item (1 - %d)
+UI_SEARCHSHOP_ITEMLEVEL_DESC,Item Level (%d - 1),Antas ng Item (%d - 1)
+UI_SEARCHSHOP_UPGRADELEVEL_ASC,Upgrade Level (0 - 20),Antas ng Pag-upgrade (0 - 20)
+UI_SEARCHSHOP_UPGRADELEVEL_DESC,Upgrade Level (20 - 0),Antas ng Pag-upgrade (20 - 0)
+UI_SEARCHSHOP_PLAYERNAME_ASC,Seller Name (A - Z),Pangalan ng Nagbebenta (A - Z)
+UI_SEARCHSHOP_PLAYERNAME_DESC,Seller Name (Z - A),Pangalan ng Nagbebenta (Z - A)
+UI_SEARCHSHOP_SHOPNAME_ASC,Shop Name (A - Z),Pangalan ng Tindahan (A - Z)
+UI_SEARCHSHOP_SHOPNAME_DESC,Shop Name (Z - A),Pangalan ng Tindahan (Z - A)
+UI_SEARCHSHOP_SELLER,Seller,Nagbebenta
+UI_SEARCHSHOP_ITEMNAME_ASC,Item Name (A - Z),Pangalan ng Item (A - Z)
+UI_SEARCHSHOP_ITEMNAME_DESC,Item Name (Z - A),Pangalan ng Item (Z - A)
+UI_SEARCHSHOP_LOCATION,Show Location,Ipakita ang Lokasyon
+UI_SEARCHSHOP_MESSAGE,Message Seller,Magpadala ng Mensahe sa Nagbebenta
+UI_SEARCHSHOP_TELEPORT,Teleport %d / %d,Teleporte %d / %d
 UI_PURCHASE_INAPP_NOTICE,Notice,Paunawa
-UI_PURCHASE_INAPP_PURCHASE,Purchase,Purchase
-UI_PURCHASE_INAPP_SELECT,Please select the offer to purchase,Please select the offer to purchase
-UI_PURCHASE_INAPP_EMPTY,There are currently no offers available,There are currently no offers available
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_500_AOS,Offer summary:\n    #cffc32f07#b500 fCoins#nb#nc,Offer summary:\n    #cffc32f07#b500 fCoins#nb#nc
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_1000_AOS,"Buy this offer and get #b#u50 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 Free","Buy this offer and get #b#u50 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 Free"
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_2000_AOS,"Buy this offer and get #b#u150 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 Free","Buy this offer and get #b#u150 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 Free"
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_3000_AOS,"Buy this offer and get #b#u300 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b3,000 fCoins#nb#nc\n    +300 Free","Buy this offer and get #b#u300 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b3,000 fCoins#nb#nc\n    +300 Free"
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_5000_AOS,"Buy this offer and get #b#u625 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b5,000 fCoins#nb#nc\n    +625 Free","Buy this offer and get #b#u625 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b5,000 fCoins#nb#nc\n    +625 Free"
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_10000_AOS,"Buy this offer and get #b#u1500 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b10,000 fCoins#nb#nc\n    +1,500 Free","Buy this offer and get #b#u1500 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b10,000 fCoins#nb#nc\n    +1,500 Free"
-UI_EVENT_HALLOWEEN_2024,Halloween Pumpkin Hunt,Halloween Pumpkin Hunt
-UI_PUMPKIN_HUNT,Halloween Pumpkin Hunt,Halloween Pumpkin Hunt
-UI_PUMPKIN_HUNT_REWARD_TITLE,Completion Reward,Completion Reward
-UI_PUMPKIN_HUNT_DESC,Pumpkins Destroyed,Pumpkins Destroyed
-UI_SEARCHSHOP_PLAYERNAME,Player Name,Player Name
-UI_PVPCONTEST_MANUALMATCH_TITLE,PVP Manual Match,PVP Manual Match
+UI_PURCHASE_INAPP_PURCHASE,Purchase,Bumili
+UI_PURCHASE_INAPP_SELECT,Please select the offer to purchase,Piliin ang alok na bibilhin
+UI_PURCHASE_INAPP_EMPTY,There are currently no offers available,Walang magagamit na alok sa kasalukuyan
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_500_AOS,Offer summary:\n    #cffc32f07#b500 fCoins#nb#nc,Buod ng alok:\n    #cffc32f07#b500 fCoins#nb#nc
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_1000_AOS,"Buy this offer and get #b#u50 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 Free","Bumili ng alok na ito at makakuha ng #b#u50 fCoins#nu#nb nang libre!\n\nBuod ng alok:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 Libre"
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_2000_AOS,"Buy this offer and get #b#u150 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 Free","Bumili ng alok na ito at makakuha ng #b#u150 fCoins#nu#nb nang libre!\n\nBuod ng alok:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 Libre"
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_3000_AOS,"Buy this offer and get #b#u300 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b3,000 fCoins#nb#nc\n    +300 Free","Bumili ng alok na ito at makakuha ng #b#u300 fCoins#nu#nb nang libre!\n\nBuod ng alok:\n    #cffc32f07#b3,000 fCoins#nb#nc\n    +300 Libre"
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_5000_AOS,"Buy this offer and get #b#u625 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b5,000 fCoins#nb#nc\n    +625 Free","Bumili ng alok na ito at makakuha ng #b#u625 fCoins#nu#nb nang libre!\n\nBuod ng alok:\n    #cffc32f07#b5,000 fCoins#nb#nc\n    +625 Libre"
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_10000_AOS,"Buy this offer and get #b#u1500 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b10,000 fCoins#nb#nc\n    +1,500 Free","Bumili ng alok na ito at makakuha ng #b#u1500 fCoins#nu#nb nang libre!\n\nBuod ng alok:\n    #cffc32f07#b10,000 fCoins#nb#nc\n    +1,500 Libre"
+UI_EVENT_HALLOWEEN_2024,Halloween Pumpkin Hunt,Paghahanap ng Kalabasa sa Halloween
+UI_PUMPKIN_HUNT,Halloween Pumpkin Hunt,Paghahanap ng Kalabasa sa Halloween
+UI_PUMPKIN_HUNT_REWARD_TITLE,Completion Reward,Gantimpala sa Pagtatapos
+UI_PUMPKIN_HUNT_DESC,Pumpkins Destroyed,Nasirang mga Kalabasa
+UI_SEARCHSHOP_PLAYERNAME,Player Name,Pangalan ng Manlalaro
+UI_PVPCONTEST_MANUALMATCH_TITLE,PVP Manual Match,PVP Manwal na Laban
 UI_PVPCONTEST_MANUALMATCH_PLAYERNAME,Name,Pangalan
-UI_PVPCONTEST_MANUALMATCH_INVITE1,Invite to Team 1,Invite to Team 1
-UI_PVPCONTEST_MANUALMATCH_INVITE2,Invite to Team 2,Invite to Team 2
-UI_PVPCONTEST_MANUALMATCH_INVITE3,Invite to Observers,Invite to Observers
-UI_PVPCONTEST_MANUALMATCH_START,Start Match,Start Match
-UI_PVPCONTEST_MANUALMATCH_TEAM1,Team 1,Team 1
-UI_PVPCONTEST_MANUALMATCH_TEAM2,Team 2,Team 2
-UI_PVPCONTEST_MANUALMATCH_OBSERVERS,Observers,Observers
-UI_PVPCONTEST_MANUALMATCH_READY,Ready,Ready
+UI_PVPCONTEST_MANUALMATCH_INVITE1,Invite to Team 1,Imbitahin sa Koponan 1
+UI_PVPCONTEST_MANUALMATCH_INVITE2,Invite to Team 2,Imbitahin sa Koponan 2
+UI_PVPCONTEST_MANUALMATCH_INVITE3,Invite to Observers,Imbitahin sa mga Tagamasid
+UI_PVPCONTEST_MANUALMATCH_START,Start Match,Simulan ang Laban
+UI_PVPCONTEST_MANUALMATCH_TEAM1,Team 1,Koponan 1
+UI_PVPCONTEST_MANUALMATCH_TEAM2,Team 2,Koponan 2
+UI_PVPCONTEST_MANUALMATCH_OBSERVERS,Observers,Tagamasid
+UI_PVPCONTEST_MANUALMATCH_READY,Ready,Handa
 UI_BATTLEPASS_BONUS,Bonus,Bonus
 UI_MATOURNAMENT_RANKING_POINTS_TOOLTIP,Points,Points
-UI_MATOURNAMENT_RANKING_RANK,Rank,Rank
-UI_MATOURNAMENT_RANKING_TEAMNAME,Team Name,Team Name
-UI_MATOURNAMENT_RANKING_BACKUP_POINTS_TOOLTIP,Lives,Lives
-UI_MATOURNAMENT_TYPE_PRELIMINARY,Preliminary,Preliminary
-UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,Backup Match
-UI_MATOURNAMENT_TYPE_FINAL16,Round of 16,Round of 16
+UI_MATOURNAMENT_RANKING_RANK,Rank,Ranggo
+UI_MATOURNAMENT_RANKING_TEAMNAME,Team Name,Pangalan ng Koponan
+UI_MATOURNAMENT_RANKING_BACKUP_POINTS_TOOLTIP,Lives,Buhay
+UI_MATOURNAMENT_TYPE_PRELIMINARY,Preliminary,Panimulang Laban
+UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,Pangunahing Laban
+UI_MATOURNAMENT_TYPE_FINAL16,Round of 16,Round ng 16
 UI_MATOURNAMENT_TYPE_QUATERFINAL,Quarter Final,Quarter Final
 UI_MATOURNAMENT_TYPE_SEMIFINAL,Semi Final,Semi Final
 UI_MATOURNAMENT_TYPE_THIRDPLACE,Third Place,Third Place
 UI_MATOURNAMENT_TYPE_FINAL,Final,Final
-UI_MATOURNAMENT_MATCH_RESULT_WIN,Win,Win
-UI_MATOURNAMENT_MATCH_RESULT_LOSE,Lose,Lose
-UI_MATOURNAMENT_MATCH_RESULT_DRAW,Draw,Draw
-UI_MATOURNAMENT_MATCH_RESULT_NORECORD,You do not have a record for this day.,You do not have a record for this day.
-UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type : %s,Type : %s
-UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team : %s,Other Team : %s
-UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time : %s,Play Time : %s
-UI_MATOURNAMENT_DAILY_RESULT_RESULT,Result : %s,Result : %s
-UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(Today)
-UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,NONE
-UI_MATOURNAMENT_WEEK_RESULT_REGISTRATION,REG,REG
+UI_MATOURNAMENT_MATCH_RESULT_WIN,Win,Panalo
+UI_MATOURNAMENT_MATCH_RESULT_LOSE,Lose,Talo
+UI_MATOURNAMENT_MATCH_RESULT_DRAW,Draw,Tabla
+UI_MATOURNAMENT_MATCH_RESULT_NORECORD,You do not have a record for this day.,Wala kang rekord para sa araw na ito.
+UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type : %s,Uri : %s
+UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team : %s,Ibang Koponan : %s
+UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time : %s,Oras ng Laro : %s
+UI_MATOURNAMENT_DAILY_RESULT_RESULT,Result : %s,Resulta : %s
+UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(Ngayon)
+UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,WALA
+UI_MATOURNAMENT_WEEK_RESULT_REGISTRATION,REG,REH
 UI_MATOURNAMENT_WEEK_RESULT_PRELIMINARY,PRE,PRE
 UI_MATOURNAMENT_WEEK_RESULT_FINAL16,FINAL 16,FINAL 16
 UI_MATOURNAMENT_WEEK_RESULT_QUATERFINAL,FINAL 8,FINAL 8
