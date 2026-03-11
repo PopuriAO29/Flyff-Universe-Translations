@@ -39,7 +39,7 @@ TUTORIAL_INVENTORY_TEXT,You got your #bfirst weapon#nb!\n\nLet's go through item
 TUTORIAL_EQUIP_TEXT,[[Double click|Touch]] an item you want to equip [[or drag it to the spot you want to equip|and then touch the #bEquip#nb button]].\n\n#cffff0000Clear Condition: Equip an item
 TUTORIAL_UNEQUIP_TEXT,Now double [[click again|tap]] on the item in #bequipment view#nb to unequip it.\n\n#cffff0000Clear Condition: Unequip an item
 TUTORIAL_INVENTORY_TITLE,Inventory
-TUTORIAL_INVENTORY_CONTENT,#b#cff0000ff■ On the top of inventory#nb#nc\n you can check items that you are equipped with. On the bottom it displays item and Penya that you have. You can either double [[click|tap]] or drag item to space when you want to equip.[[\nShortcut key is I.|]]
+TUTORIAL_INVENTORY_CONTENT,"#b#cff0000ff■ At the top of the Inventory window,#nb#nc\nyou can see the items your character has equipped. At the bottom, you can see the items and Penya in your inventory. To equip an item, double-[[click|tap]] it or drag it to the appropriate slot.[[\nHotkey: I|]]"
 TUTORIAL_TASKBAR_TEXT,Well done! Let's learn about the #bQuick Slot#nb located [[on the left|in many places]] of your screen.\n\nYou can put #bitems or skills#nb into it so you can use them quickly. [[1 - 0 can be used as hotkeyes.\nYou can also use keys F1-F9 to cycle through your Quick Slot bars.|#bKeep your finger pressed#nb on an item to drag it to the Slot of your choice.]]\n\n#cffff0000Clear Condition: Drag an item to Quick Slot
 TUTORIAL_TASKBAR_TITLE,Quick Slot
 TUTORIAL_TASKBAR_CONTENT,#b#cff0000ff■ Quick Slot#nb#nc\nYou can put items or motions that you want to use quickly[[ in 1~0 slots and there are also expansion slot of F1~F9|]].
