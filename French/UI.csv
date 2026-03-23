@@ -505,7 +505,7 @@ UI_GUILDBANK_SUPPORT,Donate,Don
 UI_GUILDBANK_CLOAK,Cloak,Cape
 UI_GUILDBANK_ITEM,Items,Objet
 UI_GUILDMERIT_TITLE,Guild Donation,Contribution de la guilde
-UI_GUILDMERIT_QUESTITEMS,Quest Items,Butins
+UI_GUILDMERIT_QUESTITEMS,Quest Items,Objets de quêtes
 UI_GUILDMERIT_PENYA,Penya,Penya
 UI_GUILDCOMBATBOARD_TITLE,Guild Siege Information,Informations sur la Guerre des Guildes
 UI_GUILDBANKLOG_TITLE,Guild Bank Log,Historique du coffre de guilde
@@ -2202,7 +2202,7 @@ UI_GACHA_OPEN_ONE,Open 1,Ouvrir 1
 UI_GACHA_OPEN_ALL_CONFIRM,Open all boxes?,Voulez-vous ouvrir toutes les boîtes sélectionnées ?
 UI_BATTLEPASS_MISSION_USEITEM,Use %s,Utiliser %s
 UI_HOUSINGGUESTBOOK_TOTALLIKES,Total Likes,"Nombre de ""J'aime"""
-UI_HOUSINGGUESTBOOK_WELCOMEMSGTITLE,Welcome Message,Message de bienvenue
+UI_HOUSINGGUESTBOOK_WELCOMEMSGTITLE,Welcome Message,Bienvenue
 UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_1,Welcome Message,Message de bienvenue
 UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_2,Post Message,Publier un message
 UI_HOUSINGGUESTBOOK_MSGBOX_DESC,The message has to be between 4 and %d characters. ,Le message doit comporter entre 4 et %d caractères.

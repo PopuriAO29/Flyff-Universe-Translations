@@ -169,7 +169,7 @@ NPC_000176,Aenn's blessing on this world will be remembered forever.,"Aenn, Hér
 NPC_000177,"Aenn, the Ringmaster Hero, was one of the most important of all of our brave Heroes. Aenn's rejuvenating magic blessed our brave heroes in battle.","Quand le monde sera proche du chaos, des Héros apparaîtront pour sauver Madrigal."
 NPC_000178,"Hi! It is very nice to meet you. My name is Ellend Eledyo and I am the Ringmaster Master. Pretty cool title, huh? I love it, and what's more, I love guiding pupils on the path of the Ringmaster Hero, Aenn.","Bonjour, je m'appelle Ellend Eledyo, et je suis le Maître des Prêtres."
 NPC_000179,Pray to Aenn for protection and you will have it.,"Prie Aenn, Héros des Prêtres, pour obtenir sa bénédiction."
-NPC_000180,A great creature is imprisoned here. Are you ready to challenge him?,Traversant les cimes enneigées
+NPC_000180,A great creature is imprisoned here. Are you ready to challenge him?,"Une créature redoutable est emprisonnée ici. Oserez-vous l'affronter ?"
 NPC_000181,"Why do you wish to challenge Clockworks?\n1 [For Honor!][IDS_NPC_ForHonor] \n2 [For Fun!][IDS_NPC_ForFun] \n3 [Meh, just because?][IDS_NPC_MehJustBecause]",Que voulez-vous faire ?\n1.[Affronter Clockworks][IDS_NPC_ForHonor]. \n2.[Un truc drôle][IDS_NPC_ForFun]. \n3.[Hmmm...][IDS_NPC_MehJustBecause].
 NPC_000182,"Are you sure you're ready for this? Alright, successor, would you like to challenge Clockworks again?\n[Yes][IDS_NPC_Yes_Enter] / [No][IDS_NPC_No_Enter]\n\n#cffff0000All the guild members participating must be close to you to enter.#nc",Vous avez échoué… souhaitez-vous relever le défi à nouveau ?\n[Oui][IDS_NPC_Yes_Enter] / [Non][IDS_NPC_No_Enter]\n\n#cffff0000Tous les membres de guildes participants doivent être à proximité de vous.#nc
 NPC_000183,"You defeated Clockworks? Excellent work, successor!","Vous avez réussi le défi, félicitations !!"
@@ -263,7 +263,7 @@ NPC_000303,"The soul of Jester hero, Curenen, will protect them.","L'esprit de K
 NPC_000304,They may disappear but they will be victorious And then the world will be saved.,Ils seront victorieux… et alors… le monde sera sauvé.
 NPC_000305,I am the Jester Master It is my duty to lead you to the way of the hero.,Je suis le Maître des Jesters. Mon devoir est de te guider sur la Voie des Héros.
 NPC_000306,May the blessing of Curenen be with you always.,Que l'esprit de Kerenen soit toujours avec toi !
-NPC_000307,Welcome to the #b#cffff0000Darken Quest Office#nc#nb! Looking for work? I may have a job for you...,"Tout aventurier ayant atteint le niveau 51 peut accomplir ces quêtes, confiées par les commerçants et les habitants."
+NPC_000307,"Welcome to the #b#cffff0000Darken Quest Office#nc#nb! Looking for work? I may have a job for you","Bienvenue au #b#cffff0000Bureau des Quêtes de Darken#nc#nb ! Vous cherchez du travail ? Je pourrais avoir une mission pour vous. Tout aventurier ayant atteint le niveau 51 peut accomplir ces quêtes, confiées par les commerçants et les habitants."
 NPC_000308,Welcome to the Quest Office! The local citizens have issued the following quests. Please select the quest you wish to take from the list below.,"Bienvenue. Voici les différentes missions proposées par les commerçants et les habitants, faites votre choix."
 NPC_000309,"My apologies, there are no quests available for an adventurer of your talent and skill at this time. ",Je suis désolée… mais je n'ai pas de mission à te confier pour l'instant. Reviens me voir plus tard.
 NPC_000310,My name is Luriff and I run the Quest Office in Darkon. These quests came from the local citizens and we list them here for you. Are you looking for some work?,"Mon nom est Lurif, je suis la responsable du bureau des quêtes de Darkon."
@@ -272,7 +272,7 @@ NPC_000312,Hmm.. Do you have anything to ask of me?,Hmm. As-tu quelque chose à 
 NPC_000313,I apologize.. but this heat is just too oppressive. I need to lie down for a while. Please see me again when it is cooler.,Je suis désolé… mais je ne supporte plus cette chaleur. Il faut que je me repose un moment. Repasse me voir plus tard.
 NPC_000314,My name is Nein and refining metal is what I love to do.,"Mon nom est Nein, je suis un expert dans la purification des métaux."
 NPC_000315,Good bye. Be careful not to succumb to the oppressive heat.,A bientôt. Fais attention à ne pas succomber à la chaleur ambiante.
-NPC_000316,"Do you have anything to ask at #b#cffff0000Office#nc#nb?Then you should visit me, Olien.","Si tu as des questions, moi Ollien suis là pour y répondre."
+NPC_000316,"Do you have anything to ask at #b#cffff0000Office#nc#nb? Then you should visit me, Olien.","Avez-vous des questions au #b#cffff0000Bureau#nc#nb ? Alors vous devriez venir me voir, Olien."
 NPC_000317,Is there anything you can do? Oh ho ho!,Y'a-t-il quelque chose que je puisse faire ? Ho ho ho!
 NPC_000318,Is there something you want to know? I will probably give you the most simple answer so you may just want to think about it on your own. Okay?,"Alors que veux-tu savoir ? Je ne te donnerai qu'une brève réponse, pour que tu réfléchisses par toi-même."
 NPC_000319,My name is Olien Hengart. I am in charge of managing the Office here in Darken city.,"Je m'appelle Ollien Hengart, je suis en charge du bureau de Darken."
@@ -399,7 +399,7 @@ NPC_000444,A strange energy emanates from this fountain. What is it?,Tu es vraim
 NPC_000445,"We lie in wait, preparing for the worst, and hoping for a future to come when the heroes will arise once more.",Ils se réveilleront dans le sanctuaire… et deviendront alors de véritables Héros.
 NPC_000446,"My name is Cuzrill Rembright and I am the Elementor Wise Man. I preserve the history of the Heroes and provide guidance for those wishing to follow the path Lillip, the Elementor Hero.","Je suis le Sage des Elémentalistes, Cuzrill Rembright. J'étudie et médite sur la vie de Lillip, le Héros des Elémentalistes."
 NPC_000447,"Trust in the legacy of the Heroes, adventurer. For it is all that can save us now.",Seul ceux gagnés par la sagesse pour honorer la volonté de Lillip. Je te souhaite cette vertu.
-NPC_000448,Welcome to #b#cff0000ffDior Station#nc#nb! You can find #b#cffff0000flying information#nc#nb here.,À ceux qui cherchent à atteindre le septième ciel : venez à la station de vol de Flarine !
+NPC_000448,"Welcome to #b#cff0000ffDior Station#nc#nb! You can find #b#cffff0000flying information#nc#nb here.","Bienvenue à la #b#cff0000ffGare de Dior#nc#nb ! Vous pouvez trouver ici des #b#cffff0000informations sur les vols#nc#nb. À ceux qui cherchent à atteindre le septième ciel : venez à la station de vol de Flarine !"
 NPC_000449,"Please, if you can help me, I will be in your debt.","S'il te plaît, rend moi service."
 NPC_000450,My family has managed the Flarine Station for generations. I am proud to continue that tradition. ,"Bienvenue à la station de vol de Flarine, que puis-je faire pour toi ?"
 NPC_000451,"My name is Dior Christin. I've lived in Flarine all my life and I love this place. Look at me, I can't stop bouncing! Anyway, I manage the station here so let me know if you have any questions! ","Je m'appelle Dior Cristin. Ma famille s'occupe de cette station de vol depuis des générations, et en a fait la meilleure station de tout Flaris."
@@ -437,11 +437,11 @@ NPC_000482,Yay! I am so happy! Bubble smiles on us!,Je suis heureuse…
 NPC_000483,"I may not look like much, but I'm very powerful. I'm ready for anything! The Soldiers of Kion will prevail!",Ma puissance est si grande que les gens tombent des nues lorsqu'ils me voient en action.
 NPC_000484,"My name is Eoners Archer and I am one of the hired soldiers of Kion. We are here to protect the citizens of Flarine, as long as the money is right. \n*wink*","Mon nom est Eoners Archer, je suis l'un des soldats de Kyon. Nous sommes là pour protéger les citoyens de Flarine... Tant que nous sommes payés pour.\n*clin d'œil*"
 NPC_000485,Love to Kion!!,Gloire à Kyon !!
-NPC_000486,"Welcome to Flarine! Please, enjoy your stay!","Les fêtes et événements de #b#cffff0000Genèse#nc#nb me manquent… j’espère que vous vous souvenez de ces temps heureux!~Soupir~ Parfois, je ferme les yeux et je revois les rues de Flarine remplies d’aventuriers… comme au bon vieux temps."
+NPC_000486,"Welcome to Flarine! Please, enjoy your stay!","Les fêtes et événements de #b#cffff0000Genèse#nc#nb me manquent… j’espère que vous vous souvenez de ces temps heureux! ~Soupir~ Parfois, je ferme les yeux et je revois les rues de Flarine remplies d’aventuriers… comme au bon vieux temps."
 NPC_000487,"Flarine is the capital city of Madrigal. It may be a small city, but it's certainly the most beautiful. Feel free to come see me if you ever need anything.","Bienvenue à Flarine, la plus belle ville de Madrigal !"
 NPC_000488,I am the mayor of Flarine. The well-being of the citizens is my highest priority. Is there anything I can help you with?,"Je suis le maire de Flarine, je m'occupe de la ville et de ses habitants."
 NPC_000489,#b#cff8a004fWe have a #cfffc0000Guild Siege #b#cff8a004fevery Saturday. Speak to the Guild Siege Managers for more information!#nc#nb,#b#cffff0000La Guerre des Guildes est ouverte chaque samedi !!#nc#nb Parlez aux Responsables du Siège de Guilde pour plus d’informations !.
-NPC_000493,"*scribbles* Ah, yes! This is good stuff... I'm such a great writer! Now I just need a good protagonist...","Hmm… ceci pourrait me servir pour mon prochain roman, mais comment mettre tout cela en forme…"
+NPC_000493,"*scribbles* Ah, yes! This is good stuff... I'm such a great writer! Now I just need a good protagonist...","#b*gribouille*#nb Ah, oui ! C’est du bon travail… Je suis vraiment un excellent écrivain ! Maintenant, il me faut juste un bon protagoniste…"
 NPC_000494,"I am writing one of my best novels yet! It's action-packed, fast paced, dark, and even a little scary! It's about this hero who enters a dark cave and... well wait, if I tell you, you might steal my idea! Who are you anyway!?","J'écris actuellement un nouveau roman à destination du grand public, comme ça pas besoin de composer quelque chose de trop inventif et profond…"
 NPC_000495,Pleased to meet you! My name is Gergantes Hambert. I live here in Flarine and I love it. I am a famous novelist as well as the Chairman of the Publication Society. Do you like to read?,"On m'appelle Gergantes Hambert. Je suis un romancier reconnu à travers Madrigal, ainsi que le président de l'Association des Ecrivains."
 NPC_000496,"My next novel will be a best seller, I'm sure! Keep an eye out for it!","Mon prochain roman sera un best-seller, vous verrez. Ha ha ha !"
@@ -483,9 +483,9 @@ NPC_000531,Draw your weapon and cut down everything that stands in your way! A M
 NPC_000532,"The three most important things for a successful Mercenary are instinct, courage, and level headedness. If you possess these qualities, then you have what it takes to be a Mercenary.","Les trois plus grandes qualités d'un Mercenaire sont l'instinct, la force et la dextérité. Souviens-t'en !"
 NPC_000533,"Hello, my friend. It is my pleasure to make your acquaintance. My name is Hyuit Jenive and I am a sergeant of the Madrigal Job Training Center. I help train Vagrants to become Mercenaries, after Mustang signs off on them, of course. ","Je m'appelle Hyuit Jenive, et j'aide les courageux Vagabonds de Madrigal à devenir de redoutables Mercenaires."
 NPC_000534,"Keep your pride, courage and hope!","Préserve ta fierté, ton courage et ton espoir !"
-NPC_000535,"Welcome! If you need any help or information, please don't hesitate to ask.","Si vous vous posez la moindre question sur la ville, je suis là pour vous répondre."
+NPC_000535,"Welcome! If you need any help or information, please don't hesitate to ask.","Bienvenue ! Si vous avez la moindre question sur la ville, je suis là pour vous répondre."
 NPC_000539,"Hi there, I have a quest for you!",Que venez-vous faire ici ?
-NPC_000540,Welcome to Madrigal. You look lost! Is there anything I can help you with?,Bonjour. En quoi puis-je t'aider ?
+NPC_000540,Welcome to Madrigal. You look lost! Is there anything I can help you with?,"Bienvenue à Madrigal. Vous avez l'air perdu ! Puis-je vous aider ?"
 NPC_000541,"I am Is, and I am one of the guides in Flarine City. If you need any help or information, just ask me or my twin sisters!","Je m'appelle Is Trinity, et je suis en charge de renseigner les nouveaux aventuriers de Madrigal."
 NPC_000542,"There are several of us throughout Flarine and we all look alike so try not to get confused, tee hee! We confuse ourselves sometimes so it's alright if you do.",Peut-être as-tu déjà rencontré d'autres personnes à Flarine qui t'ont proposé leur aide ?
 NPC_000543,"Anyway, stop by and see me anytime if you need any help or information. That's what we're all here for!","Mais bon, je suis sûre que je peux t'apprendre de nouvelles choses !"
@@ -497,7 +497,7 @@ NPC_000548,People from all over Madrigal visit this city every day to shop and e
 NPC_000549,"If your Health Points (HP) reach zero, you will die. Not to worry, though, you have several options when this happens.","Sois vigilant, car si ta jauge de PV se vide complètement, tu succomberas à tes blessures…"
 NPC_000550,"If you select Lodestar, you will be summoned back to town and resurrected. Alternatively, players who've chosen the Assist Job can often resurrect you where you died.","Mais ne t'affole pas : si tu viens à mourir (et crois-moi cela t'arrivera !), tu pourras ressusciter au Cristal de Vie de la ville."
 NPC_000551,"In addition to this, you can also purchase a Scroll of Resurrection by selecting the Premium Item Shop icon on your task bar. This allows you to resurrect in place.","Cependant tu perdras quelques points d'expérience durement acquis, alors sois bien vigilant ! Il existe aussi des parchemins magiques qui pourraient t'être utiles en cas de déconvenue…"
-NPC_000554,"Goodbye, adventurer. Enjoy your stay in Flarine!",Bonne aventure en Madrigal !
+NPC_000554,"Goodbye, adventurer. Enjoy your stay in Flarine!","Au revoir, aventurier. Profitez bien de votre séjour à Madrigal !"
 NPC_000558,"I am Iske Trinity, and I am one of the guides in Flarine City. I also run a beauty shop. If you need any help or information, just ask me or my twin sisters!",Je m'appelle Iske Trinity. Je suis la gérante du salon de coiffure de Flarine.
 NPC_000564,"My name is Ismerelda Trinity, and I am one of the guides in Flarine City. If you need any help or information, just ask me or one of my twin sisters!",Mon nom est Ismeralda Trinity. Je suppose que tu as déjà rencontré l'une de mes soeurs à Flarine.
 NPC_000570,"I am Ispim Trinity, and I am one of the guides in Flarine City. If you need any help or information, just ask me or one of my twin sisters!",Je suis Ispim Trinity. As-tu déjà rencontré l'une de mes soeurs ?
@@ -509,7 +509,7 @@ NPC_000582,"My name is Jeff Prosis and I am the Machine Developer of Flarine. Ki
 NPC_000583,"Say hello to my wife, Kimberly, in Saint City if you happen to see her, will you?","Si tu vas à Saincity, dis à Kimberley que je l'aime !"
 NPC_000584,"Iblis above! Ddukguk has disappeared! Oh, what should I do now. Please, somebody help me!!!",Oh… Le Dukguk a disparu !! Olala que vais-je faire… Aidez-moi !!!
 NPC_000585,"I have wanted to be a cook since I was a child and now, in my old age, I can finally live my dream. I have never been more happy.","J'ai toujours voulu devenir cuisinier. Maintenant que j'y suis arrivé, je suis le plus heureux des hommes ! Ha ha ha."
-NPC_000586,My name is Juglin Girliart and I am helping Losha cook.,"Je m'appelle Juglin Girliart. Je suis un apprenti cuisinier, j'aide Losha ici."
+NPC_000586,My name is Juglin Girliart and I am helping Losha cook.,Je m'appelle Juglin Girliart et j'aide Losha à cuisiner.
 NPC_000587,Happy New Year!,Bonne et heureuse année !!
 NPC_000588,Welcome to the #b#cffff0000Office#nc#nb of Flarine. How can I be of service?,"Vous cherchez la banque, les infos sur les guildes, ou quelques conseils ? Venez visiter l'#b#cffff0000office public#nc#nb."
 NPC_000589,"So what can you do for me, huh?",Que peux-tu faire pour moi ?
@@ -534,8 +534,8 @@ NPC_000607,Steer clear of the other Dwarpets. They may not be as nice as I am.,"
 NPC_000608,My name is Flaris Pang. I am the oldest son of the Pang family. We have managed the Lodelights for generations.,"Je suis le Pang de Flarine, je suis l'aîné de la famille des Pangs, qui veille sur Madrigal depuis des générations."
 NPC_000609,Need a moment? Grab a chocolate bar from Losha's Premium Foods Shop!,Les meilleurs plats et aliments de Flarine sont ici !
 NPC_000610,"I wonder, can you do something for me? I could really use your help.",Que veux-tu ?
-NPC_000611,"Hello, welcome to Losha's Premium Foods Shop! We are here to serve the citizens of Flarine with the most tasty treats Penya can buy! So whaddya say, are ya' hungry?","Bonjour et bienvenue chez Loshan la boutique de nourriture Premium ! Nous sommes là pour servir aux habitants de Flarine les friandises les plus savoureuses que vous puissiez acheter ! Alors, qu'en dites-vous, avez-vous faim ?"
-NPC_000612,"My name is Losha Encline. Apprentice Sotta, my little sister Loyah, and myself all live together and help to run my Food Shop. I've been told I'm the best cook in Madrigal! Care to try a Kimbap?","Mon nom est Losha Encline. Je suis encore très jeune, mais je pense être la plus grande chef de tout Madrigal ! Ha ha."
+NPC_000611,"Hello, welcome to Losha's Premium Foods Shop! We are here to serve the citizens of Flarine with the most tasty treats Penya can buy! So whaddya say, are ya' hungry?","Bonjour et bienvenue chez Losha la boutique de nourriture Premium ! Nous sommes là pour servir aux habitants de Flarine les friandises les plus savoureuses que vous puissiez acheter ! Alors, qu'en dites-vous, avez-vous faim ?"
+NPC_000612,"My name is Losha Encline. Apprentice Sotta, my little sister Loyah, and myself all live together and help to run my Food Shop. I've been told I'm the best cook in Madrigal! Care to try a Kimbap?","Je m'appelle Losha Encline. L'apprentie Sotta, ma petite sœur Loyah et moi vivons ensemble et aidons à gérer mon magasin de nourriture. On dit que je suis la meilleure cuisinière de Madrigal ! Voulez-vous goûter un Kimbap ?"
 NPC_000613,"Thank you, come again!",Reviens me voir. Je te préparerai des plats succulents.
 NPC_000614,Hungry? Visit my sister Losha's Food Shop! *YUM*,Venez goûter aux plats exquis de Loyah !
 NPC_000615,"My sister and I make a lot of super yummy food! One day, I hope to open a shop of my own, but I still have a lot to learn. Will you try some of our delicious Chicken Sticks? The secret's in the sauce!",Je cuisine uniquement des aliments de grande qualité. C'est pour cela que tous mes plats sont si savoureux. Ha ha.
@@ -545,8 +545,8 @@ NPC_000618,Are you a Vagrant? Do you need weapons or armor? I've got what you ne
 NPC_000619,"Hello, potential customer! Thanks for stopping by! Please, feel free to look at my collection of Vagrant weapons and armor. Careful though, you touch it, you buy it!",Ma boutique regorge d'équipements de qualité pour les Vagabonds. Hé hé.
 NPC_000620,"My name is Luda and I run the Vagrant Store of Flarine. I opened this shop after Boboku and Boboko stopped selling Vagrant items. Now I corner the market, hahaha!",Mon nom est Luda. Il n'y a pas meilleur personne que moi pour équiper les Vagabonds.
 NPC_000621,Be careful out there. I wouldn't want to lose a potential customer! *Chuckles*,Bonne continuation en Madrigal !
-NPC_000622,"Come one, come all! Get your supplies here! You're gonna need it!","Boissons, fioles, mantras, conjurations, flèches … C'est ici que ça se passe !"
-NPC_000623,"Listen carefully, here's what I need you to do.",Voici ce que je te demande.
+NPC_000622,"Come one, come all! Get your supplies here! You're gonna need it!","Boissons, fioles, mantras, conjurations, flèches … C'est ici que ça se passe ! Venez tous ! Faites vos provisions ici ! Vous en aurez besoin !"
+NPC_000623,"Listen carefully, here's what I need you to do.","Écoutez attentivement, voici ce que j'ai besoin que vous fassiez."
 NPC_000624,"Going somewhere? You look a little unprepared, so I'd think twice about leaving Flarine without stocking up on supplies. Good thing for you, I'm here. So, whaddya need?",Je n'arrive pas à croire que mon petit frère Roony ait un lien avec cet incident… Il est parti en grommelant qu'il ne reviendrait plus jamais.
 NPC_000625,"Who am I? I'm Lui Keraldine, of course. My friends call me Handsome Lui. Since we're not friends, why don't you just call me Lui. If you buy something from my General Store here, I *might* let you call me Handsome.","Je m'appelle Lui Keraldine, mais les habitants de Flarine me surnomment Lui le Magnifique. (rires)"
 NPC_000626,Don't forget to shop at Handsome Lui's General Shop for your adventuring needs!,"Reviens me voir, je te ferai peut être une ristourne ! Ha ha."
@@ -559,12 +559,12 @@ NPC_000632,Please solve this mystery as soon as possible.,"S'il te plaît, réso
 NPC_000633,"My mentor, Mule, got himself into some trouble. I highly doubt I'll ever see him again. I've taken it upon myself to continue running his magic shop. It's the least I could do. ","Mon maître Mule a connu des ennuis. On a dit qu'il était lié à un terrible incident, et il a dû prendre la fuite. J'espère le revoir un jour…"
 NPC_000634,"My name is Marche Hordin and I run the Magic Shop here in Flarine. Teehee, I also have a crush on this hunk named Bradley! Oh um, excuse me, would you like to buy something? Please let me know if I can be of assistance.",Je m'appelle Marche Hordin. Ma boutique contient tous les objets magiques dont on peut rêver.
 NPC_000635,Thank you for visiting my magic shop! Be careful out there!,Merci de m'avoir rendu visite. A la prochaine !
-NPC_000636,The history of Madrigal... strange to say the least. I must discover the secrets!,"Des Larmes, sa colère renaitra."
+NPC_000636,The history of Madrigal... strange to say the least. I must discover the secrets!,"#bL’histoire de Madrigal…#nb étrange, c’est le moins qu’on puisse dire. Je dois en découvrir les secrets !"
 NPC_000637,"Do you know anything about the history of Madrigal? No? Well I've been uncovering some fascinating information as of late. It seems that much of our history has been conveniently covered up. Interesting, huh?",Bonjour ! Connais-tu l'histoire de Madrigal ? Non ? Hmm… Je ne connais pas tous les détails mon non plus…
 NPC_000638,"Nice to meet you. My name is Martinyc Tictraibet. I know, it's a difficult name to pronounce, isn't it? Anyway, I'm a historian and I've made it my life's work to discover the secrets of Madrigal and document it's history.","Je suis historienne à Flarine, mon nom est Martinyc Tictraibet."
 NPC_000639,"If you learn of any interesting facts about Madrigal's history, be sure to stop by again!",Les hommes font leur histoire même s'ils ne savent pas l'histoire qu'il font…
-NPC_000640,Welcome to the #b#cffff0000Flarine Quest Office#nc#nb! Looking for work? I may have a job for you...,"La vie est un défi à relever, un bonheur à mériter, une aventure à tenter !"
-NPC_000641,"My name is Mikyel and I am the manager of the Flarine Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!","Je m'appelle Mikyel, je propose différentes missions, qui m'ont été confiées par les habitants de Flaris."
+NPC_000640,Welcome to the #b#cffff0000Flarine Quest Office#nc#nb! Looking for work? I may have a job for you...,"Bienvenue au #b#cffff0000Bureau des Quêtes de Flarine#nc#nb ! Vous cherchez du travail ? Il se pourrait que j’aie une mission pour vous…"
+NPC_000641,"My name is Mikyel and I am the manager of the Flarine Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!","Je m'appelle Mikyel et je suis le responsable du Bureau des Quêtes de Flarine. Lorsque nos citoyens publient un ordre de chasse ou une autre mission, c’est mon travail de trouver le candidat idéal. Revenez de temps en temps pour voir si j’ai quelque chose à vous proposer !"
 NPC_000642,*Hic!* All those other jobs are useless. USELESS! You hear me? A Mercenary can cut through anything!,"Etre un Mercenaire n'est pas donné à tout le monde… mais selon moi ce sont les meilleurs aventuriers de Madrigal, ça ne fait aucun doute !"
 NPC_000643,"Ah, fresh meat! Who the heck are you and why are you talking to me? Only aspiring Mercenaries can have the privilege of speaking with the Great Mustang!",Personne ne peut devenir Mercenaire sans avoir fait la connaissance du grand Mustang ! Ha ha ha.
 NPC_000644,"I am Captain Mustang Loid of the Madrigal Job Training Center. You would be lucky to be trained by someone as handsome and talented as myself. Now, shoo!","Je m'appelle Mustang Loid, et je suis en charge d'enseigner le meilleur métier du monde... Mercenaire ! Tu devrais être fier de suivre mon entraînement ! (rires)"
@@ -581,7 +581,7 @@ NPC_000654,Safe travels! Stop by if you need to check on the weather!,On n'a pas
 NPC_000655,Welcome to Flarine!,Bienvenue à Flarine
 NPC_000656,"The Library is located to my right and the reception desk is to my left. You can speak with Julia for to access your bank, view ranking information, or browse your Guild Warehouse.","L'office public est là pour informer les habitants de Madrigal, et gérer tous les aspects administratifs de la ville."
 NPC_000657,"We Public Officials work directly with the mayor to better Flarine. We are here to serve you. If you have any questions, just ask!",Je suis un intendant et j'aide également le maire de Flarine dans ses tâches quotidiennes.
-NPC_000658,Thank you for visiting the Public Office. #b#cffff0000For Flarine!#nc#nb,N'oubliez pas que les intendants sont à votre service !
+NPC_000658,"Thank you for visiting the Public Office. #b#cffff0000For Flarine!#nc#nb","Merci de votre visite au Bureau Public. #b#cffff0000Pour Flarine !#nc#nb"
 NPC_000659,I shall cut down our enemy with one swift thrust!,Je me sens chez moi dès que je peux me relaxer un peu…
 NPC_000660,"What do you want?! Can't you see I'm busy? We've got a lot of training to do! Begone, pest!",Je suis imbattable pour peler les pommes. Tellement rapide que tu ne vois même pas mes mains bouger ! Ha ha ha.
 NPC_000661,"They call me Phoho Andere and I am one of the hired Soldiers of Kion. No one, I repeat, NO ONE is better with a blade than I am! Care to test that theory with a little wager? Hmm?","Je m'appelle Phoho Andere. Je suis l'un des soldats de Kyon, et le meilleur combattant à l'épée !"
@@ -701,7 +701,7 @@ NPC_000774,"I do not like Bulrox, and I do not like Bill. How could my daughter 
 NPC_000775,"My name is Karin Sharafobhan and I run the Food Shop here in Saint City. My daughter, Tina, is the beauty of Saint City.","Mon nom est Karin Sharafobhan, je suis la patronne ce ce magasin d'alimentation. Et la vénus de Saincity, Tina, est ma fille !"
 NPC_000776,Good bye! Enjoy healthy food all the time!,A bientôt. Et garde une alimentation équilibrée !
 NPC_000777,My name is Kimberley Prosis and I am a guide here in Saint City And Jeff in Flarine is my husband. Maybe you have met him.,"Je suis Kimberley Prosis, j'aide les nouveaux arrivants de Saincity. Et le génial Jeff de Flarine est mon mari ! Hi hi."
-NPC_000778,We offer quests put out by the citizens of Saint City. These quests are for anyone who is level 27 or higher.,Les citoyens de Saincity ont de nombreuses missions à vous confier. Venez-leur en aide !
+NPC_000778,"We offer quests put out by the citizens of Saint City. These quests are for anyone who is level 27 or higher.","Nous proposons des quêtes publiées par les citoyens de Saint City. Ces quêtes sont accessibles à tous les aventuriers de niveau 27 ou plus. Venez-leur en aide !"
 NPC_000779,Welcome! My name is Lancomi and I am the head of the quest center in Saint City. We collect quests from the citizens and then list them here for you.,"Bienvenue. Mon nom est Lancomi, je suis le responsable du centre des quêtes de Saincity."
 NPC_000780,My name is Leann Hentte and I am a guide here in Saint City.,Je m'appelle Leann Hentte. Puis-je te renseigner ?
 NPC_000781,My name is Saint Pang. I am the second child of the Pang family. We have been managing the Lodelight for generations.,"Je suis le Pang de Saint Morning, le deuxième enfant dans la famille Pang !"
@@ -840,11 +840,11 @@ NPC_000916,I will give you a seedling if you bring me leaves.,Je t'échangerai u
 NPC_000917,"I will give you a Pine Tree if you bring me 1,000 leaves.",Tu recevras un Arbre à pin si tu m'apportes 1000 Feuilles.
 NPC_000918,My name is Pinedryad.,Je suis la Dryade des Pins
 NPC_000919,I hope everything goes well with you!,Je t'offrirai un arbre si tu me ramènes des Feuilles.
-NPC_000974,Raising your own pet takes patience and dedication. Are you ready?,Les familiers sont les partenaires parfaits des aventuriers de Madrigal.
+NPC_000974,Raising your own pet takes patience and dedication. Are you ready?,"Les familiers sont les partenaires parfaits des aventuriers de Madrigal! Élever son propre animal de compagnie demande de la patience et du dévouement. Êtes-vous prêt ?"
 NPC_000975,"ROOOARRR!! \nSorry... I was just practicing my tiger call. \nDo you have a pet? I love pets, it's what I live for!","GRAAAAOUUU !!\nDésolé, je m'entraînais à faire le cri du tigre, ha ha ! ^^\nAs-tu un familier ? J'adore les familiers, ils sont toute ma vie !"
 NPC_000976,I come from a long line of Pet Tamers. My family has been taming pets for generations and I am the best Pet tamer among them. Feel free to visit me if you ever need help with your pet.,Je suis le meilleur éleveur de familiers de Madrigal. Viens me voir si tu as besoin de mon aide.
 NPC_000977,Don't forget to feed your pet!,Pourquoi ne pas élever un familier ?
-NPC_001016,"Step right up, champions! Welcome to the Chip Emporium!",Tous les objets rares et précieux de Madrigal sont ici !
+NPC_001016,"Step right up, champions! Welcome to the Chip Emporium!","Approchez, champions! Tous les objets rares et précieux de Madrigal sont ici !"
 NPC_001017,"Heya stranger! If your guild wins the Guild Siege, you will be awarded Chips for your victory. The armor sets I sell here in my shop are absolutely the best you can find! So, how many Red Chips do you have, hmmm?","Vous êtes intéressé ? Alors ramenez-moi des Jetons ! Vous en gagnez en terminant la guerre de guilde, le tournoi Madrigal, l’Assaut de Kalgas ou la chambre secrète… Alors, avez-vous de quoi acheter les meilleurs articles du monde ?"
 NPC_001018,"I am Waforu, the Battle Merchant. I've had my share of victories in the sieges, but I'm getting to old for that sort of thing. I still love the competition, however, so I decided to stay in the business and offer my services as a Red Chip Vendor.","Je suis Charles, le changeur de Madrigal. Tout ce que je propose est échangeable contre des Jetons Rouges."
 NPC_001019,"So long, contender. May Rhisis be with you.",Venez voir ce que je propose ! Vous n'en verrez jamais l'équivalent ailleurs !
@@ -856,7 +856,7 @@ NPC_001028,Anyone need any supplies? I got what YOU need!,"Pourquoi ne te prépa
 NPC_001029,"Once you step foot into the arena circle, you can be attacked by anyone at anytime, so watch your back! ","Hep, méfie-toi une fois entré dans l'arène, tu peux être attaqué n'importe où par n'importe qui."
 NPC_001030,"Nice to meet you, friend. My name is Deek and I sell various foods, Posters, MP recovery items, and Arrows. Let me know if you need anything.","Mon nom est Deek et je vends des objets nécessaires pour le combat. Mon gars, tu as besoin d'objets pour gagner le combat. "
 NPC_001031,Feel free to visit me again if you need some more supplies for the arena!,Il n'est pas facile d'importer des objets de Madrigal jusqu'ici……
-NPC_001032,New to Madrigal? Visit your friendly neighborhood Buff Pang!,Vous venez d'arriver à Madrigal ? Rendez visite à votre sympathique Pang du quartier !!!
+NPC_001032,New to Madrigal? Visit your friendly neighborhood Buff Pang!,Vous venez d'arriver à Madrigal ? Rendez visite à votre sympathique #bPang du quartier#nb !!!
 NPC_001033,Hello there! I'm granting buffs to adventurers who haven't completed their second job change yet. Come see me anytime if you ever find yourself in need of a boost to your stats!,"Bonjour, jeune aventurier. Je suis ici pour aider les aventuriers qui n'ont pas encore terminé leur second changement de classe. Viens me voir dès que tu auras besoin d'un coup de pouce et j'améliorerai temporairement tes statistiques !"
 NPC_001034,"I am a Buff Pang. There are several of us throughout Madrigal and we are here to help adventurers by applying bonuses to their combat statistics. Are you in need of a buff, my friend?",Bonjour je suis le guide des Débutants! N'hésitez pas à me demander si vous avez besoin d'aide.
 NPC_001035,Enjoy your stay in Madrigal!,Amusez vous sur FLYFF!
@@ -868,11 +868,11 @@ NPC_001050,Why don't you sign up for a Madrigal tournament right away? Prove you
 NPC_001051,"Madrigal Tournament is about to begin. Hurry, to the arena!","Madrigal Tournament is about to begin. Hurry, to the arena!"
 NPC_001052,Would you like to take a bet on who will win this tournament?,Voulez-vous parier sur qui gagnera ce tournoi ?
 NPC_001053,The odds have been released. Check the payout for the team you bet on.,Les cotes ont été publiées. Vérifiez le gain potentiel pour l’équipe sur laquelle vous avez parié.
-NPC_001078,Only the strongest of guilds can achieve victory in the Secret Room!,Seul les plus fortes des guildes peuvent remporter les Chambres Secrètes !
+NPC_001078,Only the strongest of guilds can achieve victory in the Secret Room!,Seul les plus fortes des guildes peuvent remporter les #bChambres Secrètes#nb !
 NPC_001079,"If your guild is top ranked in the Secret Room, you will receive weekly rewards!","Si votre guilde est classée dans les Chambres Secrètes, vous obtiendrez des récompenses chaque semaine !"
 NPC_001080,"Hello, adventurer! I'm in charge of the Secret Room and the Forsaken Tower. If you have any questions about this heroic challenge, please don't hesitate to ask. ","Bonjour, aventurier ! J'ai la responsabilité des Chambres Secrètes et de la Tour Oubliée. N'hésitez pas à me poser des questions sur ce défi héroïque."
 NPC_001081,"May Rhisis guide you, and be with you, young one.",Propage partout la bénédiction de Rhisis…
-NPC_001086,"If you need any piercing cards converted, I'm your gal!",Apportez-moi toutes les cartes de piercing.
+NPC_001086,"If you need any piercing cards converted, I'm your gal!","Si vous avez besoin de convertir des cartes de piercing, je suis la personne qu'il vous faut !"
 NPC_001087,"Welcome, adventurer! If you have 10 piercing cards, I will attempt to convert the 10 that you give me into 1 card of the next level. I can't offer any guarantees, however, as sometimes you may only lose your cards.","Si vous pensez que les cartes de piercing de bas niveau sont inutiles, venez donc me voir. Je vous échangerai 10 cartes contre une carte plus puissante."
 NPC_001088,"I'm the Card Master. After hearing about all the wonderful cards being thrown away, I decided to offer my services to the city of Flarine. ","Je suis le maître des cartes, le gaspillage des cartes de piercing me rendait malade. Alors me voici, venez donc me voir."
 NPC_001089,"Stop by anytime, my friend.",Il n'y a pas de carte de piercing inutile.
@@ -885,7 +885,7 @@ NPC_001220,Come see me if you want to become a Mentor. ,"Si vous souhaitez deven
 NPC_001221,"It is not easy to find worthy people to walk the path of a Mentor, it isn't for everyone.",Il n'est pas si simple de recruter des Mentors en Madrigal.
 NPC_001222,"Good afternoon. My name is Inisis. I am the current Mentor Teacher in Madrigal, well, not for much longer.",Je m'appelle Inisis.
 NPC_001223,Come back and see me if you are interested in becoming a Mentor.,Revenez me voir si vous souhaitez devenir Mentor. 
-NPC_001250,What kind of hair style do you want? I can make all hair styles according to your taste.,"*Nous sommes partis du quai du matin le 23 mai, ti la la la*"
+NPC_001250,"What kind of hair style do you want? I can make all hair styles according to your taste.","Quel genre de coiffure souhaitez-vous ? Je peux créer n'importe quelle coiffure selon vos goûts."
 NPC_001263,,
 NPC_001264,,
 NPC_001265,,
@@ -894,10 +894,10 @@ NPC_001430,"I'm Demian. I am the Rock, Paper, Scissors Champion!",Les Démians s
 NPC_001431,There always is a challenger.,Vous n'avez aucune chance contre moi.
 NPC_001432,I will gain my revenge!,"Hey, vous avez triché !"
 NPC_001433,Rock!! Paper!! Scissors!!,Partie de Flyffoumi
-NPC_001616,"Hey, would you like to be Madrigal's Savior?",Est-ce vous le sauveur de Madrigal ?
-NPC_001617,Iblis' power is reviving!,Le pouvoir d'Ivillis est revigorant.
+NPC_001616,"Hey, would you like to be Madrigal's Savior?","Hey, est-ce vous le sauveur de Madrigal ?"
+NPC_001617,Iblis' power is reviving!,Le pouvoir d'Ivillis renaît!
 NPC_001619,"Who am I? You will see. By the way, would you like to be a hero?","Qui je suis ? Vous êtes de la police ? A part ça, vous comptez devenir héros un jour ?"
-NPC_001620,Saviors of Madrigal!!! Come With Me!,"Sauveurs de Madrigal, à moi !"
+NPC_001620,Saviors of Madrigal!!! Come With Me!,"Sauveurs de Madrigal !!! Venez avec moi !"
 NPC_001621,HEY! YOU!! COME ON!!!,"Hey ! Toi ! Oui, toi, pas ta voisine ! Par ici !!"
 NPC_001622,Ghosts are nothing to be scared of!!!! I'm a super duper hero just like Kooro!,"Je n'ai pas peur des fantômes, je suis un super héros."
 NPC_001624,I'm Nerco. I will be the Hero of Saint City just like Kooro!!! You better be good to me!!,Je me nomme Nerco. Attention à ce que vous dites car un jour je serai un héros !
@@ -1178,8 +1178,8 @@ NPC_150034,"Stay calm. If the soldiers panic, who will the villagers rely on?","
 NPC_150035,"I am Dreon, Captain Baron’s loyal left hand. Everything I do is for this village.","Je suis Dreon, la main gauche fidèle du capitaine Baron. Tout ce que je fais, c’est pour ce village."
 NPC_150036,The guy next to me? He’s connected. Says he’s friends with someone named Waldo.\nDo you know who that is?,Le gars à côté de moi ? Il est bien connecté. Il dit qu’il est ami avec quelqu’un nommé Waldo.\nTu sais qui c’est ?
 NPC_150037,"You’ve made it this far… but from here on, things might get dangerous.","Tu es arrivé jusqu’ici… mais à partir de maintenant, les choses pourraient devenir dangereuses."
-NPC_150038,"I’m Merk, head of scouting. Seen any Lycan activity?","Je suis Merk, chef de l’éclaireur. As-tu vu des activités de Lycan ?"
-NPC_150039,Quiet. Scouting only works if we stay hidden.,Silence. L’éclaireur ne fonctionne que si nous restons cachés.
+NPC_150038,"I’m Merk, head of scouting. Seen any Lycan activity?","Je suis Merk, chef du recrutement. As-tu vu des activités de Lycan ?"
+NPC_150039,Quiet. Scouting only works if we stay hidden.,Silence. Le repérage ne fonctionne que si nous restons cachés.
 NPC_150040,"Protecting the village is an honor, but never easy—especially when those beasts outside keep baring their fangs.","Protéger le village est un honneur, mais jamais facile — surtout quand ces bêtes dehors montrent leurs crocs."
 NPC_150041,"I am Baron, captain of Eillun’s guards. As the shield and sword of this place, I won’t allow any threat near our people. Under my command, no one slacks off.","Je suis Baron, capitaine des gardes d’Eillun. En tant que bouclier et épée de cet endroit, je ne tolérerai aucune menace près de nos gens. Sous mon commandement, personne ne se relâche."
 NPC_150042,The Lycans are growing bolder. Keep your weapon ready.,Les Lycans deviennent plus audacieux. Garde ton arme prête.

@@ -2635,7 +2635,7 @@ PROPITEM_TXT_004713,+5% Exp. for 10 Minutes. Legend has it that it also works as
 PROPITEM_TXT_004714,Scroll of Amplification ES,Parchemin Spécial d'Amplification
 PROPITEM_TXT_004715,x1.5 Exp. for 1 hour. This buff is not stackable.,"Parchemin augmentant l'expérience acquise de 50% pendant 1h (EXPx1,5) Ce bonus n'est pas cumulable."
 PROPITEM_TXT_004716,Scroll of Amplification EM,Parchemin de Grande Maîtrise
-PROPITEM_TXT_004717,x2 Exp. for 1 hour. This buff is not stackable.,Parchemin augmentant l'expérience acquise de 100% pendant 1h (EXP x2).
+PROPITEM_TXT_004717,x2 Exp. for 1 hour. This buff is not stackable.,Parchemin augmentant l'expérience acquise de 100% pendant 1h (EXP x2) Ce bonus n'est pas cumulable..
 PROPITEM_TXT_004718,Scroll of Amplification DR,Parchemin de Prospérité
 PROPITEM_TXT_004719,x2 Item Drop Rate for 1 hour. This buff is not stackable.,Parchemin augmentant les chances d'avoir des objets x2.
 PROPITEM_TXT_004720,Def-Upcut Stone,Pierre Arès
@@ -6343,11 +6343,11 @@ PROPITEM_TXT_100091,This item allows you to shout a single message across the wh
 PROPITEM_TXT_100092,Mob Weapon: Critical Knockback Hit,Arme de monstre : Coup critique repoussant
 PROPITEM_TXT_100093,Mob Weapon: Flame Geyser,Arme de monstre : Geyser de Flammes
 PROPITEM_TXT_100094,Scroll of Bonus,Parchemin de Bonus
-PROPITEM_TXT_100095,This scroll gives a random bonus to your weapon or shield. If the item already has a bonus it will be overwritten.,"Ce parchemin donne un bonus aléatoire sur votre arme ou votre bouclier. Si l'objet a déjà un bonus, il sera remplacé."
+PROPITEM_TXT_100095,This scroll gives a random bonus to your weapon or shield. If the item already has a bonus it will be overwritten.,"Ce parchemin donne un bonus aléatoire sur votre arme ou votre bouclier. Si l'objet possède déjà un bonus, celui-ci sera remplacé."
 PROPITEM_TXT_100096,Scroll of Weapon Bonus,Parchemin de Bonus d'Arme
-PROPITEM_TXT_100097,This scroll gives a random skill bonus to your weapon. If the weapon already has a bonus it will be overwritten.,"Ce parchemin donne un bonus d'aptitude aléatoire sur votre arme. Si l'arme a déjà un bonus, il sera remplacé."
+PROPITEM_TXT_100097,This scroll gives a random skill bonus to your weapon. If the weapon already has a bonus it will be overwritten.,"Ce parchemin donne un bonus d'aptitude aléatoire sur votre arme. Si votre arme possède déjà un bonus, celui-ci sera remplacé."
 PROPITEM_TXT_100098,Scroll of Shield Bonus,Parchemin de Bonus de Bouclier
-PROPITEM_TXT_100099,This scroll gives a random bonus to your shield. If the shield already has a bonus it will be overwritten.,"Ce parchemin donne un bonus aléatoire sur votre bouclier. Si le bouclier a déjà un bonus, il sera remplacé."
+PROPITEM_TXT_100099,This scroll gives a random bonus to your shield. If the shield already has a bonus it will be overwritten.,"Ce parchemin donne un bonus aléatoire sur votre bouclier. Si le bouclier possède déjà un bonus, celui-ci sera remplacé."
 PROPITEM_TXT_008916,Scroll of Reduction B,Parchemin de Réduction de Niveau (B)
 PROPITEM_TXT_008917,"Reduces the required level to use an item by 5. Once changed, it cannot be traded or dropped. You cannot stack scrolls of reduction on a single item. Visit Jewel Manager Peach in Flarine to remove the reduction.","Parchemin réduisant le niveau auquel l'objet peut être équipé de 5. L'objet ainsi modifié ne peut plus être échangé, déposé au sol ou en banque à moins de supprimer la réduction de niveau chez Angie, à Flarine. Non cumulable."
 PROPITEM_TXT_008918,Scroll of Reduction A,Parchemin de Réduction de Niveau (A)
@@ -12460,11 +12460,11 @@ PROPITEM_TXT_122501,Used when converting regular weapons into Ultimate Weapons.,
 PROPITEM_TXT_122502,Ultimate Orb,Orbe Ultime
 PROPITEM_TXT_122503,Used when converting regular weapons into Ultimate Weapons.,Utilisé pour convertir des armes normales en Armes Ultimes.
 PROPITEM_TXT_122504,Scroll of Ultimate Power,Parchemin de Pouvoir Ultime
-PROPITEM_TXT_122505,Resets the range value for the fixed stat of Ultimate Weapons and certain Unique Weapons.,Réinitialise la fourchette de stat fixes des Armes Ultimes et certaines Armes Uniques.
+PROPITEM_TXT_122505,Resets the range value for the fixed stat of Ultimate Weapons and certain Unique Weapons.,Réinitialise la fourchette de stat fixes des Armes Ultimes et certaines Armes Uniques (Lignes jaune pâle).
 PROPITEM_TXT_122506,Scroll of Ultimate Bonus,Parchemin de Bonus Ultime
-PROPITEM_TXT_122507,Resets the kind of random stat and value that gets applied to the Ultimate Weapon.,Réinitialise le type de de stat aléatoire ainsi que la valeur qui est appliqué à l'Arme Ultime.
+PROPITEM_TXT_122507,Resets the kind of random stat and value that gets applied to the Ultimate Weapon.,Réinitialise le type de de stat aléatoire ainsi que la valeur qui est appliqué à l'Arme Ultime (Lignes jaune doré).
 PROPITEM_TXT_122508,Sunstone,Orichalque
-PROPITEM_TXT_122509,Used for upgrading Ultimate Weapon.,Utilisé pour améliorer des Armes Ultimes.
+PROPITEM_TXT_122509,Used for upgrading Ultimate Weapon.,Un métal rare aux propriétés magiques, essentiel pour améliorer des Armes Ultimes ou des bijoux ultimes.
 PROPITEM_TXT_122510,Scroll of XProtect,Parchemin Xprotect Ultime
 PROPITEM_TXT_122511,"This scroll prevents the loss of Ultimate Weapon for upgrade failure. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.","Ce parchemin permet d'empêcher la perte liée à l'échec d'amélioration d'Arme Ultime. Pour l'utiliser, placez le parchemin au bon endroit dans le menu d'amélioration avant de tenter l'amélioration. Le parchemin est consommé durant la manipulation."
 PROPITEM_TXT_123000,Shield of the Jade Dragon,Bouclier du Dragon de Jade
@@ -24607,7 +24607,7 @@ PROPITEM_TXT_155558,Battle-Worn Dementia,Yo-yo de la Démence usé par les comba
 PROPITEM_TXT_155559,Cursed Dementia,Yo-yo de la Démence maudite
 PROPITEM_TXT_155560,Dementia,Yo-yo de la Démence
 PROPITEM_TXT_155561,Scroll of Ultimate Bonus II,Parchemin de Bonus Ultime II
-PROPITEM_TXT_155562,Resets the random stats and values of special options applied to the Ultimate Weapon.,Réinitialise les statistiques aléatoires et les valeurs des options spéciales appliquées à l’Arme Ultime.
+PROPITEM_TXT_155562,Resets the random stats and values of special options applied to the Ultimate Weapon.,Réinitialise les statistiques aléatoires et les valeurs des options spéciales appliquées à l’Arme Ultime à partir d'une amélioration +6 (Lignes Orange).
 PROPITEM_TXT_155563,FWC 2025 Bloody Death Messenger’s Set (Winners),FWC 2025 Ensemble du Messager de la Mort Sanglant (Vainqueurs)
 PROPITEM_TXT_155564,FWC 2025 Bloody Death Messenger’s Scroll,FWC 2025 Parchemin du Messager de la Mort Sanglant
 PROPITEM_TXT_155565,FWC 2025 Bloody Death Messenger’s Hat (M),FWC 2025 Chapeau du Messager de la Mort Sanglant (H)
@@ -26133,7 +26133,7 @@ PROPITEM_TXT_903260,Good luck Adventurer !,Bonne chance Aventurier !
 PROPITEM_TXT_903261,Pixel Rabbit Pet Select Box,Boîte de Sélection Lapin Pixel
 PROPITEM_TXT_903262,Select which Pixel Rabbit Pet you want to receive!,Choisissez le Lapin Pixel que vous souhaitez recevoir !
 PROPITEM_TXT_903263,PlayPark Community Gathering Giveaway,Cadeau Communautaire PlayPark
-PROPITEM_TXT_903264,"A package containing 5x Scroll of Amplification ES, 5x Upcut Stone, 5x Power Scroll, 10x Flask Box, 10x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Ice Crown Weapons Skin Box, 1x Casual Set Select Box, 1x Madrigal Flying Selection Box (30 days) and 1x Madrigal PickupPet Selection Box (30 days). All items are also linked.","Un pack contenant 5x Parchemins d’Amplification ES, 5x Pierres Upcut, 5x Parchemins de Puissance, 10x Boîtes de Flacons, 10x Boîtes de Potions, 1x Sac Supplémentaire (30 jours), 1x Sac de Nourriture (7 jours), 1x Boîte Skin Arme Ice Crown, 1x Boîte de Sélection Tenue Casual, 1x Boîte de Sélection Vol Madrigal (30 jours) et 1x Boîte de Sélection PickupPet Madrigal (30 jours). Tous les objets sont liés."
+PROPITEM_TXT_903264,"A package containing 5x Scroll of Amplification ES, 5x Upcut Stone, 5x Power Scroll, 10x Flask Box, 10x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Ice Crown Weapons Skin Box, 1x Casual Set Select Box, 1x Madrigal Flying Selection Box (30 days) and 1x Madrigal PickupPet Selection Box (30 days). All items are also linked.","Un pack contenant 5x Parchemins d’Amplification ES, 5x Pierres Mars, 5x Parchemins de Puissance, 10x Boîtes de Flacons, 10x Boîtes de Potions, 1x Sac Supplémentaire (30 jours), 1x Sac de Nourriture (7 jours), 1x Boîte Skin Arme Ice Crown, 1x Boîte de Sélection Tenue Casual, 1x Boîte de Sélection Vol Madrigal (30 jours) et 1x Boîte de Sélection PickupPet Madrigal (30 jours). Tous les objets sont liés."
 PROPITEM_TXT_903265,Casual Set Select Box,Boîte de Sélection Tenue Casual
 PROPITEM_TXT_903266,Select which Gender you want to receive!,Choisissez le genre que vous souhaitez recevoir !
 PROPITEM_TXT_903267,Lucky Clover 10% Green Set,Set Trèfle Chanceux 10% Vert
@@ -26243,7 +26243,7 @@ PROPITEM_TXT_903370,The Lucky Clover 2% Black Set for female characters.,Set Tr�
 PROPITEM_TXT_903371,Lucky Clover Costume Lucky Box,Boîte Chanceuse Costume Trèfle
 PROPITEM_TXT_903372,This box contains a Lucky Clover Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un Set Trèfle Chanceux avec bonus de vitesse. Vous pouvez choisir votre genre après ouverture.
 PROPITEM_TXT_903373,PlayPark All-Stars 2026 Door Prize,Cadeau à la Porte PlayPark All-Stars 2026
-PROPITEM_TXT_903374,"A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Power Scroll, 20x Flask Box, 20x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Card Disc (7 days), 1x Scroll of PickUp Boost (7 day), 1x Meteo Bike (Yellow) (30 Days) and 1x Baby Tiger (30 Days). All items are also linked.","Un pack contenant 10x Parchemins d’Amplification ES, 10x Pierres Upcut, 10x Parchemins de Puissance, 20x Boîtes de Flacons, 20x Boîtes de Potions, 1x Sac Supplémentaire (30 jours), 1x Sac de Nourriture (7 jours), 1x Disque Carte (7 jours), 1x Parchemin Boost PickUp (7 jours), 1x Vélo Méteo (Jaune) (30 jours) et 1x Bébé Tigre (30 jours). Tous les objets sont liés."
+PROPITEM_TXT_903374,"A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Power Scroll, 20x Flask Box, 20x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Card Disc (7 days), 1x Scroll of PickUp Boost (7 day), 1x Meteo Bike (Yellow) (30 Days) and 1x Baby Tiger (30 Days). All items are also linked.","Un pack contenant 10x Parchemins d’Amplification ES, 10x Pierres Mars, 10x Parchemins de Puissance, 20x Boîtes de Flacons, 20x Boîtes de Potions, 1x Sac Supplémentaire (30 jours), 1x Sac de Nourriture (7 jours), 1x Disque Carte (7 jours), 1x Parchemin Boost PickUp (7 jours), 1x Vélo Méteo (Jaune) (30 jours) et 1x Bébé Tigre (30 jours). Tous les objets sont liés."
 PROPITEM_TXT_903375,Lotus Blossom 10% Cyan Set,Set Fleur de lotus 10% Cyan
 PROPITEM_TXT_903376,Lotus Blossom Cyan Ribbon,Ruban Fleur de lotus Cyan
 PROPITEM_TXT_903377,Lotus Blossom Cyan Tilak,Tilak Lotus Blossom Cyan
