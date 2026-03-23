@@ -311,7 +311,7 @@ TEXTCLIENT_GUILDCREATECLOAK,Guild cloak has been created.,Il mantello della gild
 TEXTCLIENT_GUILDNEEDGOLD,Unable to create guild cloak. Insufficient Penya in the guild warehouse.,Impossibile creare il mantello della gilda. Penya insufficienti nel magazzino della gilda.
 TEXTCLIENT_GUILD_PAYTAKE,Guild salary of %d Penya received.,Stipendio della gilda di %d Penya ricevuto.
 TEXTCLIENT_ERROR_UNKNOWN_TARGET,Unknown setting target,Destinazione di impostazione sconosciuta
-TEXTCLIENT_ERROR_UNKNOWN_JOB,Unknown job,Classe sconosciuto
+TEXTCLIENT_ERROR_UNKNOWN_JOB,Unknown job,Classe sconosciuta
 TEXTCLIENT_RECURRENCE,Your character’s skill points have been reset. Please redistribute your points in the Skill Tree window.,I punti abilità del tuo personaggio sono stati ripristinati. Ridistribuisci i tuoi punti nella finestra delle abilità.
 TEXTCLIENT_CHOICEJOB,You have to choose a job at Lv 15.,Devi scegliere un classe a Lv 15.
 TEXTCLIENT_ERROR_NOTEXPERTJOB,Not Expert Job,Classe non Esperta
