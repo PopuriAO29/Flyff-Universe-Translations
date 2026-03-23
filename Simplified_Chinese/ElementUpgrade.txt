@@ -1,5 +1,5 @@
-﻿#bElement Upgrading#nb
+#b 元素强化 #nb
 
-Infusing an item with an element enhances its capabilities against enemies of weaker element types, and dimishes its abilities against enemies with stronger element types.
-#cffff0000Using a protection scroll guarantees that your item cannot be destroyed in the process.
-Low S-Protect scrolls will reduce the upgrade level upon failure.#nc
+为装备注入元素属性，可提升对弱势元素敌人的伤害，同时削弱对强势元素敌人的效果。
+#cffff0000 使用装备防护卷轴可确保装备在强化过程中不会损毁。
+低级装备防护卷轴在强化失败时只会降低装备强化等级。#nc
