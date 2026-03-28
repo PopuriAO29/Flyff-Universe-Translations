@@ -1,4 +1,5 @@
-﻿#b#cff0000ff Application Fee Information #nb#nc
-※ If you cancel your application, 20% of the application fee is deducted.
-※ If your application does not place in the top 10 bidding guilds, 2% of the application fee is deducted.
-※ The 10 guilds that successfully enter Guild Siege do not receive a refund of the application fee.
+﻿#b#cff0000ff 申請費用資訊 #nb#nc
+
+※ 取消申請時，將扣除 20% 的申請費用。
+※ 若您的公會競標結果未進入前 10 名，將扣除 2% 的申請費用。
+※ 成功進入公會戰的 10 個公會不會退還申請費用。
