@@ -57,7 +57,7 @@ UI_NAVIGATOR_NPC,NPC,NPC
 UI_NAVIGATOR_MONSTER,Monster,Mostro
 UI_PRIVACY_NOTICE,Privacy Policy,Informativa sulla Privacy
 UI_MSGBOX_ACCEPT,Accept,Accetta
-UI_MSGBOX_DECLINE,Decline,Rifuita
+UI_MSGBOX_DECLINE,Decline,Rifiuta
 UI_MSGBOX_CLOSE,Close,Chiude
 UI_OPTION_SHADOWS,Shadows,Ombre
 UI_OPTION_SHADOWS_MAXDIST,Maximum Distance,Distanza Massima
@@ -1453,7 +1453,7 @@ UI_CRAFTPETCANDY_CANDY,Pet Candy,Caramelle per Animali Domestici
 UI_SHININGDICE_BINDING,#cffff0000The resulting Shining Power Dice will be Binding as well.#nc,#cffff0000I Dadi del Potere Splendente risultanti saranno anch'essi Legati.#nc
 UI_TOOLTIP_DURATION,Duration:,Durata:
 UI_TOOLTIP_DURATION_ONLINE,(Online Only),(Solo Online)
-UI_TOOLTIP_DURATION_OFFLINE,(Online & Offline),(Offline conteggiato)
+UI_TOOLTIP_DURATION_OFFLINE,(Online & Offline),(Online e offline)
 UI_TOOLTIP_DURATION_EQUIP,(After first use),(Dopo il primo utilizzo)
 UI_TOOLTIP_DURATION_VENDOR,Shop Time:,Tempo Negozio:
 UI_TOOLTIP_VISUAL_CLOAK,Can be worn over another cloak.,Può essere indossato sopra un altro mantello.
@@ -1518,10 +1518,10 @@ UI_GUILDBANK_BAGS_TIP,Use Guild Extra Bags to expand the Guild Bank.,Use Guild E
 UI_UPGRADECARD_UNSAFE,"Without a Scroll of EProtect, the material cards will be destroyed if fusion fails.","Senza Pergamena di E-Protezione, le carte materiali verranno distrutte se la fusione fallisce."
 UI_WORLD_LOCK,Locked,Locked
 UI_WORLD_UNLOCK,Unlocked,Unlocked
-UI_GUILD_LASTSEEN,Last Seen:,Last Seen:
+UI_GUILD_LASTSEEN,Last Seen:,Ultimo accesso:
 UI_PET_STAT,Stat,Stat
 UI_PET_STAT_NONE,None,Nessuno
-UI_PET_ENERGY,Energy,Energy
+UI_PET_ENERGY,Energy,Energia
 UI_PET_REROLL_CONFIRM,#bThe pet in the window will be destroyed.#nb Proceed?,#bThe pet in the window will be destroyed.#nb Proceed?
 UI_PET_TIER,Tier,Tier
 UI_PET_USE_SKILL,Grace,Grace
@@ -1536,17 +1536,17 @@ UI_PET_RESTAT_CONFIRM_KEEP,Are you sure you want to keep this result?,Are you su
 UI_TOOLTIP_DST_BLOCK_PENETRATE,Block Penetration,Block Penetration
 UI_ITEM_USE_CANDY,How many Pet Candies do you want to use?,How many Pet Candies do you want to use?
 UI_NAMEMISSING_TITLE,Name Missing,Name Missing
-UI_NAMEMISSING_MSG,Please enter a name for your character.,Please enter a name for your character.
-UI_ACCEPTTERMS,I accept the terms.,I accept the terms.
+UI_NAMEMISSING_MSG,Please enter a name for your character.,Inserisci un nome per il tuo personaggio.
+UI_ACCEPTTERMS,I accept the terms.,Accetto i termini.
 UI_ACCEPTTERMS_READ,Read,Read
 UI_ACCEPTTERMS_TITLE,Accept Terms,Accept Terms
 UI_ACCEPTTERMS_MSG,Please accept the Terms and Conditions.,Please accept the Terms and Conditions.
 UI_APP_BATTLEPASS_TIP,Displays the Flyff Pass Menu.,Displays the Flyff Pass Menu.
 UI_BATTLEPASS_REWARD,Rewards,Rewards
-UI_BATTLEPASS_MISSION,Missions,Missions
+UI_BATTLEPASS_MISSION,Missions,Missioni
 UI_BATTLEPASS_DAILY,Daily,Daily
 UI_BATTLEPASS_WEEKLY,Weekly,Weekly
-UI_BATTLEPASS_SEASON,Season,Season
+UI_BATTLEPASS_SEASON,Season,Stagione
 UI_BATTLEPASS_MISSION_KILLMONSTER,Defeat Lv. %s+ Monsters,Defeat Lv. %s+ Monsters
 UI_BATTLEPASS_MISSION_KILLMONSTER2,Defeat %s,Defeat %s
 UI_BATTLEPASS_MISSION_KILLGIANT,Defeat Lv. %s+ Giant or Violet Monsters,Defeat Lv. %s+ Giant or Violet Monsters
@@ -1562,7 +1562,7 @@ UI_BATTLEPASS_MISSION_GUILDWAR,Participate in a Guild Duel,Participate in a Guil
 UI_BATTLEPASS_MISSION_ARENA,Defeat an Opponent or Be Defeated in the Arena,Defeat an Opponent or Be Defeated in the Arena
 UI_BATTLEPASS_MISSION_HARVEST,Harvest Berries,Harvest Berries
 UI_BATTLEPASS_MISSION_RAISEPET,Raise a Pet to %s,Raise a Pet to %s
-UI_BATTLEPASS_POINTS,Points,Points
+UI_BATTLEPASS_POINTS,Points,Punti
 UI_BATTLEPASS_PASSGRADE,Pass Tier,Pass Tier
 UI_BATTLEPASS_INFO,%s ends at: #b%s#nb (Server Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d.#ni,%s ends at: #b%s#nb (Server Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d.#ni
 UI_BATTLEPASS_PURCHASE,Purchase Extended Pass,Purchase Extended Pass
@@ -1936,7 +1936,7 @@ UI_GACHA_DESC_GLOBAL_DAILY,"When opening the Random Gacha, you will receive one 
 UI_RPS_REWARD_TITLE,Result,Result
 UI_RPS_REWARD_TEXT,Would you like to accept the item?,Would you like to accept the item?
 UI_RPS_REWARD_ACCEPT,Accept,Accetta
-UI_RPS_REWARD_DECLINE,Decline,Rifuita
+UI_RPS_REWARD_DECLINE,Decline,Rifiuta
 UI_RPS_TITLE,Rock Paper Scissors,Rock Paper Scissors
 UI_RPS_VS,VS,VS
 UI_RPS_DEFEAT,You Lose!,You Lose!
@@ -1945,7 +1945,7 @@ UI_RPS_ROCK,Rock,Sasso
 UI_RPS_SCISSORS,Scissors,Forbice
 UI_RPS_WIN_TITLE,You Win!,You Win!
 UI_GACHA_ACCEPT,Accept,Accetta
-UI_GACHA_DECLINE,Decline,Rifuita
+UI_GACHA_DECLINE,Decline,Rifiuta
 UI_MSGBOX_PASTE,Paste,Paste
 UI_MSGBOX_CUT,Cut,Cut
 UI_GUILDBUFF_LEVEL,Activated Buff Level,Activated Buff Level
@@ -2130,9 +2130,9 @@ UI_RAINBOWRACE_TELEPORT_MSG,"The Rainbow Race will begin shortly. Teleport to th
 UI_BATTLEPASS_CHRISTMAS2023,Christmas Pass 2023,Christmas Pass 2023
 UI_HOME_LOGIN_EMAIL,Sign in with Email,Sign in with Email
 UI_HOME_LOGIN_EMAIL_TIP,Log in with your Flyff Universe account email or username,Log in with your Flyff Universe account email or username
-UI_SESSION_TITLE,Saved Sessions,Saved Sessions
+UI_SESSION_TITLE,Saved Sessions,Sessioni salvate
 UI_SESSION_REMOVE,Remove,Remove
-UI_SESSION_REMOVEALL,Remove All,Remove All
+UI_SESSION_REMOVEALL,Remove All,Rimuovi tutto
 UI_LOW_FRAMERATE_GUIDE_TITLE,Caution,Caution
 UI_LOW_FRAMERATE_GUIDE_DESC,Client performance is low.\nPlease review the following tips:,Client performance is low.\nPlease review the following tips:
 UI_LOW_FRAMERATE_GUIDE_GUIDE01,1) Adjust the in-game video/graphic settings to match your PC.,1) Adjust the in-game video/graphic settings to match your PC.
@@ -2361,7 +2361,7 @@ UI_TRADE_LIST_VIEW,Toggle list view,Toggle list view
 UI_COUPON_TITLE,Coupon,Coupon
 UI_COUPON_ENTER,Please enter your coupon code.,Please enter your coupon code.
 UI_COUPON_CODE,Coupon Code,Coupon Code
-UI_COUPON_DESCRIPTION,Coupon codes look like the following:\n    AAAA-BBBB-CCCC-DDDD,Coupon codes look like the following:\n    AAAA-BBBB-CCCC-DDDD
+UI_COUPON_DESCRIPTION,Coupon codes look like the following:\n    AAAA-BBBB-CCCC-DDDD,I codici coupon hanno il seguente formato:\n    AAAA-BBBB-CCCC-DDDD
 UI_COUPON_CLAIM,Claim,Claim
 UI_COUPON_CODE_PAGE,Claim Coupon,Claim Coupon
 UI_COUPON_LOGS_PAGE,Used Coupons,Used Coupons
@@ -2390,7 +2390,7 @@ UI_SEARCHSHOP_NOSHOP,No shops match your search.,No shops match your search.
 UI_PARTY_READY_CHECK,Ready,Ready
 UI_PARTY_READY_CHECK_TIP,Start a ready check for the party,Start a ready check for the party
 UI_PARTY_READY_CHECK_TEXT,Start a ready check for the party?,Start a ready check for the party?
-UI_PARTY_READY_PROMPT,Are you ready?,Are you ready?
+UI_PARTY_READY_PROMPT,Are you ready?,Sei pronto?
 UI_PARTY_READY_INFO1,has not responded yet.,has not responded yet.
 UI_PARTY_READY_INFO2,is ready!,is ready!
 UI_PARTY_READY_INFO3,is not ready.,is not ready.
