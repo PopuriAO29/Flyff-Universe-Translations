@@ -2799,12 +2799,12 @@ UI_MENU_UNMUTE,Unmute,解除禁言
 UI_MENU_FREEZE,Freeze,冻结
 UI_MENU_UNFREEZE,Unfreeze,解除冻结
 UI_MENU_PARTY,Party,剧团
-UI_MENU_GUILDJOIN,Guild Join,Guild Join
-UI_MENU_BAN,Ban,Ban
-UI_MENU_BAN_IP,Ban IP,Ban IP
-UI_MENU_KICK_IP,Kick IP,Kick IP
-UI_MENU_MUTE_SHA,Mute Sha,Mute Sha
-UI_APP_INSPECTION,Inspection,Inspection
+UI_MENU_GUILDJOIN,Guild Join,加入公会
+UI_MENU_BAN,Ban,封禁
+UI_MENU_BAN_IP,Ban IP,封禁IP
+UI_MENU_KICK_IP,Kick IP,踢出IP
+UI_MENU_MUTE_SHA,Mute Sha,禁言Sha
+UI_APP_INSPECTION,Inspection,检查
 UI_TARGET_PLAYERS_KILLED,- Players killed: ,- Players killed: 
 UI_TARGET_PK_VALUE,- PK Value : ,- PK Value : 
 UI_TARGET_PLAYER_ID,- PlayerID: #,- PlayerID: #
