@@ -270,7 +270,7 @@ UI_TOOLTIP_HOTKEY,[Hotkey %s],[熱鍵 %s]
 UI_STATUS_HP,HP,HP
 UI_STATUS_FP,FP,FP
 UI_STATUS_MP,MP,MP
-UI_STATUS_EXP,Exp,Exp
+UI_STATUS_EXP,Exp,經驗值
 UI_HELPTIPS_TITLE,Today's Tips,今日提示
 UI_HELPTIPS_DOYOUKNOW,Did you know?,您知道嗎?
 UI_HELPFAQ_QUESTION,Q.,Q.
@@ -582,7 +582,7 @@ UI_DROP_FILTER_8,Booty,戰利品
 UI_DROP_FILTER_CAT_MATERIAL,Materials,材料
 UI_DROP_FILTER_9,Food,食物
 UI_DROP_FILTER_10,Vital Drinks,FP 藥水
-UI_DROP_FILTER_11,Buffs,Buffs
+UI_DROP_FILTER_11,Buffs,Buff
 UI_DROP_FILTER_12,Pets,寵物
 UI_DROP_FILTER_13,Misc.,其它...
 UI_DROP_FILTER_CAT_ETC,Others,其它
@@ -942,7 +942,7 @@ UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered zone 8.,您已進入至第8號地�
 UI_GUILDCOMBAT_JOINWAR_SELECT,Select the zone you wish to enter.,選擇您要進入的區域。
 UI_GUILDCOMBAT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.",%d 秒後，進入第 %s 號區域
 UI_GUILDCOMBAT_JOINWAR_RANDOM,Random,隨機
-UI_CHAT_ADMIN,[Admin] %s,[Admin] %s
+UI_CHAT_ADMIN,[Admin] %s,[管理員] %s
 UI_GUILDCOMBAT_RATE,Guild Rankings,目前排名：
 UI_GUILDCOMBAT_PERSON_RATE,Player Rankings,個人排名：
 UI_TOOLTIP_EXPBOX,#b%s's EXP box#nb\nTime left: %s,#b%s的經驗盒#nb\n時間還剩下：%s
@@ -1201,7 +1201,7 @@ UI_GROUPSEARCH_LEADER,Leader,團長
 UI_GROUPSEARCH_MASTER,Master,公會長
 UI_GROUPSEARCH_LEVEL,Level,等級
 UI_GROUPSEARCH_MEMBERS,Members,成員
-UI_GROUPSEARCH_BUFFS,Buffs,Buffs
+UI_GROUPSEARCH_BUFFS,Buffs,Buff
 UI_GROUPSEARCH_LEADERLEVEL,Leader Level,團長等級
 UI_GROUPSEARCH_LEADERNAME,Leader Name,團長名稱
 UI_GROUPSEARCH_MASTERLEVEL,Master Level,公會長等級
@@ -1369,7 +1369,7 @@ UI_GACHA_LASTITEM,Last item,最後一個物品
 UI_GACHA_PREVIEW,PREVIEW,預覽
 UI_GACHA_SOLDOUT,Sold out,已清空
 UI_WELCOME_MSG,Welcome to the world of		\nFlyff Online!,歡迎來到		\n飛飛 Online!
-UI_WELCOME_BTN,Let's go!,Let's go!
+UI_WELCOME_BTN,Let's go!,出發！
 UI_TUTORIAL_MSG,Do you want the tutorial?,您想要教學嗎?
 UI_TOOLTIP_DST_INCOMINGDMG,Incoming Damage,承受傷害
 UI_TOOLTIP_DST_DMGOFFLOADING,Damage Redirection,傷害轉移
@@ -1440,7 +1440,7 @@ UI_PARTY_EXPBONUS,EXP Bonus,經驗值加成
 UI_PARTY_EXPBONUS_TIP,"EXP bonus for party members. Active members are those participating in combat. Contributions include attacking, healing, and tanking.",劇團成員可獲得的經驗值加成。活躍成員是指參與戰鬥的成員，包括攻擊、治癒與承受傷害。
 UI_PARTY_EXPBONUS_ACTIVE,x Active,參與人員
 UI_TOOLTIP_BLESSING_WARNING,Blessed items cannot be dropped or traded.,被祝福的物品不能被丟棄或交易。
-UI_TOOLTIP_BLESSING,Goddess Blessing,Goddess Blessing
+UI_TOOLTIP_BLESSING,Goddess Blessing,女神的祝福
 UI_OPTION_ONECLICKATTACK,Single Click to Attack,單擊攻擊
 UI_GEM_CREATE,Extract,抽取
 UI_COMBATPOWER_RANKING_TITLE,Combat Power Ranking,戰鬥力排名
@@ -1472,7 +1472,7 @@ UI_TRANSMUTE_INFO,Add items to your wardrobe by using \na #bScroll of Transmutat
 UI_TRANSMUTE_OUTPUT,Result,結果
 UI_TRANSMUTE_PRIMARY_TIP,Insert an item to transmute.,放置要外觀轉換的物品。
 UI_TRANSMUTE_SACRIFICE_TIP,Place an item to sacrifice for the appearance.,放置要作為外觀犧牲的物品。
-UI_TELEPORT_BTN,Let's go!,Let's go!
+UI_TELEPORT_BTN,Let's go!,出發！
 UI_TELEPORT_WHERE,Where do you want to go?,您想要到哪去呢?
 UI_CASHSHOP_BONUS,Bonus,獎勵
 UI_CASHSHOP_TOTAL,Total,總額
@@ -1486,7 +1486,7 @@ UI_TOOLTIP_DST_BLEED_POISON_RESIST,Bleed & Poison Resistance,流血與中毒抗�
 UI_COMBATPOWER_RANKING_PRIZE,The top-ranked players of each job will receive exclusive prizes! Check our website for more information.,各個職業的高排名玩家將會獲得特殊獎品，查看我們的網站瞭解更多訊息。
 UI_GIANTHUNT_RANKING_TITLE,Giant Hunt Ranking,王級狩獵排名
 UI_GIANTHUNT_RANKING_PRIZE,The top-ranked players will receive exclusive prizes! Check our website for more information.\n\nYour Hunting Points: #b%d#nb,高排名玩家將會獲得特殊獎品，查看我們的網站瞭解更多訊息。\n\n您的狩獵點數：#b%d#nb
-UI_GIANTHUNT_RANKING_POS,(Top %d%%),(Top %d%%)
+UI_GIANTHUNT_RANKING_POS,(Top %d%%),(前 %d%%)
 UI_GIANT_HUNT_POINT,Hunting Points,狩獵點數
 UI_PURCHASE_EVENT_DESC,Receive rewards for reaching specific #bfCoins#nb spending goals in the Flyff Shop! Spending and rewards are tracked per character.,在現金商店中消費達 #bfCoins#nb 金額目標即可獲得獎勵，fCoins 和金幣的紅利將被排除在活動之外。
 UI_PURCHASE_EVENT_TIME,Event ends:,活動結束時間：
@@ -1700,7 +1700,7 @@ UI_LUCKYROULETTE_ATTENDANCE,Play for 24 hours to earn 120 lottery coins to spend
 UI_LUNAR_NEW_YEAR,Lunar New Year,農曆新年
 UI_BATTLEPASS,Flyff Pass,戰鬥通行證
 UI_EVENTPASS,Update Pass,更新通行證
-UI_ANNIVERSARYPASS,1 Year Anniversary Pass,1 Year Anniversary Pass
+UI_ANNIVERSARYPASS,1 Year Anniversary Pass,一週年紀念通行證
 UI_TOOLTIP_BATTLEPASS,Expires at the end of %s.,於 %s 結束時到期。
 UI_VALENTINE_EVENT,Valentine's Day Event,情人節活動
 UI_TOOLTIP_COOLDOWN_SECS,Cooldown: %.1f seconds,冷卻時間：%.1f秒
@@ -1729,8 +1729,8 @@ UI_DROP_DISTRIBUTE_RESULT,%s was awarded the item.,%s 獲得了該物品。
 UI_DROP_DISTRIBUTE_RESULT_MAIL,The item has been mailed to a player who is no longer available.,該物品已寄送給一位無法立即獲得物品的玩家。
 UI_DROP_DISTRIBUTE_CURRENT,Item: %d/%d,物品：%d/%d
 UI_TOOLTIP_MULTISTRIKE,Multistrike Chance,多重打擊機率
-UI_TOOLTIP_PVP_MULTISTRIKE,Multistrike Chance (PvP),Multistrike Chance (PvP)
-UI_TOOLTIP_PVE_MULTISTRIKE,Multistrike Chance (PvE),Multistrike Chance (PvE)
+UI_TOOLTIP_PVP_MULTISTRIKE,Multistrike Chance (PvP),多擊機率 (PvP)
+UI_TOOLTIP_PVE_MULTISTRIKE,Multistrike Chance (PvE),多擊機率 (PvE)
 UI_BATTLEPASS_MISSION_KILLMONSTER_PK,Hunt Monsters Lv.%s+ on the PK Channel,在 PK 頻道獵殺等級%s+的怪物
 UI_BATTLEPASS_MISSION_KILLMONSTER2_PK,Hunt %s on the PK Channel,在 PK 頻道擊殺 %s
 UI_BATTLEPASS_MISSION_CLEARDUNGEON,Clear Dungeon(s),通過副本
@@ -1755,7 +1755,7 @@ UI_BATTLEPASS_MISSION_PIERCINGCARD2,Insert a Piercing Card into %s,插入穿洞�
 UI_EVENTS_TITLE,Events,活動
 UI_EVENTS_BANNER_TAB,Events,活動
 UI_TOOLTOP_EVENTUSED,Used in a Costume Collection event,已用於時裝收藏活動
-UI_EVENT_TIMELEFT_FORMAT,%s left,%s left
+UI_EVENT_TIMELEFT_FORMAT,%s left,%s 剩餘
 UI_EVENT_BANNER_SCHEDULE,%s ~ %s,%s ~ %s
 UI_COSTUMECOLLECTION,Costume Collection,時裝收藏
 UI_COSTUMECOLLECTION_DESC,Costume Collection,時裝收藏
@@ -1764,17 +1764,17 @@ UI_EVENTS_COSTUME_COMPLETED,Completed,完成
 UI_EVENTS_COSTUME_SCORE,(%d),(%d)
 UI_APP_EVENTS_TIP,Displays the events menu.,顯示活動選單。
 UI_COSTUMECOLLECTION_GRP1,Lucky Costumes,幸運服裝
-UI_COSTUMECOLLECTION_GRP1_SET1,Alien Octopus\nCostume Set,Alien Octopus\nCostume Set
-UI_COSTUMECOLLECTION_GRP1_SET2,Rider\nCostume Set,Rider\nCostume Set
-UI_COSTUMECOLLECTION_GRP1_SET3,Baby Shark\nCostume Set,Baby Shark\nCostume Set
-UI_COSTUMECOLLECTION_GRP2,Existing Costumes,Existing Costumes
-UI_COSTUMECOLLECTION_GRP2_SET1,FV-13 Power Armor\nCostume Set,FV-13 Power Armor\nCostume Set
-UI_COSTUMECOLLECTION_GRP2_SET2,Space Samurai\nCostume Set,Space Samurai\nCostume Set
-UI_COSTUMECOLLECTION_GRP2_SET3,Casual Hanbok\nCostume Set,Casual Hanbok\nCostume Set
-UI_COSTUMECOLLECTION_GRP3,Event Costumes,Event Costumes
-UI_COSTUMECOLLECTION_GRP3_SET1,Spy\nCostume Set\n(7Days),Spy\nCostume Set\n(7Days)
-UI_COSTUMECOLLECTION_GRP3_SET2,Giraffe\nCostume Set\n(7Days),Giraffe\nCostume Set\n(7Days)
-UI_COSTUMECOLLECTION_GRP3_SET3,Steam Punk\nCostume Set\n(7Days),Steam Punk\nCostume Set\n(7Days)
+UI_COSTUMECOLLECTION_GRP1_SET1,Alien Octopus\nCostume Set,外星章魚\n服裝套裝
+UI_COSTUMECOLLECTION_GRP1_SET2,Rider\nCostume Set,騎手\n服裝套裝
+UI_COSTUMECOLLECTION_GRP1_SET3,Baby Shark\nCostume Set,鯊魚寶寶\n服裝套裝
+UI_COSTUMECOLLECTION_GRP2,Existing Costumes,現有服裝
+UI_COSTUMECOLLECTION_GRP2_SET1,FV-13 Power Armor\nCostume Set,FV-13 動力盔甲\n服裝套裝
+UI_COSTUMECOLLECTION_GRP2_SET2,Space Samurai\nCostume Set,太空武士\n服裝套裝
+UI_COSTUMECOLLECTION_GRP2_SET3,Casual Hanbok\nCostume Set,休閒韓服\n服裝套裝
+UI_COSTUMECOLLECTION_GRP3,Event Costumes,活動服裝
+UI_COSTUMECOLLECTION_GRP3_SET1,Spy\nCostume Set\n(7Days),特務\n服裝套裝\n(7天)
+UI_COSTUMECOLLECTION_GRP3_SET2,Giraffe\nCostume Set\n(7Days),長頸鹿\n服裝套裝\n(7天)
+UI_COSTUMECOLLECTION_GRP3_SET3,Steam Punk\nCostume Set\n(7Days),蒸汽龐克\n服裝套裝\n(7天)
 UI_COSTUMECOLLECTION_PART1,Hat,頭盔
 UI_COSTUMECOLLECTION_PART2,Suit,衣服
 UI_COSTUMECOLLECTION_PART3,Gloves,手套
@@ -1835,13 +1835,13 @@ UI_PVPCONTEST_JOINWAR_4_TIP,You have entered zone 4.,您已進入第四區域。
 UI_PVPCONTEST_JOINWAR_SELECT,Select the zone you wish to enter.,選擇您想要進入的區域。
 UI_PVPCONTEST_JOINWAR_MSG,"In %d seconds, you will enter zone %s.",%d秒後，進入%s
 UI_PVPCONTEST_SELECTEDMATCH,Your next match will start at: %s,您的下一場比賽將於以下時間開始：%s
-UI_STARTERPASS,Starter Pass,Starter Pass
-UI_PETPASS,Pet Pass,Pet Pass
-UI_PIERCINGPASS,Piercing Pass,Piercing Pass
-UI_UPGRADEPASS,Upgrade Pass,Upgrade Pass
-UI_ELEMENT_UPGRADEPASS,Element Upgrade Pass,Element Upgrade Pass
-UI_PARTYPASS,Party Pass,Party Pass
-UI_COSTUMEPASS,Costume Pass,Costume Pass
+UI_STARTERPASS,Starter Pass,新手通行證
+UI_PETPASS,Pet Pass,寵物通行證
+UI_PIERCINGPASS,Piercing Pass,穿孔通行證
+UI_UPGRADEPASS,Upgrade Pass,升級通行證
+UI_ELEMENT_UPGRADEPASS,Element Upgrade Pass,元素升級通行證
+UI_PARTYPASS,Party Pass,隊伍通行證
+UI_COSTUMEPASS,Costume Pass,服裝通行證
 UI_BATTLEPASS_MISSION_PETSKILL,Use Your Pet's Grace Skill,使用寵物的恩典
 UI_BATTLEPASS_MISSION_PIERCING,"Attempt Piercing on Weapon, Shield, or Suit",嘗試穿洞武器、盾牌或衣服
 UI_BATTLEPASS_MISSION_ELEMENT_SMELT,Attempt Elemental Upgrade,嘗試元素升級
@@ -1878,10 +1878,10 @@ UI_BATTLEPASS_MISSION_ACTIVEEQUIPSET,Wear a Set With a Set Effect,穿上裝備�
 UI_BATTLEPASS_MISSION_KALGAS_ASSAULT,Finish a Kalgas Assault Match,結束卡爾加斯突擊
 UI_BATTLEPASS_INFO2,%s ends at: #b%s#nb (Server Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni,%s結束於：#b%s#nb\n每週積分上限：#b%d / %d#nb\n#i賽季任務獲得的積分不計入每週積分上限。 #ni
 UI_BATTLEPASS_INFO3,%s ends at: #b%s#nb (Server Time)\n#iSome rewards are enhanced after reaching level %d.#ni,%s結束於：#b%s#nb (伺服器時間) \n#i達到 %d 級後，部分獎勵將會提升。#ni
-UI_BATTLEPASS_INFO4,%s ends at: #b%s#nb (Server Time),%s ends at: #b%s#nb (Server Time)
+UI_BATTLEPASS_INFO4,%s ends at: #b%s#nb (Server Time),%s 結束於：#b%s#nb (伺服器時間)
 UI_BATTLEPASS_INFO5,The Starter Pass does not expire and is available to all players who purchase it.,新手通行證沒有有效期限，所有購買的玩家均可使用。
 UI_QUEST_STARTABLE,Startable,啟動
-UI_SUMMERPASS2023,Summer Pass,Summer Pass
+UI_SUMMERPASS2023,Summer Pass,夏季通行證
 UI_APP_SWITCHEQUIP_TIP,View and manage your equipment switches.,查看和管理您的裝備切換。
 UI_APP_SWITCHEQUIP_DELETE,Delete,刪除
 UI_APP_SWITCHEQUIP_SAVE,Save,儲存
@@ -1899,40 +1899,40 @@ UI_APP_SWITCHEQUIP_DELETE_SELECT,You need to select a preset.,您需要選擇一
 UI_BATTLEPASS_MISSION_UNSAFETYALL,Attempt Upgrade or Piercing,嘗試升級或穿洞
 UI_LEVEL_REQUIRED,Available after level %d.,在%d級以後可用。
 UI_QUEST_KILLSTEP_RWD,%d Monsters defeated: %s,擊殺%d怪物：%s
-UI_QUEST_REWARDSTEP_ITEM,%s(%d),%s(%d)
+UI_QUEST_REWARDSTEP_ITEM,%s(%d),%s (%d)
 UI_QUEST_KILLSTEP_COND,Defeat monsters (%d/%d),擊殺怪物 (%d/%d)
-UI_PVPCONTEST_TELEPORT_AUTOCLOSE,You have %d seconds to join.,You have %d seconds to join.
-UI_PVPCONTEST_RANKING_DAILY,Today's Matches,Today's Matches
-UI_PVPCONTEST_RANKING_PRELIMINARY,Preliminary,Preliminary
-UI_PVPCONTEST_RANKING_BACKUP,Back-up,Back-up
-UI_PVPCONTEST_RANKING_FINALS,Finals,Finals
-UI_PVPCONTEST_RANKING_DESC,"This contains all the ranking data for the current FWC PvP Contest.\nIf only one guild has showed up in the preliminary's ranking, then that means it had no opponent!\n#b#uClick on a guild to see the participating players stats.#nu#nb","This contains all the ranking data for the current FWC PvP Contest.\nIf only one guild has showed up in the preliminary's ranking, then that means it had no opponent!\n#b#uClick on a guild to see the participating players stats.#nu#nb"
-UI_PVPCONTEST_RANKING_TITLE,FWC PvP Contest Ranking,FWC PvP Contest Ranking
+UI_PVPCONTEST_TELEPORT_AUTOCLOSE,You have %d seconds to join.,您有 %d 秒可以加入。
+UI_PVPCONTEST_RANKING_DAILY,Today's Matches,今日比賽
+UI_PVPCONTEST_RANKING_PRELIMINARY,Preliminary,初選
+UI_PVPCONTEST_RANKING_BACKUP,Back-up,備用
+UI_PVPCONTEST_RANKING_FINALS,Finals,決賽
+UI_PVPCONTEST_RANKING_DESC,"This contains all the ranking data for the current FWC PvP Contest.\nIf only one guild has showed up in the preliminary's ranking, then that means it had no opponent!\n#b#uClick on a guild to see the participating players stats.#nu#nb",此包含當前 FWC PvP 競賽的所有排名數據。\n如果只有一個公會出現在初選排名中，則表示它沒有對手！\n#b#u點擊一個公會以查看參賽玩家的統計數據。#nu#nb
+UI_PVPCONTEST_RANKING_TITLE,FWC PvP Contest Ranking,FWC PvP 比賽排名
 UI_PVPCONTEST_RANKING_RANKING,Ranking,排名
-UI_PVPCONTEST_RANKING_RANK,Rank,Rank
+UI_PVPCONTEST_RANKING_RANK,Rank,排名
 UI_PVPCONTEST_RANKING_GUILDNAME,Guild Name,公會名
 UI_PVPCONTEST_RANKING_POINTS_TOOLTIP,Points,點數
 UI_PVPCONTEST_RANKING_KILLS_TOOLTIP,Kills,殺
 UI_PVPCONTEST_RANKING_DEATHS_TOOLTIP,Deaths,死亡
 UI_APP_INFO_PANG_HIDE,You can summon Info-Pang again via Menu > Helper > Info-Pang.,您可以透過 選單 > 助手 > 資訊胖胖 再次召喚資訊胖胖。
-UI_APP_INFO_PANG_LIST,You can view this information again if you click Info-Pang > Right Click > Check the List.,You can view this information again if you click Info-Pang > Right Click > Check the List.
-UI_PVPCONTEST_MATCHLIST_INFO,Here you can select a match and spectate it. #bNote: you will be invisible for participating players and will only be able to communicate with others spectators.#nb,Here you can select a match and spectate it. #bNote: you will be invisible for participating players and will only be able to communicate with others spectators.#nb
-UI_PVPCONTEST_SPECTATE_INFO,Do you want to spectate that match? You will get teleported in the match arena.,Do you want to spectate that match? You will get teleported in the match arena.
+UI_APP_INFO_PANG_LIST,You can view this information again if you click Info-Pang > Right Click > Check the List.,如果您點擊資訊胖胖 > 右鍵 > 檢查列表，您可以再次查看此資訊。
+UI_PVPCONTEST_MATCHLIST_INFO,Here you can select a match and spectate it. #bNote: you will be invisible for participating players and will only be able to communicate with others spectators.#nb,您可以在這裡選擇一場比賽並觀看。#b注意：您對參賽玩家將不可見，只能與其他觀眾通訊。#nb
+UI_PVPCONTEST_SPECTATE_INFO,Do you want to spectate that match? You will get teleported in the match arena.,您想觀看那場比賽嗎？您將被傳送到比賽競技場。
 UI_SERVERTRANSFER_TITLE,Server Transfer,伺服器轉移
 UI_SERVERTRANSFER_MSG,Select server:,選擇伺服器：
 UI_SERVERTRANSFER_BASE_DESC,Select the server you want to transfer your character to. Please check our website for the exact transfer rules.,請選擇您要將角色轉移到的伺服器。請造訪我們的網站查看具體的轉移規則。
 UI_SERVERTRANSFER_DESC,Note that transfer requests are done periodically so the transfer is not immediate after using the scroll.,請注意，轉移請求會在指定日期執行，因此在使用捲軸後不會立即轉移。
 UI_SERVERTRANSFER_FWC_TITLE,FWC Server Transfer,FWC 伺服器轉移
 UI_SERVERTRANSFER_FWC_DESC,"Select the server you want to transfer your character to. The transfer will take place after the FWC server closes, and you can still play on your character until then. If you're not sure where you want to transfer, you can close this window and choose the next time you log in. Once you confirm your server, you can't change your choice.",請選擇您要將角色轉移到的伺服器。轉移將在 FWC 伺服器關閉後執行，在此之前您仍然可以使用您的角色進行遊戲。如果您不確定要轉移到哪個伺服器，您可以關閉此窗口，並在下次登入時選擇。一旦您確認了伺服器，您將無法更改您的選擇。
-UI_PVPCONTEST_SPECTATE_CAMERAMODE_1,Free Camera,Free Camera
-UI_PVPCONTEST_SPECTATE_CAMERAMODE_2,Normal Camera,Normal Camera
-UI_PVPCONTEST_SPECTATE_LEAVE,Leave spectating,Leave spectating
-UI_PVPCONTEST_SPECTATE_TITLE,Spectating Settings,Spectating Settings
-UI_FULLSCREEN_ERROR,Fullscreen is not available. If you use Safari press Share > Add to Home Screen and launch the game from your App List.,Fullscreen is not available. If you use Safari press Share > Add to Home Screen and launch the game from your App List.
-UI_PVPCONTEST_RANKING_FINALISTS,Finalists,Finalists
+UI_PVPCONTEST_SPECTATE_CAMERAMODE_1,Free Camera,自由攝影機
+UI_PVPCONTEST_SPECTATE_CAMERAMODE_2,Normal Camera,普通攝影機
+UI_PVPCONTEST_SPECTATE_LEAVE,Leave spectating,停止觀看
+UI_PVPCONTEST_SPECTATE_TITLE,Spectating Settings,觀看設置
+UI_FULLSCREEN_ERROR,Fullscreen is not available. If you use Safari press Share > Add to Home Screen and launch the game from your App List.,全螢幕不可用。如果您使用 Safari，請按共享 > 加入主屏幕並從應用列表中啟動遊戲。
+UI_PVPCONTEST_RANKING_FINALISTS,Finalists,決賽選手
 UI_SERVERTRANSFER_CONFIRM,Are you sure you want to transfer your character to %s? You cannot change your choice after confirming.,您確定要將角色轉移到 %s 嗎? 確認後無法更改。
-UI_RPS_INFO,RPS Game\nYou can use the Global Limited Gacha only if you win.,RPS Game\nYou can use the Global Limited Gacha only if you win.
-UI_GACHA_DESC_GLOBAL_DAILY,"When opening the Random Gacha, you will receive one of the items listed below.\nThe prize pool is shared among all players on the server and each item has a limited quantity.\nThe pool resets at 00:00 server time.","When opening the Random Gacha, you will receive one of the items listed below.\nThe prize pool is shared among all players on the server and each item has a limited quantity.\nThe pool resets at 00:00 server time."
+UI_RPS_INFO,RPS Game\nYou can use the Global Limited Gacha only if you win.,剪刀布遊戲\n只有贏了才能使用全球限定抽卡。
+UI_GACHA_DESC_GLOBAL_DAILY,"When opening the Random Gacha, you will receive one of the items listed below.\nThe prize pool is shared among all players on the server and each item has a limited quantity.\nThe pool resets at 00:00 server time.",打開隨機抽卡時，您將收到下列其中一個物品。\n獎金池在伺服器上所有玩家共享，每個物品的數量有限。\n該池在伺服器時間 00:00 重置。
 UI_RPS_REWARD_TITLE,Result,結果
 UI_RPS_REWARD_TEXT,Would you like to accept the item?,您是否確認領取此物品？
 UI_RPS_REWARD_ACCEPT,Accept,同意
@@ -1946,26 +1946,26 @@ UI_RPS_SCISSORS,Scissors,剪刀
 UI_RPS_WIN_TITLE,You Win!,你贏了！
 UI_GACHA_ACCEPT,Accept,同意
 UI_GACHA_DECLINE,Decline,拒絕
-UI_MSGBOX_PASTE,Paste,Paste
-UI_MSGBOX_CUT,Cut,Cut
-UI_GUILDBUFF_LEVEL,Activated Buff Level,Activated Buff Level
-UI_GUILDBUFF_NEXTLEVEL,Next Level %s / %s,Next Level %s / %s
-UI_GUILDBUFF_DONATE,Donation,Donation
-UI_GUILDBUFF_TAB_LIST,Buff Information,Buff Information
-UI_GUILDBUFF_TAB_TOKENS,Token Donation,Token Donation
-UI_TOOLTIP_DST_DROP_EXP,Monster EXP and Drop,Monster EXP and Drop
-UI_GUILD_TAB_BUFFS,Guild Buff,Guild Buff
-UI_TOOLTIP_DST_SPEED_ALL,Attack & Casting Speed,Attack & Casting Speed
-UI_GUILDBUFF_MEMBER,Member,Member
-UI_GUILDBUFF_NONE,There is no donation yet. ,There is no donation yet.
-UI_TOOLTIP_BUYREQLV,Purchase requirement is level %d or higher,Purchase requirement is level %d or higher
-UI_COSTUME_BOX_ITEM,Costume Box,Costume Box
+UI_MSGBOX_PASTE,Paste,貼上
+UI_MSGBOX_CUT,Cut,剪下
+UI_GUILDBUFF_LEVEL,Activated Buff Level,激活的 Buff 等級
+UI_GUILDBUFF_NEXTLEVEL,Next Level %s / %s,下一級 %s / %s
+UI_GUILDBUFF_DONATE,Donation,捐獻
+UI_GUILDBUFF_TAB_LIST,Buff Information,Buff 資訊
+UI_GUILDBUFF_TAB_TOKENS,Token Donation,代幣捐獻
+UI_TOOLTIP_DST_DROP_EXP,Monster EXP and Drop,怪物經驗值和掉落
+UI_GUILD_TAB_BUFFS,Guild Buff,公會 Buff
+UI_TOOLTIP_DST_SPEED_ALL,Attack & Casting Speed,攻擊和施法速度
+UI_GUILDBUFF_MEMBER,Member,成員
+UI_GUILDBUFF_NONE,There is no donation yet. ,還沒有捐獻。
+UI_TOOLTIP_BUYREQLV,Purchase requirement is level %d or higher,購買要求為 %d 級或更高
+UI_COSTUME_BOX_ITEM,Costume Box,服裝盒
 UI_COSTUME_BOX_MATERIAL,Repair Hammer,修理錘
 UI_COSTUME_BOX_UPGRADE_PROB,Success: #b%s#nb,成功：#b%s#nb
-UI_COSTUME_BOX_DECREASED,The Costume Box Upgrade Level has decreased,The Costume Box Upgrade Level has decreased
+UI_COSTUME_BOX_DECREASED,The Costume Box Upgrade Level has decreased,服裝盒升級等級已降低
 UI_MATERIAL_COUNT,%s x%d,%s x%d
-UI_PURCHASE_LIMIT,Purchase Limit: %d / %d,Purchase Limit: %d / %d
-UI_FITTINGROOM_BG,Background,Background
+UI_PURCHASE_LIMIT,Purchase Limit: %d / %d,購買限制：%d / %d
+UI_FITTINGROOM_BG,Background,背景
 UI_OPTION_PRECISECURSOR,Pixel-Perfect Cursor Selection,像素級精確滑鼠選擇
 UI_WEBVIEW_OPEN,Please open your web browser to continue.,請打開瀏覽器繼續。
 UI_BATTLEPASS_JAN,January %d Pass,%d 一月通行證
@@ -1985,11 +1985,11 @@ UI_BATTLEPASS_INFO6,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / 
 UI_BATTLEPASS_INFO7,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni,%s 結束於：#b%s#nb (UTC 時間) \n每週積分上限：#b%d / %d#nb\n#i賽季任務獲得的積分不計入每週積分上限。#ni
 UI_BATTLEPASS_INFO8,%s ends at: #b%s#nb (UTC Time)\n#iSome rewards are enhanced after reaching level %d.#ni,%s 結束於：#b%s#nb (UTC 時間) \n#i達到 %d 級後，部分獎勵將會提升。#ni
 UI_BATTLEPASS_INFO9,%s ends at: #b%s#nb (UTC Time),%s 結束於：#b%s#nb (UTC 時間)
-UI_REMOTE_SHOP_TITLE,Remote Shop,Remote Shop
-UI_HALLOWEENPASS,Halloween Pass,Halloween Pass
-UI_PURCHASE_BANK_EXTRA_BAG,Purchase Extra Bag,Purchase Extra Bag
+UI_REMOTE_SHOP_TITLE,Remote Shop,遠端商店
+UI_HALLOWEENPASS,Halloween Pass,萬聖節通行證
+UI_PURCHASE_BANK_EXTRA_BAG,Purchase Extra Bag,購買額外背包
 UI_SEARCH_BANK_EXTRA_BAG,Bank Extra Bag,銀行額外包
-UI_EXTRA_BAG_FMT,Bank Extra Bag Time Remaining: %s,Bank Extra Bag Time Remaining: %s
+UI_EXTRA_BAG_FMT,Bank Extra Bag Time Remaining: %s,銀行額外背包剩餘時間：%s
 UI_RAINBOWRACE_ITEMS,Rainbow Items,彩虹競賽物品
 UI_RAINBOWRACE_ITEMS_INFO,Fly through items throughout the race to use them against others!,在比賽過程中收集各種道具，並用它們來對抗其他玩家！
 UI_RAINBOWRACE_POINTS,Rank %d / %d (%d points),排名 %d / %d (%d 分數)
@@ -2011,139 +2011,139 @@ UI_CREATEULTIMATEWEAPON_ERROR_UPGRADELEVEL,You can only convert +10 weapons.,您
 UI_ULTIMATECONVERTIBLE,Can be converted to Ultimate,可轉換為終極武器。
 UI_ULTIMATE_RANDOMSTAT,Random Ultimate Stats,隨機終極屬性
 UI_RESTAT_TITLE,Re-Stat,能力值重置
-UI_RESTATC_DESC,Do you wish to apply the Fixed Stat upgrade to the following item?\n(%s),Do you wish to apply the Fixed Stat upgrade to the following item?\n(%s)
-UI_RESTATR_DESC,Do you wish to apply the Random Stat upgrade to the following item?\n(%s),Do you wish to apply the Random Stat upgrade to the following item?\n(%s)
-UI_RESTATR2_DESC,Do you wish to apply the Random Special Option upgrade to the following item?\n(%s),Do you wish to apply the Random Special Option upgrade to the following item?\n(%s)
-UI_ITEM_UPGRADE_PUT,Please input an item which you want to upgrade.,Please input an item which you want to upgrade.
-UI_MATERIAL_ITEM_PUT,Please input a material item first.,Please input a material item first.
+UI_RESTATC_DESC,Do you wish to apply the Fixed Stat upgrade to the following item?\n(%s),您希望將固定能力值升級應用到以下物品嗎？\n(%s)
+UI_RESTATR_DESC,Do you wish to apply the Random Stat upgrade to the following item?\n(%s),您希望將隨機能力值升級應用到以下物品嗎？\n(%s)
+UI_RESTATR2_DESC,Do you wish to apply the Random Special Option upgrade to the following item?\n(%s),您希望將隨機特殊選項升級應用到以下物品嗎？\n(%s)
+UI_ITEM_UPGRADE_PUT,Please input an item which you want to upgrade.,請輸入要升級的物品。
+UI_MATERIAL_ITEM_PUT,Please input a material item first.,請先輸入材料物品。
 UI_ELEMENT_UPGRADE_ERROR_ITEM,This item cannot be used.,該物品無法使用。
-UI_ULTIMATE_UPGRADE_UNSAFE,"Without a Scroll of XProtect, the item will be destroyed if upgrading fails.","Without a Scroll of XProtect, the item will be destroyed if upgrading fails."
+UI_ULTIMATE_UPGRADE_UNSAFE,"Without a Scroll of XProtect, the item will be destroyed if upgrading fails.",沒有 XProtect 卷軸，升級失敗時物品將被摧毀。
 UI_MATERIAL_NAME,%s x%d,%s x%d
 UI_MATERIAL_NAME_PLACEHOLDER,Material,材料
 UI_PROTECTION_SCROLL_PLACEHOLDER,Protection Scroll,防爆卷軸
 UI_ULTIMATE_PREFIX,[Ultimate],[終極]
 UI_TOOLTIP_DST_LAST_STAND,Last Stand Chance,背水一戰機率
-UI_TOOLTIP_DST_RIP_REFLEX,Riposte Reflex Chance,Riposte Reflex Chance
+UI_TOOLTIP_DST_RIP_REFLEX,Riposte Reflex Chance,反擊反射機率
 UI_TOOLTIP_DST_PRANK_ESCAPE,Prankster's Escape Chance,惡作劇逃脫機率
 UI_TOOLTIP_DST_HEAL_GRACE,Healing Grace Chance,聖癒之光機率
 UI_TOOLTIP_DST_SPIRITUAL_CHARGE,Spiritual Overcharge Chance,靈能爆發機率
 UI_TOOLTIP_DST_AURABURST,Aura Burst Chance,光環能量釋放機率
 UI_TOOLTIP_DST_WATERBOMB,Waterbomb Chance,水炸彈機率
-UI_TOOLTIP_DST_SLOW_RATE,Dmg Slow Rate,Dmg Slow Rate
-UI_TOOLTIP_DST_ARCANE,Arcane Insight Chance,Arcane Insight Chance
-UI_MSGBOX_DISMANTLE,Dismantle,Dismantle
-UI_PLAYERHOUSINGBUY_TITLE,Select House Template,Select House Template
-UI_PLAYERHOUSINGBUY_INFO,Select a template for your house.\n\n#b#cffff0000Changing your house template will remove all currently placed decorations and NPCs! Save them to a preset to restore them later.#nc#nb,Select a template for your house.\n\n#b#cffff0000Changing your house template will remove all currently placed decorations and NPCs! Save them to a preset to restore them later.#nc#nb
-UI_PLAYERHOUSINGBUY_CONFIRM,Select Template,Select Template
-UI_PLAYERHOUSINGBUY_MSGBOX_INFO,"Select this template?\n#bNote:#nb If you already own a house, this action will remove all currently placed decorations and NPCs.","Select this template?\n#bNote:#nb If you already own a house, this action will remove all currently placed decorations and NPCs."
-UI_PLAYERHOUSINGVISIT_TITLE,Visit a Friend's House,Visit a Friend's House
-UI_PLAYERHOUSINGVISIT_INFO,Select a friend to visit. Only friends who are online and allow you to visit are listed here.,Select a friend to visit. Only friends who are online and allow you to visit are listed here.
-UI_MESSENGER_MENU_HOUSINGVISIT_ALLOW,Allow house visits,Allow house visits
-UI_MESSENGER_MENU_HOUSINGVISIT_DENY,Deny house visits,Deny house visits
-UI_GACHA_DESC_HOUSING,You will receive the following housing objects.,You will receive the following housing objects.
-UI_PLAYERHOUSINGVISIT_CONFIRM,Visit House,Visit House
-UI_HOUSINGSETUP_OBJECTSLIST,House inventory,House inventory
-UI_HOUSINGSETUP_EDITIONMODE,Toggle edit,Toggle edit
-UI_HOUSINGSETUP_RESET,Remove all objects,Remove all objects
-UI_HOUSINGSETUP_RESET_MSGBOX_INFO,Return all placed housing objects to your house inventory? #bYou can place them again later.#nb,Return all placed housing objects to your house inventory? #bYou can place them again later.#nb
-UI_HOUSINGSETUP_PLACE_CONFIRM,Place Object,Place Object
-UI_HOUSINGSETUP_PLACE_INFO,"Select a housing object and click Place Object, then:- Use the mouse wheel to rotate it\n- Hold the mouse wheel and move the mouse left/right to resize it\n- Left-click to finalize placement","Select a housing object and click Place Object, then:- Use the mouse wheel to rotate it\n- Hold the mouse wheel and move the mouse left/right to resize it\n- Left-click to finalize placement"
-UI_TOOLTIP_HOUSENPC,"When placed, this house NPC grants the following bonuses:","When placed, this house NPC grants the following bonuses:"
-UI_HOUSINGSETUP_OBJECTS,Decorations,Decorations
-UI_HOUSINGSETUP_NPCS,NPCs,NPCs
+UI_TOOLTIP_DST_SLOW_RATE,Dmg Slow Rate,傷害減速率
+UI_TOOLTIP_DST_ARCANE,Arcane Insight Chance,秘能洞察機率
+UI_MSGBOX_DISMANTLE,Dismantle,拆卸
+UI_PLAYERHOUSINGBUY_TITLE,Select House Template,選擇房屋範本
+UI_PLAYERHOUSINGBUY_INFO,Select a template for your house.\n\n#b#cffff0000Changing your house template will remove all currently placed decorations and NPCs! Save them to a preset to restore them later.#nc#nb,選擇您房屋的範本。\n\n#b#cffff0000更改您的房屋範本將移除所有當前放置的裝飾品和 NPC！將它們保存到預設以便稍後恢復。#nc#nb
+UI_PLAYERHOUSINGBUY_CONFIRM,Select Template,選擇範本
+UI_PLAYERHOUSINGBUY_MSGBOX_INFO,"Select this template?\n#bNote:#nb If you already own a house, this action will remove all currently placed decorations and NPCs.",選擇此範本嗎？\n#b注意：#nb 如果您已擁有房屋，此操作將移除所有當前放置的裝飾品和 NPC。
+UI_PLAYERHOUSINGVISIT_TITLE,Visit a Friend's House,拜訪朋友的房屋
+UI_PLAYERHOUSINGVISIT_INFO,Select a friend to visit. Only friends who are online and allow you to visit are listed here.,選擇要拜訪的朋友。此處只列出在線且允許您拜訪的朋友。
+UI_MESSENGER_MENU_HOUSINGVISIT_ALLOW,Allow house visits,允許房屋訪問
+UI_MESSENGER_MENU_HOUSINGVISIT_DENY,Deny house visits,拒絕房屋訪問
+UI_GACHA_DESC_HOUSING,You will receive the following housing objects.,您將收到以下房屋物件。
+UI_PLAYERHOUSINGVISIT_CONFIRM,Visit House,拜訪房屋
+UI_HOUSINGSETUP_OBJECTSLIST,House inventory,房屋庫存
+UI_HOUSINGSETUP_EDITIONMODE,Toggle edit,切換編輯
+UI_HOUSINGSETUP_RESET,Remove all objects,移除所有物件
+UI_HOUSINGSETUP_RESET_MSGBOX_INFO,Return all placed housing objects to your house inventory? #bYou can place them again later.#nb,回歸所有放置的房屋物件到您的房屋庫存？#b您可以稍後再次放置它們。#nb
+UI_HOUSINGSETUP_PLACE_CONFIRM,Place Object,放置物件
+UI_HOUSINGSETUP_PLACE_INFO,"Select a housing object and click Place Object, then:- Use the mouse wheel to rotate it\n- Hold the mouse wheel and move the mouse left/right to resize it\n- Left-click to finalize placement",選擇房屋物件並點擊放置物件，然後：- 使用滑鼠滾輪旋轉它\n- 按住滑鼠滾輪並左右移動滑鼠調整大小\n- 左鍵點擊以最終確定放置
+UI_TOOLTIP_HOUSENPC,"When placed, this house NPC grants the following bonuses:",當放置時，此房屋 NPC 提供以下獎勵：
+UI_HOUSINGSETUP_OBJECTS,Decorations,裝飾品
+UI_HOUSINGSETUP_NPCS,NPCs,NPC
 UI_HOUSINGSETUP_FILTER_HDR,Filter,篩選
 UI_HOUSINGSETUP_FILTER_HDR_ALL,All,全部
-UI_HOUSINGSETUP_FILTER_TREE,Trees,Trees
-UI_HOUSINGSETUP_FILTER_OTHER,Other,Other
-UI_GUILDHOUSINGBIDS_INFO,"You can place a bid on this Guild Ship. In #b#u%s#nb#nu, the guild with the highest bid will gain ownership of this Guild Ship. \n\n#b#uNote:#nu#nb \n- You can only bid on one Guild Ship at a time. \n- The Penya used to place a bid is taken from your Guild Bank. \n- You can increase your bid at any time before the bidding period ends.","You can place a bid on this Guild Ship. In #b#u%s#nb#nu, the guild with the highest bid will gain ownership of this Guild Ship. \n\n#b#uNote:#nu#nb \n- You can only bid on one Guild Ship at a time. \n- The Penya used to place a bid is taken from your Guild Bank. \n- You can increase your bid at any time before the bidding period ends."
-UI_GUILDHOUSINGBIDS_HDR,Guild Bids,Guild Bids
-UI_GUILDHOUSINGBIDS_PLACE,Place Bid,Place Bid
-UI_GUILDHOUSINGBIDS_MSGBOX_INFO,Enter the amount you wish to bid. #b#uBids are placed using Penya from your Guild Bank.#nu#nb,Enter the amount you wish to bid. #b#uBids are placed using Penya from your Guild Bank.#nu#nb
-UI_GUILDHOUSINGBIDS_EMPTY,There are currently no bids for this Guild Ship.,There are currently no bids for this Guild Ship.
-UI_MAP_SHIP_TELEPORT,Teleport to Your Guild Ship,Teleport to Your Guild Ship
-UI_MAP_SHIP_TOOLTIP_OWNED,%s's Guild Ship,%s's Guild Ship
-UI_GUILD_TAB_HOUSING,Ship,Ship
-UI_GUILD_TAB_HOUSING_NEXTARTIFACTHDR,Next Artifact Placement:,Next Artifact Placement:
-UI_GUILD_TAB_HOUSING_PLACEARTIFACTHDR,Time Remaining to Select the Artifact Position:,Time Remaining to Select the Artifact Position:
-UI_GUILD_TAB_HOUSING_TELEPORT,Teleport to Ship,Teleport to Ship
-UI_GUILD_TAB_HOUSING_BONUSESHDR,Current Guild Ship Bonuses,Current Guild Ship Bonuses
-UI_GUILDHOUSINGARTIFACT_MSGBOX_INFO,Are you sure you want your guild's artifact to spawn here? #b#cffff0000Note: A %s Penya fee will be taken from your guild's bank.#nc#nb,Are you sure you want your guild's artifact to spawn here? #b#cffff0000Note: A %s Penya fee will be taken from your guild's bank.#nc#nb
-UI_GUILD_POWER_GUILDHOUSE,Guild Ship Management,Guild Ship Management
-UI_MAP_GHARTIFACT_TOOLTIP,A Guild Ship Artifact is somewhere here...,A Guild Ship Artifact is somewhere here...
-UI_GUILD_TAB_HOUSING_NOOWNED,Your guild does not own a Guild Ship.,Your guild does not own a Guild Ship.
-UI_GUILD_TAB_HOUSING_INFO,"If your guild owns a Guild Ship, every other Saturday you must place an Artifact at one of the designated locations. Placing an Artifact costs #b#u%s Penya#nu#nb.\n\nIf your guild does not own a Guild Ship, you can register for the next Artifact Battle for #b#u%s Penya#nu#nb for a chance to obtain one.\nYou can only apply or cancel up to 1 hour before the battle begins.\n\n\nOnce the Artifact is placed, your guild must defend it on the PK channel against other players. If you fail to defend it, you will lose ownership of the Guild Ship.\n\nIf you successfully defend it, #ba portion of the registration fee will be refunded.#nb","If your guild owns a Guild Ship, every other Saturday you must place an Artifact at one of the designated locations. Placing an Artifact costs #b#u%s Penya#nu#nb.\n\nIf your guild does not own a Guild Ship, you can register for the next Artifact Battle for #b#u%s Penya#nu#nb for a chance to obtain one.\nYou can only apply or cancel up to 1 hour before the battle begins.\n\n\nOnce the Artifact is placed, your guild must defend it on the PK channel against other players. If you fail to defend it, you will lose ownership of the Guild Ship.\n\nIf you successfully defend it, #ba portion of the registration fee will be refunded.#nb"
-UI_HOUSINGSETUP_PRESETS,Presets,Presets
-UI_HOUSINGSETUP_MANAGE,Management,Management
-UI_HOUSINGPRESET_INFO,You can manage housing presets for this house template in this window. Click a preset to preview object and NPC placements.\n\n#b#uNote:#nb#nu Applying a preset will remove all currently placed decorations and NPCs. Only the NPCs you have placed will be saved to the preset list. Decorations or NPCs that have expired will not be placed when applying a preset.,You can manage housing presets for this house template in this window. Click a preset to preview object and NPC placements.\n\n#b#uNote:#nb#nu Applying a preset will remove all currently placed decorations and NPCs. Only the NPCs you have placed will be saved to the preset list. Decorations or NPCs that have expired will not be placed when applying a preset.
-UI_HOUSINGPRESET_HDR,Preset List,Preset List
+UI_HOUSINGSETUP_FILTER_TREE,Trees,樹
+UI_HOUSINGSETUP_FILTER_OTHER,Other,其他
+UI_GUILDHOUSINGBIDS_INFO,"You can place a bid on this Guild Ship. In #b#u%s#nb#nu, the guild with the highest bid will gain ownership of this Guild Ship. \n\n#b#uNote:#nu#nb \n- You can only bid on one Guild Ship at a time. \n- The Penya used to place a bid is taken from your Guild Bank. \n- You can increase your bid at any time before the bidding period ends.",您可以對此公會艦隊出價。在 #b#u%s#nb#nu，出價最高的公會將獲得此公會艦隊的所有權。\n\n#b#u注意：#nu#nb\n- 您一次只能對一個公會艦隊出價。\n- 用於出價的佩尼亞取自您的公會銀行。\n- 您可以在競價期結束前隨時增加出價。
+UI_GUILDHOUSINGBIDS_HDR,Guild Bids,公會出價
+UI_GUILDHOUSINGBIDS_PLACE,Place Bid,出價
+UI_GUILDHOUSINGBIDS_MSGBOX_INFO,Enter the amount you wish to bid. #b#uBids are placed using Penya from your Guild Bank.#nu#nb,輸入您想出價的金額。#b#u使用來自您的公會銀行的佩尼亞進行出價。#nu#nb
+UI_GUILDHOUSINGBIDS_EMPTY,There are currently no bids for this Guild Ship.,目前沒有對此公會船隻的出價。
+UI_MAP_SHIP_TELEPORT,Teleport to Your Guild Ship,傳送到您的公會船隻
+UI_MAP_SHIP_TOOLTIP_OWNED,%s's Guild Ship,%s 的公會船隻
+UI_GUILD_TAB_HOUSING,Ship,艦隊
+UI_GUILD_TAB_HOUSING_NEXTARTIFACTHDR,Next Artifact Placement:,下一次文物放置：
+UI_GUILD_TAB_HOUSING_PLACEARTIFACTHDR,Time Remaining to Select the Artifact Position:,選擇文物位置的剩餘時間：
+UI_GUILD_TAB_HOUSING_TELEPORT,Teleport to Ship,傳送到艦隊
+UI_GUILD_TAB_HOUSING_BONUSESHDR,Current Guild Ship Bonuses,當前公會船隻獎勵
+UI_GUILDHOUSINGARTIFACT_MSGBOX_INFO,Are you sure you want your guild's artifact to spawn here? #b#cffff0000Note: A %s Penya fee will be taken from your guild's bank.#nc#nb,您確定要讓公會的文物在此生成嗎？#b#cffff0000注意：將從您的公會銀行中扣除 %s 佩尼亞費用。#nc#nb
+UI_GUILD_POWER_GUILDHOUSE,Guild Ship Management,公會船隻管理
+UI_MAP_GHARTIFACT_TOOLTIP,A Guild Ship Artifact is somewhere here...,公會船隻文物在某處....
+UI_GUILD_TAB_HOUSING_NOOWNED,Your guild does not own a Guild Ship.,您的公會不擁有公會船隻。
+UI_GUILD_TAB_HOUSING_INFO,"If your guild owns a Guild Ship, every other Saturday you must place an Artifact at one of the designated locations. Placing an Artifact costs #b#u%s Penya#nu#nb.\n\nIf your guild does not own a Guild Ship, you can register for the next Artifact Battle for #b#u%s Penya#nu#nb for a chance to obtain one.\nYou can only apply or cancel up to 1 hour before the battle begins.\n\n\nOnce the Artifact is placed, your guild must defend it on the PK channel against other players. If you fail to defend it, you will lose ownership of the Guild Ship.\n\nIf you successfully defend it, #ba portion of the registration fee will be refunded.#nb",如果您的公會擁有公會艦隊，您必須每隔一個星期六在指定位置之一放置一個文物。放置文物花費 #b#u%s 佩尼亞#nu#nb。\n\n如果您的公會不擁有公會艦隊，您可以為下一場文物戰役註冊 #b#u%s 佩尼亞#nu#nb 以有機會獲得一個。\n您最多可以在戰役開始前 1 小時申請或取消。\n\n\n一旦文物被放置，您的公會必須在 PK 頻道上防守它以抵禦其他玩家。如果您失敗，您將失去公會艦隊的所有權。\n\n如果您成功防守它，#b部分註冊費將被退款。#nb
+UI_HOUSINGSETUP_PRESETS,Presets,預設
+UI_HOUSINGSETUP_MANAGE,Management,管理
+UI_HOUSINGPRESET_INFO,You can manage housing presets for this house template in this window. Click a preset to preview object and NPC placements.\n\n#b#uNote:#nb#nu Applying a preset will remove all currently placed decorations and NPCs. Only the NPCs you have placed will be saved to the preset list. Decorations or NPCs that have expired will not be placed when applying a preset.,您可以在此視窗中管理此房屋範本的房屋預設。點擊預設以預覽物件和 NPC 放置。\n\n#b#u注意：#nb#nu 應用預設將移除所有當前放置的裝飾品和 NPC。只有您放置的 NPC 將保存到預設列表。已過期的裝飾品或 NPC 在應用預設時不會被放置。
+UI_HOUSINGPRESET_HDR,Preset List,預設列表
 UI_HOUSINGPRESET_NEW,New,新的
 UI_HOUSINGPRESET_DELETE,Delete,移除
 UI_HOUSINGPRESET_APPLY,Apply,申請
-UI_HOUSINGPRESETS_MSGBOX_INFO,Preset Name,Preset Name
-UI_HOUSINGPRESETS_ERROR_NAME,You have to set a name.,You have to set a name.
-UI_HOUSINGPRESETS_ERROR_NAME_INVALID,The name you set for the preset is incorrect!,The name you set for the preset is incorrect!
+UI_HOUSINGPRESETS_MSGBOX_INFO,Preset Name,預設名稱
+UI_HOUSINGPRESETS_ERROR_NAME,You have to set a name.,您必須設置名稱。
+UI_HOUSINGPRESETS_ERROR_NAME_INVALID,The name you set for the preset is incorrect!,您為預設設置的名稱不正確！
 UI_UPGRADE_GENERALTAB,General Upgrade,一般精煉
 UI_UPGRADE_ELEMENTTAB,Element Upgrade,元素精煉
 UI_UPGRADE_PIERCINGTAB,Piercing,穿洞精煉
 UI_GUILD_TAB_HOUSING_VISITS,Allow Non-Guild Visitors,允許非公會成員參觀
 UI_HOUSINGSETUP_FILTER_CHAIR,Chair,椅子
 UI_HOUSINGSETUP_FILTER_SOFA,Sofa,沙發
-UI_HOUSINGSETUP_FILTER_LIGHT,Light,Light
-UI_HOUSINGSETUP_FILTER_DESK,Desk,Desk
-UI_HOUSINGSETUP_FILTER_TABLE,Table,Table
+UI_HOUSINGSETUP_FILTER_LIGHT,Light,光
+UI_HOUSINGSETUP_FILTER_DESK,Desk,桌子
+UI_HOUSINGSETUP_FILTER_TABLE,Table,表格
 UI_HOUSINGSETUP_FILTER_DRAWER,Drawer,抽屜
 UI_HOUSINGSETUP_FILTER_BED,Bed,床
-UI_HOUSINGSETUP_FILTER_PLANT,Plant,Plant
-UI_HOUSINGSETUP_FILTER_CLOSET,Closet,Closet
+UI_HOUSINGSETUP_FILTER_PLANT,Plant,植物
+UI_HOUSINGSETUP_FILTER_CLOSET,Closet,衣櫃
 UI_HOUSINGSETUP_FILTER_BATH,Bath,浴缸
-UI_PLAYERHOUSINGBUY_SIZE_SMALL,S,S
-UI_PLAYERHOUSINGBUY_SIZE_MEDIUM,M,M
-UI_PLAYERHOUSINGBUY_SIZE_LARGE,L,L
+UI_PLAYERHOUSINGBUY_SIZE_SMALL,S,小
+UI_PLAYERHOUSINGBUY_SIZE_MEDIUM,M,中
+UI_PLAYERHOUSINGBUY_SIZE_LARGE,L,大
 UI_ACHIEVEMENTS_STAT_PAGE,Additional Stat Page,額外的數值頁
 UI_STAT_PAGE_SELECT,Select your stat page:,選擇您的數值頁：
-UI_HOUSINGSETUP_FILTER_FENCE,Fence,Fence
+UI_HOUSINGSETUP_FILTER_FENCE,Fence,圍欄
 UI_HOUSINGSETUP_FILTER_GRASS,Grass,草
 UI_HOUSINGSETUP_FILTER_ROCK,Rock,石頭
-UI_REPORT_DISCORD,"To report a player, please send a message through our Discord Modmail with valid evidence. Open Discord now?","To report a player, please send a message through our Discord Modmail with valid evidence. Open Discord now?"
-UI_GUILDSHIP_UNKNOWN,Unknown Guild,Unknown Guild
-UI_GUILDSHIP_VACANT,Unclaimed Ship,Unclaimed Ship
+UI_REPORT_DISCORD,"To report a player, please send a message through our Discord Modmail with valid evidence. Open Discord now?",要舉報玩家，請通過我們的 Discord ModMail 發送帶有有效證據的訊息。現在打開 Discord 嗎？
+UI_GUILDSHIP_UNKNOWN,Unknown Guild,未知公會
+UI_GUILDSHIP_VACANT,Unclaimed Ship,未認領的艦隊
 UI_OPTION_WINDOWS_FONT,PC Flyff Font,PC Flyff 字型
 UI_CREATE_ULTIMATE_WEAPON,Create Ultimate Weapon,製作終極武器
-UI_CREATE_ULTIMATE_WEAPON_DESC,Create Ultimate weapons during the event period to earn rewards!\nYou can earn additional rewards based on how many you create.,Create Ultimate weapons during the event period to earn rewards!\nYou can earn additional rewards based on how many you create.
-UI_CREATE_ULTIMATE_WEAPON_LVL1,1 time,1 time
-UI_CREATE_ULTIMATE_WEAPON_LVL2,2 times,2 times
-UI_CREATE_ULTIMATE_WEAPON_LVL3,3 times,3 times
-UI_CREATE_ULTIMATE_WEAPON_LVL4,4 times,4 times
-UI_CREATE_ULTIMATE_WEAPON_LVL5,5 times,5 times
+UI_CREATE_ULTIMATE_WEAPON_DESC,Create Ultimate weapons during the event period to earn rewards!\nYou can earn additional rewards based on how many you create.,在活動期間創建終極武器以獲得獎勵！\n您可以根據創建的數量獲得額外獎勵。
+UI_CREATE_ULTIMATE_WEAPON_LVL1,1 time,1 次
+UI_CREATE_ULTIMATE_WEAPON_LVL2,2 times,2 次
+UI_CREATE_ULTIMATE_WEAPON_LVL3,3 times,3 次
+UI_CREATE_ULTIMATE_WEAPON_LVL4,4 times,4 次
+UI_CREATE_ULTIMATE_WEAPON_LVL5,5 times,5 次
 UI_UPGRADE_ULTIMATE_WEAPON,Upgrade Ultimate Weapon,終極武器精煉
-UI_UPGRADE_ULTIMATE_WEAPON_DESC,Upgrade Ultimate weapons during the event period to earn rewards!\nYou can earn additional rewards based on the upgrade level.,Upgrade Ultimate weapons during the event period to earn rewards!\nYou can earn additional rewards based on the upgrade level.
-UI_UPGRADE_ULTIMATE_WEAPON_LVL1,Achieve Ultimate Upgrade +1,Achieve Ultimate Upgrade +1
-UI_UPGRADE_ULTIMATE_WEAPON_LVL2,Achieve Ultimate Upgrade +2,Achieve Ultimate Upgrade +2
-UI_UPGRADE_ULTIMATE_WEAPON_LVL3,Achieve Ultimate Upgrade +3,Achieve Ultimate Upgrade +3
-UI_UPGRADE_ULTIMATE_WEAPON_LVL4,Achieve Ultimate Upgrade +4,Achieve Ultimate Upgrade +4
-UI_UPGRADE_ULTIMATE_WEAPON_LVL5,Achieve Ultimate Upgrade +5,Achieve Ultimate Upgrade +5
-UI_RAINBOWRACE_RANKING,Leaderboard,Leaderboard
-UI_EXCHANGE_ACCOUNTLINK,#cffff0000The result will be Account-Linked because some of the materials are Account-Linked.#nc,#cffff0000The result will be Account-Linked because some of the materials are Account-Linked.#nc
-UI_EXCHANGE_SOULLINK,#cffff0000The result will be Soul-Linked because some of the materials are Soul-Linked.#nc,#cffff0000The result will be Soul-Linked because some of the materials are Soul-Linked.#nc
+UI_UPGRADE_ULTIMATE_WEAPON_DESC,Upgrade Ultimate weapons during the event period to earn rewards!\nYou can earn additional rewards based on the upgrade level.,在活動期間升級終極武器以獲得獎勵！\n您可以根據升級等級獲得額外獎勵。
+UI_UPGRADE_ULTIMATE_WEAPON_LVL1,Achieve Ultimate Upgrade +1,達成終極升級 +1
+UI_UPGRADE_ULTIMATE_WEAPON_LVL2,Achieve Ultimate Upgrade +2,達成終極升級 +2
+UI_UPGRADE_ULTIMATE_WEAPON_LVL3,Achieve Ultimate Upgrade +3,達成終極升級 +3
+UI_UPGRADE_ULTIMATE_WEAPON_LVL4,Achieve Ultimate Upgrade +4,達成終極升級 +4
+UI_UPGRADE_ULTIMATE_WEAPON_LVL5,Achieve Ultimate Upgrade +5,達成終極升級 +5
+UI_RAINBOWRACE_RANKING,Leaderboard,排行榜
+UI_EXCHANGE_ACCOUNTLINK,#cffff0000The result will be Account-Linked because some of the materials are Account-Linked.#nc,#cffff0000結果將被帳號綁定，因為某些材料是帳號綁定的。#nc
+UI_EXCHANGE_SOULLINK,#cffff0000The result will be Soul-Linked because some of the materials are Soul-Linked.#nc,#cffff0000結果將被角色綁定，因為某些材料是角色綁定的。#nc
 UI_RAINBOWRACE_TELEPORT_TITLE,Rainbow Race,彩虹競賽
 UI_RAINBOWRACE_TELEPORT_MSG,"The Rainbow Race will begin shortly. Teleport to the starting point? If you decline, you will be disqualified with no refund.",彩虹競賽即將開始。 您想傳送到起點嗎? 拒絕將取消您的比賽資格，且不予退款。
-UI_BATTLEPASS_CHRISTMAS2023,Christmas Pass 2023,Christmas Pass 2023
-UI_HOME_LOGIN_EMAIL,Sign in with Email,Sign in with Email
-UI_HOME_LOGIN_EMAIL_TIP,Log in with your Flyff Universe account email or username,Log in with your Flyff Universe account email or username
+UI_BATTLEPASS_CHRISTMAS2023,Christmas Pass 2023,2023 年聖誕節通行證
+UI_HOME_LOGIN_EMAIL,Sign in with Email,使用電子郵件登入
+UI_HOME_LOGIN_EMAIL_TIP,Log in with your Flyff Universe account email or username,使用您的 Flyff Universe 帳號電子郵件或用戶名登入
 UI_SESSION_TITLE,Saved Sessions,已儲存登入資訊
 UI_SESSION_REMOVE,Remove,移除
 UI_SESSION_REMOVEALL,Remove All,全部移除
-UI_LOW_FRAMERATE_GUIDE_TITLE,Caution,Caution
-UI_LOW_FRAMERATE_GUIDE_DESC,Client performance is low.\nPlease review the following tips:,Client performance is low.\nPlease review the following tips:
-UI_LOW_FRAMERATE_GUIDE_GUIDE01,1) Adjust the in-game video/graphic settings to match your PC.,1) Adjust the in-game video/graphic settings to match your PC.
-UI_LOW_FRAMERATE_GUIDE_GUIDE02,2) Make sure hardware acceleration is enabled in your browser.,2) Make sure hardware acceleration is enabled in your browser.
-UI_LOW_FRAMERATE_GUIDE_BUTTON_SETTING,Go to Game Settings,Go to Game Settings
+UI_LOW_FRAMERATE_GUIDE_TITLE,Caution,注意
+UI_LOW_FRAMERATE_GUIDE_DESC,Client performance is low.\nPlease review the following tips:,客戶端效能低。\n請查看以下提示：
+UI_LOW_FRAMERATE_GUIDE_GUIDE01,1) Adjust the in-game video/graphic settings to match your PC.,1) 調整遊戲中的影像/圖形設置以匹配您的 PC。
+UI_LOW_FRAMERATE_GUIDE_GUIDE02,2) Make sure hardware acceleration is enabled in your browser.,2) 確保在瀏覽器中啟用硬體加速。
+UI_LOW_FRAMERATE_GUIDE_BUTTON_SETTING,Go to Game Settings,前往遊戲設置
 UI_BATTLEPASS_MISSION_FINISH_RAINBOW_RACE,Finish a Rainbow Race,完成彩虹競賽
-UI_LOCKED_SLOT_TIP,"Additional inventory slots can be unlocked by completing certain quests or achievements, or by using an Extra Bag (available in the Flyff Shop).","Additional inventory slots can be unlocked by completing certain quests or achievements, or by using an Extra Bag (available in the Flyff Shop)."
-UI_LOCKED_SLOT_TIP_COUPLE,Additional slots can be unlocked by increasing your couple level or proposing with a higher-grade couple ring.,Additional slots can be unlocked by increasing your couple level or proposing with a higher-grade couple ring.
-UI_QUEST_SLOTS_COMMAND,Uncompleted quests that unlock inventory slots:,Uncompleted quests that unlock inventory slots:
-UI_ACHIEVEMENT_SLOTS_COMMAND,Unclaimed or incomplete achievements that unlock inventory slots:,Unclaimed or incomplete achievements that unlock inventory slots:
-UI_QUEST_KILL_MONSTER_COUNT,Defeat Monsters #cffc32f07#b%d/%d#nb#nc,Defeat Monsters #cffc32f07#b%d/%d#nb#nc
+UI_LOCKED_SLOT_TIP,"Additional inventory slots can be unlocked by completing certain quests or achievements, or by using an Extra Bag (available in the Flyff Shop).",可以通過完成特定任務或成就或使用額外背包 (在 Flyff 商店中提供) 來解鎖額外庫存欄位。
+UI_LOCKED_SLOT_TIP_COUPLE,Additional slots can be unlocked by increasing your couple level or proposing with a higher-grade couple ring.,可以通過提高您的情侶等級或使用更高等級的情侶戒指求婚來解鎖額外欄位。
+UI_QUEST_SLOTS_COMMAND,Uncompleted quests that unlock inventory slots:,未完成的可解鎖庫存欄位的任務：
+UI_ACHIEVEMENT_SLOTS_COMMAND,Unclaimed or incomplete achievements that unlock inventory slots:,未領取或未完成的可解鎖庫存欄位的成就：
+UI_QUEST_KILL_MONSTER_COUNT,Defeat Monsters #cffc32f07#b%d/%d#nb#nc,擊敗怪物 #cffc32f07#b%d/%d#nb#nc
 UI_STORAGE_EXPIRED,(Expired),(已到期)
 UI_STORAGE_GETALL,Retrieve All,取回全部
 UI_STORAGE_GETALL_TIP,Retrieve all items to your inventory,取回全部道具到您的背包中
@@ -2152,28 +2152,28 @@ UI_STORAGE_MORE,And %d more,和%d更多
 UI_STORAGE_VIEW,Shift+Left-click or Right-click to view the contents.,按住 Shift 鍵並按滑鼠左鍵或按滑鼠右鍵查看內容。
 UI_STORAGE_VIEW_INV,Shift+Left-click to view the contents.,按住 Shift 鍵並點選滑鼠左鍵查看內容。
 UI_STORAGE_VIEW_MOBILE,Long press to view the contents.,長按查看內容。
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium Login Rewards,Premium Login Rewards
-UI_ACHIEVEMENTS_PROBABILITY,Probability,Probability
-UI_ACHIEVEMENTS_PROBABILITYTIP,View premium reward probabilities,View premium reward probabilities
-UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon,Purchase Playtime Coupon
-UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon,Purchase Login Coupon
-UI_STATBOARD_TITLE,Statboard,Statboard
-UI_STATBOARD_RAW,Raw Stats,Raw Stats
-UI_STATBOARD_GRAPHS,Graphs,Graphs
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium Login Rewards,高級登入獎勵
+UI_ACHIEVEMENTS_PROBABILITY,Probability,概率
+UI_ACHIEVEMENTS_PROBABILITYTIP,View premium reward probabilities,查看高級獎勵概率
+UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon,購買暢玩優惠券
+UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon,購買登入優惠券
+UI_STATBOARD_TITLE,Statboard,統計板
+UI_STATBOARD_RAW,Raw Stats,原始統計
+UI_STATBOARD_GRAPHS,Graphs,圖形
 UI_STATBOARD_RANK,Rank,排名
 UI_STATBOARD_TIME,Time,時間
 UI_STATBOARD_ITEMS,Items,物品
 UI_STATBOARD_SPEED,Avg Speed,平均速度
-UI_STATBOARD_HIDDEN,Hidden zero values: %d,Hidden zero values: %d
-UI_APP_UPGRADABLE_ITEMPACK_TIP,Displays the Upgradable Item Pack Menu.,Displays the Upgradable Item Pack Menu.
+UI_STATBOARD_HIDDEN,Hidden zero values: %d,隱藏的零值：%d
+UI_APP_UPGRADABLE_ITEMPACK_TIP,Displays the Upgradable Item Pack Menu.,顯示可升級物品包選單。
 UI_UPGRADE_ITEMPACK,Upgrade,升級
-UI_ITEMPACK_UPGRADE_TITLE,Item Pack Upgrade,Item Pack Upgrade
-UI_ITEMPACK_UPGRADE_DESC,"When you open an egg, you can receive all of the items listed below.\nIf you successfully upgrade the egg, you will receive higher-ranked items. If the upgrade fails, the egg may be downgraded or destroyed.","When you open an egg, you can receive all of the items listed below.\nIf you successfully upgrade the egg, you will receive higher-ranked items. If the upgrade fails, the egg may be downgraded or destroyed."
-UI_ITEMPACK_UPGRADE_DESC_EMPTY,Drag and drop an upgradable item pack into the item slot.,Drag and drop an upgradable item pack into the item slot.
-UI_ITEMPACK_UPGRADE_CONFIRM,Successful upgrades increase the reward. Failed upgrades may downgrade or destroy the item.\nProceed?,Successful upgrades increase the reward. Failed upgrades may downgrade or destroy the item.\nProceed?
-UI_TAB_EGG_USE_NAME,Egg Use Achievements Event,Egg Use Achievements Event
-UI_EGG_USE_EVENT,Egg Use,Egg Use
-UI_EGG_USE_EVENT_DESC,"Use eggs during the event to earn rewards.\nRewards are granted when the total number of eggs used reaches certain milestones.\nRewards are limited by egg color, so hurry - first come, first served!","Use eggs during the event to earn rewards.\nRewards are granted when the total number of eggs used reaches certain milestones.\nRewards are limited by egg color, so hurry - first come, first served!"
+UI_ITEMPACK_UPGRADE_TITLE,Item Pack Upgrade,物品包升級
+UI_ITEMPACK_UPGRADE_DESC,"When you open an egg, you can receive all of the items listed below.\nIf you successfully upgrade the egg, you will receive higher-ranked items. If the upgrade fails, the egg may be downgraded or destroyed.",當您打開蛋時，您可以收到下面列出的所有物品。\n如果您成功升級蛋，您將收到更高等級的物品。如果升級失敗，蛋可能會降級或被摧毀。
+UI_ITEMPACK_UPGRADE_DESC_EMPTY,Drag and drop an upgradable item pack into the item slot.,將可升級物品包拖放到物品欄位中。
+UI_ITEMPACK_UPGRADE_CONFIRM,Successful upgrades increase the reward. Failed upgrades may downgrade or destroy the item.\nProceed?,成功的升級會增加獎勵。失敗的升級可能會降級或破壞物品。\n繼續嗎？
+UI_TAB_EGG_USE_NAME,Egg Use Achievements Event,蛋使用成就活動
+UI_EGG_USE_EVENT,Egg Use,蛋使用
+UI_EGG_USE_EVENT_DESC,"Use eggs during the event to earn rewards.\nRewards are granted when the total number of eggs used reaches certain milestones.\nRewards are limited by egg color, so hurry - first come, first served!",在活動期間使用蛋以獲得獎勵。\n當使用的蛋總數達到特定里程碑時，即可獲得獎勵。\n獎勵受蛋顏色限制，所以要加快速度-先到先得！
 UI_EGG_USE_RED_EGG,Red Egg,紅色彩蛋
 UI_EGG_USE_ORANGE_EGG,Orange Egg,橘色彩蛋
 UI_EGG_USE_YELLOW_EGG,Yellow Egg,黃色彩蛋
@@ -2192,28 +2192,28 @@ UI_CHARINFO_HOUSING_EXPIRATION,Expires in,剩餘時間
 UI_CHARINFO_HOUSING_BONUSES,Current bonuses,當前加成
 UI_CHARINFO_HOUSING_NOHOUSE,No house yet.,尚未擁有小屋。
 UI_CHARINFO_HOUSING_EXPIRED,Expired.,已到期。
-UI_HOUSINGPRESETSAPPLY_MSGBOX_INFO,This preset contains non-permanent decorations or NPCs. Apply this preset anyway?\n#b#cff78e12fNote: Decorations and NPCs with the shortest remaining duration are prioritized.#nb#nc,This preset contains non-permanent decorations or NPCs. Apply this preset anyway?\n#b#cff78e12fNote: Decorations and NPCs with the shortest remaining duration are prioritized.#nb#nc
+UI_HOUSINGPRESETSAPPLY_MSGBOX_INFO,This preset contains non-permanent decorations or NPCs. Apply this preset anyway?\n#b#cff78e12fNote: Decorations and NPCs with the shortest remaining duration are prioritized.#nb#nc,此預設包含非永久性裝飾品或 NPC。仍然應用此預設嗎？\n#b#cff78e12f注意：優先考慮剩餘持續時間最短的裝飾品和 NPC。#nb#nc
 UI_GUILDHOUSING_ARTIFACTBATTLE_TIMELEFT,Artifact Battle Ends In,神器之戰將結束於
 UI_GUILD_LOG_BTN,Log,紀錄
 UI_GUILDLOG_TITLE,Guild Log,公會徽章
 UI_GUILDLOG_JOINED,Joined,已加入
 UI_GUILDLOG_LEFT,Left,左邊
-UI_GUILDLOG_EJECTED,Ejected,Ejected
+UI_GUILDLOG_EJECTED,Ejected,驅逐
 UI_GACHA_OPEN_ALL,Open All,全部開啟
 UI_GACHA_OPEN_ONE,Open 1,開啟1個
 UI_GACHA_OPEN_ALL_CONFIRM,Open all boxes?,開啟全部盒子?
 UI_BATTLEPASS_MISSION_USEITEM,Use %s,使用%s
 UI_HOUSINGGUESTBOOK_TOTALLIKES,Total Likes,全部愛心
-UI_HOUSINGGUESTBOOK_WELCOMEMSGTITLE,Welcome Message,Welcome Message
-UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_1,Welcome Message,Welcome Message
-UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_2,Post Message,Post Message
-UI_HOUSINGGUESTBOOK_MSGBOX_DESC,The message has to be between 4 and %d characters. ,The message has to be between 4 and %d characters.
-UI_HOUSINGGUESTBOOK_DEL_TITLE,Delete Message,Delete Message
-UI_HOUSINGGUESTBOOK_DEL_CONFIRM,Delete this guest's message?,Delete this guest's message?
-UI_PLAYERHOUSINGBUY_SIZE_EXTRA_LARGE,XL,XL
-UI_HOUSINGSETUP_FILTER_FLOOR,Floor,Floor
-UI_HOUSINGSETUP_FILTER_CEILING,Ceiling,Ceiling
-UI_HOUSINGSETUP_FILTER_WALL,Wall,Wall
+UI_HOUSINGGUESTBOOK_WELCOMEMSGTITLE,Welcome Message,歡迎訊息
+UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_1,Welcome Message,歡迎訊息
+UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_2,Post Message,發送訊息
+UI_HOUSINGGUESTBOOK_MSGBOX_DESC,The message has to be between 4 and %d characters. ,訊息必須在 4 到 %d 個字符之間。
+UI_HOUSINGGUESTBOOK_DEL_TITLE,Delete Message,刪除訊息
+UI_HOUSINGGUESTBOOK_DEL_CONFIRM,Delete this guest's message?,刪除這位訪客的訊息嗎？
+UI_PLAYERHOUSINGBUY_SIZE_EXTRA_LARGE,XL,加大
+UI_HOUSINGSETUP_FILTER_FLOOR,Floor,地板
+UI_HOUSINGSETUP_FILTER_CEILING,Ceiling,天花板
+UI_HOUSINGSETUP_FILTER_WALL,Wall,牆
 UI_PARTY_CHANGE_NAME,Name,名稱
 UI_PARTY_CHANGE_NAME_TIP,Change the Party name.,更改劇團名稱。
 UI_KALGAS_ASSAULT_NOT_SCHEDUL_DESC,There is no Kalgas Assault scheduled.,目前沒有卡爾加斯突擊戰行程。
@@ -2222,13 +2222,13 @@ UI_KALGAS_ASSAULT_ENTERTIME_DESC,Enter Kalgas Assault now?\n\nEntry time remaini
 UI_KALGAS_ASSAULT_REGISTRATIONTIME_DESC,Cannot enter Kalgas Assault yet.\n\nEntry Start: %02d:%02d:%02d,尚未開放進入卡爾加斯突擊戰。\n\n入場：%02d:%02d:%02d
 UI_KALGAS_ASSAULT_LATE_DESC,Today's Kalgas Assault has already started.,卡爾加斯突擊戰今天已經開始。
 UI_KALGAS_ASSAULT_REG_DESC,"#cff0000ffRegistration#nc\nTime until registration opens:\n %s \nTime until entry:\n %s \nMinimum level: %d\n\nCurrent number of registered players: %d\n\n※ Only players registered for Kalgas Assault can participate.\n※ You cannot enter after the entry period ends.\n※ Maximum 200 players per instance (100 vs 100).\n※ Ranking rewards require at least 20 players. If fewer than 20 players participate, only the winner reward will be granted.\n※ Teams are assigned randomly.",#cff0000ff報名#nc\n距離登記開始的時間:\n %s \n距離進入的時間:\n %s \n至少等級：%d\n\n目前已報名玩家人數：%d\n\n※ 僅限已報名卡爾加斯突擊戰的玩家參加。\n※ 時間限制過後將無法進場。\n※ 每個戰場最多 200 名玩家 (100 對 100)。\n※ 當參加人數少於 20 人時，將不提供排名獎勵，僅發放勝利獎勵。\n※ 系統將隨機分隊。
-UI_SUN,Sunday,Sunday
-UI_MON,Monday,Monday
-UI_TUE,Tuesday,Tuesday
-UI_WED,Wednesday,Wednesday
-UI_THU,Thursday,Thursday
-UI_FRI,Friday,Friday
-UI_SAT,Saturday,Saturday
+UI_SUN,Sunday,星期日
+UI_MON,Monday,星期一
+UI_TUE,Tuesday,星期二
+UI_WED,Wednesday,星期三
+UI_THU,Thursday,星期四
+UI_FRI,Friday,星期五
+UI_SAT,Saturday,星期六
 UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,卡爾加斯突擊戰資訊
 UI_KALGAS_ASSAULT_REGISTRATION_TITLE,Kalgas Assault Registration,卡爾加斯突擊登記處
 UI_KALGAS_ASSAULT_REGISTER,Registration,登記
@@ -2258,9 +2258,9 @@ UI_KALGAS_ASSAULT_UNFULFILLED_PLAY_TIME,You did not participate long enough to q
 UI_KALGAS_ASSAULT_WINNER,Congratulations. %s Team Wins!,恭喜！%s隊獲勝！
 UI_KALGAS_ASSAULT_DRAW,The winner could not be decided.,勝負難分。
 UI_KALGAS_ASSAULT_RETURN_COUNT,You will be moved to town in %d seconds.,您將在 %d 秒後被傳送到城鎮。
-UI_BLACK,Black,Black
-UI_WHITE,White,White
-UI_DRAW,Draw,Draw
+UI_BLACK,Black,黑色
+UI_WHITE,White,白色
+UI_DRAW,Draw,平手
 UI_KALGAS_ASSAULT_READY,Kalgas Assault is about to start!,卡爾加斯突擊戰即將開始！
 UI_KALGAS_ASSAULT_ENTRY_CLOSE_REMAINING,Kalgas Assault entry will close in %d minutes.,卡爾加斯突擊戰將於 %d 分鐘後關閉入場。
 UI_KALGAS_ASSAULT_PLAY_START_REMAINING,Kalgas Assault will start in %d minutes.,卡爾加斯突擊戰將於 %d 分鐘後開始。
@@ -2303,11 +2303,11 @@ UI_TOOLTIP_HOUSINGARTIFACT_RECOVERYRATE,Battle Artifact Recovery,神器之戰恢
 UI_TOOLTIP_PVPBLOCK_PENETRATION,PvP Block Penetration,PvP 格擋穿透
 UI_TOOLTIP_VENDORSHOP_DAY,Added Vendor Shop Day(s),增加行動商店天數
 UI_TOOLTIP_PARTYEXP_RATE,Party EXP,劇團經驗
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_HP,Guild Member HP Near Artifact,Guild Member HP Near Artifact
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_ATKRATE,Guild Member ATK Near Artifact,Guild Member ATK Near Artifact
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_DEFRATE,Guild Member DEF Near Artifact,Guild Member DEF Near Artifact
-UI_TOOLTIP_HOUSINGARTIFACT_ATKSPEED,Guild Member Attack Speed Near Artifact,Guild Member Attack Speed Near Artifact
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_SPELLRATE,Guild Member Casting Speed Near Artifact,Guild Member Casting Speed Near Artifact
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_HP,Guild Member HP Near Artifact,靠近文物的公會成員 HP
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_ATKRATE,Guild Member ATK Near Artifact,靠近文物的公會成員 ATK
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_DEFRATE,Guild Member DEF Near Artifact,靠近文物的公會成員 DEF
+UI_TOOLTIP_HOUSINGARTIFACT_ATKSPEED,Guild Member Attack Speed Near Artifact,靠近文物的公會成員攻擊速度
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_SPELLRATE,Guild Member Casting Speed Near Artifact,靠近文物的公會成員施法速度
 UI_TOOLTIP_PVPBLOCK_RATE,PvP Melee/Range Block,PvP 格擋
 UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,PvP 爆擊傷害
 UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,PvP 爆擊機率
@@ -2315,41 +2315,41 @@ UI_TOOLTIP_PENYA_RATE,Penya Drop Bonus,金幣掉落加成
 UI_OPTION_UNDERWATER,Underwater Effect,水下效果
 UI_REVIVAL_LODELIGHT_CONFIRM,Resurrect at Lodelight?,在生命光塔復活?
 UI_REVIVAL_LODESTAR_CONFIRM,Resurrect at Lodestar?,在城鎮之星復活?
-UI_CASHSHOP_CONFIRM_MSG_CMT,Purchase %dx %s (x%d) for %s?,Purchase %dx %s (x%d) for %s?
-UI_BATTLEPASS_MISSION_HOUSING_BOOK_WRITE,Write in a Friend's House Guestbook,Write in a Friend's House Guestbook
-UI_PURCHASE_INAPP_SUCCESS,Purchase was successful!,Purchase was successful!
-UI_PURCHASE_INAPP_CANCELED,Purchase has been cancelled.,Purchase has been cancelled.
-UI_PURCHASE_INAPP_ERROR,An error occurred. The purchase could not be completed.,An error occurred. The purchase could not be completed.
+UI_CASHSHOP_CONFIRM_MSG_CMT,Purchase %dx %s (x%d) for %s?,購買 %dx %s (x%d) 需要 %s 嗎？
+UI_BATTLEPASS_MISSION_HOUSING_BOOK_WRITE,Write in a Friend's House Guestbook,在朋友的房屋留言簿中寫下
+UI_PURCHASE_INAPP_SUCCESS,Purchase was successful!,購買成功！
+UI_PURCHASE_INAPP_CANCELED,Purchase has been cancelled.,購買已取消。
+UI_PURCHASE_INAPP_ERROR,An error occurred. The purchase could not be completed.,發生錯誤。無法完成購買。
 UI_TOOLTIP_MAGIC_CLOCK,Number of uses today: %d,今日已使用數量：%d
-UI_BATTLEPASS_MISSION_UPGRADE_GEAR_OR_ACC,Upgrade a Piece of Gear or an Accessory to +%s or Higher,Upgrade a Piece of Gear or an Accessory to +%s or Higher
+UI_BATTLEPASS_MISSION_UPGRADE_GEAR_OR_ACC,Upgrade a Piece of Gear or an Accessory to +%s or Higher,將齒輪或附件升級到 +%s 或更高等級
 UI_ACHIEVEMENTS_TITLE_TARGETMONSTERS,Monster(s) to kill,擊殺怪物
-UI_REVIVAL_INSTANT_CONFIRM,Use the Scroll of Resurrection to resurrect yourself?,Use the Scroll of Resurrection to resurrect yourself?
-UI_EVENT_ITEM_UPGRADE_MATERIAL,Catalyst,Catalyst
+UI_REVIVAL_INSTANT_CONFIRM,Use the Scroll of Resurrection to resurrect yourself?,使用復活捲軸復活自己嗎？
+UI_EVENT_ITEM_UPGRADE_MATERIAL,Catalyst,催化劑
 UI_OPTION_ACCOUNT_MANAGE_NOTIFICATIONS,Manage notifications,通知管理
 UI_OPTION_ACCOUNT_MANAGE_PRIVACY,Manage privacy,隱私管理
 UI_OPTION_ACCOUNT_TOS,Terms of Service,服務條款
 UI_OPTION_ACCOUNT_PRIVACY,Privacy Policy,隱私政策
-UI_OPTION_ACCOUNT_MEMBERSHIP_WITHDRAWAL,Membership Withdrawal,Membership Withdrawal
+UI_OPTION_ACCOUNT_MEMBERSHIP_WITHDRAWAL,Membership Withdrawal,會員資格撤銷
 UI_OPTION_ACCOUNT_CUSTOMER_CENTER,Customer Center,客戶中心
 UI_SERVICE_AGREEMENT_TITLE,Service agreement,服務協定
-UI_SERVICE_AGREEMENT_BIRTHDATE,(Required) Please enter your date of birth,(Required) Please enter your date of birth
-UI_SERVICE_AGREEMENT_ACCEPT_TERMS,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy
-UI_SERVICE_AGREEMENT_ACCEPT_TERMS_AGREE,(Required) I agree,(Required) I agree
-UI_SERVICE_AGREEMENT_TERMSOFSERVICE,Check the Terms of Service,Check the Terms of Service
-UI_SERVICE_AGREEMENT_PRIVACY_POLICY,Check the Privacy Policy,Check the Privacy Policy
-UI_SERVICE_AGREEMENT_ADVERTISEMENTS,(Optional) I agree to receive advertisements and updates about Flyff Universe and related services published on Flyff Universe,(Optional) I agree to receive advertisements and updates about Flyff Universe and related services published on Flyff Universe
-UI_SERVICE_AGREEMENT_NOTIFICATIONS,In-app push notifications,In-app push notifications
-UI_SERVICE_AGREEMENT_EMAIL,Email,Email
-UI_SERVICE_AGREEMENT_PHONE,Phone,Phone
-UI_SERVICE_AGREEMENT_CALIFORNIA_RESIDENT,Are you a California resident?,Are you a California resident?
-UI_SERVICE_AGREEMENT_ZIPCODE,ZIPCODE,ZIPCODE
-UI_SERVICE_AGREEMENT_CALIFORNIA_PRIVACY,Check the California Privacy Statement,Check the California Privacy Statement
-UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,Agree All
-UI_SERVICE_AGREEMENT_ERROR_TITLE,Agreement error,Agreement error
-UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Please enter a valid date of birth.
-UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,You must be at least 16 years old to play the game.
-UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,You must read and accept the terms of service and privacy policy to continue.
-UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Please enter a valid zip code.
+UI_SERVICE_AGREEMENT_BIRTHDATE,(Required) Please enter your date of birth,(必需) 請輸入您的出生日期
+UI_SERVICE_AGREEMENT_ACCEPT_TERMS,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy,我同意服務條款，並確認我已閱讀並理解隱私政策
+UI_SERVICE_AGREEMENT_ACCEPT_TERMS_AGREE,(Required) I agree,(必需) 我同意
+UI_SERVICE_AGREEMENT_TERMSOFSERVICE,Check the Terms of Service,檢查服務條款
+UI_SERVICE_AGREEMENT_PRIVACY_POLICY,Check the Privacy Policy,檢查隱私政策
+UI_SERVICE_AGREEMENT_ADVERTISEMENTS,(Optional) I agree to receive advertisements and updates about Flyff Universe and related services published on Flyff Universe,(可選) 我同意接收 Flyff Universe 上發布的關於 Flyff Universe 和相關服務的廣告和更新
+UI_SERVICE_AGREEMENT_NOTIFICATIONS,In-app push notifications,應用內推送通知
+UI_SERVICE_AGREEMENT_EMAIL,Email,電子郵件
+UI_SERVICE_AGREEMENT_PHONE,Phone,電話
+UI_SERVICE_AGREEMENT_CALIFORNIA_RESIDENT,Are you a California resident?,您是加州居民嗎？
+UI_SERVICE_AGREEMENT_ZIPCODE,ZIPCODE,郵遞區號
+UI_SERVICE_AGREEMENT_CALIFORNIA_PRIVACY,Check the California Privacy Statement,檢查加州隱私聲明
+UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,全部同意
+UI_SERVICE_AGREEMENT_ERROR_TITLE,Agreement error,協議錯誤
+UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,請輸入有效的出生日期。
+UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,您必須至少 16 歲才能進行遊戲。
+UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,您必須閱讀並接受服務條款和隱私政策才能繼續。
+UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,請輸入有效的郵遞區號。
 UI_ROLL_AND_MOVE_START,START,開始
 UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,投擲骰子
 UI_ROLL_AND_MOVE_COMPLETIONREWARD,Completion Reward,完成獎勵
@@ -2368,17 +2368,17 @@ UI_COUPON_LOGS_PAGE,Used Coupons,已使用優惠券
 UI_COUPON_LOGS_CODE,Code,號碼
 UI_COUPON_LOGS_USETIME,Used at,使用日期
 UI_COUPONGIFT_TITLE,Coupon Gift,優惠券禮物
-UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have sent you a coupon code to your post box.\nYou can redeem it from the #bEvents#nb menu at any time, on any server or character.\n\nEnjoy!","#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have sent you a coupon code to your post box.\nYou can redeem it from the #bEvents#nb menu at any time, on any server or character.\n\nEnjoy!"
-UI_MENU_REMOVE_SHORTCUT,Unpin,Unpin
-UI_MENU_SAVE,Save changes,Save changes
-UI_MENU_EDIT,Edit pinned menu items,Edit pinned menu items
-UI_MENU_FULL,You cannot pin any more menu items.,You cannot pin any more menu items.
-UI_MENU_UNSPECIFIED,Unspecified,Unspecified
+UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have sent you a coupon code to your post box.\nYou can redeem it from the #bEvents#nb menu at any time, on any server or character.\n\nEnjoy!",#cffff0000我們為您準備了一些東西！#nc\n\n感謝您玩 Flyff Universe #b%s#nb 版本。\n\n作為禮物，我們已向您的郵箱發送了優惠券代碼。\n您可以隨時在任何伺服器或角色上從 #bEvents#nb 選單中提取它。\n\n享受！
+UI_MENU_REMOVE_SHORTCUT,Unpin,取消固定
+UI_MENU_SAVE,Save changes,保存變化
+UI_MENU_EDIT,Edit pinned menu items,編輯固定選單項目
+UI_MENU_FULL,You cannot pin any more menu items.,您不能再固定任何選單項目。
+UI_MENU_UNSPECIFIED,Unspecified,未指定
 UI_OPTION_KEYREPEAT,Holding Keys,按鍵長按連續施放
 UI_DELETEACCOUNT_TITLE,Delete Account,刪除帳號
-UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Password for deleting account\nEnter the password
+UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,用於刪除帳號的密碼\n輸入密碼
 UI_DELETEACCOUNT_NOPASS,Do you confirm?,您確定嗎?
-UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies."
+UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.",當您取消會員資格時，所有數據將被刪除，您將無法使用該服務、恢復帳號或獲得任何剩餘付費物品或貨幣的退款。
 UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,在個人商店和行動商店中搜尋物品。
 UI_SEARCHSHOP_RARITY,Rarity,稀有度
 UI_SEARCHSHOP_UPGRADE,Upgrade:,精煉：
@@ -2411,45 +2411,45 @@ UI_SEARCHSHOP_MESSAGE,Message Seller,傳送訊息給賣家
 UI_SEARCHSHOP_TELEPORT,Teleport (%d / %d),傳送至商店位置 (%d / %d)
 UI_PURCHASE_INAPP_NOTICE,Notice,公告
 UI_PURCHASE_INAPP_PURCHASE,Purchase,購買
-UI_PURCHASE_INAPP_SELECT,Please select an offer to purchase.,Please select an offer to purchase.
-UI_PURCHASE_INAPP_EMPTY,There are currently no offers available.,There are currently no offers available.
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_500_AOS,Offer Summary:\n    #cffc32f07#b500 fCoins#nb#nc,Offer Summary:\n    #cffc32f07#b500 fCoins#nb#nc
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_1000_AOS,"Purchase this offer and receive #b#u50 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 fCoins (Free)","Purchase this offer and receive #b#u50 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 fCoins (Free)"
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_2000_AOS,"Purchase this offer and receive #b#u150 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 fCoins (Free)","Purchase this offer and receive #b#u150 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 fCoins (Free)"
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_3000_AOS,"Purchase this offer and receive #b#u300 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b3,000 fCoins#nb#nc\n    +300 fCoins (Free)","Purchase this offer and receive #b#u300 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b3,000 fCoins#nb#nc\n    +300 fCoins (Free)"
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_5000_AOS,"Purchase this offer and receive #b#u625 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b5,000 fCoins#nb#nc\n    +625 fCoins (Free)","Purchase this offer and receive #b#u625 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b5,000 fCoins#nb#nc\n    +625 fCoins (Free)"
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_10000_AOS,"Purchase this offer and receive #b#u1500 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b10,000 fCoins#nb#nc\n    +1,500 fCoins (Free)","Purchase this offer and receive #b#u1500 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b10,000 fCoins#nb#nc\n    +1,500 fCoins (Free)"
-UI_EVENT_HALLOWEEN_2024,Halloween Pumpkin Hunt,Halloween Pumpkin Hunt
-UI_PUMPKIN_HUNT,Halloween Pumpkin Hunt,Halloween Pumpkin Hunt
-UI_PUMPKIN_HUNT_REWARD_TITLE,Completion Reward,Completion Reward
-UI_PUMPKIN_HUNT_DESC,Pumpkins Destroyed,Pumpkins Destroyed
+UI_PURCHASE_INAPP_SELECT,Please select an offer to purchase.,請選擇要購買的優惠。
+UI_PURCHASE_INAPP_EMPTY,There are currently no offers available.,目前沒有可用的優惠。
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_500_AOS,Offer Summary:\n    #cffc32f07#b500 fCoins#nb#nc,優惠摘要：\n    #cffc32f07#b500 fCoins#nb#nc
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_1000_AOS,"Purchase this offer and receive #b#u50 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 fCoins (Free)","購買此優惠並免費獲得 #b#u50 fCoins#nu#nb！\n\n優惠摘要：\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 fCoins (免費)"
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_2000_AOS,"Purchase this offer and receive #b#u150 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 fCoins (Free)","購買此優惠並免費獲得 #b#u150 fCoins#nu#nb！\n\n優惠摘要：\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 fCoins (免費)"
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_3000_AOS,"Purchase this offer and receive #b#u300 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b3,000 fCoins#nb#nc\n    +300 fCoins (Free)","購買此優惠並免費獲得 #b#u300 fCoins#nu#nb！\n\n優惠摘要：\n    #cffc32f07#b3,000 fCoins#nb#nc\n    +300 fCoins (免費)"
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_5000_AOS,"Purchase this offer and receive #b#u625 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b5,000 fCoins#nb#nc\n    +625 fCoins (Free)","購買此優惠並免費獲得 #b#u625 fCoins#nu#nb！\n\n優惠摘要：\n    #cffc32f07#b5,000 fCoins#nb#nc\n    +625 fCoins (免費)"
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_10000_AOS,"Purchase this offer and receive #b#u1500 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b10,000 fCoins#nb#nc\n    +1,500 fCoins (Free)","購買此優惠並免費獲得 #b#u1500 fCoins#nu#nb！\n\n優惠摘要：\n    #cffc32f07#b10,000 fCoins#nb#nc\n    +1,500 fCoins (免費)"
+UI_EVENT_HALLOWEEN_2024,Halloween Pumpkin Hunt,萬聖節南瓜狩獵
+UI_PUMPKIN_HUNT,Halloween Pumpkin Hunt,萬聖節南瓜狩獵
+UI_PUMPKIN_HUNT_REWARD_TITLE,Completion Reward,完成獎勵
+UI_PUMPKIN_HUNT_DESC,Pumpkins Destroyed,摧毀的南瓜
 UI_SEARCHSHOP_PLAYERNAME,Player Name,玩家名稱
-UI_PVPCONTEST_MANUALMATCH_TITLE,PvP Manual Match,PvP Manual Match
+UI_PVPCONTEST_MANUALMATCH_TITLE,PvP Manual Match,PvP 手動比賽
 UI_PVPCONTEST_MANUALMATCH_PLAYERNAME,Name,名稱
-UI_PVPCONTEST_MANUALMATCH_INVITE1,Invite to Team 1,Invite to Team 1
-UI_PVPCONTEST_MANUALMATCH_INVITE2,Invite to Team 2,Invite to Team 2
-UI_PVPCONTEST_MANUALMATCH_INVITE3,Invite to Spectators,Invite to Spectators
-UI_PVPCONTEST_MANUALMATCH_START,Start Match,Start Match
-UI_PVPCONTEST_MANUALMATCH_TEAM1,Team 1,Team 1
-UI_PVPCONTEST_MANUALMATCH_TEAM2,Team 2,Team 2
-UI_PVPCONTEST_MANUALMATCH_OBSERVERS,Spectators,Spectators
+UI_PVPCONTEST_MANUALMATCH_INVITE1,Invite to Team 1,邀請加入團隊 1
+UI_PVPCONTEST_MANUALMATCH_INVITE2,Invite to Team 2,邀請加入團隊 2
+UI_PVPCONTEST_MANUALMATCH_INVITE3,Invite to Spectators,邀請觀眾
+UI_PVPCONTEST_MANUALMATCH_START,Start Match,開始比賽
+UI_PVPCONTEST_MANUALMATCH_TEAM1,Team 1,團隊 1
+UI_PVPCONTEST_MANUALMATCH_TEAM2,Team 2,團隊 2
+UI_PVPCONTEST_MANUALMATCH_OBSERVERS,Spectators,觀眾
 UI_PVPCONTEST_MANUALMATCH_READY,Ready,準備
 UI_BATTLEPASS_BONUS,Bonus,Bonus
 UI_MATOURNAMENT_RANKING_POINTS_TOOLTIP,Points,積分
 UI_MATOURNAMENT_RANKING_RANK,Rank,排名
-UI_MATOURNAMENT_RANKING_TEAMNAME,Team Name,Team Name
+UI_MATOURNAMENT_RANKING_TEAMNAME,Team Name,團隊名稱
 UI_MATOURNAMENT_RANKING_BACKUP_POINTS_TOOLTIP,Lives,Lives
-UI_MATOURNAMENT_TYPE_PRELIMINARY,Preliminary,Preliminary
-UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,Backup Match
-UI_MATOURNAMENT_TYPE_FINAL16,Round of 16,Round of 16
+UI_MATOURNAMENT_TYPE_PRELIMINARY,Preliminary,初選
+UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,備用比賽
+UI_MATOURNAMENT_TYPE_FINAL16,Round of 16,16 強
 UI_MATOURNAMENT_TYPE_QUATERFINAL,Quarter Final,Quarter Final
 UI_MATOURNAMENT_TYPE_SEMIFINAL,Semi Final,Semi Final
 UI_MATOURNAMENT_TYPE_THIRDPLACE,Third Place,Third Place
 UI_MATOURNAMENT_TYPE_FINAL,Final,最終
 UI_MATOURNAMENT_MATCH_RESULT_WIN,Win,Win
 UI_MATOURNAMENT_MATCH_RESULT_LOSE,Lose,Lose
-UI_MATOURNAMENT_MATCH_RESULT_DRAW,Draw,Draw
-UI_MATOURNAMENT_MATCH_RESULT_NORECORD,You have no matches for this day.,You have no matches for this day.
+UI_MATOURNAMENT_MATCH_RESULT_DRAW,Draw,平手
+UI_MATOURNAMENT_MATCH_RESULT_NORECORD,You have no matches for this day.,您這一天沒有比賽。
 UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type: %s,Type: %s
 UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team: %s,Other Team: %s
 UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time: %s,Play Time: %s
@@ -2460,10 +2460,10 @@ UI_MATOURNAMENT_WEEK_RESULT_REGISTRATION,REG,REG
 UI_MATOURNAMENT_WEEK_RESULT_PRELIMINARY,PRE,PRE
 UI_MATOURNAMENT_WEEK_RESULT_FINAL16,FINAL 16,FINAL 16
 UI_MATOURNAMENT_WEEK_RESULT_QUATERFINAL,FINAL 8,FINAL 8
-UI_MATOURNAMENT_TITLE,Madrigal Tournament Registration Board,Madrigal Tournament Registration Board
-UI_MATOURNAMENT_REGISTRATIONCOST,Registration fee:,Registration fee:
+UI_MATOURNAMENT_TITLE,Madrigal Tournament Registration Board,馬德里加爾競賽註冊板
+UI_MATOURNAMENT_REGISTRATIONCOST,Registration fee:,註冊費：
 UI_MATOURNAMENT_MAXPARTICIPATINGPLAYERS,Maximum players per team: ,Max participating players:
-UI_MATOURNAMENT_REGISTEREDGUILDS,Registered guilds (%d):,Registered guilds (%d):
+UI_MATOURNAMENT_REGISTEREDGUILDS,Registered guilds (%d):,已註冊的公會 (%d)：
 UI_MATOURNAMENT_REGISTER,Register,登錄
 UI_MATOURNAMENT_INFO,"Get a chance to win great riches in the Madrigal Tournament!\nJoin individually or as a party. For party battles, you can register with a party of up to 3 players. Registration is available Monday through %s from 00:00:00 to %s.","Get a chance to win great riches in the Madrigal Tournament!\nJoin individually or as a party. For party battles, you can register with a party of up to 3 players. Registration is available Monday through %s from 00:00:00 to %s."
 UI_MATOURNAMENT_REGISTEREDTEAMS,Registered teams (%d):,Registered teams (%d):
@@ -2478,13 +2478,13 @@ UI_MATOURNAMENT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.","In %d seco
 UI_MATOURNAMENT_RANKING_TITLE,Madrigal Tournament Contest Ranking,Madrigal Tournament Contest Ranking
 UI_MATOURNAMENT_RANKING_RANKING,Top 50 Ranking,Top 50 Ranking
 UI_MATOURNAMENT_RANKING_FINALTOURNAMENT,Final Tournament,Final Tournament
-UI_MATOURNAMENT_RANKING_BACKUP,Backup Match,Backup Match
+UI_MATOURNAMENT_RANKING_BACKUP,Backup Match,備用比賽
 UI_MATOURNAMENT_RANKING_CALENDAR,Schedule,Schedule
 UI_MATOURNAMENT_RANKING_DESC,"This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!","This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!"
 UI_MATOURNAMENT_REWARD_RANK,Rank,排名
 UI_MATOURNAMENT_REWARD_REWARD,Reward,報酬
 UI_MATOURNAMENT_REWARD_GRADE_QUARTERFINAL,Quarter Finals,Quarter Finals
-UI_MATOURNAMENT_REWARD_GRADE_FINAL16,Round of 16,Round of 16
+UI_MATOURNAMENT_REWARD_GRADE_FINAL16,Round of 16,16 強
 UI_MATOURNAMENT_REWARD_GRADE_PARTICIPATION,Participation,Participation
 UI_MATOURNAMENT_REWARD_TITLE,Madrigal Tournament Reward,Madrigal Tournament Reward
 UI_MATOURNAMENT_REGISTRATION_MINLEVEL,Minimum participant level:,Minimum participant level:
@@ -2639,7 +2639,7 @@ UI_LIFE_MASTERY_ORDINALY_ORE,Rock commonly found throughout the world. Yields Co
 UI_LIFE_MASTERY_REGULAR_ORE,Rock with a typical appearance. Yields Common-Uncommon ores.,Rock with a typical appearance. Yields Common-Uncommon ores.
 UI_PRODUCTION_INGREDIENT,Ingredients,Ingredients
 UI_PRODUCTION_FOOD,Food,餐飲店
-UI_PRODUCTION_BUFF,Buffs,Buffs
+UI_PRODUCTION_BUFF,Buffs,Buff
 UI_PRODUCTION_DRINK,Drinks,Drinks
 UI_PRODUCTION_REFRESHER,Refreshers,Refreshers
 UI_PRODUCTION_PILL,Pills,藥丸
@@ -3039,9 +3039,9 @@ UI_DEBUG_WATER,Water,水
 UI_DEBUG_SKYBOX,Skybox,天空盒
 UI_DEBUG_WEATHER,Weather,天氣
 UI_DEBUG_FOG,Fog,迷霧
-UI_DEBUG_LIGHT,Light,Light
+UI_DEBUG_LIGHT,Light,光
 UI_DEBUG_OBJ_CULLING,Object Culling,Object Culling
-UI_DEBUG_BUTT_EXP,Exp,Exp
+UI_DEBUG_BUTT_EXP,Exp,經驗值
 UI_DEBUG_MOVER_STATE,Movers states,Movers states
 UI_DEBUG_DYNAMIC_BUFF,Dynamic buffers,Dynamic buffers
 UI_DEBUG_RENDERING_INFO,Rendering Info,Rendering Info
