@@ -44,13 +44,13 @@ CLIENT_HELP_INC_000041,You can use an item by double-clicking it. You can also p
 CLIENT_HELP_INC_000042,You can place an item in the quick task bar located at the bottom of your screen. It is possible to use it instantly with the corresponding Hot Key or by clicking with your Mouse. Right click an item to remove the item from the quick slot.,你可以将物品拖动至快捷栏中，用按键和鼠标点击即可触发。右键快捷栏中的物品即可将其移除。
 CLIENT_HELP_INC_000043,,
 CLIENT_HELP_INC_000044,Chatting,聊天
-CLIENT_HELP_INC_000045,"Pressing enter will toggle the Chat Menu display on if you have closed it for any reason. Once the Chat Menu is open simply press Enter one time to toggle the chat function. Once you have typed your message simply press Enter again to send your message out. You will also see buttons for Whisper, Shout, Party, and Guild. These buttons will filter your message directly to those respective groups. There are also options for filtering your incoming chats, and viewing System Messages.",按下[回车键]可以显示聊天窗口，输入任意内容再次按下回车键即可发送内容。你也可以在其中看到“私信”，“呼喊”，“剧团”，“公会”的栏目消息。你也可以使用筛选系统消息和私信。
+CLIENT_HELP_INC_000045,"Pressing enter will toggle the Chat Menu display on if you have closed it for any reason. Once the Chat Menu is open simply press Enter one time to toggle the chat function. Once you have typed your message simply press Enter again to send your message out. You will also see buttons for Whisper, Shout, Party, and Guild. These buttons will filter your message directly to those respective groups. There are also options for filtering your incoming chats, and viewing System Messages.",按下 [回车键] 可以显示聊天窗口，输入任意内容再次按下回车键即可发送内容。你也可以在其中看到“私信”，“呼喊”，“剧团”，“公会”的栏目消息。你也可以使用筛选系统消息和私信。
 CLIENT_HELP_INC_000046,NPC Trading,NPC交易
-CLIENT_HELP_INC_000047,"To trade with an NPC, left click the NPC and choose Trade.",如需与NPC进行交易，左键点击NPC，选择[交易]。
+CLIENT_HELP_INC_000047,"To trade with an NPC, left click the NPC and choose Trade.",如需与NPC进行交易，左键点击NPC，选择 [交易]。
 CLIENT_HELP_INC_000048,You can purchase an item you want by dragging it into your inventory. The price of the item will show and if you accept the price a confirmation window will pop-up. Accept the confirmation window to finish the transaction.,如果你想购买物品，可以直接将物品拖动至背包中，价格显示窗口会随之弹出，点击同意后，交易自动成功。
 CLIENT_HELP_INC_000049,"If you are trying to sell items, just drag the item you want to sell from your inventory, into the NPC trade window.",如果你想出售物品，将你背包中的物品直接丢进NPC的窗口中即可。
 CLIENT_HELP_INC_000050,Player Trading,玩家交易
-CLIENT_HELP_INC_000051,"If you would like to trade with another player, you can hold down the ALT key and Left Click on the player, or simply Right Click on the player . A menu will appear, select trade, and wait for the other player to approve the trade.",如果你想与另外一位玩家进行交易，按住[Alt]键并鼠标左键点击玩家，选择[交易]，玩家同意后即可开始交易。
+CLIENT_HELP_INC_000051,"If you would like to trade with another player, you can hold down the ALT key and Left Click on the player, or simply Right Click on the player . A menu will appear, select trade, and wait for the other player to approve the trade.",如果你想与另外一位玩家进行交易，按住 [Alt] 键并鼠标左键点击玩家，选择 [交易]，玩家同意后即可开始交易。
 CLIENT_HELP_INC_000052,"Once the trade window opens you can drag items or Penya into the window. Make very sure that everything is just how you want it before clicking OK and ACCEPT. Never let anyone BORROW any items as they may not return what you lend them. Make sure you are getting the right items and right amount of Penya before you go through with a trade. All trades are done at your own risk so please be very careful. If you lose something, get the wrong item, or the wrong Penya amount there is nothing that can be done to get the item back. So be careful. If at any time you feel uncomfortable with a trade click the CANCEL button to end the trade.",交易窗口打开后，您可以将物品或金币拖到窗口中。 在单击“确定”和“接受”之前，请确保一切都如您所愿。 切勿让任何人借用任何物品，因为他们可能不会归还您借给他们的物品。 在进行交易之前，请确保您获得了正确的物品和正确数量的金币。 所有交易均由您自行承担风险，因此请务必小心。 如果您丢失了某物、拿错了物品或错误的金币金额，则无法将物品取回。 所以要小心。 如果您在任何时候对交易感到不满意，请单击取消按钮以结束交易。
 CLIENT_HELP_INC_000053,Once you put items in a trade window and select OK and ACCEPT the trade will go through and the items you traded for will be in your inventory. If your inventory box is full the trade will be canceled.,一旦您将物品放入交易窗口并选择“确定”和“接受”，交易就会完成，您交易的物品将在您的库存中。 如果您的库存箱已满，交易将被取消。
 CLIENT_HELP_INC_000054,Quests,任务
@@ -114,7 +114,7 @@ CLIENT_HELP_INC_000111,"This window opens when your HP reaches 0. There are thre
 CLIENT_HELP_INC_000112,Trade Menu,交易菜单
 CLIENT_HELP_INC_000113,"If you either initiate a Trade or Accept another players Trade Request, you will be presented with this menu. From here you can trade Penya and other various items. The trade will have to be confirmed before it is completed.",无论你是收到交易还是向对方发送交易请求，都会显示此交易窗口。在这你可以交易金币和其他物品。每次交易完成前都需要双方确认。
 CLIENT_HELP_INC_000114,Bank Menu,银行菜单
-CLIENT_HELP_INC_000115,This Menu will allow you to store various items and Penya without taking up space in your inventory. You can access your bank from the [Public Office] NPC in each major city.,此菜单将允许您在不占用道具栏空间的情况下存储各种物品和 金币。您可以从每个主要城市的[城镇服务处] NPC 访问您的仓库。
+CLIENT_HELP_INC_000115,This Menu will allow you to store various items and Penya without taking up space in your inventory. You can access your bank from the [Public Office] NPC in each major city.,此菜单将允许您在不占用道具栏空间的情况下存储各种物品和 金币。您可以从每个主要城市的 [城镇服务处] NPC 访问您的仓库。
 CLIENT_HELP_INC_000116,Task Bar,任务栏
 CLIENT_HELP_INC_000117,"This section refers to the bar that runs along the bottom of your screen. It houses your Start Menu, System Slots, and Quick Action Slots.",此选项卡指的是屏幕底部运行的一栏。它包含您的开始菜单、快捷栏以及连续技能栏。
 CLIENT_HELP_INC_000118,Start Menu,开始菜单
@@ -643,7 +643,7 @@ CLIENT_HELP_INC_000641,"The Guild Master can manage his Guild from the Guild Men
 CLIENT_HELP_INC_000642,Managing Guild Ranks,管理公会排名
 CLIENT_HELP_INC_000643,"The Guild Master can manage Guild Ranks in the Guild Menu. He can set the authority of the title, degree, admission, access to items and monthly payment.",公会会长可以设置公会详情方面的东西。比如称号，等级，进公会的许可，拿取公会仓库物品的权限和公会月付等。
 CLIENT_HELP_INC_000644,Announcement,公告
-CLIENT_HELP_INC_000645,Guild Masters can make an announcement by clicking the Notice button on the Information Tab in the Guild Menu. Either a new message can be made of the old one can simply be modified.,公会会长可以在公会菜单的[通知]中发布公告。
+CLIENT_HELP_INC_000645,Guild Masters can make an announcement by clicking the Notice button on the Information Tab in the Guild Menu. Either a new message can be made of the old one can simply be modified.,公会会长可以在公会菜单的 [通知] 中发布公告。
 CLIENT_HELP_INC_000646,Guild Logo,公会Logo
 CLIENT_HELP_INC_000647,"The Guild Logo is the symbol or emblem of the Guild. This can be chosen only once and only by the Guild Master. To use this function, select the Logo button in the Guild Menu.",公会Logo是代表公会的一个徽章或象征，仅会长可选，且只可选择一次。
 CLIENT_HELP_INC_000648,Guild Storage,仓库

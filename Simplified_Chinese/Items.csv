@@ -6349,9 +6349,9 @@ PROPITEM_TXT_100097,This scroll gives a random skill bonus to your weapon. If th
 PROPITEM_TXT_100098,Scroll of Shield Bonus,盾牌唤醒卷轴
 PROPITEM_TXT_100099,This scroll gives a random bonus to your shield. If the shield already has a bonus it will be overwritten.,此卷轴会让你的盾牌获取随机增益效果。如果该盾牌已经有了增益效果，它将被覆盖。
 PROPITEM_TXT_008916,Scroll of Reduction B,装备降级卷轴 B
-PROPITEM_TXT_008917,"Reduces the required level to use an item by 5. Once changed, it cannot be traded or dropped. You cannot stack scrolls of reduction on a single item. Visit Jewel Manager Peach in Flarine to remove the reduction.",将物品的使用等级降低5。一旦更改，物品将无法交易或丢弃。 访问帕里的[珠宝大师]皮奇以解除该效果。
+PROPITEM_TXT_008917,"Reduces the required level to use an item by 5. Once changed, it cannot be traded or dropped. You cannot stack scrolls of reduction on a single item. Visit Jewel Manager Peach in Flarine to remove the reduction.",将物品的使用等级降低5。一旦更改，物品将无法交易或丢弃。 访问帕里的 [珠宝大师] 皮奇以解除该效果。
 PROPITEM_TXT_008918,Scroll of Reduction A,装备降级卷轴 A
-PROPITEM_TXT_008919,"Reduces the required level to use an item by 10. Once changed, it cannot be traded or dropped. You cannot stack scrolls of reduction on a single item. Visit Jewel Manager Peach in Flarine to remove the reduction.",将物品的使用等级降低10。一旦更改，物品将无法交易或丢弃。 访问帕里的[珠宝大师]皮奇以解除该效果。
+PROPITEM_TXT_008919,"Reduces the required level to use an item by 10. Once changed, it cannot be traded or dropped. You cannot stack scrolls of reduction on a single item. Visit Jewel Manager Peach in Flarine to remove the reduction.",将物品的使用等级降低10。一旦更改，物品将无法交易或丢弃。 访问帕里的 [珠宝大师] 皮奇以解除该效果。
 PROPITEM_TXT_100100,Entanale Axe,安托娜斧
 PROPITEM_TXT_100101,Entanale Bow,安托娜弓
 PROPITEM_TXT_100102,Entanale Yo-Yo,安托娜飞轮
@@ -14284,7 +14284,7 @@ PROPITEM_TXT_131424,"Instant respawn item that can be used only once when partic
 PROPITEM_TXT_131425,Kalgas Gold Coin,卡尔加斯金币
 PROPITEM_TXT_131426,"Instant respawn item that can be used unlimited number of times when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time.",瞬时复活道具，参与卡尔加斯突袭时可无限次使用。使用后将在起点立即复活，无等待时间。
 PROPITEM_TXT_131427,Kalgas Chip,卡尔加斯纸片
-PROPITEM_TXT_131428,Exchange this Kalgas chip to Waforu for wonderful rewards!,将卡尔加斯纸片交给[战斗商人] 华弗，兑换丰厚奖励！
+PROPITEM_TXT_131428,Exchange this Kalgas chip to Waforu for wonderful rewards!,将卡尔加斯纸片交给 [战斗商人] 华弗，兑换丰厚奖励！
 PROPITEM_TXT_722673,Valentine 2024 10% Red Set,Valentine 2024 10% Red Set
 PROPITEM_TXT_722674,Valentine 2024 10% Red Set (M),Valentine 2024 10% Red Set (M)
 PROPITEM_TXT_722675,The Valentine 2024 10% Red Set for male characters.,The Valentine 2024 10% Red Set for male characters.
@@ -24123,7 +24123,7 @@ PROPITEM_TXT_155074,A lock of Mara's hair.,一束玛拉的头发。
 PROPITEM_TXT_155075,Armor of Ghed,盖德之甲
 PROPITEM_TXT_155076,A well earned piece of Ghed's enchanted Armor.,一件盖德那件附魔铠甲中值得拥有的部件。
 PROPITEM_TXT_155077,Ankou's Scale,安库之鳞
-PROPITEM_TXT_155078,A scale from the hide of the [God of Death] Ankou. You may not want to be in possession of this when Ankou returns...,一片来自[死神] 安库表皮的鳞片。当安库归来时，你或许并不想持有此物……
+PROPITEM_TXT_155078,A scale from the hide of the [God of Death] Ankou. You may not want to be in possession of this when Ankou returns...,一片来自 [死神] 安库表皮的鳞片。当安库归来时，你或许并不想持有此物……
 PROPITEM_TXT_155079,Trap Tool,陷阱工具
 PROPITEM_TXT_155080,A tool used to place traps.,用于放置陷阱的工具。
 PROPITEM_TXT_155100,Stale Record,陈旧唱片
