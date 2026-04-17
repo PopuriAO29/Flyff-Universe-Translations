@@ -52,8 +52,8 @@ UI_EVENT_TRICKORTREAT,Trick or Treat,不給糖就搗蛋
 UI_EVENT_HALLOWEEN_WORLDBOSS,Halloween World Bosses,萬聖節世界魔王
 UI_EVENT_CATCHTHETHIEFSANTA,Catch the Thief Santa,抓住聖誕老人小偷
 UI_EVENT_NEWYEAR,New Year,新年
-UI_EVENT_BOSSDROPBOOST,Boss Drop Boost!,Boss 物品掉落率加成提升！
-UI_EVENT_BOSSDROPBOOST_DESC_20,Dungeon Boss Drop Rate +20%!,副本 Boss 物品掉落率加成 +20%！
+UI_EVENT_BOSSDROPBOOST,Boss Drop Boost!,首領物品掉落率加成提升！
+UI_EVENT_BOSSDROPBOOST_DESC_20,Dungeon Boss Drop Rate +20%!,副本首領物品掉落率加成 +20%！
 UI_EVENT_WEATHERBOOST,Weather Boost!,天氣提升！
 UI_EVENT_13SURVEY,1.3 Update Survey! Aim for special rewards!,v1.3 更新調查！爭取特別獎勵！
 UI_EVENT_ATTACK_OF_THE_SNOW_CLONES,Attack of the Snow Clones,克隆雪人的攻擊
@@ -106,7 +106,7 @@ UI_EVENT_LIFEGATHERINGSPAWN,Life Gathering Spawn Boost Event!,生活採集刷新
 UI_EVENT_LIFEGATHERINGSPAWN_DESC_20,20% more gathering objects spawn during the event!,活動期間採集物品刷新率提高 20%！
 UI_EVENT_LIFEWANDERINGMERCHANTITEMS,Life Wandering Merchant Extra Stock Event!,流浪商人額外庫存活動！
 UI_EVENT_LIFEWANDERINGMERCHANTITEMS_DESC_2,The Wandering Merchant offers 2 additional items for sale during the event!,活動期間，流浪商人將額外出售 2 件商品！
-UI_EVENT_3RD_ANNIV_FIELDBOSS,3rd Anniversary Field Boss Event,三週年世界 Boss 活動
+UI_EVENT_3RD_ANNIV_FIELDBOSS,3rd Anniversary Field Boss Event,三週年世界首領活動
 UI_EVENT_FWC_PREDICTION,FWC Prediction Event,FWC 預測活動
 UI_EVENT_FWC_PREDICTION_DESC,FWC Prediction Event!,FWC 預測活動！
 UI_EVENT_TIMETOUPGRADE,It's Time to Upgrade!,是時候強化升級了！

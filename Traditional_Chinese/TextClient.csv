@@ -9,7 +9,7 @@ TEXTCLIENT_DISCONNECTOTHER,Do you want to disconnect the other device?,您想斷
 TEXTCLIENT_DISCONNECTING,The device is being disconnected. Please login again in 10 seconds.,裝置正在中斷連線，請在 10 秒後重新登入。
 TEXTCLIENT_CHANNELFULL,"This channel is currently full, please wait a moment or select another channel.",此頻道目前已滿，請稍候或選擇其他頻道。
 TEXTCLIENT_NAMEALREADYUSED,That character name is already in use.,該角色名稱已被使用。
-TEXTCLIENT_BIGMONSTER,Boss Monster Detected!,發現 Boss 怪物！
+TEXTCLIENT_BIGMONSTER,Boss Monster Detected!,發現首領怪物！
 TEXTCLIENT_APP_MAP,World Map,世界地圖
 TEXTCLIENT_APP_OPTION,Options,選項
 TEXTCLIENT_APP_LOGOUT,Log Out,登出
@@ -715,7 +715,7 @@ TEXTCLIENT_ERROR_DISTANCE,You are too far from the target.,您離目標太遠了
 TEXTCLIENT_GUILDCOMBAT_KILLING_STREAK,%s is on a killing spree!,%s 正在大開殺戒！
 TEXTCLIENT_GUILDCOMBAT_RAMPAGE,%s is on a rampage!,%s 已經暴走了！
 TEXTCLIENT_GUILDCOMBAT_UNSTOPPABLE,%s is unstoppable!,%s 勢不可擋！
-TEXTCLIENT_GROUPQUEST_KILL_TIMER,%d minute(s) remaining to kill the boss,剩餘 %d 分鐘擊殺 Boss。
+TEXTCLIENT_GROUPQUEST_KILL_TIMER,%d minute(s) remaining to kill the boss,剩餘 %d 分鐘擊殺首領。
 TEXTCLIENT_GROUPQUEST_KILL,%s killed the %s!,%s 擊殺了 %s！
 TEXTCLIENT_GROUPQUEST_KILL_GUILD,%s from Guild %s killed the %s!,%s ( %s 公會) 擊殺了 %s！
 TEXTCLIENT_GROUPQUEST_LOOT_TIMER,%d minute(s) remaining to loot the items,剩餘 %d 分鐘可拾取物品。
@@ -958,7 +958,7 @@ TEXTCLIENT_DUNGEON_WINNER,This week's winner of the %s is %s Guild,本週 %s 的
 TEXTCLIENT_DUNGEON_NOWINNER,There is no winning Guild of the %s,%s 沒有獲勝的公會
 TEXTCLIENT_CHANNELPK,You cannot teleport on a non-PK channel while using a PK ticket,使用 PK 票時，無法在非 PK 頻道傳送。
 TEXTCLIENT_DUNGEON_CLEARED,Dungeon cleared in %s!,耗時 %s 通關副本！
-TEXTCLIENT_DUNGEONFORCEDSPAWN,Congratulations! You killed all the %s(s)! Boss will spawn with a bonus!,恭喜！你殺死了所有的 %s！ Boss 生成時將會擁有額外加成！
+TEXTCLIENT_DUNGEONFORCEDSPAWN,Congratulations! You killed all the %s(s)! Boss will spawn with a bonus!,恭喜！你殺死了所有的 %s！ 首領生成時將會擁有額外加成！
 TEXTCLIENT_SOMEONEUSING,Another player is using this! Please wait..,其他玩家正在使用中！請稍候…
 TEXTCLIENT_NOTUSESKILL_ITEMUSE_CUMULABLE,The item %s is only cumulable if the buff is the exact same item. Current buff item %s.,只有當 Buff 效果與物品：%s完全相同時，才能疊加。當前 Buff 物品：%s。
 TEXTCLIENT_COSTUMECOLLECTION_ISEVENTUSED,Costume is already used.,已完成時裝收集活動。
@@ -1513,7 +1513,7 @@ TEXTCLIENT_STATUE_BASE02,A statue in the name of the first person to reach maxim
 TEXTCLIENT_UPGRADE_WRONG_MATERIAL,Invalid material item for upgrade.,升級材料無效。
 TEXTCLIENT_NOT_ENTER_TIME,You cannot participate right now.,您目前無法參與。
 TEXTCLIENT_NOT_ENTER_LEVEL,You can participate from level %d.,您可以從 %d 級開始參與。
-TEXTCLIENT_EXIT_BOSSRAID_DUNGEON,The boss monster has been defeated. You will exit the dungeon in %d seconds.,Boss 怪物已被擊殺，您將在 %d 秒後離開副本。
+TEXTCLIENT_EXIT_BOSSRAID_DUNGEON,The boss monster has been defeated. You will exit the dungeon in %d seconds.,首領怪物已被擊殺，您將在 %d 秒後離開副本。
 TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,紅隊
 TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,藍隊
 TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,綠隊
