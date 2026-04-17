@@ -6526,7 +6526,7 @@ PROPITEM_TXT_010577,"Increases your Health Points (HP) by +300 and your Attack P
 PROPITEM_TXT_010578,Super Charged Power Scroll,究極力量卷軸
 PROPITEM_TXT_010579,Increases your Health Points (HP) by +600 and your Attack Power (ATK) by +300 for one hour.,HP+600 和攻擊力 +300，持續1小時
 PROPITEM_TXT_008924,Blessing of the Goddess,女神祝福
-PROPITEM_TXT_008925,Adds an additional stat to Premium Shop fashion items and cloaks. Target item becomes no-trade unless the blessing is removed by Jewel Manager Peach in Flarine.,對高級商店的外觀物品和披風附加能力，物品將會變成無法交易狀態，除非到[寶石專家] 波奇那移除效果
+PROPITEM_TXT_008925,Adds an additional stat to Premium Shop fashion items and cloaks. Target item becomes no-trade unless the blessing is removed by Jewel Manager Peach in Flarine.,對高級商店的外觀物品和披風附加能力，物品將會變成無法交易狀態，除非到 [寶石專家] 波奇那移除效果
 PROPITEM_TXT_008090,Pieceslayer,碧斯史雷伊爾劍
 PROPITEM_TXT_008092,Lasterslayer,雷斯特史雷伊爾劍
 PROPITEM_TXT_008094,Piecenition,碧斯黎聖斧
@@ -10664,7 +10664,7 @@ PROPITEM_TXT_300039,Increases Defense. Can be upgraded with a Power Dice 8 or 10
 PROPITEM_TXT_300040,Hawkeye's Earring,鷹眼耳環
 PROPITEM_TXT_300041,Increases Attack Power. Can be upgraded with a Power Dice 8 or 10 up to level 20.,增加攻擊力。 可使用能量骰子 8 或 10 升級至 20 級。
 PROPITEM_TXT_300042,FWC Jewel Piece,FWC 珠寶首飾
-PROPITEM_TXT_300043,You can exchange these pieces to FWC Jewelry at [FWC Manager] Ava.,您可以在[FWC 經理] Ava將這些作品兌換成 FWC 珠寶。
+PROPITEM_TXT_300043,You can exchange these pieces to FWC Jewelry at [FWC Manager] Ava.,您可以在 [FWC 經理] Ava將這些作品兌換成 FWC 珠寶。
 PROPITEM_TXT_300045,Magic Power Statted Glasses (Black),魔法眼鏡 (黑色)
 PROPITEM_TXT_300046,Attack Statted Glasses (Black),攻擊眼鏡 (黑色)
 PROPITEM_TXT_300047,Defense Statted Glasses (Black),防禦眼鏡 (黑色)
@@ -11733,7 +11733,7 @@ PROPITEM_TXT_400003,Contains a random costume.,包含隨機服裝。
 PROPITEM_TXT_400004,Connect Random Box,連接隨機箱
 PROPITEM_TXT_400005,A box that contains many useful items!,一個箱子，裡面有很多有用的物品！
 PROPITEM_TXT_400006,W-Token,W代幣
-PROPITEM_TXT_400007,Exchange this token at [Token Merchant] Andrew for a Connect Random Box or a G-Token providing Guild Buffs!,在[代幣商人] 安德魯處用此代幣兌換連接隨機盒或提供公會增益的G代幣！
+PROPITEM_TXT_400007,Exchange this token at [Token Merchant] Andrew for a Connect Random Box or a G-Token providing Guild Buffs!,在 [代幣商人] 安德魯處用此代幣兌換連接隨機盒或提供公會增益的G代幣！
 PROPITEM_TXT_400008,G-Token,G代幣
 PROPITEM_TXT_400009,Donate this token to your Guild and unlock Guild Buffs!,將此代幣捐給您的公會並解鎖公會增益！
 PROPITEM_TXT_121900,Red Costume Box (Suit),紅色服裝箱 (上衣)
@@ -14284,7 +14284,7 @@ PROPITEM_TXT_131424,"Instant respawn item that can be used only once when partic
 PROPITEM_TXT_131425,Kalgas Gold Coin,卡爾加斯金幣
 PROPITEM_TXT_131426,"Instant respawn item that can be used unlimited number of times when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time.",瞬逝復活道具，參與「卡爾加斯突襲」時可無限次使用。使用後將在起點立即復活，無等待時間。
 PROPITEM_TXT_131427,Kalgas Chip,卡爾加斯籌碼
-PROPITEM_TXT_131428,Exchange this Kalgas chip to Waforu for wonderful rewards!,將卡爾加斯籌碼交給[戰鬥商人] 華弗，兌換豐厚獎勵！
+PROPITEM_TXT_131428,Exchange this Kalgas chip to Waforu for wonderful rewards!,將卡爾加斯籌碼交給 [戰鬥商人] 華弗，兌換豐厚獎勵！
 PROPITEM_TXT_722673,Valentine 2024 10% Red Set,Valentine 2024 10% Red Set
 PROPITEM_TXT_722674,Valentine 2024 10% Red Set (M),Valentine 2024 10% Red Set (M)
 PROPITEM_TXT_722675,The Valentine 2024 10% Red Set for male characters.,The Valentine 2024 10% Red Set for male characters.
@@ -24123,7 +24123,7 @@ PROPITEM_TXT_155074,A lock of Mara's hair.,一束瑪拉的頭髮。
 PROPITEM_TXT_155075,Armor of Ghed,蓋德之甲
 PROPITEM_TXT_155076,A well earned piece of Ghed's enchanted Armor.,一件蓋德那件附魔鎧甲中值得擁有的部件。
 PROPITEM_TXT_155077,Ankou's Scale,安庫之鱗
-PROPITEM_TXT_155078,A scale from the hide of the [God of Death] Ankou. You may not want to be in possession of this when Ankou returns...,一片來自[死神] 安庫表皮的鱗片。當安庫歸來時，你或許並不想持有此物……
+PROPITEM_TXT_155078,A scale from the hide of the [God of Death] Ankou. You may not want to be in possession of this when Ankou returns...,一片來自 [死神] 安庫表皮的鱗片。當安庫歸來時，你或許並不想持有此物……
 PROPITEM_TXT_155079,Trap Tool,陷阱工具
 PROPITEM_TXT_155080,A tool used to place traps.,用於放置陷阱的工具。
 PROPITEM_TXT_155100,Stale Record,陳舊唱片
