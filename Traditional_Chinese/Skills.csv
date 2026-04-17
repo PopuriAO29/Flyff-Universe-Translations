@@ -782,17 +782,17 @@ PROPSKILL_TXT_150200,Tempest Barrage,風暴連襲
 PROPSKILL_TXT_150201,Creates a sword aura that damages nearby enemies and increases defense.,生成劍罡，對附近敵人造成傷害並提升防禦。
 PROPSKILL_TXT_150202,Speed Increase,增加移動速度
 PROPSKILL_TXT_150203,Bleeding,流血
-PROPSKILL_TXT_150205,First Blood,第一滴血
+PROPSKILL_TXT_150205,First Blood,嗜血先機
 PROPSKILL_TXT_150206,"Deal more skill damage at the cost of extra HP cost, and restore HP when defeating bleeding enemies.",以消耗更多生命值為代價，提升技能傷害；擊敗流血狀態的敵人時可恢復生命值。
-PROPSKILL_TXT_150207,Left Handed,強壯左手
+PROPSKILL_TXT_150207,Left Handed,左手專精
 PROPSKILL_TXT_150208,Sub-weapon attacks deal increased damage with normal attacks.,副武器的普通攻擊造成額外傷害。
-PROPSKILL_TXT_150209,Ambidextrous,雙全手
+PROPSKILL_TXT_150209,Ambidextrous,雙持精通
 PROPSKILL_TXT_150210,You become more comfortable using both of your hands simultaneously.,你能夠更加嫻熟地雙手協同作戰。
-PROPSKILL_TXT_150211,Blood Armor,血鎧
+PROPSKILL_TXT_150211,Blood Armor,血鎧護體
 PROPSKILL_TXT_150212,Damage reduction increases as HP decreases.,生命值越低，傷害減免越高。
-PROPSKILL_TXT_150213,Master of Sword,劍刃大師
+PROPSKILL_TXT_150213,Master of Sword,劍術精通
 PROPSKILL_TXT_150214,Reduces Slayer skill cooldowns and increases critical chance. Scales with number of swords equipped.,減少屠戮者技能冷卻時間，並提升暴擊率，數值根據裝備的劍數量加成。
-PROPSKILL_TXT_150215,Master of Axe,戰斧大師
+PROPSKILL_TXT_150215,Master of Axe,戰斧精通
 PROPSKILL_TXT_150216,Increases attack power. Scaled with number of axes equipped.,提升三轉技能攻擊力，數值根據裝備的斧頭數量加成。
 PROPSKILL_TXT_150217,Survival Stance,生存姿態
 PROPSKILL_TXT_150218,Enhance your defense shortly after being affected by a disable or immobility type debuff.,受到控制或定身類減益效果影響後，短時間內提升自身防禦。
@@ -928,7 +928,7 @@ PROPSKILL_TXT_150382,Water Counter,水之反制
 PROPSKILL_TXT_150383,Voltguard,伏特衛盾
 PROPSKILL_TXT_150384,Stone Pillar,巖突柱
 PROPSKILL_TXT_150385,Increased Explosion Range,爆炸範圍提升
-PROPSKILL_TXT_150386,Swampy Area,沼澤區域
+PROPSKILL_TXT_150386,Swampy Area,沼澤領域
 PROPSKILL_TXT_150387,Electric Counter,雷電反擊
 PROPSKILL_TXT_150388,"Incinerate your target, dealing damage and burning them. If used on a burning target, they take extra damage. Burned enemies also hurt nearby enemies, but do not burn them.",焚燒你的目標，造成傷害並使其灼燒。對已灼燒目標使用時，目標會受到額外傷害。被灼燒的敵人還會對附近敵人造成傷害，但不會使其灼燒。
 PROPSKILL_TXT_150389,Suffocation,窒息
