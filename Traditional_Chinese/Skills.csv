@@ -791,7 +791,7 @@ PROPSKILL_TXT_150210,You become more comfortable using both of your hands simult
 PROPSKILL_TXT_150211,Blood Armor,血鎧護體
 PROPSKILL_TXT_150212,Damage reduction increases as HP decreases.,生命值越低，傷害減免越高。
 PROPSKILL_TXT_150213,Master of Sword,劍術精通
-PROPSKILL_TXT_150214,Reduces Slayer skill cooldowns and increases critical chance. Scales with number of swords equipped.,減少屠戮者技能冷卻時間，並提升暴擊率，數值根據裝備的劍數量加成。
+PROPSKILL_TXT_150214,Reduces Slayer skill cooldowns and increases critical chance. Scales with number of swords equipped.,減少狂戰士技能冷卻時間，並提升暴擊率，數值根據裝備的劍數量加成。
 PROPSKILL_TXT_150215,Master of Axe,戰斧精通
 PROPSKILL_TXT_150216,Increases attack power. Scaled with number of axes equipped.,提升三轉技能攻擊力，數值根據裝備的斧頭數量加成。
 PROPSKILL_TXT_150217,Survival Stance,生存姿態
