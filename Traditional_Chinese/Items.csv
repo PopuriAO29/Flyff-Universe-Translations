@@ -12584,14 +12584,14 @@ PROPITEM_TXT_160065,Teleport to Coral Island,傳送到珊瑚島
 PROPITEM_TXT_722003,This housing pack contains various models to decorate your house or guild ship!,內含多種模型，助你裝點私人宅邸或公會飛船！
 PROPITEM_TXT_722004,Blank World Template (XL),空白世界模板 (XL)
 PROPITEM_TXT_722005,This will give you a new template for your house!,這將為你的房子提供一個新的模板！
-PROPITEM_TXT_011508,Bileire Helmet,比雷爾頭盔
-PROPITEM_TXT_011509,Bileire Suit,比雷爾套裝
-PROPITEM_TXT_011510,Bileire Gauntlets,比雷爾護手
-PROPITEM_TXT_011511,Bileire Boots,比雷爾戰靴
-PROPITEM_TXT_011512,Bilari Helmet,比拉里頭盔
-PROPITEM_TXT_011513,Bilari Suit,比拉里套裝
-PROPITEM_TXT_011514,Bilari Gauntlets,比拉里護手
-PROPITEM_TXT_011515,Bilari Boots,比拉里戰靴
+PROPITEM_TXT_011508,Bileire Helmet,比萊爾頭盔
+PROPITEM_TXT_011509,Bileire Suit,比萊爾套裝
+PROPITEM_TXT_011510,Bileire Gauntlets,比萊爾護手
+PROPITEM_TXT_011511,Bileire Boots,比萊爾戰靴
+PROPITEM_TXT_011512,Bilari Helmet,碧菈莉頭盔
+PROPITEM_TXT_011513,Bilari Suit,碧菈莉套裝
+PROPITEM_TXT_011514,Bilari Gauntlets,碧菈莉護手
+PROPITEM_TXT_011515,Bilari Boots,碧菈莉戰靴
 PROPITEM_TXT_011516,Heraud Helmet,赫羅德頭盔
 PROPITEM_TXT_011517,Heraud Suit,赫羅德套裝
 PROPITEM_TXT_011518,Heraud Gauntlets,赫羅德護手
@@ -12604,26 +12604,26 @@ PROPITEM_TXT_011524,Curio Helmet,丘里歐頭盔
 PROPITEM_TXT_011525,Curio Suit,丘里歐套裝
 PROPITEM_TXT_011526,Curio Gauntlets,丘里歐護手
 PROPITEM_TXT_011527,Curio Boots,丘里歐戰靴
-PROPITEM_TXT_011528,Curena Helmet,丘瑞娜頭盔
-PROPITEM_TXT_011529,Curena Suit,丘瑞娜套裝
-PROPITEM_TXT_011530,Curena Gauntlets,丘瑞娜護手
-PROPITEM_TXT_011531,Curena Boots,丘瑞娜戰靴
+PROPITEM_TXT_011528,Curena Helmet,丘蕊娜頭盔
+PROPITEM_TXT_011529,Curena Suit,丘蕊娜套裝
+PROPITEM_TXT_011530,Curena Gauntlets,丘蕊娜護手
+PROPITEM_TXT_011531,Curena Boots,丘蕊娜戰靴
 PROPITEM_TXT_011532,Hainure Helmet,海努雷頭盔
 PROPITEM_TXT_011533,Hainure Suit,海努雷套裝
 PROPITEM_TXT_011534,Hainure Gauntlets,海努雷護手
 PROPITEM_TXT_011535,Hainure Boots,海努雷戰靴
-PROPITEM_TXT_011536,Hanira Helmet,哈妮拉頭盔
-PROPITEM_TXT_011537,Hanira Suit,哈妮拉套裝
-PROPITEM_TXT_011538,Hanira Gauntlets,哈妮拉護手
-PROPITEM_TXT_011539,Hanira Boots,哈妮拉戰靴
+PROPITEM_TXT_011536,Hanira Helmet,哈妮菈頭盔
+PROPITEM_TXT_011537,Hanira Suit,哈妮菈套裝
+PROPITEM_TXT_011538,Hanira Gauntlets,哈妮菈護手
+PROPITEM_TXT_011539,Hanira Boots,哈妮菈戰靴
 PROPITEM_TXT_011540,Reine Helmet,雷恩頭盔
 PROPITEM_TXT_011541,Reine Suit,雷恩套裝
 PROPITEM_TXT_011542,Reine Gauntlets,雷恩護手
 PROPITEM_TXT_011543,Reine Boots,雷恩戰靴
-PROPITEM_TXT_011544,Rayne Helmet,雷恩娜頭盔
-PROPITEM_TXT_011545,Rayne Suit,雷恩娜套裝
-PROPITEM_TXT_011546,Rayne Gauntlets,雷恩娜護手
-PROPITEM_TXT_011547,Rayne Boots,雷恩娜戰靴
+PROPITEM_TXT_011544,Rayne Helmet,蕾恩娜頭盔
+PROPITEM_TXT_011545,Rayne Suit,蕾恩娜套裝
+PROPITEM_TXT_011546,Rayne Gauntlets,蕾恩娜護手
+PROPITEM_TXT_011547,Rayne Boots,蕾恩娜戰靴
 PROPITEM_TXT_011548,Roenier Helmet,羅尼爾頭盔
 PROPITEM_TXT_011549,Roenier Suit,羅尼爾套裝
 PROPITEM_TXT_011550,Roenier Gauntlets,羅尼爾護手
@@ -12636,18 +12636,18 @@ PROPITEM_TXT_011556,Reffiro Helmet,雷菲羅頭盔
 PROPITEM_TXT_011557,Reffiro Suit,雷菲羅套裝
 PROPITEM_TXT_011558,Reffiro Gauntlets,雷菲羅護手
 PROPITEM_TXT_011559,Reffiro Boots,雷菲羅戰靴
-PROPITEM_TXT_011560,Rephira Helmet,雷菲拉頭盔
-PROPITEM_TXT_011561,Rephira Suit,雷菲拉套裝
-PROPITEM_TXT_011562,Rephira Gauntlets,雷菲拉護手
-PROPITEM_TXT_011563,Rephira Boots,雷菲拉戰靴
+PROPITEM_TXT_011560,Rephira Helmet,蕾菲菈頭盔
+PROPITEM_TXT_011561,Rephira Suit,蕾菲菈套裝
+PROPITEM_TXT_011562,Rephira Gauntlets,蕾菲菈護手
+PROPITEM_TXT_011563,Rephira Boots,蕾菲菈戰靴
 PROPITEM_TXT_011564,Lippin Helmet,利平頭盔
 PROPITEM_TXT_011565,Lippin Suit,利平套裝
 PROPITEM_TXT_011566,Lippin Gauntlets,利平護手
 PROPITEM_TXT_011567,Lippin Boots,利平戰靴
-PROPITEM_TXT_011568,Lypine Helmet,萊平頭盔
-PROPITEM_TXT_011569,Lypine Suit,萊平套裝
-PROPITEM_TXT_011570,Lypine Gauntlets,萊平護手
-PROPITEM_TXT_011571,Lypine Boots,萊平戰靴
+PROPITEM_TXT_011568,Lypine Helmet,莉派茵頭盔
+PROPITEM_TXT_011569,Lypine Suit,莉派茵套裝
+PROPITEM_TXT_011570,Lypine Gauntlets,莉派茵護手
+PROPITEM_TXT_011571,Lypine Boots,莉派茵戰靴
 PROPITEM_TXT_011572,"Forged as a relic of ancient craftsmanship, lost to the ages.",它是古代工藝的遺物，已失傳多年。
 PROPITEM_TXT_722006,Jewelry Dust,首飾粉塵
 PROPITEM_TXT_722007,Dismantle jewelry for this dust and use it towards better jewelry.,分解首飾獲取此粉塵，並將其用於打造更好的首飾。
@@ -15488,50 +15488,50 @@ PROPITEM_TXT_724639,FWC Golden Heraud Helmet,FWC 黃金赫羅德頭盔
 PROPITEM_TXT_724640,FWC Golden Heraud Suit,FWC 黃金赫羅德套裝
 PROPITEM_TXT_724641,FWC Golden Heraud Gauntlets,FWC 黃金赫羅德護手
 PROPITEM_TXT_724642,FWC Golden Heraud Boots,FWC 黃金赫羅德戰靴
-PROPITEM_TXT_724643,FWC Golden Lypine Helmet,FWC 黃金萊平頭盔
-PROPITEM_TXT_724644,FWC Golden Lypine Suit,FWC 黃金萊平套裝
-PROPITEM_TXT_724645,FWC Golden Lypine Gauntlets,FWC 黃金萊平護手
-PROPITEM_TXT_724646,FWC Golden Lypine Boots,FWC 黃金萊平戰靴
+PROPITEM_TXT_724643,FWC Golden Lypine Helmet,FWC 黃金莉派茵頭盔
+PROPITEM_TXT_724644,FWC Golden Lypine Suit,FWC 黃金莉派茵套裝
+PROPITEM_TXT_724645,FWC Golden Lypine Gauntlets,FWC 黃金莉派茵護手
+PROPITEM_TXT_724646,FWC Golden Lypine Boots,FWC 黃金莉派茵戰靴
 PROPITEM_TXT_724647,FWC Golden Lippin Helmet,FWC 黃金利平頭盔
 PROPITEM_TXT_724648,FWC Golden Lippin Suit,FWC 黃金利平套裝
 PROPITEM_TXT_724649,FWC Golden Lippin Gauntlets,FWC 黃金利平護手
 PROPITEM_TXT_724650,FWC Golden Lippin Boots,FWC 黃金利平戰靴
-PROPITEM_TXT_724651,FWC Golden Curena Helmet,FWC 黃金丘瑞娜頭盔
-PROPITEM_TXT_724652,FWC Golden Curena Suit,FWC 黃金丘瑞娜套裝
-PROPITEM_TXT_724653,FWC Golden Curena Gauntlets,FWC 黃金丘瑞娜護手
-PROPITEM_TXT_724654,FWC Golden Curena Boots,FWC 黃金丘瑞娜戰靴
+PROPITEM_TXT_724651,FWC Golden Curena Helmet,FWC 黃金丘蕊娜頭盔
+PROPITEM_TXT_724652,FWC Golden Curena Suit,FWC 黃金丘蕊娜套裝
+PROPITEM_TXT_724653,FWC Golden Curena Gauntlets,FWC 黃金丘蕊娜護手
+PROPITEM_TXT_724654,FWC Golden Curena Boots,FWC 黃金丘蕊娜戰靴
 PROPITEM_TXT_724655,FWC Golden Curio Helmet,FWC 黃金丘里歐頭盔
 PROPITEM_TXT_724656,FWC Golden Curio Suit,FWC 黃金丘里歐套裝
 PROPITEM_TXT_724657,FWC Golden Curio Gauntlets,FWC 黃金丘里歐護手
 PROPITEM_TXT_724658,FWC Golden Curio Boots,FWC 黃金丘里歐戰靴
-PROPITEM_TXT_724659,FWC Golden Bilari Helmet,FWC 黃金比拉里頭盔
-PROPITEM_TXT_724660,FWC Golden Bilari Suit,FWC 黃金比拉里套裝
-PROPITEM_TXT_724661,FWC Golden Bilari Gauntlets,FWC 黃金比拉里護手
-PROPITEM_TXT_724662,FWC Golden Bilari Boots,FWC 黃金比拉里戰靴
-PROPITEM_TXT_724663,FWC Golden Bileire Helmet,FWC 黃金比雷爾頭盔
-PROPITEM_TXT_724664,FWC Golden Bileire Suit,FWC 黃金比雷爾套裝
-PROPITEM_TXT_724665,FWC Golden Bileire Gauntlets,FWC 黃金比雷爾護手
-PROPITEM_TXT_724666,FWC Golden Bileire Boots,FWC 黃金比雷爾戰靴
-PROPITEM_TXT_724667,FWC Golden Rephira Helmet,FWC 黃金雷菲拉頭盔
-PROPITEM_TXT_724668,FWC Golden Rephira Suit,FWC 黃金雷菲拉套裝
-PROPITEM_TXT_724669,FWC Golden Rephira Gauntlets,FWC 黃金雷菲拉護手
-PROPITEM_TXT_724670,FWC Golden Rephira Boots,FWC 黃金雷菲拉戰靴
+PROPITEM_TXT_724659,FWC Golden Bilari Helmet,FWC 黃金碧菈莉頭盔
+PROPITEM_TXT_724660,FWC Golden Bilari Suit,FWC 黃金碧菈莉套裝
+PROPITEM_TXT_724661,FWC Golden Bilari Gauntlets,FWC 黃金碧菈莉護手
+PROPITEM_TXT_724662,FWC Golden Bilari Boots,FWC 黃金碧菈莉戰靴
+PROPITEM_TXT_724663,FWC Golden Bileire Helmet,FWC 黃金比萊爾頭盔
+PROPITEM_TXT_724664,FWC Golden Bileire Suit,FWC 黃金比萊爾套裝
+PROPITEM_TXT_724665,FWC Golden Bileire Gauntlets,FWC 黃金比萊爾護手
+PROPITEM_TXT_724666,FWC Golden Bileire Boots,FWC 黃金比萊爾戰靴
+PROPITEM_TXT_724667,FWC Golden Rephira Helmet,FWC 黃金蕾菲菈頭盔
+PROPITEM_TXT_724668,FWC Golden Rephira Suit,FWC 黃金蕾菲菈套裝
+PROPITEM_TXT_724669,FWC Golden Rephira Gauntlets,FWC 黃金蕾菲菈護手
+PROPITEM_TXT_724670,FWC Golden Rephira Boots,FWC 黃金蕾菲菈戰靴
 PROPITEM_TXT_724671,FWC Golden Reffiro Helmet,FWC 黃金雷菲羅頭盔
 PROPITEM_TXT_724672,FWC Golden Reffiro Suit,FWC 黃金雷菲羅套裝
 PROPITEM_TXT_724673,FWC Golden Reffiro Gauntlets,FWC 黃金雷菲羅護手
 PROPITEM_TXT_724674,FWC Golden Reffiro Boots,FWC 黃金雷菲羅戰靴
-PROPITEM_TXT_724675,FWC Golden Hanira Helmet,FWC 黃金哈妮拉頭盔
-PROPITEM_TXT_724676,FWC Golden Hanira Suit,FWC 黃金哈妮拉套裝
-PROPITEM_TXT_724677,FWC Golden Hanira Gauntlets,FWC 黃金哈妮拉護手
-PROPITEM_TXT_724678,FWC Golden Hanira Boots,FWC 黃金哈妮拉戰靴
+PROPITEM_TXT_724675,FWC Golden Hanira Helmet,FWC 黃金哈妮菈頭盔
+PROPITEM_TXT_724676,FWC Golden Hanira Suit,FWC 黃金哈妮菈套裝
+PROPITEM_TXT_724677,FWC Golden Hanira Gauntlets,FWC 黃金哈妮菈護手
+PROPITEM_TXT_724678,FWC Golden Hanira Boots,FWC 黃金哈妮菈戰靴
 PROPITEM_TXT_724679,FWC Golden Hainure Helmet,FWC 黃金海努雷頭盔
 PROPITEM_TXT_724680,FWC Golden Hainure Suit,FWC 黃金海努雷套裝
 PROPITEM_TXT_724681,FWC Golden Hainure Gauntlets,FWC 黃金海努雷護手
 PROPITEM_TXT_724682,FWC Golden Hainure Boots,FWC 黃金海努雷戰靴
-PROPITEM_TXT_724683,FWC Golden Rayne Helmet,FWC 黃金雷恩娜頭盔
-PROPITEM_TXT_724684,FWC Golden Rayne Suit,FWC 黃金雷恩娜套裝
-PROPITEM_TXT_724685,FWC Golden Rayne Gauntlets,FWC 黃金雷恩娜護手
-PROPITEM_TXT_724686,FWC Golden Rayne Boots,FWC 黃金雷恩娜戰靴
+PROPITEM_TXT_724683,FWC Golden Rayne Helmet,FWC 黃金蕾恩娜頭盔
+PROPITEM_TXT_724684,FWC Golden Rayne Suit,FWC 黃金蕾恩娜套裝
+PROPITEM_TXT_724685,FWC Golden Rayne Gauntlets,FWC 黃金蕾恩娜護手
+PROPITEM_TXT_724686,FWC Golden Rayne Boots,FWC 黃金蕾恩娜戰靴
 PROPITEM_TXT_724687,FWC Golden Reine Helmet,FWC 黃金雷恩頭盔
 PROPITEM_TXT_724688,FWC Golden Reine Suit,FWC 黃金雷恩套裝
 PROPITEM_TXT_724689,FWC Golden Reine Gauntlets,FWC 黃金雷恩護手
@@ -24165,94 +24165,94 @@ PROPITEM_TXT_155116,Brathiel Helmet,布拉席爾頭盔
 PROPITEM_TXT_155117,Brathiel Suit,布拉席爾戰甲
 PROPITEM_TXT_155118,Brathiel Gauntlets,布拉席爾護手
 PROPITEM_TXT_155119,Brathiel Boots,布拉席爾戰靴
-PROPITEM_TXT_155120,Brathien Helmet,布拉席恩頭盔
-PROPITEM_TXT_155121,Brathien Suit,布拉席恩戰甲
-PROPITEM_TXT_155122,Brathien Gauntlets,布拉席恩護手
-PROPITEM_TXT_155123,Brathien Boots,布拉席恩戰靴
+PROPITEM_TXT_155120,Brathien Helmet,布菈茜恩頭盔
+PROPITEM_TXT_155121,Brathien Suit,布菈茜恩戰甲
+PROPITEM_TXT_155122,Brathien Gauntlets,布菈茜恩護手
+PROPITEM_TXT_155123,Brathien Boots,布菈茜恩戰靴
 PROPITEM_TXT_155124,Gravunor Helmet,格拉伏諾爾頭盔
 PROPITEM_TXT_155125,Gravunor Suit,格拉伏諾爾戰甲
 PROPITEM_TXT_155126,Gravunor Gauntlets,格拉伏諾爾護手
 PROPITEM_TXT_155127,Gravunor Boots,格拉伏諾爾戰靴
-PROPITEM_TXT_155128,Gravunar Helmet,格拉伏納爾頭盔
-PROPITEM_TXT_155129,Gravunar Suit,格拉伏納爾戰甲
-PROPITEM_TXT_155130,Gravunar Gauntlets,格拉伏納爾護手
-PROPITEM_TXT_155131,Gravunar Boots,格拉伏納爾戰靴
+PROPITEM_TXT_155128,Gravunar Helmet,葛菈芙娜爾頭盔
+PROPITEM_TXT_155129,Gravunar Suit,葛菈芙娜爾戰甲
+PROPITEM_TXT_155130,Gravunar Gauntlets,葛菈芙娜爾護手
+PROPITEM_TXT_155131,Gravunar Boots,葛菈芙娜爾戰靴
 PROPITEM_TXT_155132,Calthien Helmet,卡爾席恩頭盔
 PROPITEM_TXT_155133,Calthien Suit,卡爾席恩戰甲
 PROPITEM_TXT_155134,Calthien Gauntlets,卡爾席恩護手
 PROPITEM_TXT_155135,Calthien Boots,卡爾席恩戰靴
-PROPITEM_TXT_155136,Calthior Helmet,卡爾席奧頭盔
-PROPITEM_TXT_155137,Calthior Suit,卡爾席奧戰甲
-PROPITEM_TXT_155138,Calthior Gauntlets,卡爾席奧護手
-PROPITEM_TXT_155139,Calthior Boots,卡爾席奧戰靴
-PROPITEM_TXT_155140,Runthiel Helmet,倫斯席爾頭盔
-PROPITEM_TXT_155141,Runthiel Suit,倫斯席爾戰甲
-PROPITEM_TXT_155142,Runthiel Gauntlets,倫斯席爾護手
-PROPITEM_TXT_155143,Runthiel Boots,倫斯席爾戰靴
-PROPITEM_TXT_155144,Runthien Helmet,倫斯席恩頭盔
-PROPITEM_TXT_155145,Runthien Suit,倫斯席恩戰甲
-PROPITEM_TXT_155146,Runthien Gauntlets,倫斯席恩護手
-PROPITEM_TXT_155147,Runthien Boots,倫斯席恩戰靴
+PROPITEM_TXT_155136,Calthior Helmet,卡爾席歐菈頭盔
+PROPITEM_TXT_155137,Calthior Suit,卡爾席歐菈戰甲
+PROPITEM_TXT_155138,Calthior Gauntlets,卡爾席歐菈護手
+PROPITEM_TXT_155139,Calthior Boots,卡爾席歐菈戰靴
+PROPITEM_TXT_155140,Runthiel Helmet,倫席爾頭盔
+PROPITEM_TXT_155141,Runthiel Suit,倫席爾戰甲
+PROPITEM_TXT_155142,Runthiel Gauntlets,倫席爾護手
+PROPITEM_TXT_155143,Runthiel Boots,倫席爾戰靴
+PROPITEM_TXT_155144,Runthien Helmet,綸茜恩頭盔
+PROPITEM_TXT_155145,Runthien Suit,綸茜恩戰甲
+PROPITEM_TXT_155146,Runthien Gauntlets,綸茜恩護手
+PROPITEM_TXT_155147,Runthien Boots,綸茜恩戰靴
 PROPITEM_TXT_155148,Rethanor Helmet,雷薩諾爾頭盔
 PROPITEM_TXT_155149,Rethanor Suit,雷薩諾爾戰甲
 PROPITEM_TXT_155150,Rethanor Gauntlets,雷薩諾爾護手
 PROPITEM_TXT_155151,Rethanor Boots,雷薩諾爾戰靴
-PROPITEM_TXT_155152,Rethanar Helmet,雷薩納爾頭盔
-PROPITEM_TXT_155153,Rethanar Suit,雷薩納爾戰甲
-PROPITEM_TXT_155154,Rethanar Gauntlets,雷薩納爾護手
-PROPITEM_TXT_155155,Rethanar Boots,雷薩納爾戰靴
+PROPITEM_TXT_155152,Rethanar Helmet,蕾薩娜爾頭盔
+PROPITEM_TXT_155153,Rethanar Suit,蕾薩娜爾戰甲
+PROPITEM_TXT_155154,Rethanar Gauntlets,蕾薩娜爾護手
+PROPITEM_TXT_155155,Rethanar Boots,蕾薩娜爾戰靴
 PROPITEM_TXT_155156,Zendric Helmet,贊德里克頭盔
 PROPITEM_TXT_155157,Zendric Suit,贊德里克戰甲
 PROPITEM_TXT_155158,Zendric Gauntlets,贊德里克護手
 PROPITEM_TXT_155159,Zendric Boots,贊德里克戰靴
-PROPITEM_TXT_155160,Zendricar Helmet,贊德里卡頭盔
-PROPITEM_TXT_155161,Zendricar Suit,贊德里卡戰甲
-PROPITEM_TXT_155162,Zendricar Gauntlets,贊德里卡護手
-PROPITEM_TXT_155163,Zendricar Boots,贊德里卡戰靴
+PROPITEM_TXT_155160,Zendricar Helmet,贊德莉卡頭盔
+PROPITEM_TXT_155161,Zendricar Suit,贊德莉卡戰甲
+PROPITEM_TXT_155162,Zendricar Gauntlets,贊德莉卡護手
+PROPITEM_TXT_155163,Zendricar Boots,贊德莉卡戰靴
 PROPITEM_TXT_155164,Drovial Helmet,卓維亞爾頭盔
 PROPITEM_TXT_155165,Drovial Suit,卓維亞爾戰甲
 PROPITEM_TXT_155166,Drovial Gauntlets,卓維亞爾護手
 PROPITEM_TXT_155167,Drovial Boots,卓維亞爾戰靴
-PROPITEM_TXT_155168,Droviar Helmet,卓維亞頭盔
-PROPITEM_TXT_155169,Droviar Suit,卓維亞戰甲
-PROPITEM_TXT_155170,Droviar Gauntlets,卓維亞護手
-PROPITEM_TXT_155171,Droviar Boots,卓維亞戰靴
+PROPITEM_TXT_155168,Droviar Helmet,卓薇雅頭盔
+PROPITEM_TXT_155169,Droviar Suit,卓薇雅戰甲
+PROPITEM_TXT_155170,Droviar Gauntlets,卓薇雅護手
+PROPITEM_TXT_155171,Droviar Boots,卓薇雅戰靴
 PROPITEM_TXT_155172,Crathor Helmet,克拉索爾頭盔
 PROPITEM_TXT_155173,Crathor Suit,克拉索爾戰甲
 PROPITEM_TXT_155174,Crathor Gauntlets,克拉索爾護手
 PROPITEM_TXT_155175,Crathor Boots,克拉索爾戰靴
-PROPITEM_TXT_155176,Crathar Helmet,克拉薩爾頭盔
-PROPITEM_TXT_155177,Crathar Suit,克拉薩爾戰甲
-PROPITEM_TXT_155178,Crathar Gauntlets,克拉薩爾護手
-PROPITEM_TXT_155179,Crathar Boots,克拉薩爾戰靴
+PROPITEM_TXT_155176,Crathar Helmet,克菈莎爾頭盔
+PROPITEM_TXT_155177,Crathar Suit,克菈莎爾戰甲
+PROPITEM_TXT_155178,Crathar Gauntlets,克菈莎爾護手
+PROPITEM_TXT_155179,Crathar Boots,克菈莎爾戰靴
 PROPITEM_TXT_155180,Khorviel Helmet,科維爾頭盔
 PROPITEM_TXT_155181,Khorviel Suit,科維爾戰甲
 PROPITEM_TXT_155182,Khorviel Gauntlets,科維爾護手
 PROPITEM_TXT_155183,Khorviel Boots,科維爾戰靴
-PROPITEM_TXT_155184,Khorvien Helmet,科維恩頭盔
-PROPITEM_TXT_155185,Khorvien Suit,科維恩戰甲
-PROPITEM_TXT_155186,Khorvien Gauntlets,科維恩護手
-PROPITEM_TXT_155187,Khorvien Boots,科維恩戰靴
+PROPITEM_TXT_155184,Khorvien Helmet,珂薇恩頭盔
+PROPITEM_TXT_155185,Khorvien Suit,珂薇恩戰甲
+PROPITEM_TXT_155186,Khorvien Gauntlets,珂薇恩護手
+PROPITEM_TXT_155187,Khorvien Boots,珂薇恩戰靴
 PROPITEM_TXT_155188,Zaythor Helmet,賽索爾頭盔
 PROPITEM_TXT_155189,Zaythor Suit,賽索爾戰甲
 PROPITEM_TXT_155190,Zaythor Gauntlets,賽索爾護手
 PROPITEM_TXT_155191,Zaythor Boots,賽索爾戰靴
-PROPITEM_TXT_155192,Zaythar Helmet,賽薩爾頭盔
-PROPITEM_TXT_155193,Zaythar Suit,賽薩爾戰甲
-PROPITEM_TXT_155194,Zaythar Gauntlets,賽薩爾護手
-PROPITEM_TXT_155195,Zaythar Boots,賽薩爾戰靴
-PROPITEM_TXT_155196,Vornithic Helmet,沃尼席克頭盔
-PROPITEM_TXT_155197,Vornithic Suit,沃尼席克戰甲
-PROPITEM_TXT_155198,Vornithic Gauntlets,沃尼席克護手
-PROPITEM_TXT_155199,Vornithic Boots,沃尼席克戰靴
-PROPITEM_TXT_155200,Vornithicar Helmet,沃尼席卡頭盔
-PROPITEM_TXT_155201,Vornithicar Suit,沃尼席卡戰甲
-PROPITEM_TXT_155202,Vornithicar Gauntlets,沃尼席卡護手
-PROPITEM_TXT_155203,Vornithicar Boots,沃尼席卡戰靴
-PROPITEM_TXT_155204,Dornith Helmet,朵尼司頭盔
-PROPITEM_TXT_155205,Dornith Suit,朵尼司戰甲
-PROPITEM_TXT_155206,Dornith Gauntlets,朵尼司護手
-PROPITEM_TXT_155207,Dornith Boots,朵尼司戰靴
+PROPITEM_TXT_155192,Zaythar Helmet,賽莎爾頭盔
+PROPITEM_TXT_155193,Zaythar Suit,賽莎爾戰甲
+PROPITEM_TXT_155194,Zaythar Gauntlets,賽莎爾護手
+PROPITEM_TXT_155195,Zaythar Boots,賽莎爾戰靴
+PROPITEM_TXT_155196,Vornithic Helmet,沃尼斯人克頭盔
+PROPITEM_TXT_155197,Vornithic Suit,沃尼斯人克戰甲
+PROPITEM_TXT_155198,Vornithic Gauntlets,沃尼斯人克護手
+PROPITEM_TXT_155199,Vornithic Boots,沃尼斯人克戰靴
+PROPITEM_TXT_155200,Vornithicar Helmet,薇尼斯人卡頭盔
+PROPITEM_TXT_155201,Vornithicar Suit,薇尼斯人卡戰甲
+PROPITEM_TXT_155202,Vornithicar Gauntlets,薇尼斯人卡護手
+PROPITEM_TXT_155203,Vornithicar Boots,薇尼斯人卡戰靴
+PROPITEM_TXT_155204,Dornith Helmet,多尼斯人頭盔
+PROPITEM_TXT_155205,Dornith Suit,多尼斯人戰甲
+PROPITEM_TXT_155206,Dornith Gauntlets,多尼斯人護手
+PROPITEM_TXT_155207,Dornith Boots,多尼斯人戰靴
 PROPITEM_TXT_155208,Dornyth Helmet,朵尼斯人頭盔
 PROPITEM_TXT_155209,Dornyth Suit,朵尼斯人戰甲
 PROPITEM_TXT_155210,Dornyth Gauntlets,朵尼斯人護手
@@ -24261,82 +24261,82 @@ PROPITEM_TXT_155212,Slephen Helmet,斯雷芬頭盔
 PROPITEM_TXT_155213,Slephen Suit,斯雷芬戰甲
 PROPITEM_TXT_155214,Slephen Gauntlets,斯雷芬護手
 PROPITEM_TXT_155215,Slephen Boots,斯雷芬戰靴
-PROPITEM_TXT_155216,Slephar Helmet,斯雷法頭盔
-PROPITEM_TXT_155217,Slephar Suit,斯雷法戰甲
-PROPITEM_TXT_155218,Slephar Gauntlets,斯雷法護手
-PROPITEM_TXT_155219,Slephar Boots,斯雷法戰靴
+PROPITEM_TXT_155216,Slephar Helmet,絲蕾法頭盔
+PROPITEM_TXT_155217,Slephar Suit,絲蕾法戰甲
+PROPITEM_TXT_155218,Slephar Gauntlets,絲蕾法護手
+PROPITEM_TXT_155219,Slephar Boots,絲蕾法戰靴
 PROPITEM_TXT_155220,Juvemil Helmet,朱維米爾頭盔
 PROPITEM_TXT_155221,Juvemil Suit,朱維米爾戰甲
 PROPITEM_TXT_155222,Juvemil Gauntlets,朱維米爾護手
 PROPITEM_TXT_155223,Juvemil Boots,朱維米爾戰靴
-PROPITEM_TXT_155224,Juvemyl Helmet,朱維邁爾頭盔
-PROPITEM_TXT_155225,Juvemyl Suit,朱維邁爾戰甲
-PROPITEM_TXT_155226,Juvemyl Gauntlets,朱維邁爾護手
-PROPITEM_TXT_155227,Juvemyl Boots,朱維邁爾戰靴
+PROPITEM_TXT_155224,Juvemyl Helmet,茱薇米兒頭盔
+PROPITEM_TXT_155225,Juvemyl Suit,茱薇米兒戰甲
+PROPITEM_TXT_155226,Juvemyl Gauntlets,茱薇米兒護手
+PROPITEM_TXT_155227,Juvemyl Boots,茱薇米兒戰靴
 PROPITEM_TXT_155228,Quostrel Helmet,闊斯崔爾頭盔
 PROPITEM_TXT_155229,Quostrel Suit,闊斯崔爾戰甲
 PROPITEM_TXT_155230,Quostrel Gauntlets,闊斯崔爾護手
 PROPITEM_TXT_155231,Quostrel Boots,闊斯崔爾戰靴
-PROPITEM_TXT_155232,Quostren Helmet,闊斯崔恩頭盔
-PROPITEM_TXT_155233,Quostren Suit,闊斯崔恩戰甲
-PROPITEM_TXT_155234,Quostren Gauntlets,闊斯崔恩護手
-PROPITEM_TXT_155235,Quostren Boots,闊斯崔恩戰靴
-PROPITEM_TXT_155236,Chyrelle Helmet,夏瑞爾頭盔
-PROPITEM_TXT_155237,Chyrelle Suit,夏瑞爾戰甲
-PROPITEM_TXT_155238,Chyrelle Gauntlets,夏瑞爾護手
-PROPITEM_TXT_155239,Chyrelle Boots,夏瑞爾戰靴
-PROPITEM_TXT_155240,Chyrella Helmet,夏瑞拉頭盔
-PROPITEM_TXT_155241,Chyrella Suit,夏瑞拉戰甲
-PROPITEM_TXT_155242,Chyrella Gauntlets,夏瑞拉護手
-PROPITEM_TXT_155243,Chyrella Boots,夏瑞拉戰靴
-PROPITEM_TXT_155244,Noltrave Helmet,諾崔芙頭盔
-PROPITEM_TXT_155245,Noltrave Suit,諾崔芙戰甲
-PROPITEM_TXT_155246,Noltrave Gauntlets,諾崔芙護手
-PROPITEM_TXT_155247,Noltrave Boots,諾崔芙戰靴
-PROPITEM_TXT_155248,Noltrava Helmet,諾崔瓦頭盔
-PROPITEM_TXT_155249,Noltrava Suit,諾崔瓦戰甲
-PROPITEM_TXT_155250,Noltrava Gauntlets,諾崔瓦護手
-PROPITEM_TXT_155251,Noltrava Boots,諾崔瓦戰靴
+PROPITEM_TXT_155232,Quostren Helmet,闊絲崔恩頭盔
+PROPITEM_TXT_155233,Quostren Suit,闊絲崔恩戰甲
+PROPITEM_TXT_155234,Quostren Gauntlets,闊絲崔恩護手
+PROPITEM_TXT_155235,Quostren Boots,闊絲崔恩戰靴
+PROPITEM_TXT_155236,Chyrelle Helmet,夏烈爾頭盔
+PROPITEM_TXT_155237,Chyrelle Suit,夏烈爾戰甲
+PROPITEM_TXT_155238,Chyrelle Gauntlets,夏烈爾護手
+PROPITEM_TXT_155239,Chyrelle Boots,夏烈爾戰靴
+PROPITEM_TXT_155240,Chyrella Helmet,夏蕊菈頭盔
+PROPITEM_TXT_155241,Chyrella Suit,夏蕊菈戰甲
+PROPITEM_TXT_155242,Chyrella Gauntlets,夏蕊菈護手
+PROPITEM_TXT_155243,Chyrella Boots,夏蕊菈戰靴
+PROPITEM_TXT_155244,Noltrave Helmet,諾崔弗頭盔
+PROPITEM_TXT_155245,Noltrave Suit,諾崔弗戰甲
+PROPITEM_TXT_155246,Noltrave Gauntlets,諾崔弗護手
+PROPITEM_TXT_155247,Noltrave Boots,諾崔弗戰靴
+PROPITEM_TXT_155248,Noltrava Helmet,諾崔薇頭盔
+PROPITEM_TXT_155249,Noltrava Suit,諾崔薇戰甲
+PROPITEM_TXT_155250,Noltrava Gauntlets,諾崔薇護手
+PROPITEM_TXT_155251,Noltrava Boots,諾崔薇戰靴
 PROPITEM_TXT_155252,Frodral Helmet,弗羅卓爾頭盔
 PROPITEM_TXT_155253,Frodral Suit,弗羅卓爾戰甲
 PROPITEM_TXT_155254,Frodral Gauntlets,弗羅卓爾護手
 PROPITEM_TXT_155255,Frodral Boots,弗羅卓爾戰靴
-PROPITEM_TXT_155256,Frodrel Helmet,弗羅卓爾頭盔
-PROPITEM_TXT_155257,Frodrel Suit,弗羅卓爾戰甲
-PROPITEM_TXT_155258,Frodrel Gauntlets,弗羅卓爾護手
-PROPITEM_TXT_155259,Frodrel Boots,弗羅卓爾戰靴
+PROPITEM_TXT_155256,Frodrel Helmet,芙羅卓兒頭盔
+PROPITEM_TXT_155257,Frodrel Suit,芙羅卓兒戰甲
+PROPITEM_TXT_155258,Frodrel Gauntlets,芙羅卓兒護手
+PROPITEM_TXT_155259,Frodrel Boots,芙羅卓兒戰靴
 PROPITEM_TXT_155260,Shycrel Helmet,夏克雷爾頭盔
 PROPITEM_TXT_155261,Shycrel Suit,夏克雷爾戰甲
 PROPITEM_TXT_155262,Shycrel Gauntlets,夏克雷爾護手
 PROPITEM_TXT_155263,Shycrel Boots,夏克雷爾戰靴
-PROPITEM_TXT_155264,Shycren Helmet,夏克雷恩頭盔
-PROPITEM_TXT_155265,Shycren Suit,夏克雷恩戰甲
-PROPITEM_TXT_155266,Shycren Gauntlets,夏克雷恩護手
-PROPITEM_TXT_155267,Shycren Boots,夏克雷恩戰靴
+PROPITEM_TXT_155264,Shycren Helmet,夏珂蓮頭盔
+PROPITEM_TXT_155265,Shycren Suit,夏珂蓮戰甲
+PROPITEM_TXT_155266,Shycren Gauntlets,夏珂蓮護手
+PROPITEM_TXT_155267,Shycren Boots,夏珂蓮戰靴
 PROPITEM_TXT_155268,Yernid Helmet,耶尼德頭盔
 PROPITEM_TXT_155269,Yernid Suit,耶尼德戰甲
 PROPITEM_TXT_155270,Yernid Gauntlets,耶尼德護手
 PROPITEM_TXT_155271,Yernid Boots,耶尼德戰靴
-PROPITEM_TXT_155272,Yernyd Helmet,耶尼德頭盔
-PROPITEM_TXT_155273,Yernyd Suit,耶尼德戰甲
-PROPITEM_TXT_155274,Yernyd Gauntlets,耶尼德護手
-PROPITEM_TXT_155275,Yernyd Boots,耶尼德戰靴
+PROPITEM_TXT_155272,Yernyd Helmet,耶妮德頭盔
+PROPITEM_TXT_155273,Yernyd Suit,耶妮德戰甲
+PROPITEM_TXT_155274,Yernyd Gauntlets,耶妮德護手
+PROPITEM_TXT_155275,Yernyd Boots,耶妮德戰靴
 PROPITEM_TXT_155276,Treviron Helmet,崔維隆頭盔
 PROPITEM_TXT_155277,Treviron Suit,崔維隆戰甲
 PROPITEM_TXT_155278,Treviron Gauntlets,崔維隆護手
 PROPITEM_TXT_155279,Treviron Boots,崔維隆戰靴
-PROPITEM_TXT_155280,Treviran Helmet,崔維蘭頭盔
-PROPITEM_TXT_155281,Treviran Suit,崔維蘭戰甲
-PROPITEM_TXT_155282,Treviran Gauntlets,崔維蘭護手
-PROPITEM_TXT_155283,Treviran Boots,崔維蘭戰靴
+PROPITEM_TXT_155280,Treviran Helmet,崔薇蘭頭盔
+PROPITEM_TXT_155281,Treviran Suit,崔薇蘭戰甲
+PROPITEM_TXT_155282,Treviran Gauntlets,崔薇蘭護手
+PROPITEM_TXT_155283,Treviran Boots,崔薇蘭戰靴
 PROPITEM_TXT_155284,Lenvire Helmet,藍維爾頭盔
 PROPITEM_TXT_155285,Lenvire Suit,藍維爾戰甲
 PROPITEM_TXT_155286,Lenvire Gauntlets,藍維爾護手
 PROPITEM_TXT_155287,Lenvire Boots,藍維爾戰靴
-PROPITEM_TXT_155288,Lenvira Helmet,藍維拉頭盔
-PROPITEM_TXT_155289,Lenvira Suit,藍維拉戰甲
-PROPITEM_TXT_155290,Lenvira Gauntlets,藍維拉護手
-PROPITEM_TXT_155291,Lenvira Boots,藍維拉戰靴
+PROPITEM_TXT_155288,Lenvira Helmet,嵐薇拉頭盔
+PROPITEM_TXT_155289,Lenvira Suit,嵐薇拉戰甲
+PROPITEM_TXT_155290,Lenvira Gauntlets,嵐薇拉護手
+PROPITEM_TXT_155291,Lenvira Boots,嵐薇拉戰靴
 PROPITEM_TXT_155292,Ordelin Helmet,奧德林頭盔
 PROPITEM_TXT_155293,Ordelin Suit,奧德林戰甲
 PROPITEM_TXT_155294,Ordelin Gauntlets,奧德林護手
@@ -24349,14 +24349,14 @@ PROPITEM_TXT_155300,Tracien Helmet,崔席恩頭盔
 PROPITEM_TXT_155301,Tracien Suit,崔席恩戰甲
 PROPITEM_TXT_155302,Tracien Gauntlets,崔席恩護手
 PROPITEM_TXT_155303,Tracien Boots,崔席恩戰靴
-PROPITEM_TXT_155304,Tracior Helmet,崔席奧頭盔
-PROPITEM_TXT_155305,Tracior Suit,崔席奧戰甲
-PROPITEM_TXT_155306,Tracior Gauntlets,崔席奧護手
-PROPITEM_TXT_155307,Tracior Boots,崔席奧戰靴
-PROPITEM_TXT_155308,Phadrine Helmet,法德琳頭盔
-PROPITEM_TXT_155309,Phadrine Suit,法德琳戰甲
-PROPITEM_TXT_155310,Phadrine Gauntlets,法德琳護手
-PROPITEM_TXT_155311,Phadrine Boots,法德琳戰靴
+PROPITEM_TXT_155304,Tracior Helmet,崔希奧頭盔
+PROPITEM_TXT_155305,Tracior Suit,崔希奧戰甲
+PROPITEM_TXT_155306,Tracior Gauntlets,崔希奧護手
+PROPITEM_TXT_155307,Tracior Boots,崔希奧戰靴
+PROPITEM_TXT_155308,Phadrine Helmet,法德林頭盔
+PROPITEM_TXT_155309,Phadrine Suit,法德林戰甲
+PROPITEM_TXT_155310,Phadrine Gauntlets,法德林護手
+PROPITEM_TXT_155311,Phadrine Boots,法德林戰靴
 PROPITEM_TXT_155312,Phadrina Helmet,法德莉娜頭盔
 PROPITEM_TXT_155313,Phadrina Suit,法德莉娜戰甲
 PROPITEM_TXT_155314,Phadrina Gauntlets,法德莉娜護手
@@ -24365,186 +24365,186 @@ PROPITEM_TXT_155316,Ostelar Helmet,奧斯特拉頭盔
 PROPITEM_TXT_155317,Ostelar Suit,奧斯特拉戰甲
 PROPITEM_TXT_155318,Ostelar Gauntlets,奧斯特拉護手
 PROPITEM_TXT_155319,Ostelar Boots,奧斯特拉戰靴
-PROPITEM_TXT_155320,Ostelaren Helmet,奧斯塔倫頭盔
-PROPITEM_TXT_155321,Ostelaren Suit,奧斯塔倫戰甲
-PROPITEM_TXT_155322,Ostelaren Gauntlets,奧斯塔倫護手
-PROPITEM_TXT_155323,Ostelaren Boots,奧斯塔倫戰靴
+PROPITEM_TXT_155320,Ostelaren Helmet,奧絲塔蓮頭盔
+PROPITEM_TXT_155321,Ostelaren Suit,奧絲塔蓮戰甲
+PROPITEM_TXT_155322,Ostelaren Gauntlets,奧絲塔蓮護手
+PROPITEM_TXT_155323,Ostelaren Boots,奧絲塔蓮戰靴
 PROPITEM_TXT_155324,Lorvenic Helmet,洛維尼克頭盔
 PROPITEM_TXT_155325,Lorvenic Suit,洛維尼克戰甲
 PROPITEM_TXT_155326,Lorvenic Gauntlets,洛維尼克護手
 PROPITEM_TXT_155327,Lorvenic Boots,洛維尼克戰靴
-PROPITEM_TXT_155328,Lorvenicar Helmet,洛維尼卡頭盔
-PROPITEM_TXT_155329,Lorvenicar Suit,洛維尼卡戰甲
-PROPITEM_TXT_155330,Lorvenicar Gauntlets,洛維尼卡護手
-PROPITEM_TXT_155331,Lorvenicar Boots,洛維尼卡戰靴
+PROPITEM_TXT_155328,Lorvenicar Helmet,洛薇妮卡頭盔
+PROPITEM_TXT_155329,Lorvenicar Suit,洛薇妮卡戰甲
+PROPITEM_TXT_155330,Lorvenicar Gauntlets,洛薇妮卡護手
+PROPITEM_TXT_155331,Lorvenicar Boots,洛薇妮卡戰靴
 PROPITEM_TXT_155332,Etranor Helmet,伊特拉諾爾頭盔
 PROPITEM_TXT_155333,Etranor Suit,伊特拉諾爾戰甲
 PROPITEM_TXT_155334,Etranor Gauntlets,伊特拉諾爾護手
 PROPITEM_TXT_155335,Etranor Boots,伊特拉諾爾戰靴
-PROPITEM_TXT_155336,Etranar Helmet,伊特拉納爾頭盔
-PROPITEM_TXT_155337,Etranar Suit,伊特拉納爾戰甲
-PROPITEM_TXT_155338,Etranar Gauntlets,伊特拉納爾護手
-PROPITEM_TXT_155339,Etranar Boots,伊特拉納爾戰靴
-PROPITEM_TXT_155340,Lyzarel Helmet,莉莎瑞爾頭盔
-PROPITEM_TXT_155341,Lyzarel Suit,莉莎瑞爾戰甲
-PROPITEM_TXT_155342,Lyzarel Gauntlets,莉莎瑞爾護手
-PROPITEM_TXT_155343,Lyzarel Boots,莉莎瑞爾戰靴
-PROPITEM_TXT_155344,Lyzaren Helmet,莉莎瑞恩頭盔
-PROPITEM_TXT_155345,Lyzaren Suit,莉莎瑞恩戰甲
-PROPITEM_TXT_155346,Lyzaren Gauntlets,莉莎瑞恩護手
-PROPITEM_TXT_155347,Lyzaren Boots,莉莎瑞恩戰靴
+PROPITEM_TXT_155336,Etranar Helmet,伊特蘭娜爾頭盔
+PROPITEM_TXT_155337,Etranar Suit,伊特蘭娜爾戰甲
+PROPITEM_TXT_155338,Etranar Gauntlets,伊特蘭娜爾護手
+PROPITEM_TXT_155339,Etranar Boots,伊特蘭娜爾戰靴
+PROPITEM_TXT_155340,Lyzarel Helmet,里薩雷爾頭盔
+PROPITEM_TXT_155341,Lyzarel Suit,里薩雷爾戰甲
+PROPITEM_TXT_155342,Lyzarel Gauntlets,里薩雷爾護手
+PROPITEM_TXT_155343,Lyzarel Boots,里薩雷爾戰靴
+PROPITEM_TXT_155344,Lyzaren Helmet,莉薩蓮頭盔
+PROPITEM_TXT_155345,Lyzaren Suit,莉薩蓮戰甲
+PROPITEM_TXT_155346,Lyzaren Gauntlets,莉薩蓮護手
+PROPITEM_TXT_155347,Lyzaren Boots,莉薩蓮戰靴
 PROPITEM_TXT_155348,Exiran Helmet,艾克西蘭頭盔
 PROPITEM_TXT_155349,Exiran Suit,艾克西蘭戰甲
 PROPITEM_TXT_155350,Exiran Gauntlets,艾克西蘭護手
 PROPITEM_TXT_155351,Exiran Boots,艾克西蘭戰靴
-PROPITEM_TXT_155352,Exiren Helmet,艾克西蓮頭盔
-PROPITEM_TXT_155353,Exiren Suit,艾克西蓮戰甲
-PROPITEM_TXT_155354,Exiren Gauntlets,艾克西蓮護手
-PROPITEM_TXT_155355,Exiren Boots,艾克西蓮戰靴
+PROPITEM_TXT_155352,Exiren Helmet,艾希蓮頭盔
+PROPITEM_TXT_155353,Exiren Suit,艾希蓮戰甲
+PROPITEM_TXT_155354,Exiren Gauntlets,艾希蓮護手
+PROPITEM_TXT_155355,Exiren Boots,艾希蓮戰靴
 PROPITEM_TXT_155356,Dricent Helmet,德里森特頭盔
 PROPITEM_TXT_155357,Dricent Suit,德里森特戰甲
 PROPITEM_TXT_155358,Dricent Gauntlets,德里森特護手
 PROPITEM_TXT_155359,Dricent Boots,德里森特戰靴
-PROPITEM_TXT_155360,Dricant Helmet,德里坎特頭盔
-PROPITEM_TXT_155361,Dricant Suit,德里坎特戰甲
-PROPITEM_TXT_155362,Dricant Gauntlets,德里坎特護手
-PROPITEM_TXT_155363,Dricant Boots,德里坎特戰靴
+PROPITEM_TXT_155360,Dricant Helmet,德莉坎特頭盔
+PROPITEM_TXT_155361,Dricant Suit,德莉坎特戰甲
+PROPITEM_TXT_155362,Dricant Gauntlets,德莉坎特護手
+PROPITEM_TXT_155363,Dricant Boots,德莉坎特戰靴
 PROPITEM_TXT_155364,Urvakel Helmet,烏爾瓦凱爾頭盔
 PROPITEM_TXT_155365,Urvakel Suit,烏爾瓦凱爾戰甲
 PROPITEM_TXT_155366,Urvakel Gauntlets,烏爾瓦凱爾護手
 PROPITEM_TXT_155367,Urvakel Boots,烏爾瓦凱爾戰靴
-PROPITEM_TXT_155368,Urvaken Helmet,烏爾瓦肯頭盔
-PROPITEM_TXT_155369,Urvaken Suit,烏爾瓦肯戰甲
-PROPITEM_TXT_155370,Urvaken Gauntlets,烏爾瓦肯護手
-PROPITEM_TXT_155371,Urvaken Boots,烏爾瓦肯戰靴
+PROPITEM_TXT_155368,Urvaken Helmet,烏爾薇肯頭盔
+PROPITEM_TXT_155369,Urvaken Suit,烏爾薇肯戰甲
+PROPITEM_TXT_155370,Urvaken Gauntlets,烏爾薇肯護手
+PROPITEM_TXT_155371,Urvaken Boots,烏爾薇肯戰靴
 PROPITEM_TXT_155372,Haskrel Helmet,哈斯克雷爾頭盔
 PROPITEM_TXT_155373,Haskrel Suit,哈斯克雷爾戰甲
 PROPITEM_TXT_155374,Haskrel Gauntlets,哈斯克雷爾護手
 PROPITEM_TXT_155375,Haskrel Boots,哈斯克雷爾戰靴
-PROPITEM_TXT_155376,Haskren Helmet,哈斯克雷恩頭盔
-PROPITEM_TXT_155377,Haskren Suit,哈斯克雷恩戰甲
-PROPITEM_TXT_155378,Haskren Gauntlets,哈斯克雷恩護手
-PROPITEM_TXT_155379,Haskren Boots,哈斯克雷恩戰靴
+PROPITEM_TXT_155376,Haskren Helmet,哈絲珂蓮頭盔
+PROPITEM_TXT_155377,Haskren Suit,哈絲珂蓮戰甲
+PROPITEM_TXT_155378,Haskren Gauntlets,哈絲珂蓮護手
+PROPITEM_TXT_155379,Haskren Boots,哈絲珂蓮戰靴
 PROPITEM_TXT_155380,Kevric Helmet,凱弗里克頭盔
 PROPITEM_TXT_155381,Kevric Suit,凱弗里克戰甲
 PROPITEM_TXT_155382,Kevric Gauntlets,凱弗里克護手
 PROPITEM_TXT_155383,Kevric Boots,凱弗里克戰靴
-PROPITEM_TXT_155384,Kevricar Helmet,凱弗里卡頭盔
-PROPITEM_TXT_155385,Kevricar Suit,凱弗里卡戰甲
-PROPITEM_TXT_155386,Kevricar Gauntlets,凱弗里卡護手
-PROPITEM_TXT_155387,Kevricar Boots,凱弗里卡戰靴
+PROPITEM_TXT_155384,Kevricar Helmet,凱芙莉卡頭盔
+PROPITEM_TXT_155385,Kevricar Suit,凱芙莉卡戰甲
+PROPITEM_TXT_155386,Kevricar Gauntlets,凱芙莉卡護手
+PROPITEM_TXT_155387,Kevricar Boots,凱芙莉卡戰靴
 PROPITEM_TXT_155388,Brakiven Helmet,布拉基文頭盔
 PROPITEM_TXT_155389,Brakiven Suit,布拉基文戰甲
 PROPITEM_TXT_155390,Brakiven Gauntlets,布拉基文護手
 PROPITEM_TXT_155391,Brakiven Boots,布拉基文戰靴
-PROPITEM_TXT_155392,Brakivar Helmet,布拉基瓦頭盔
-PROPITEM_TXT_155393,Brakivar Suit,布拉基瓦戰甲
-PROPITEM_TXT_155394,Brakivar Gauntlets,布拉基瓦護手
-PROPITEM_TXT_155395,Brakivar Boots,布拉基瓦戰靴
+PROPITEM_TXT_155392,Brakivar Helmet,布菈姬瓦頭盔
+PROPITEM_TXT_155393,Brakivar Suit,布菈姬瓦戰甲
+PROPITEM_TXT_155394,Brakivar Gauntlets,布菈姬瓦護手
+PROPITEM_TXT_155395,Brakivar Boots,布菈姬瓦戰靴
 PROPITEM_TXT_155396,Zorect Helmet,佐雷克特頭盔
 PROPITEM_TXT_155397,Zorect Suit,佐雷克特戰甲
 PROPITEM_TXT_155398,Zorect Gauntlets,佐雷克特護手
 PROPITEM_TXT_155399,Zorect Boots,佐雷克特戰靴
-PROPITEM_TXT_155400,Zoracet Helmet,佐拉瑟特頭盔
-PROPITEM_TXT_155401,Zoracet Suit,佐拉瑟特戰甲
-PROPITEM_TXT_155402,Zoracet Gauntlets,佐拉瑟特護手
-PROPITEM_TXT_155403,Zoracet Boots,佐拉瑟特戰靴
+PROPITEM_TXT_155400,Zoracet Helmet,佐菈瑟特頭盔
+PROPITEM_TXT_155401,Zoracet Suit,佐菈瑟特戰甲
+PROPITEM_TXT_155402,Zoracet Gauntlets,佐菈瑟特護手
+PROPITEM_TXT_155403,Zoracet Boots,佐菈瑟特戰靴
 PROPITEM_TXT_155404,Quevril Helmet,奎弗里爾頭盔
 PROPITEM_TXT_155405,Quevril Suit,奎弗里爾戰甲
 PROPITEM_TXT_155406,Quevril Gauntlets,奎弗里爾護手
 PROPITEM_TXT_155407,Quevril Boots,奎弗里爾戰靴
-PROPITEM_TXT_155408,Quavryl Helmet,奎瓦里爾頭盔
-PROPITEM_TXT_155409,Quavryl Suit,奎瓦里爾戰甲
-PROPITEM_TXT_155410,Quavryl Gauntlets,奎瓦里爾護手
-PROPITEM_TXT_155411,Quavryl Boots,奎瓦里爾戰靴
+PROPITEM_TXT_155408,Quavryl Helmet,葵瓦璃兒頭盔
+PROPITEM_TXT_155409,Quavryl Suit,葵瓦璃兒戰甲
+PROPITEM_TXT_155410,Quavryl Gauntlets,葵瓦璃兒護手
+PROPITEM_TXT_155411,Quavryl Boots,葵瓦璃兒戰靴
 PROPITEM_TXT_155412,Cyravek Helmet,席拉維克頭盔
 PROPITEM_TXT_155413,Cyravek Suit,席拉維克戰甲
 PROPITEM_TXT_155414,Cyravek Gauntlets,席拉維克護手
 PROPITEM_TXT_155415,Cyravek Boots,席拉維克戰靴
-PROPITEM_TXT_155416,Cyravak Helmet,席拉瓦克頭盔
-PROPITEM_TXT_155417,Cyravak Suit,席拉瓦克戰甲
-PROPITEM_TXT_155418,Cyravak Gauntlets,席拉瓦克護手
-PROPITEM_TXT_155419,Cyravak Boots,席拉瓦克戰靴
+PROPITEM_TXT_155416,Cyravak Helmet,希菈薇卡頭盔
+PROPITEM_TXT_155417,Cyravak Suit,希菈薇卡戰甲
+PROPITEM_TXT_155418,Cyravak Gauntlets,希菈薇卡護手
+PROPITEM_TXT_155419,Cyravak Boots,希菈薇卡戰靴
 PROPITEM_TXT_155420,Sholthar Helmet,修爾薩爾頭盔
 PROPITEM_TXT_155421,Sholthar Suit,修爾薩爾戰甲
 PROPITEM_TXT_155422,Sholthar Gauntlets,修爾薩爾護手
 PROPITEM_TXT_155423,Sholthar Boots,修爾薩爾戰靴
-PROPITEM_TXT_155424,Sholtharen Helmet,修爾薩倫頭盔
-PROPITEM_TXT_155425,Sholtharen Suit,修爾薩倫戰甲
-PROPITEM_TXT_155426,Sholtharen Gauntlets,修爾薩倫護手
-PROPITEM_TXT_155427,Sholtharen Boots,修爾薩倫戰靴
+PROPITEM_TXT_155424,Sholtharen Helmet,修爾莎蓮頭盔
+PROPITEM_TXT_155425,Sholtharen Suit,修爾莎蓮戰甲
+PROPITEM_TXT_155426,Sholtharen Gauntlets,修爾莎蓮護手
+PROPITEM_TXT_155427,Sholtharen Boots,修爾莎蓮戰靴
 PROPITEM_TXT_155428,Ustamel Helmet,烏斯塔梅爾頭盔
 PROPITEM_TXT_155429,Ustamel Suit,烏斯塔梅爾戰甲
 PROPITEM_TXT_155430,Ustamel Gauntlets,烏斯塔梅爾護手
 PROPITEM_TXT_155431,Ustamel Boots,烏斯塔梅爾戰靴
-PROPITEM_TXT_155432,Ustamen Helmet,烏斯塔門頭盔
-PROPITEM_TXT_155433,Ustamen Suit,烏斯塔門戰甲
-PROPITEM_TXT_155434,Ustamen Gauntlets,烏斯塔門護手
-PROPITEM_TXT_155435,Ustamen Boots,烏斯塔門戰靴
+PROPITEM_TXT_155432,Ustamen Helmet,烏絲塔蔓頭盔
+PROPITEM_TXT_155433,Ustamen Suit,烏絲塔蔓戰甲
+PROPITEM_TXT_155434,Ustamen Gauntlets,烏絲塔蔓護手
+PROPITEM_TXT_155435,Ustamen Boots,烏絲塔蔓戰靴
 PROPITEM_TXT_155436,Obbric Helmet,歐布里克頭盔
 PROPITEM_TXT_155437,Obbric Suit,歐布里克戰甲
 PROPITEM_TXT_155438,Obbric Gauntlets,歐布里克護手
 PROPITEM_TXT_155439,Obbric Boots,歐布里克戰靴
-PROPITEM_TXT_155440,Obbricar Helmet,歐布里卡頭盔
-PROPITEM_TXT_155441,Obbricar Suit,歐布里卡戰甲
-PROPITEM_TXT_155442,Obbricar Gauntlets,歐布里卡護手
-PROPITEM_TXT_155443,Obbricar Boots,歐布里卡戰靴
+PROPITEM_TXT_155440,Obbricar Helmet,歐布莉卡頭盔
+PROPITEM_TXT_155441,Obbricar Suit,歐布莉卡戰甲
+PROPITEM_TXT_155442,Obbricar Gauntlets,歐布莉卡護手
+PROPITEM_TXT_155443,Obbricar Boots,歐布莉卡戰靴
 PROPITEM_TXT_155444,Yrenoth Helmet,伊雷諾斯頭盔
 PROPITEM_TXT_155445,Yrenoth Suit,伊雷諾斯戰甲
 PROPITEM_TXT_155446,Yrenoth Gauntlets,伊雷諾斯護手
 PROPITEM_TXT_155447,Yrenoth Boots,伊雷諾斯戰靴
-PROPITEM_TXT_155448,Yrenath Helmet,伊雷納斯頭盔
-PROPITEM_TXT_155449,Yrenath Suit,伊雷納斯戰甲
-PROPITEM_TXT_155450,Yrenath Gauntlets,伊雷納斯護手
-PROPITEM_TXT_155451,Yrenath Boots,伊雷納斯戰靴
+PROPITEM_TXT_155448,Yrenath Helmet,伊蕾娜絲頭盔
+PROPITEM_TXT_155449,Yrenath Suit,伊蕾娜絲戰甲
+PROPITEM_TXT_155450,Yrenath Gauntlets,伊蕾娜絲護手
+PROPITEM_TXT_155451,Yrenath Boots,伊蕾娜絲戰靴
 PROPITEM_TXT_155452,Phornet Helmet,佛奈特頭盔
 PROPITEM_TXT_155453,Phornet Suit,佛奈特戰甲
 PROPITEM_TXT_155454,Phornet Gauntlets,佛奈特護手
 PROPITEM_TXT_155455,Phornet Boots,佛奈特戰靴
-PROPITEM_TXT_155456,Phornat Helmet,佛納特頭盔
-PROPITEM_TXT_155457,Phornat Suit,佛納特戰甲
-PROPITEM_TXT_155458,Phornat Gauntlets,佛納特護手
-PROPITEM_TXT_155459,Phornat Boots,佛納特戰靴
+PROPITEM_TXT_155456,Phornat Helmet,芙娜特頭盔
+PROPITEM_TXT_155457,Phornat Suit,芙娜特戰甲
+PROPITEM_TXT_155458,Phornat Gauntlets,芙娜特護手
+PROPITEM_TXT_155459,Phornat Boots,芙娜特戰靴
 PROPITEM_TXT_155460,Yushenor Helmet,尤謝諾爾頭盔
 PROPITEM_TXT_155461,Yushenor Suit,尤謝諾爾戰甲
 PROPITEM_TXT_155462,Yushenor Gauntlets,尤謝諾爾護手
 PROPITEM_TXT_155463,Yushenor Boots,尤謝諾爾戰靴
-PROPITEM_TXT_155464,Yushenar Helmet,尤謝納爾頭盔
-PROPITEM_TXT_155465,Yushenar Suit,尤謝納爾戰甲
-PROPITEM_TXT_155466,Yushenar Gauntlets,尤謝納爾護手
-PROPITEM_TXT_155467,Yushenar Boots,尤謝納爾戰靴
+PROPITEM_TXT_155464,Yushenar Helmet,尤雪娜爾頭盔
+PROPITEM_TXT_155465,Yushenar Suit,尤雪娜爾戰甲
+PROPITEM_TXT_155466,Yushenar Gauntlets,尤雪娜爾護手
+PROPITEM_TXT_155467,Yushenar Boots,尤雪娜爾戰靴
 PROPITEM_TXT_155468,Vostran Helmet,沃斯特蘭頭盔
 PROPITEM_TXT_155469,Vostran Suit,沃斯特蘭戰甲
 PROPITEM_TXT_155470,Vostran Gauntlets,沃斯特蘭護手
 PROPITEM_TXT_155471,Vostran Boots,沃斯特蘭戰靴
-PROPITEM_TXT_155472,Vostren Helmet,沃斯特倫頭盔
-PROPITEM_TXT_155473,Vostren Suit,沃斯特倫戰甲
-PROPITEM_TXT_155474,Vostren Gauntlets,沃斯特倫護手
-PROPITEM_TXT_155475,Vostren Boots,沃斯特倫戰靴
+PROPITEM_TXT_155472,Vostren Helmet,薇絲特蓮頭盔
+PROPITEM_TXT_155473,Vostren Suit,薇絲特蓮戰甲
+PROPITEM_TXT_155474,Vostren Gauntlets,薇絲特蓮護手
+PROPITEM_TXT_155475,Vostren Boots,薇絲特蓮戰靴
 PROPITEM_TXT_155476,Virashon Helmet,維拉頌頭盔
 PROPITEM_TXT_155477,Virashon Suit,維拉頌戰甲
 PROPITEM_TXT_155478,Virashon Gauntlets,維拉頌護手
 PROPITEM_TXT_155479,Virashon Boots,維拉頌戰靴
-PROPITEM_TXT_155480,Verashan Helmet,維拉珊頭盔
-PROPITEM_TXT_155481,Verashan Suit,維拉珊戰甲
-PROPITEM_TXT_155482,Verashan Gauntlets,維拉珊護手
-PROPITEM_TXT_155483,Verashan Boots,維拉珊戰靴
+PROPITEM_TXT_155480,Verashan Helmet,薇拉珊頭盔
+PROPITEM_TXT_155481,Verashan Suit,薇拉珊戰甲
+PROPITEM_TXT_155482,Verashan Gauntlets,薇拉珊護手
+PROPITEM_TXT_155483,Verashan Boots,薇拉珊戰靴
 PROPITEM_TXT_155484,Menicor Helmet,梅尼科爾頭盔
 PROPITEM_TXT_155485,Menicor Suit,梅尼科爾戰甲
 PROPITEM_TXT_155486,Menicor Gauntlets,梅尼科爾護手
 PROPITEM_TXT_155487,Menicor Boots,梅尼科爾戰靴
-PROPITEM_TXT_155488,Maenicar Helmet,梅尼卡爾頭盔
-PROPITEM_TXT_155489,Maenicar Suit,梅尼卡爾戰甲
-PROPITEM_TXT_155490,Maenicar Gauntlets,梅尼卡爾護手
-PROPITEM_TXT_155491,Maenicar Boots,梅尼卡爾戰靴
+PROPITEM_TXT_155488,Maenicar Helmet,玫妮卡爾頭盔
+PROPITEM_TXT_155489,Maenicar Suit,玫妮卡爾戰甲
+PROPITEM_TXT_155490,Maenicar Gauntlets,玫妮卡爾護手
+PROPITEM_TXT_155491,Maenicar Boots,玫妮卡爾戰靴
 PROPITEM_TXT_155492,Tremiel Helmet,崔米爾頭盔
 PROPITEM_TXT_155493,Tremiel Suit,崔米爾戰甲
 PROPITEM_TXT_155494,Tremiel Gauntlets,崔米爾護手
 PROPITEM_TXT_155495,Tremiel Boots,崔米爾戰靴
-PROPITEM_TXT_155496,Tramien Helmet,崔米恩頭盔
-PROPITEM_TXT_155497,Tramien Suit,崔米恩戰甲
-PROPITEM_TXT_155498,Tramien Gauntlets,崔米恩護手
-PROPITEM_TXT_155499,Tramien Boots,崔米恩戰靴
+PROPITEM_TXT_155496,Tramien Helmet,特菈敏頭盔
+PROPITEM_TXT_155497,Tramien Suit,特菈敏戰甲
+PROPITEM_TXT_155498,Tramien Gauntlets,特菈敏護手
+PROPITEM_TXT_155499,Tramien Boots,特菈敏戰靴
 PROPITEM_TXT_155500,Ankou's Heart,安庫之心
 PROPITEM_TXT_155501,Veil of Shade,謝莉德的面紗
 PROPITEM_TXT_155502,Maw of Judgement,審判之噬
