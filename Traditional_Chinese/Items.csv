@@ -7291,9 +7291,9 @@ PROPITEM_TXT_100731,Lightberry,燈莓
 PROPITEM_TXT_100732,Berries harvested from Darkon 1 and 2. These berries are used to craft all kinds of Pet Candy above D tier.,從得肯 1 區和 2 區收穫的莓果，這些莓果用於製作 D 級以上的各種寵物糖果。
 PROPITEM_TXT_100733,Exoberry,外莓
 PROPITEM_TXT_100734,The most exotic type of berry. Harvested from Darkon 3 and Azria. These berries are used to craft A tier Pet Candy.,最具異國情調的莓果，從得肯 3 區和阿茲里亞收成。 這些莓果用於製作 A 級寵物糖果。
-PROPITEM_TXT_100735,Pet Candy (F),寵物糖果 (Ｆ)
+PROPITEM_TXT_100735,Pet Candy (F),寵物糖果 (F)
 PROPITEM_TXT_100736,Used to level up Eggs and F tier pets. Also used to fill the energy gauge of F tier pets.,用於升級蛋和 F 級寵物，也用於填充 F 級寵物的能量槽。
-PROPITEM_TXT_100737,Pet Candy (E),寵物糖果 (Ｅ)
+PROPITEM_TXT_100737,Pet Candy (E),寵物糖果 (E)
 PROPITEM_TXT_100738,Used to level up and fill the energy gauge of E tier pets.,用於升級和填充 E 級寵物的能量槽。
 PROPITEM_TXT_100739,Pet Candy (D),寵物糖果 (D)
 PROPITEM_TXT_100740,Used to level up and fill the energy gauge of D tier pets.,用於升級和填充 D 級寵物的能量槽。
@@ -8372,7 +8372,7 @@ PROPITEM_TXT_101717,Halloween Consumable Package,萬聖節消耗品禮包
 PROPITEM_TXT_101718,"A package containing 20 Upcut Stone, 20 Potion Box, 20 Flask Box, 20 Vital Drink X or Refresher Hold and 10 Bull Hamstern. All items are also linked.",一個包含 20 個特殊力量之石、20 個藥水箱、20 個祕藥箱、20 個活力多 X 或無限技能飲和 10 個飛鼠肉的禮包。 所有物品都是歸屬。
 PROPITEM_TXT_101719,Halloween Smelting Scroll Package A,萬聖節精煉卷軸禮包 A
 PROPITEM_TXT_101720,"A package containing 25 Scroll of SProtect, 25 Scroll of Weapon Bonus and a Halloween Costume Box (choose Skeleton Set or Ghastly Ghoul Set or Mummy Set or Vampire Set). All items are also linked.",一個禮包含 25 個防護卷軸、25 個武器獎勵卷軸和一個萬聖節服裝箱 (選擇骷髏套裝或可怕的食屍鬼套裝或木乃伊套裝或吸血鬼套裝) 。所有物品皆為歸屬。
-PROPITEM_TXT_101721,Halloween Smelting Scroll Package B,萬聖節精煉卷軸禮包Ｂ
+PROPITEM_TXT_101721,Halloween Smelting Scroll Package B,萬聖節精煉卷軸禮包 B
 PROPITEM_TXT_101722,"A package containing 25 Scroll of GProtect, 45 Scroll of AProtect and a Halloween Costume Box (choose Skeleton Set or Ghastly Ghoul Set or Mummy Set or Vampire Set). All items are also linked.",一個包含 25 個穿洞防護卷軸、45 個飾品防護卷軸和一個萬聖節服裝箱 (選擇骷髏套裝或可怕的食屍鬼套裝或木乃伊套裝或吸血鬼套裝) 。 所有物品皆為歸屬。
 PROPITEM_TXT_101723,Halloween ES Scroll Package,萬聖節經驗加成卷軸禮包
 PROPITEM_TXT_101724,"A package containing 15 Scroll of Amplification ES, 15 Upcut Stone, 15 Vital Drink X or Refresher Hold and 20 Scroll of Return Town. All items are also linked.",包含 15 個經驗加成卷軸、15 個特殊力量之石、15 個活力多 X 或 無限技能飲 和 20 個 回程卷軸的禮包。 所有物品皆為歸屬。
@@ -8581,11 +8581,11 @@ PROPITEM_TXT_101907,Gift for the Flyff Universe Taiwanese server launch!,Flyff U
 PROPITEM_TXT_101908,Smelting Scroll Box,精煉卷軸箱
 PROPITEM_TXT_101909,"Select if you want to receive a Scroll of SProtect, GProtect, AProtect or EProtect!",選擇是否要接收精煉防爆、穿洞防護、飾品防護或 EProtect 卷軸！
 PROPITEM_TXT_101910,Giant Hunting Box (Rank S),巨型狩獵箱 (S 級)
-PROPITEM_TXT_101911,Giant Hunting Box (Rank A),巨型狩獵箱 (Ａ級)
-PROPITEM_TXT_101912,Giant Hunting Box (Rank B),巨型狩獵箱 (Ｂ級)
-PROPITEM_TXT_101913,Giant Hunting Box (Rank C),巨型狩獵箱 (Ｃ級)
-PROPITEM_TXT_101914,Giant Hunting Box (Rank D),巨型狩獵箱 (Ｄ級)
-PROPITEM_TXT_101915,Giant Hunting Box (Rank E),巨型狩獵箱 (Ｅ級)
+PROPITEM_TXT_101911,Giant Hunting Box (Rank A),巨型狩獵箱 (A 級)
+PROPITEM_TXT_101912,Giant Hunting Box (Rank B),巨型狩獵箱 (B 級)
+PROPITEM_TXT_101913,Giant Hunting Box (Rank C),巨型狩獵箱 (C 級)
+PROPITEM_TXT_101914,Giant Hunting Box (Rank D),巨型狩獵箱 (D 級)
+PROPITEM_TXT_101915,Giant Hunting Box (Rank E),巨型狩獵箱 (E 級)
 PROPITEM_TXT_101916,A special reward for Giant Hunting participants. Congratulations!,恭喜！這是巨型狩獵參與者的特殊獎勵。
 PROPITEM_TXT_101917,Sport Pop 10% Red Set,運動流行套裝 10% 紅色
 PROPITEM_TXT_101919,Sport Pop Red Hat (M),運動流行帽子 紅色 (男)
@@ -9282,7 +9282,7 @@ PROPITEM_TXT_200315,Lunar Scroll Package,過年卷軸禮包
 PROPITEM_TXT_200316,"A package containing 15 Upcut Stone, 15 Vital Drink X or Refresher Hold, 20 Scroll of Return and a Lunar Costume Select Box. All items are also linked.",一個包含 15 個 力量之石、15 個活力多 X 或 無限技能飲、20 個回程卷軸和一個過年服裝選擇箱的禮包，所有物品皆為歸屬綁定。
 PROPITEM_TXT_200317,Lunar Smelting Scroll Package A,過年精煉卷軸禮包 A
 PROPITEM_TXT_200318,"A package containing 25 Scroll of SProtect, 25 Scroll of Weapon Bonus and a Lunar Costume Select Box. All items are also linked.",一個包含 25 個精煉防爆卷軸、25 個武器獎勵卷軸和一個過年服裝選擇箱的禮包。所有的道具皆為綁定。
-PROPITEM_TXT_200319,Lunar Smelting Scroll Package B,過年精煉卷軸禮包Ｂ
+PROPITEM_TXT_200319,Lunar Smelting Scroll Package B,過年精煉卷軸禮包 B
 PROPITEM_TXT_200320,"A package containing 25 Scroll of GProtect, 45 Scroll of AProtect and a Lunar Costume Select Box. All items are also linked.",一個包含 25 個穿洞防護卷軸、45 個飾品防護卷軸和一個過年服裝選擇的禮包。所有物品皆為歸屬。
 PROPITEM_TXT_200322,Lunar Costume Select Box,過年服裝選擇箱
 PROPITEM_TXT_200323,Happy new Lunar Year! Choose the set you want and be proud to show it to the world!,農曆新年快樂！選擇您想要的套裝，並自豪地向世界展示它！
@@ -10061,8 +10061,8 @@ PROPITEM_TXT_110482,Weapon Piercing Card Box (A),武器穿孔卡箱 (A)
 PROPITEM_TXT_110483,Select which piercing card (A) you want!,選擇您想要的穿孔卡 (A) ！
 PROPITEM_TXT_110484,Soul Fragment (D),靈魂碎片 (D)
 PROPITEM_TXT_110485,Soul Fragment (C),靈魂碎片 (C)
-PROPITEM_TXT_110486,Soul Fragment (B),靈魂碎片 (Ｂ)
-PROPITEM_TXT_110487,Soul Fragment (A),靈魂碎片 (Ａ)
+PROPITEM_TXT_110486,Soul Fragment (B),靈魂碎片 (B)
+PROPITEM_TXT_110487,Soul Fragment (A),靈魂碎片 (A)
 PROPITEM_TXT_110488,Quest Item: A fragment of a powerful masquerpets soul.,任務物品：強大怪物靈魂的碎片。
 PROPITEM_TXT_110489,Aibatt Cap,獨眼蝙蝠帽
 PROPITEM_TXT_110490,Kern Cap,炎王帽
