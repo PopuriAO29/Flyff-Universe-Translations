@@ -17273,9 +17273,9 @@ PROPITEM_TXT_800189,Advanced Mana Stone,高級法力石
 PROPITEM_TXT_800190,Recovers between 1 and 3 jewels if fusion fails.,融合失敗時，回收 1 至 3 顆寶石。
 PROPITEM_TXT_800191,Mana Stone,法力石
 PROPITEM_TXT_800192,Recovers all the jewel pieces if creation fails.,製作失敗時，回收全部寶石碎片。
-PROPITEM_TXT_800193,[Personal House NPC] Klock,[小屋 NPC] 克洛可
+PROPITEM_TXT_800193,[Personal House NPC] Klock,[小屋 NPC] 克洛可 (寶石)
 PROPITEM_TXT_800194,"This NPC will grant you the following bonus when placed on the Personal House: Ultimate Jewel features.\nEarn that jewel with a 30% chance of removing Ultimate Jewel.\nUltimate Jewelry Manufacture, Compose Success Rate Increased",將該 NPC 放置於小屋時，將賦予以下加成：終極寶石相關功能。提升同類型寶石鑲嵌成功率。​\n 移除終極寶石時，有 30% 機率保留寶石。​\n 提高終極寶石的製造與合成成功率。
-PROPITEM_TXT_800195,Ultimate Jewel Gemstone,終極珠寶寶石
+PROPITEM_TXT_800195,Ultimate Jewel Gemstone,終極寶石原石
 PROPITEM_TXT_800196,First-grade jewels and jewel pieces can be extracted from this gemstone.,從此寶石中可提取一級珠寶與珠寶碎片。
 PROPITEM_TXT_800197,Cutting Knife,切割刀
 PROPITEM_TXT_800198,Guarantees the success of extracting jewel pieces or first-grade jewels from a gemstone.,可確保從寶石中成功提取珠寶碎片或一級珠寶。
