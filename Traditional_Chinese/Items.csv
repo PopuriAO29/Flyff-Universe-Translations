@@ -2293,15 +2293,15 @@ PROPITEM_TXT_004300,Gale Card,強風卡片
 PROPITEM_TXT_004301,Wind Upgrade: +1 to +5,使裝備附有風元素：+1 ~ +5 可使用
 PROPITEM_TXT_004302,Cyclone Card,颶風卡片
 PROPITEM_TXT_004303,Wind Element Upgrade: +6 to +10,使裝備附有風元素：+6 ~ +10 可使用
-PROPITEM_TXT_004304,Power Dice 4,能量骰子 D
+PROPITEM_TXT_004304,Power Dice 4,能量骰子 D (4)
 PROPITEM_TXT_004305,General Upgrade: +1 to +5,用於裝備精煉：+1 ~ +5 可使用
-PROPITEM_TXT_004306,Power Dice 6,能量骰子 C
+PROPITEM_TXT_004306,Power Dice 6,能量骰子 C (6)
 PROPITEM_TXT_004307,General Upgrade: +6 to +10,用於裝備精煉：+6 ~ +10 可使用
-PROPITEM_TXT_004308,Power Dice 8,能量骰子 B
+PROPITEM_TXT_004308,Power Dice 8,能量骰子 B (8)
 PROPITEM_TXT_004309,Used for Piercing and Accessory Upgrade (Medium Success Rate),用於穿洞和飾品升級 (中等成功率)
-PROPITEM_TXT_004310,Power Dice 10,能量骰子 A
+PROPITEM_TXT_004310,Power Dice 10,能量骰子 A (10)
 PROPITEM_TXT_004311,Used for Piercing and Accessory Upgrade (High Success Rate),用於穿洞和飾品升級 (高成功率)
-PROPITEM_TXT_004312,Power Dice 12,能量骰子 S
+PROPITEM_TXT_004312,Power Dice 12,能量骰子 S (12)
 PROPITEM_TXT_004313,General Upgrade: +1 to +10 (High Success Rate),用於裝備精煉：+1 ~ +10 可使用 (高成功率)
 PROPITEM_TXT_004314,Volcano Card (2%),火山卡片 (2%)
 PROPITEM_TXT_004315,+2% HP (When placed in a pierced suit),提升 HP 2% 的鑲嵌卡片
@@ -6426,11 +6426,11 @@ PROPITEM_TXT_008054,Emerald,翡翠
 PROPITEM_TXT_008056,Sapphire,藍寶石
 PROPITEM_TXT_008058,Ruby,紅寶石
 PROPITEM_TXT_008060,Topaz,黃玉
-PROPITEM_TXT_100123,Shining Power Dice 4,閃耀的能量骰子 D
+PROPITEM_TXT_100123,Shining Power Dice 4,閃耀的能量骰子 D (4)
 PROPITEM_TXT_100124,Rare dice for the creation of Unique Weapons.,用於製作獨特武器的稀有骰子。
-PROPITEM_TXT_100125,Shining Power Dice 6,閃耀的能量骰子 C
+PROPITEM_TXT_100125,Shining Power Dice 6,閃耀的能量骰子 C (6)
 PROPITEM_TXT_100126,Rare dice for the creation of Unique Weapons.,用於製作獨特武器的稀有骰子。
-PROPITEM_TXT_100127,Shining Power Dice 12,閃耀的能量骰子 S
+PROPITEM_TXT_100127,Shining Power Dice 12,閃耀的能量骰子 S (12)
 PROPITEM_TXT_100128,Rare dice for the creation of Unique Weapons.,用於製作獨特武器的稀有骰子。
 PROPITEM_TXT_008976,Cloud Piece,雲朵碎片
 PROPITEM_TXT_008977,Gather 10 of these to get a Cloud Box from Peach.,收集 10 個碎片到波奇那兌換雲朵禮盒吧。
@@ -6496,16 +6496,16 @@ PROPITEM_TXT_009040,Orange Cotton Candy,橘色棉花糖
 PROPITEM_TXT_009041,Increases Hit Rate by 5 for 30 minutes.,命中率 +5，持續 30 分鐘。
 PROPITEM_TXT_009048,Lucky Cloud Box,幸運的雲朵箱子
 PROPITEM_TXT_009049,Random box that contains Cotton Candies and a chance to get a Flying Cloud.,含有隨機棉花糖的箱子，有機會得到筋斗雲
-PROPITEM_TXT_100129,Power Dice 4 Piece,能量骰子 D 碎片
-PROPITEM_TXT_100130,Gather 10 of these to get a Power Dice 4 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 D 吧
-PROPITEM_TXT_100131,Power Dice 6 Piece,能量骰子 C 碎片
-PROPITEM_TXT_100132,Gather 10 of these to get a Power Dice 6 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 C 吧
-PROPITEM_TXT_100133,Power Dice 8 Piece,能量骰子 B 碎片
-PROPITEM_TXT_100134,Gather 10 of these to get a Power Dice 8 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 B 吧
-PROPITEM_TXT_100135,Power Dice 10 Piece,能量骰子 A 碎片
-PROPITEM_TXT_100136,Gather 10 of these to get a Power Dice 10 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 A 吧
-PROPITEM_TXT_100137,Power Dice 12 Piece,能量骰子 S 碎片
-PROPITEM_TXT_100138,Gather 10 of these to get a Power Dice 12 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 S 吧
+PROPITEM_TXT_100129,Power Dice 4 Piece,能量骰子 D (4) 碎片
+PROPITEM_TXT_100130,Gather 10 of these to get a Power Dice 4 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 D (4) 吧
+PROPITEM_TXT_100131,Power Dice 6 Piece,能量骰子 C (6) 碎片
+PROPITEM_TXT_100132,Gather 10 of these to get a Power Dice 6 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 C (6) 吧
+PROPITEM_TXT_100133,Power Dice 8 Piece,能量骰子 B (8) 碎片
+PROPITEM_TXT_100134,Gather 10 of these to get a Power Dice 8 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 B (8) 吧
+PROPITEM_TXT_100135,Power Dice 10 Piece,能量骰子 A (10) 碎片
+PROPITEM_TXT_100136,Gather 10 of these to get a Power Dice 10 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 A (10) 吧
+PROPITEM_TXT_100137,Power Dice 12 Piece,能量骰子 S (12) 碎片
+PROPITEM_TXT_100138,Gather 10 of these to get a Power Dice 12 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 S (12) 吧
 PROPITEM_TXT_013190,Mob Weapon: Zombie,喪屍
 PROPITEM_TXT_100139,Secret Drop Boost,秘密的掉落提升
 PROPITEM_TXT_100140,You just found a secret Drop boost! Enjoy it!,你發現了隱藏的掉落提升!享受他吧!
