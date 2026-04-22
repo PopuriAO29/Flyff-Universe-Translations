@@ -9417,9 +9417,9 @@ PROPITEM_TXT_130004,Pukepuke Hat,噗卡噗卡帽
 PROPITEM_TXT_130005,Hael's Swords (Cloak),海爾之劍 (披風)
 PROPITEM_TXT_130006,The Blade Hero's Swords. You can wear them on a belt!,刀鋒英雄的劍。 你可以把它們戴在腰帶上！
 PROPITEM_TXT_130007,Skeleton General Wings,冥骸將軍之翼
-PROPITEM_TXT_130008,Crystal Demon Lord Cloak,水晶魔王披風
-PROPITEM_TXT_130009,Crystal Demon Sword,水晶魔王之劍
-PROPITEM_TXT_130010,Crystal Demon Big Sword,水晶魔王大劍
+PROPITEM_TXT_130008,Crystal Demon Lord Cloak,冰晶惡魔領主披風
+PROPITEM_TXT_130009,Crystal Demon Sword,冰晶惡魔領主之劍
+PROPITEM_TXT_130010,Crystal Demon Big Sword,冰晶惡魔領主大劍
 PROPITEM_TXT_130011,PK Demon Wings (7 Days),PK 惡魔之翼 (7 天)
 PROPITEM_TXT_130012,A strong reward for a strong champion.,給強者的重賞。
 PROPITEM_TXT_130013,Cage Key (Low),籠鑰匙 (低)
@@ -9789,7 +9789,7 @@ PROPITEM_TXT_230124,Scroll of Name Color (Pink),名稱顏色卷軸 (粉紅色)
 PROPITEM_TXT_230125,Scroll of Name Color (Light Red),名稱顏色卷軸 (淡紅色)
 PROPITEM_TXT_230126,Scroll of Name Color (Red),名稱顏色卷軸 (紅色)
 PROPITEM_TXT_230127,Scroll of Name Color (Green),名稱顏色卷軸 (綠色)
-PROPITEM_TXT_230128,Crystal Demon Lord Head,水晶魔王頭
+PROPITEM_TXT_230128,Crystal Demon Lord Head,冰晶惡魔領主頭
 PROPITEM_TXT_230129,Extended Update Pass,延長更新通行證
 PROPITEM_TXT_230130,This purchase gives you many advantages during the Update Pass season:\n-More Update Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports,此次購買在更新季節通行證為您帶來許多優勢：\n- 更多更新通行證獎勵\n- 一般銀行\n- 2 天供應商商店\n- 無限加速燃料\n- 無限經驗鎖\n- 副本地圖和導航器\n- 更快的安全升級\n- 1 個免費進入副本\n- 5 每日搜尋商店傳送
 PROPITEM_TXT_230131,Asmodan Suit (M),阿斯莫丹衣服 (男)
@@ -21584,8 +21584,8 @@ PROPITEM_TXT_828056,Ghost of the Forgotten Prince Vendor Shop,被遺忘的王子
 PROPITEM_TXT_828057,This cute Ghost of the Forgotten Prince manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (7 Days),這位可愛的被遺忘王子的幽靈為您管理個人商店！雙擊關閉商店。當商店關閉時，您可以取回該物品。 (7 天)
 PROPITEM_TXT_828058,Phantom General Vendor Shop,幻影雜貨店
 PROPITEM_TXT_828059,This cute Phantom General manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (7 Days),這位可愛的幻影將軍為你管理著一家私人商店！雙擊關閉商店。當商店關閉時，您可以取回該物品。 (7 天)
-PROPITEM_TXT_828060,Crystal Demon Lord Vendor Shop,水晶魔王商人商店
-PROPITEM_TXT_828061,This cute Crystal Demon Lord manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (7 Days),這位可愛的水晶魔王為你管理著一個個人商店！雙擊關閉商店。當商店關閉時，您可以取回該物品。 (7 天)
+PROPITEM_TXT_828060,Crystal Demon Lord Vendor Shop,冰晶惡魔領主商人商店
+PROPITEM_TXT_828061,This cute Crystal Demon Lord manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (7 Days),這位可愛的冰晶惡魔領主為你管理著一個個人商店！雙擊關閉商店。當商店關閉時，您可以取回該物品。 (7 天)
 PROPITEM_TXT_828062,Enchanted Shaman Vendor Shop,魔法薩滿商人商店
 PROPITEM_TXT_828063,This cute Enchanted Shaman manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (7 Days),這位可愛的魔法薩滿為您管理個人商店！雙擊關閉商店。當商店關閉時，您可以取回該物品。 (7 天)
 PROPITEM_TXT_828064,Yukata 2025 Set,2025 浴衣套裝
