@@ -106,7 +106,7 @@ ACHIEVEMENT_KILL_RYMAGI_NAME,Mage Redcloud,緋雲術士
 ACHIEVEMENT_KILL_RYWARRIOR_NAME,Taiaha,泰亞哈戰士
 ACHIEVEMENT_KILL_SKELWOLF_NAME,Hellhound,地獄犬
 ACHIEVEMENT_KILL_RYBARGA_NAME,Chief Keokuk,基奧卡克酋長
-ACHIEVEMENT_KILL_BEHEMOTH03_NAME,[God of Death] Demonic Ankou,[死神] 冥魔安庫
+ACHIEVEMENT_KILL_BEHEMOTH03_NAME,[God of Death] Demonic Ankou,冥魔死神‧安庫
 ACHIEVEMENT_KILL_AIBATT_LVL1,Aibatt Slayer 1,獨眼蝙蝠殺手 1
 ACHIEVEMENT_KILL_AIBATT_LVL2,Aibatt Slayer 2,獨眼蝙蝠殺手 2
 ACHIEVEMENT_KILL_AIBATT_LVL3,Aibatt Slayer 3,獨眼蝙蝠殺手 3
@@ -642,11 +642,11 @@ ACHIEVEMENT_KILL_SHADEKRITON_LVL2,[Shade Lieutenant] Kriton Hunter 2,[暗影中�
 ACHIEVEMENT_KILL_SHADEKRITON_LVL3,[Shade Lieutenant] Kriton Hunter 3,[暗影中尉] 克里頓獵人 3
 ACHIEVEMENT_KILL_SHADEKRITON_LVL4,[Shade Lieutenant] Kriton Hunter 4,[暗影中尉] 克里頓獵人 4
 ACHIEVEMENT_KILL_SHADEKRITON_LVL5,[Shade Lieutenant] Kriton Killer,[暗影中尉] 克里頓殺手
-ACHIEVEMENT_KILL_BEHEMOTH03_LVL1,[God of Death] Demonic Ankou Hunter 1,[死神] 冥魔安庫獵人 1
-ACHIEVEMENT_KILL_BEHEMOTH03_LVL2,[God of Death] Demonic Ankou Hunter 2,[死神] 冥魔安庫獵人 2
-ACHIEVEMENT_KILL_BEHEMOTH03_LVL3,[God of Death] Demonic Ankou Hunter 3,[死神] 冥魔安庫獵人 3
-ACHIEVEMENT_KILL_BEHEMOTH03_LVL4,[God of Death] Demonic Ankou Hunter 4,[死神] 冥魔安庫獵人 4
-ACHIEVEMENT_KILL_BEHEMOTH03_LVL5,[God of Death] Demonic Ankou Killer,[死神] 冥魔安庫殺手
+ACHIEVEMENT_KILL_BEHEMOTH03_LVL1,[God of Death] Demonic Ankou Hunter 1,冥魔死神‧安庫獵人 1
+ACHIEVEMENT_KILL_BEHEMOTH03_LVL2,[God of Death] Demonic Ankou Hunter 2,冥魔死神‧安庫獵人 2
+ACHIEVEMENT_KILL_BEHEMOTH03_LVL3,[God of Death] Demonic Ankou Hunter 3,冥魔死神‧安庫獵人 3
+ACHIEVEMENT_KILL_BEHEMOTH03_LVL4,[God of Death] Demonic Ankou Hunter 4,冥魔死神‧安庫獵人 4
+ACHIEVEMENT_KILL_BEHEMOTH03_LVL5,[God of Death] Demonic Ankou Killer,冥魔死神‧安庫殺手
 ACHIEVEMENT_MONSTER_DESC_COMMON,Defeat these monsters to gain a permanent damage bonus against them.,擊殺這些怪物以獲得對它們的永久傷害加成。
 ACHIEVEMENT_KILL_AIBATT_TITLE,Twinkle Star,閃耀之星
 ACHIEVEMENT_KILL_MUSHPANG_TITLE,Fun Guy,開心果
