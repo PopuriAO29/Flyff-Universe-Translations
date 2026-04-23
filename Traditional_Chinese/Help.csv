@@ -530,13 +530,13 @@ CLIENT_HELP_INC_000528,Dexterity,敏捷
 CLIENT_HELP_INC_000529,"Affects accuracy, attack speed, dodge rate, block rate, critical chance and bow attack power.",影響到角色的命中率、迴避、攻擊速度、暴擊機率及弓箭系列武器的攻擊力。
 CLIENT_HELP_INC_000530,Intelligence,智力
 CLIENT_HELP_INC_000531,"Affects maximum MP, MP restoration amount, magic power and magic defense.",提升魔法攻擊力、魔法防禦力、MP 的最大量，MP 回復量。
-CLIENT_HELP_INC_000532,HP (life),HP(生命力)
+CLIENT_HELP_INC_000532,HP (life),HP (生命)
 CLIENT_HELP_INC_000533,This is the vitality of the character and the character will die if it reaches 0. You can recover it with food and pill items.,角色的生命耗盡時，會無法繼續進行各種活動。您可利用各種食物及藥丸來恢復 HP。
-CLIENT_HELP_INC_000534,MP (spirit),MP(精神力)
+CLIENT_HELP_INC_000534,MP (spirit),MP (魔力)
 CLIENT_HELP_INC_000535,"This is for using magic, you can revive it by drinking refresher.",使用魔法時必要的數值。可使用魔力多來恢復 MP。
-CLIENT_HELP_INC_000536,FP (endurance),FP(持久力)
+CLIENT_HELP_INC_000536,FP (endurance),FP (活力)
 CLIENT_HELP_INC_000537,This is needed to use physical skills. It can be replenished by resting/sitting down but it can be immediately recovered by using vitality drink items.,使用技能後，出現的疲勞指數。可透過適當的休息漸漸的恢復疲勞。或是使用精力多來恢復 FP。
-CLIENT_HELP_INC_000538,Exp (experience),EXP(角色經驗值)
+CLIENT_HELP_INC_000538,Exp (experience),EXP (經驗值)
 CLIENT_HELP_INC_000539,This is required to raise the level of a character. It can be earned by killing monsters or through quests.,角色要提升等級時，必須累積經驗值。您可透過戰鬥與解任務來獲得經驗值。
 CLIENT_HELP_INC_000540,Skills,技能
 CLIENT_HELP_INC_000541,Skills get stronger as you level and put more points into them.,技能會隨著你的分配技能點升級而變得更強。
