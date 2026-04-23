@@ -694,7 +694,7 @@ UI_UPGRADE_MATERIAL,Power Dice/Card,能量骰子/卡片
 UI_UPGRADE_PROTECTSCROLL,SProtect,精煉防爆卷
 UI_ULTIMATE_UPGRADE_PROTECTSCROLL,XProtect,終極精煉防爆卷
 UI_ULTIMATE_UPGRADE_MATERIAL,Sunstone,太陽石
-UI_UPGRADE_CHANCESCROLL,SFusion,精煉卷軸
+UI_UPGRADE_CHANCESCROLL,SFusion,精煉捲軸
 UI_UPGRADE_DEGRADE,"If upgrading fails, the item's upgrade level will decrease, but the item will not be destroyed.",精煉失敗時精煉等級會降低，但是物品不會消失。
 UI_UPGRADE_UNSAFE,"Without a Scroll of SProtect, the item will be destroyed if upgrading fails (from +3 onward).",如果沒有使用精煉防爆卷，精煉失敗時物品會消失。
 UI_UPGRADE_CONFIRMATION,Do you want to upgrade this item?,您想要精煉這個物品嗎?
@@ -1009,7 +1009,7 @@ UI_TOOLTIP_ABILITY,Bonus,能力值
 UI_PET_HP,Energy: %d / %d,能量：%d / %d
 UI_PET_LEVEL,Lv%d,Lv%d
 UI_PET_DEAD,(DEAD),(死亡)
-UI_PET_REROLL_TIER,Scroll-rerolled tier:,卷軸重置等級:
+UI_PET_REROLL_TIER,Scroll-rerolled tier:,捲軸重置等級:
 UI_TARGET_CLEAR,Clear target,取消目標
 UI_OPTION_TAB_UI,Interface,介面
 UI_OPTION_AUTO_ATTACK,Auto Attack,自動攻擊
@@ -1398,7 +1398,7 @@ UI_CHARINFO_EXPRATE,EXP Rate,經驗值加成
 UI_CHARINFO_EXPRATE_TIP,Your personal EXP rate. Does not include server and event rates.,您個人的經驗值加成，不包含伺服器和活動經驗加成。
 UI_TOOLTIP_ITEM_BINDING,Binding,綁定
 UI_TOOLTIP_ITEM_BINDING_DESC,This material makes the target item Soul-Bound.,該材料會使目標物品被角色綁定。
-UI_BINDING_NOTICE,#cffff0000This will bind the item to your character. You can undo this with a Scroll of Unbinding.#nc,#cffff0000這項操作將物品綁定到您的角色，您可以使用解除綁定卷軸來解除物品綁定。#nc
+UI_BINDING_NOTICE,#cffff0000This will bind the item to your character. You can undo this with a Scroll of Unbinding.#nc,#cffff0000這項操作將物品綁定到您的角色，您可以使用解除綁定捲軸來解除物品綁定。#nc
 UI_BINDING_MESSAGE,This item is now bound to your character.,此物品現在已綁定您的角色。
 UI_TOOLTIP_ITEM_BOUND,[Soul-Bound],[角色綁定]
 UI_TOOLTIP_ITEM_BOUND_DESC,Can be unbound.,可以被解除綁定。
@@ -1469,7 +1469,7 @@ UI_TRANSMUTE_TITLE,Item Transmutation,衣櫥
 UI_TRANSMUTE_DESTROY,"By transmuting this item, it will become account-linked. You can undo the transmutation by using a Revert Transmutation Scroll on it. Do you want to continue?",轉換此物品後，它將與帳號綁定。您可以使用「外觀復原咒文書」移除轉換。您是否藥繼續?
 UI_TRANSMUTE_PRIMARY,Item to Transmute,外觀轉換道具
 UI_TRANSMUTE_HEADER,You have #b%d#nb items in your wardrobe.,你有 #b%d#nb 件衣櫥物品。
-UI_TRANSMUTE_INFO,Add items to your wardrobe by using \na #bScroll of Transmutation#nb on an item.,使用一個#b轉換卷軸#nb\n為您的衣櫥添加更多物品。
+UI_TRANSMUTE_INFO,Add items to your wardrobe by using \na #bScroll of Transmutation#nb on an item.,使用一個#b轉換捲軸#nb\n為您的衣櫥添加更多物品。
 UI_TRANSMUTE_OUTPUT,Result,結果
 UI_TRANSMUTE_PRIMARY_TIP,Insert an item to transmute.,放置要外觀轉換的物品。
 UI_TRANSMUTE_SACRIFICE_TIP,Place an item to sacrifice for the appearance.,放置要作為外觀犧牲的物品。
@@ -2018,10 +2018,10 @@ UI_RESTATR2_DESC,Do you wish to apply the Random Special Option upgrade to the f
 UI_ITEM_UPGRADE_PUT,Please input an item which you want to upgrade.,請輸入要升級的物品。
 UI_MATERIAL_ITEM_PUT,Please input a material item first.,請先輸入材料物品。
 UI_ELEMENT_UPGRADE_ERROR_ITEM,This item cannot be used.,該物品無法使用。
-UI_ULTIMATE_UPGRADE_UNSAFE,"Without a Scroll of XProtect, the item will be destroyed if upgrading fails.",沒有 XProtect 卷軸，升級失敗時物品將被摧毀。
+UI_ULTIMATE_UPGRADE_UNSAFE,"Without a Scroll of XProtect, the item will be destroyed if upgrading fails.",沒有 XProtect 捲軸，升級失敗時物品將被摧毀。
 UI_MATERIAL_NAME,%s x%d,%s x%d
 UI_MATERIAL_NAME_PLACEHOLDER,Material,材料
-UI_PROTECTION_SCROLL_PLACEHOLDER,Protection Scroll,防爆卷軸
+UI_PROTECTION_SCROLL_PLACEHOLDER,Protection Scroll,防爆捲軸
 UI_ULTIMATE_PREFIX,[Ultimate],[終極]
 UI_TOOLTIP_DST_LAST_STAND,Last Stand Chance,背水一戰機率
 UI_TOOLTIP_DST_RIP_REFLEX,Riposte Reflex Chance,反擊反射機率

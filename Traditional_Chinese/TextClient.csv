@@ -746,7 +746,7 @@ TEXTCLIENT_PARTYMESSAGEERROR3,Your party is already level 40. You cannot use thi
 TEXTCLIENT_PARTYALREADYPERMANENT,The party is already permanent.,此劇團已經是永久劇團了。
 TEXTCLIENT_PARTYPERMANENT,The party is now permanent! Members are not automatically ejected when they are offline.,此劇團現在是永久性的！當全部成員離線時不會自動解散。
 TEXTCLIENT_MOBQUEST,You can only attack this monster during the quest %s.,您只能在任務：%s 中攻擊這個怪物。
-TEXTCLIENT_UPGRADESAFE_NOPROTECTSCROLL,Not enough Protection Scroll.,沒有足夠的保護卷軸。
+TEXTCLIENT_UPGRADESAFE_NOPROTECTSCROLL,Not enough Protection Scroll.,沒有足夠的保護捲軸。
 TEXTCLIENT_UPGRADESAFE_NOMATERIAL,Not enough Upgrade Material.,升級材料不足。
 TEXTCLIENT_UPGRADESAFE_NOGOLD,Not enough Penya.,金幣不足。
 TEXTCLIENT_UPGRADESAFE_WRONGMATERIAL,Wrong Upgrade Material.,錯誤的升級材料。
@@ -1169,7 +1169,7 @@ TEXTCLIENT_REAPMONEY_RAINBOWRACE_REFUND,You received %s Penya as a refund from t
 TEXTCLIENT_HOUSINGPRESETS_MAXREACHED,You already reached the maximum unlockable slots for housing presets!,您的小屋配置已到達解鎖槽位的上限！
 TEXTCLIENT_HOUSINGPRESETS_SUCCESS01,You can now have a maximum of %d housing presets!,現在您最多可以擁有 %d 個小屋配置！
 TEXTCLIENT_HOUSING_NOSHOP,You can't open a private shop in houses!,您無法在小屋裡開啟個人商店！
-TEXTCLIENT_HOUSING_NORETURNSCROLL,You cannot use a return scroll in houses!,您無法在小屋內使用回城卷軸！
+TEXTCLIENT_HOUSING_NORETURNSCROLL,You cannot use a return scroll in houses!,您無法在小屋內使用回城捲軸！
 TEXTCLIENT_RANDOMSCROLL_BEST,This item already has the best random stat possible.,這件物品已經擁有了最好的隨機能力值。
 TEXTCLIENT_DUNGEON_CUSTOM_OBJECTIVE,%d minute(s) remaining to %s,剩餘 %d 分鐘 %s 
 TEXTCLIENT_RAINBOWRACE_BLINK,You cannot teleport during the rainbow race.,在彩虹競賽中，您無法傳送。
