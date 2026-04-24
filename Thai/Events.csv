@@ -26,7 +26,7 @@ UI_EVENT_FWC,Flyff World Championship,Flyff World Championship
 UI_EVENT_FWC_LEVELREACH,FWC Level Reach,ถึงระดับเลเวล FWC 
 UI_EVENT_FWC_LEVELREACH_DESC,Reach new levels during the event period and receive rewards! Only on the Flyff World Championship server!,ไปถึงเลเวลใหม่ในช่วงระยะเวลากิจกรรมและรับรางวัล! เฉพาะเซิร์ฟเวอร์ Flyff World Championship เท่านั้น!
 UI_EVENT_FWC_GEAREXCHANGE_DESC,Exchange FWC Gear with [FWC Manager] Ava to get more rewards!,แลกเปลี่ยนอุปกรณ์ FWC ที่ [ผู้จัดการ FWC] Ava เพื่อรับรางวัลเพิ่มเติม!
-UI_EVENT_FWC_DESC,"The #bFlyff World Championship#nb is a global competition held until September 7th, 2023. Join this server with boosted EXP and Drops and compete for exceptional prizes!",#bFlyff World Championship#nb เป็นการแข่งขันระดับโลกที่จัดขึ้นจนถึงวันที่ 7 กันยายน 2023 เข้าร่วมเซิร์ฟเวอร์นี้พร้อมกับ Exp พร้อมอัตราดรอปที่เพิ่มขึ้น และพยายามคว้ารางวัลสุดพิเศษ!
+UI_EVENT_FWC_DESC,The #bFlyff World Championship#nb is a global competition. Join this server with boosted EXP and Drops and compete for exceptional prizes!,#bFlyff World Championship#nb เป็นการแข่งขันระดับโลกที่จัดขึ้นจนถึงวันที่ 7 กันยายน 2023 เข้าร่วมเซิร์ฟเวอร์นี้พร้อมกับ Exp พร้อมอัตราดรอปที่เพิ่มขึ้น และพยายามคว้ารางวัลสุดพิเศษ!
 UI_EVENT_MOCOMOCHI,Mocomochi!,Mocomochi!
 UI_EVENT_UPGRADING,Upgrading!,กำลังอัพเกรด!
 UI_EVENT_LUCKYCAPSULE,Lucky Draw!,Lucky Draw!

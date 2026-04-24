@@ -1267,6 +1267,7 @@ TEXTCLIENT_COUPON_ALREADYUSED,Coupon has already been used.,Le coupon a déjà �
 TEXTCLIENT_COUPON_LIMITREACHED,The coupon usage limit has been reached.,La limite d’utilisation du coupon a été atteinte.
 TEXTCLIENT_COUPON_NOTFOUND,No coupon found with this code. Please try again.,Aucun coupon trouvé avec ce code. Veuillez réessayer.
 TEXTCLIENT_COUPON_INVALIDCODE,Invalid coupon code. Please try again.,Code de coupon invalide. Veuillez réessayer.
+TEXTCLIENT_COUPON_LEVELTOOLOW,You need a higher level to redeem this coupon.,You need a higher level to redeem this coupon.
 TEXTCLIENT_COUPONGIFT_MAIL_TITLE,Coupon Gift,Cadeau de coupon
 TEXTCLIENT_COMBAT_NOTTRADE,You cannot trade during combat.,Vous ne pouvez pas échanger pendant un combat.
 TEXTCLIENT_EVENT_PREFIX,[Event],[Événement]
