@@ -198,8 +198,8 @@ CLIENT_HELP_INC_000196,Clean Hit,重擊
 CLIENT_HELP_INC_000197,"A powerful, downward strike. This skill is available at Level 3 and can be used with any Melee Weapon.",見習生等級 3 級時，可使用的前段技能。將力量集中後，瞬間爆發出威力的單手武器技能。
 CLIENT_HELP_INC_000198,Flurry,連擊
 CLIENT_HELP_INC_000199,A rapid stabbing attack that follows a Clean Hit in the Action Slot. This skill is available at Level 5 to Players who have at least 3 Skill Points in Clean Hit and can be used with any Melee Weapon.,在連技欄中，可在接在重擊之後的技能。 該技能在 5 級時，需要在重擊使用 3 個技能點的玩家才可使用，並且可以與任何近戰武器一起使用。
-CLIENT_HELP_INC_000200,Over Cutter,暴擊
-CLIENT_HELP_INC_000201,This attack gathers all of the power the vagrant has and unleashes it in a strong upwards finishing blow. Over Cutter completes the combo after Flurry in the Action Slot. This skill is available at Level 10 to Players who have at least 3 Skill Points in Flurry and can be used with any Melee Weapon.,暴擊在連技欄中需接在連擊之後才可使用。 該技能在 10 級時，需要在連擊使用 3 個技能點的玩家才可使用，並且可以與任何近戰武器一起使用。
+CLIENT_HELP_INC_000200,Over Cutter,爆氣
+CLIENT_HELP_INC_000201,This attack gathers all of the power the vagrant has and unleashes it in a strong upwards finishing blow. Over Cutter completes the combo after Flurry in the Action Slot. This skill is available at Level 10 to Players who have at least 3 Skill Points in Flurry and can be used with any Melee Weapon.,爆氣在連技欄中需接在連擊之後才可使用。 該技能在 10 級時，需要在連擊使用 3 個技能點的玩家才可使用，並且可以與任何近戰武器一起使用。
 CLIENT_HELP_INC_000202,Mercenary,勇者
 CLIENT_HELP_INC_000203,"Mercenaries prefer to partake in close range combat. The main characteristics of this particular class involve physical strength, and a strong body that is able to withstand attacks.",勇者是擅長近戰的職業，主要特色是擁有強大的力量。此職業主要使用劍、斧類的武器來進行攻擊或使用技能。
 CLIENT_HELP_INC_000204,"Powerful and headstrong, the mercenary has both inner and physical strength. Mercenaries will become either a Blade or a Knight.",強大而意志堅定，勇者有內在的力量，也有身體的力量。勇者將轉職成為暗殺者或騎士。
@@ -236,37 +236,37 @@ CLIENT_HELP_INC_000234,Increases the attack level of a Sword. This skill is avai
 CLIENT_HELP_INC_000235,Acrobat,雜技師
 CLIENT_HELP_INC_000236,"Acrobats mainly wield long distance weapons such as Bows or Yo-Yos. Using tactics based on speed and accuracy, they are usually able to break anyone willing enough to fight them. Sly and witty, the acrobat is a cunning trickster.",雜技師主要使用長距離武器，如弓箭或溜刃，使用基於速度和準度的戰術，它們通常能擊敗任何願意與他們戰鬥的人。 狡猾而詼諧的雜技師是一個狡猾的騙子。
 CLIENT_HELP_INC_000237,"An Acrobat will use MP for Bow Skills and FP for Yo-Yo skills. For universal skills like Dark Illusion, Acrobats use FP. Acrobats will become either a Jester or a Ranger.",雜技師將 MP 用於弓箭技能，FP 用於溜刃技能。 雜技師使用 FP 於通用技能像幻影術。 雜技師之後將成為操偶師或浪人。
-CLIENT_HELP_INC_000238,Pulling,溜刃研習
+CLIENT_HELP_INC_000238,Pulling,零距離
 CLIENT_HELP_INC_000239,Pulls a target towards the player. This skill is available at Level 15 to Players and can be used with any Yo-Yo.,將目標拉向玩家。該技能在 15 級時可供玩家使用，並且可以與任何溜刃一起使用。
-CLIENT_HELP_INC_000240,Fast Walker,弓箭研習
+CLIENT_HELP_INC_000240,Fast Walker,加速術
 CLIENT_HELP_INC_000241,Increases the walking speed of the user for a limited time. This skill is available at Level 18 to Players who have at least 3 Skill Points in Pulling and can be used with any Bow or Yo-Yo.,在有限的時間內增加玩家的步行速度。該技能在 18 級時適用於零距離技能點數至少為 3 的玩家，並且可以與任何弓或溜刃一起使用。
 CLIENT_HELP_INC_000242,Dark Illusion,幻影術
 CLIENT_HELP_INC_000243,Turn a character invisible for a short time. This skill is available at Level 30 to Players who have at least 6 Skill Points in Fast Walker and can be used with any Bow or Yo-Yo.,讓角色在短時間內隱形。該技能在 30 級時適用於擁有至少 6 個加速術技能點的玩家，並且可以與任何弓或溜刃一起使用。
-CLIENT_HELP_INC_000244,Perfect Block,亂箭射殺
+CLIENT_HELP_INC_000244,Perfect Block,絕對格擋
 CLIENT_HELP_INC_000245,Block rate will be increased. This skill is available at Level 45 to Players who have at least 8 Skill Points in Dark Illusion and can be used with any Bow or Yo-Yo.,格擋率將提高，該技能在 45 級適用於擁有至少 8 個幻影術技能點的玩家，並且可以與任何弓或溜刃一起使用。
-CLIENT_HELP_INC_000246,Slow Step,加速術
+CLIENT_HELP_INC_000246,Slow Step,緩速術
 CLIENT_HELP_INC_000247,You have a chance to decrease the moving speed of enemy. This skill is available at Level 15 and can be used with any Yo-Yo.,你有機會降低敵人的移動速度。該技能在 15 級時可用，並且可以與任何溜刃一起使用。
 CLIENT_HELP_INC_000248,Yo-Yo Mastery,溜刃研習
 CLIENT_HELP_INC_000249,Increases Yo-Yo damage. This skill is available at Level 20 to Players who have at least 3 Skill Points in Slow Step and can be used with any Yo-Yo.,增加溜刃的傷害。該技能在 20 級時適用至少有 3 個緩速術技能點的玩家，並且可以與任何溜刃一起使用。
-CLIENT_HELP_INC_000250,Snatch,緩速術
+CLIENT_HELP_INC_000250,Snatch,強奪
 CLIENT_HELP_INC_000251,Steals Penya from the target; can only be used while in Dark Illusion from behind target. This skill is available at Level 35 to Players who have at least 8 Skill Points in Yo-Yo Mastery and can be used with any Yo-Yo.,從目標搶奪金幣；只能在目標背後使用幻影術中搶奪。該技能在 35 級時適用於擁有至少 8 個溜刃研習技能點的玩家，並且可以與任何溜刃一起使用。
-CLIENT_HELP_INC_000252,Deadly Swing,沉默射擊
+CLIENT_HELP_INC_000252,Deadly Swing,致命之舞
 CLIENT_HELP_INC_000253,A critical attack that has a chance to cause the enemy to bleed. This skill is available at Level 50 to Players who have at least 10 Skill Points in Snatch and can be used with any Yo-Yo.,使出一次致命攻擊，並有機會讓敵人進入流血狀態。此技能於角色等級 50 開放，需先在強奪投入至少 10 點技能點，且可搭配任何溜刃使用。
-CLIENT_HELP_INC_000254,Cross Line,絕對防禦
+CLIENT_HELP_INC_000254,Cross Line,十字爆氣
 CLIENT_HELP_INC_000255,Gather energy into your Yo-Yo in order to strike an enemy with a powerful attack that has the chance to stun your target. This skill is available at Level 30 to Players who have at least 8 Skill Points in Yo-Yo Mastery and can be used with any Yo-Yo. .,將能量集中在溜刃中，以強大的攻擊力攻擊敵人，並有機會擊暈目標。此技能 30 級時且玩家必須至少投入 8 個技能點在溜刃研習上，可以用在任何溜刃上。
-CLIENT_HELP_INC_000256,Counterattack,箭雨
+CLIENT_HELP_INC_000256,Counterattack,逆襲
 CLIENT_HELP_INC_000257,Evade the enemy's next attack and strike back with an attack of your own. This skill is available at Level 40 to Players who have at least 10 Skill Points in Cross Line and can be used with any Yo-Yo.,躲避敵人的下一次攻擊並用自己的攻擊進行反擊。 該技能在 40 級時適用於擁有至少 10 個十字爆氣技能點的玩家，並且可以與任何溜刃一起使用。
-CLIENT_HELP_INC_000258,Junk Arrow,十字爆氣
+CLIENT_HELP_INC_000258,Junk Arrow,亂箭射殺
 CLIENT_HELP_INC_000259,This skill shoots four arrows very quickly but with reduced accuracy. This skill is available at Level 15 and can be used with any Bow.,該技能射出速度非常快的四支箭，但準度會降低。 該技能在 15 級時可用，可以與任何弓一起使用。
-CLIENT_HELP_INC_000260,Bow Mastery,弓術研習
+CLIENT_HELP_INC_000260,Bow Mastery,弓研習
 CLIENT_HELP_INC_000261,Increases Bow damage. This skill is available at Level 20 to Players who have at least 5 Skill Points in Junk Arrow and can be used with any Bow.,增加弓的傷害，該技能在 20 級時可供擁有至少 5 個亂箭射殺技能點的玩家使用，並且可以與任何弓一起使用。
-CLIENT_HELP_INC_000262,Silent Shot,強奪
+CLIENT_HELP_INC_000262,Silent Shot,沉默射擊
 CLIENT_HELP_INC_000263,Delivers a powerful sneak attack to the target if you are in Dark Illusion. This skill is available at Level 30 to Players who have at least 4 Skill Points in Bow Mastery and can be used with any Bow.,如果你處於幻影術中，會對目標進行強大的偷襲。 該技能在 30 級時可供擁有至少 4 個弓研習技能點的玩家使用，並且可以與任何弓一起使用。
-CLIENT_HELP_INC_000264,Auto Shot,逆襲
-CLIENT_HELP_INC_000265,Attacks four times in succession without missing. Each hit is slightly less damaging than a hit from Junk Arrow. This skill is available at Level 45 to Players who have at least 9 Skill Points in Silent Shot and can be used with any Bow.,連續攻擊四次不失手。每次擊中的傷害都略低於垃亂箭射殺的擊中。 該技能在 45 級時適用於在擁有至少有 9 點沉默射擊技能點的玩家，並且可以與任何弓一起使用。
+CLIENT_HELP_INC_000264,Auto Shot,自動射擊
+CLIENT_HELP_INC_000265,Attacks four times in succession without missing. Each hit is slightly less damaging than a hit from Junk Arrow. This skill is available at Level 45 to Players who have at least 9 Skill Points in Silent Shot and can be used with any Bow.,連續攻擊四次不失手。每次擊中的傷害都略低於亂箭射殺的擊中。 該技能在 45 級時適用於在擁有至少有 9 點沉默射擊技能點的玩家，並且可以與任何弓一起使用。
 CLIENT_HELP_INC_000266,Aimed Shot,狙擊
 CLIENT_HELP_INC_000267,A carefully aimed shot that has a chance to deal double damage to the target. This skill is available at Level 35 to Players who have at least 5 Skill Points in Bow Mastery and can be used with any Bow.,精心瞄準的射擊，有機會對目標造成雙倍傷害。該技能在 35 級時可供擁有至少 5 個弓研習技能點的玩家使用，並且可以與任何弓一起使用。
-CLIENT_HELP_INC_000268,Arrow Rain,零距離
+CLIENT_HELP_INC_000268,Arrow Rain,箭雨
 CLIENT_HELP_INC_000269,A rain of arrows that will fall on all enemies in a wide circle around your target. This skill is available at Level 50 to Players who have at least 5 Skill Points in Aimed Shot and can be used with any Bow.,箭雨將落在目標周圍大範圍內的所有敵人身上。 該技能在 50 級時適用於狙擊技能點數至少為 5 的玩家，並且可以與任何弓一起使用。
 CLIENT_HELP_INC_000270,Assist,神職者
 CLIENT_HELP_INC_000271,"The Assist is the priest or medic of Flyff. The two primary builds for this job are a Full Support healer or a Buff Warrior. Both have the same skills to chose from. Where the Healer will need a partner to level, the Warrior can self-buff and fight alone.",擁有保護其他角色能力的職業。神職者可細分為加持系與攻擊系。加持系也就是輔助型，主要使用的武器是法棒。而攻擊系的神職者必須使用拳套來進行近身攻擊。
@@ -310,35 +310,35 @@ CLIENT_HELP_INC_000308,Magicians control powerful elemental magic with the use o
 CLIENT_HELP_INC_000309,Magicians will be able to advance in their Jobs to become either an Elementor or a Psykeeper.,魔法使將能夠在他們的職業中取得進階，成為研術者或念力師。
 CLIENT_HELP_INC_000310,Mental Strike,念力球
 CLIENT_HELP_INC_000311,Deals non elemental magic damage to the target. Damage dealt varies by the difference of INT between the caster and the target. This skill is available at Level 15 and can be used with any Wand or Staff.,對目標造成非魔法傷害，造成的傷害因施法者和目標之間的智力差異而異，該技能在 15 級時可用，可以與任何魔杖或法杖一起使用。
-CLIENT_HELP_INC_000312,Flame Ball,風之傳送
+CLIENT_HELP_INC_000312,Flame Ball,火焰迴旋
 CLIENT_HELP_INC_000313,Strikes at the enemy with a ball of flame. This skill is available at Level 18 to Players who have at least 3 Skill Points in Mental Strike and can be used with any Wand or Staff.,用火球攻擊敵人，該技能在 18 級時適用於至少擁有 3 個念力球技能點的玩家，並且可以與任何魔杖或法杖一起使用。
-CLIENT_HELP_INC_000314,Flame Geyser,火焰迴旋
+CLIENT_HELP_INC_000314,Flame Geyser,自體焚燒
 CLIENT_HELP_INC_000315,Inflicts intermediate fire damage to the target with a lasting Damage Over Time effect. This skill is available at Level 25 to Players who have at least 5 Skill Points in Flame Ball and can be used with any Wand or Staff.,對目標造成中度火焰傷害，並具有持續的持續傷害效果，該技能在 25 級時適用於擁有至少 5 個火焰迴旋技能點的玩家，並且可以與任何魔杖或法杖一起使用。
-CLIENT_HELP_INC_000316,Fire Strike,自體焚燒
+CLIENT_HELP_INC_000316,Fire Strike,火神之怒
 CLIENT_HELP_INC_000317,Damages an enemy with a fire ball. The enemy loses health for a limited time afterwards. This skill is available at Level 30 to Players who have at least 7 Skill Points in Flame Geyser and can be used with any Wand or Staff.,用火球對敵人造成傷害，之後敵人會在有限的時間內失去生命值。該技能在 30 級時適用於擁有至少 7 個自體焚燒技能點的玩家，並且可以與任何魔杖或法杖一起使用。
-CLIENT_HELP_INC_000318,Swordwind,火神之怒
+CLIENT_HELP_INC_000318,Swordwind,疾風之刃
 CLIENT_HELP_INC_000319,A violent wind that attacks a target from a short distance. This skill is available at Level 20 to Players who have at least 5 Skill Points in Mental Strike and can be used with any Wand or Staff.,一陣狂風，從短距離攻擊目標。該技能在 20 級時適用於擁有至少 5 個念力球技能點數的玩家，並且可以與任何魔杖或法杖一起使用。
-CLIENT_HELP_INC_000320,Strongwind,疾風之刃
+CLIENT_HELP_INC_000320,Strongwind,颶風爆
 CLIENT_HELP_INC_000321,A tornado of wind that deals damage to the target as well as pushing them back. This skill is available at Level 25 to Players who have at least 5 Skill Points in Swordwind and can be used with any Wand or Staff.,龍捲風對目標造成傷害並將其推後，該技能在 25 級時適用擁有至少 5 個疾風之刃技能點的玩家，並且可以與任何魔杖或法杖一起使用。
-CLIENT_HELP_INC_000322,Wind Cutter,颶風爆
+CLIENT_HELP_INC_000322,Wind Cutter,風刃之劍
 CLIENT_HELP_INC_000323,A blade of wind that deals damage to the target. This skill is available at Level 30 to Players who have at least 7 Skill Points in Strongwind and can be used with any Wand or Staff.,對目標造成傷害的風之刃，該技能在 30 級時適用於擁有至少 7 個颶風爆技能點的玩家，並且可以與任何魔杖或法杖一起使用。
-CLIENT_HELP_INC_000324,Ice Missile,風刃之劍
+CLIENT_HELP_INC_000324,Ice Missile,冰刃
 CLIENT_HELP_INC_000325,Inflicts basic water damage with a chance of slowing down the target’s movement. This skill is available at Level 20 to Players who have at least 3 Skill Points in Mental Strike and can be used with any Wand or Staff.,造成基本的水傷害，並有機會減慢目標的移動速度。 該技能在 20 級時適用於擁有至少 3 個念力球技能點的玩家，並且可以與任何魔杖或法杖一起使用。
-CLIENT_HELP_INC_000326,Waterball,冰刃
+CLIENT_HELP_INC_000326,Waterball,水球術
 CLIENT_HELP_INC_000327,Shoots damaging balls of water at the target. The number of balls fired increases as the skill level increases. This skill is available at Level 25 to Players who have at least 5 Skill Points in Ice Missile and can be used with any Wand or Staff.,向目標發射破壞性的水球，發射的球數隨著技能水平的提高而增加。該技能在 25 級時適用於擁有至少 5 點冰刃技能點的玩家，並且可以與任何魔杖或法杖一起使用。
-CLIENT_HELP_INC_000328,Water Well,水球術
+CLIENT_HELP_INC_000328,Water Well,水龍之柱
 CLIENT_HELP_INC_000329,"A spell that throws columns of water at the target, dealing a large amount of damage. This skill is available at Level 30 to Players who have at least 7 Skill Points in Waterball and can be used with any Wand or Staff.",向目標投擲水柱，造成大量傷害的法術。該技能在 30 級時適用擁有至少 7 個水球術技能點的玩家，並且可以與任何魔杖或法杖一起使用。
-CLIENT_HELP_INC_000330,Lightning Ball,水龍之柱
+CLIENT_HELP_INC_000330,Lightning Ball,電光球
 CLIENT_HELP_INC_000331,A spell that gathers static electricity and forms it into a small ball that causes basic lightning damage. This skill is available at Level 18 to Players who have at least 5 Skill Points in Mental Strike and can be used with any Wand or Staff.,一種將靜電聚集並形成小球的法術，可造成基本的閃電傷害。該技能在 18 級時適用擁有至少 5 個念力球技能點數的玩家，並且可以與任何魔杖或法杖一起使用。
-CLIENT_HELP_INC_000332,Lightning Ram,電光球
-CLIENT_HELP_INC_000333,Deals a medium amount of lightning damage to the target. This skill is available at Level 25 to Players who have at least 5 Skill Points in Lightning Ball and can be used with any Wand or Staff.,對目標造成中等數量的閃電傷害。該技能在 25 級時適用擁有至少 5 個天之裂痕技能點數的玩家，並且可以與任何魔杖或法杖一起使用。
-CLIENT_HELP_INC_000334,Lightning Shock,高壓電光球
+CLIENT_HELP_INC_000332,Lightning Ram,高壓電光球
+CLIENT_HELP_INC_000333,Deals a medium amount of lightning damage to the target. This skill is available at Level 25 to Players who have at least 5 Skill Points in Lightning Ball and can be used with any Wand or Staff.,對目標造成中等數量的閃電傷害。該技能在 25 級時適用擁有至少 5 個電光球技能點數的玩家，並且可以與任何魔杖或法杖一起使用。
+CLIENT_HELP_INC_000334,Lightning Shock,雷擊術
 CLIENT_HELP_INC_000335,Damages the enemy with a small but fast lightning ball. This skill is available at Level 40 to Players who have at least 7 Skill Points in Lightning Ram and can be used with any Wand or Staff.,用小而快的閃電球對敵人造成傷害。該技能在 40 級時適用於擁有至少 7 個高壓電光球技能點的玩家，並且可以與任何魔杖或法杖一起使用。
-CLIENT_HELP_INC_000336,Stone Spike,雷擊術
+CLIENT_HELP_INC_000336,Stone Spike,大地的懲罰
 CLIENT_HELP_INC_000337,Inflicts earth elemental damage to the opponent as well as creating a chance to stun the target. This skill is available at Level 18 to Players who have at least 2 Skill Points in Mental Strike and can be used with any Wand or Staff.,對敵人造成地元素傷害，並有機會擊暈目標。該技能在 18 級時適用於擁有至少 2 點念力球技能點的玩家，並且可以與任何魔杖或法杖一起使用。
-CLIENT_HELP_INC_000338,Rock Crash,大地的懲罰
+CLIENT_HELP_INC_000338,Rock Crash,石神降臨
 CLIENT_HELP_INC_000339,Damages the enemy with a giant stone. This skill is available at Level 25 to Players who have at least 5 Skill Points in Stone Spike and can be used with any Wand or Staff.,用巨石對敵人造成傷害。該技能在 25 級時可供擁有至少 5 個大地的懲罰技能點的玩家使用，並且可以與任何魔杖或法杖一起使用。
-CLIENT_HELP_INC_000340,Rooting,石神降臨
+CLIENT_HELP_INC_000340,Rooting,大地之手
 CLIENT_HELP_INC_000341,Harnesses the power of the ground to prevent a user from moving. This skill is available at Level 30 to Players who have at least 7 Skill Points in Rock Crash and can be used with any Wand or Staff.,利用地面的力量防止用戶移動。該技能在 30 級時適用於擁有至少 7 個石神降臨技能點的玩家，並且可以與任何魔杖或法杖一起使用。
 CLIENT_HELP_INC_000342,Blinkpool,風之傳送
 CLIENT_HELP_INC_000343,Teleports the user in a specified location within the limited range. The range increases as the skill level goes up. This skill is available at Level 30 to Players who have at least 3 Skill Points in Mental Strike and can be used with any Wand or Staff.,將用戶傳送到有限範圍內的指定位置，範圍隨著技能水平的提高而增加。該技能在 30 級時適用於擁有至少 3 個念力球技能點的玩家，並且可以與任何魔杖或法杖一起使用。
@@ -372,7 +372,7 @@ CLIENT_HELP_INC_000370,Hawk Attack,鬼斧斬
 CLIENT_HELP_INC_000371,"Jumps, striking the enemy with both weapons. Deals massive damage and possibly blinds the enemy for a short period of time. This skill is available at Level 65 to Players who have at least 5 Skill Points in Silent Strike and can be used with two one handed axes.",跳躍，用雙武器攻擊敵人。 造成巨大傷害，並可能使敵人在短時間內失明。 該技能在 65 級時適用於在無聲打擊中擁有至少 5 個技能點的玩家，並且可以使用兩把單手斧頭。
 CLIENT_HELP_INC_000372,Armor Penetrate,爆碎點刺
 CLIENT_HELP_INC_000373,A melee skill which ignores 50% of target's defense rating. This skill is available at Level 62 and can be used with a one handed Sword or Axe.,成功時，敵人防具會受到損壞。
-CLIENT_HELP_INC_000374,Berserk,速度集中
+CLIENT_HELP_INC_000374,Berserk,狂暴化
 CLIENT_HELP_INC_000375,"Temporarily raises attack power and attack speed, but you can not use any skills for the duration of the spell. This skill is available at Level 65 to Players who have at least 4 Skill Points in Armor Penetrate and can be used with a one handed Sword or Axe.",在短時間內提升攻擊力與攻擊速度，但技能持續期間內無法使用任何其他技能。此技能於角色等級 65 開放，需先在爆碎點刺投入至少 4 點技能點，且可搭配單手劍或單手斧使用。
 CLIENT_HELP_INC_000376,Sonic Blade,音速暗殺者
 CLIENT_HELP_INC_000377,"Gathers a powerful aura and transfers it to your weapon, and then deals damage to the closest enemy. This skill is available at Level 70 to Players who have at least 7 Skill Points in Berserk and can be used with a one handed Sword or Axe.",暗殺者最強技能！將所有的氣集中在武器後，用盡全力攻擊敵人。
@@ -402,11 +402,11 @@ CLIENT_HELP_INC_000400,"The second job class for Acrobats, they specialize in lo
 CLIENT_HELP_INC_000401,placholder 32,佔位文字 32
 CLIENT_HELP_INC_000402,Critical Shot,光速射擊
 CLIENT_HELP_INC_000403,This skill increases Critical Hit for a limited time.,在限定時間內提高暴擊率。
-CLIENT_HELP_INC_000404,Ice Arrow,冰箭
+CLIENT_HELP_INC_000404,Ice Arrow,寒冰箭
 CLIENT_HELP_INC_000405,"This skill causes an explosion of frost, slowing all enemies in a certain area for a certain period of time.",讓周圍的所有怪物受到寒冷箭氣傷害，並附帶使敵人速度遲緩的效果。
 CLIENT_HELP_INC_000406,Flame Arrow,聖火之箭
 CLIENT_HELP_INC_000407,This skill gives the fire element to arrows and damages surrounding enemies.,該技能將火元素賦予箭矢並傷害周圍的敵人。
-CLIENT_HELP_INC_000408,Piercing Arrow,箭矢貫通
+CLIENT_HELP_INC_000408,Piercing Arrow,貫通箭
 CLIENT_HELP_INC_000409,"This skill pierces monsters who are a straight line, dealing damage to all of them.",貫通目標，並讓縱向的所有敵人都受到傷害。
 CLIENT_HELP_INC_000410,Poison Arrow,毒箭
 CLIENT_HELP_INC_000411,The strong damage and continuous poisonous damage will be occurred simutaneously.,讓對方感染毒，並且持續的受到傷害。
@@ -418,9 +418,9 @@ CLIENT_HELP_INC_000416,Triple shot,三連矢
 CLIENT_HELP_INC_000417,Triple arrows will be shot to deal strong damage.,一次發射三支箭，使威力增強。
 CLIENT_HELP_INC_000418,Ringmaster,守護者
 CLIENT_HELP_INC_000419,"The first job class for Assists, uses a staff like an Assist. Focuses more on supporting party than damaging monsters.",可發揮最高輔助技能的職業。與一轉的神職者輔助技能不同在於二轉後的技能可針對多數人施展，是個在隊伍中不可或缺的輔助夥伴！
-CLIENT_HELP_INC_000420,Protect,攻擊強化
+CLIENT_HELP_INC_000420,Protect,天神之盾
 CLIENT_HELP_INC_000421,This buff increases the physical defense of the target.,"""給自己或我軍施展防禦技能的話,可提升物理防禦力。"""
-CLIENT_HELP_INC_000422,Holyguard,天神之盾
+CLIENT_HELP_INC_000422,Holyguard,天神之護
 CLIENT_HELP_INC_000423,This buff protects the target from incoming critical hits for a limited amount of time.,該加成可在有限的時間內保護目標免受暴擊的傷害。
 CLIENT_HELP_INC_000424,Holycross,天神之戒
 CLIENT_HELP_INC_000425,The enemy will take double damage.,對敵人施展一次，即可讓敵人受到的損害值變成兩倍。
@@ -472,7 +472,7 @@ CLIENT_HELP_INC_000470,Windfield,狂風怒吼
 CLIENT_HELP_INC_000471,A strong wind slows all enemies around the caster for a period of time.,"""有效時間內, 將特定地區變成強風區域, 使所有該區範圍內的敵人, 移動速度變慢"""
 CLIENT_HELP_INC_000472,Wind Mastery,風元素精通
 CLIENT_HELP_INC_000473,Increases damage done by wind skills.,提升風元素的攻擊力。
-CLIENT_HELP_INC_000474,Thunder Strike,雷鳴落震
+CLIENT_HELP_INC_000474,Thunder Strike,雷霆鏈擊
 CLIENT_HELP_INC_000475,Strong Lightning damage is dealt to a single target.,施展強力的雷震，讓怪物受到強大的傷害
 CLIENT_HELP_INC_000476,Electric Shock,雷鳴落震
 CLIENT_HELP_INC_000477,"Deals lightning damage to all enemies around the caster, also lowering their defense temporarily.","""召喚出強烈的電磁場, 使周圍所有的怪物受到攻擊, 並引起麻痺使防禦力降低。"""
@@ -704,7 +704,7 @@ CLIENT_HELP_INC_000702,placholder 84,佔位文字 84
 CLIENT_HELP_INC_000703,placholder 85,佔位文字 85
 CLIENT_HELP_INC_100000,Achievements,成就
 CLIENT_HELP_INC_100001,"There are many kinds of missions: Daily Rewards, Time-Limited Events, Account Shared Achievements, etc. Complete them and you will receive various rewards such as Items, Custom Title, Attack Power Bonus, Penya or Bonus fCoins!",有很多的任務種類：每日獎勵、限時活動、帳號共享成就等。完成他們，將獲得各種獎勵，如物品、稱號、攻擊力獎勵、金幣或 fCoins 獎勵!
-CLIENT_HELP_INC_100002,Flyff Pass,特別通行證
+CLIENT_HELP_INC_100002,Flyff Pass,Flyff 通行證
 CLIENT_HELP_INC_100003,"Complete daily, weekly and season missions to receive rewards!\n\nDon't forget to claim your rewards before the end of the Flyff Pass season.\n\nPoints earned through the Season missions are not included in the weekly limit.",完成每日、每週與賽季任務即可獲得獎勵！\n\n別忘了在 Flyff Pass 賽季結束前領取您的獎勵。\n\n透過賽季任務獲得的點數不計入每週上限。
 CLIENT_HELP_INC_100004,Equipment Switch,裝備切換
 CLIENT_HELP_INC_100005,"Create equipment presets, allowing you to have your sets, weapons, and accessories readily available. With a simple shortcut, you can effortlessly equip them without any hassle.",建立裝備預設，讓您隨時使用您的套裝、武器和飾品。 透過簡單的快捷方式，您可以輕鬆地裝備它們，沒有任何麻煩。
