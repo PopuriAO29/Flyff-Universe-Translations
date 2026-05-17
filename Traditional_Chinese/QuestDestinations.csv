@@ -1,7 +1,7 @@
 ﻿Key,English,Traditional_Chinese
 QUEST_DESTINATION_0002,Collect Twinke Stone by hunting Aibatt.,擊退獨眼蝙蝠，拿來閃耀石。
 QUEST_DESTINATION_0005,Deliver it to Magician Instructor Lopaze.,傳達給 [魔法師訓練助教] 洛帕斯。
-QUEST_DESTINATION_0006,Deliver it to Acrobat Instructor Tailer.,傳達給雜技員訓練助教塔亦爾洛。
+QUEST_DESTINATION_0006,Deliver it to Acrobat Instructor Tailer.,傳達給 [雜技師訓練助教] 塔利爾。
 QUEST_DESTINATION_0007,Get rid of Ren from Iblis Temple located southern part of Saint Morning.,擊退在聖音特南方的伊普里司神殿附近的蓮。
 QUEST_DESTINATION_0008,Get rid of Sisif and find Soulstone of Hero.,擊退西西普，拿來英雄的寶石。
 QUEST_DESTINATION_0009,Get rid of Venel Guardian and find Venel Heart.,擊退貝內爾守衛，拿來心臟。
@@ -37,7 +37,7 @@ QUEST_DESTINATION_0044,Bring it to Dr. Estly,把它帶給 Dr. 法小林。
 QUEST_DESTINATION_0045,Please give it to Mayor in Darkon,傳達給得肯市長。
 QUEST_DESTINATION_0056,Bring it to Chairman of History Society Gothante.,傳達給 [歷史協會會長] 高譚提拉。
 QUEST_DESTINATION_0057,Bring it to Manager of Ancient Document Rovanett,傳達給 [古文書管理員] 羅拔奈特。
-QUEST_DESTINATION_0058,Bring it to Great Magician Laola,傳達給大魔法師] 拉歐拉。
+QUEST_DESTINATION_0058,Bring it to Great Magician Laola,傳達給 [大魔法使] 拉宇。
 QUEST_DESTINATION_0059,Bring it to Historian Martinyc,傳達給歷史學者馬特尼提特
 QUEST_DESTINATION_0060,Bring it to Mercenary Instructor Hyuit,傳達給 [勇者訓練助教] 孝一。
 QUEST_DESTINATION_0061,Kill Small Mushpang,擊退部下莫修邦。
