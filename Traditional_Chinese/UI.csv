@@ -194,7 +194,7 @@ UI_TOOLTIP_ABILITYMAX,Max. Ability,最大能力
 UI_TOOLTIP_DEFENSE,Defense,防禦力
 UI_TOOLTIP_DEFMAGIC,Magic Defense,魔法防禦力
 UI_TOOLTIP_DEFELECTRICITY,Electricity Resistance,雷元素抗性
-UI_TOOLTIP_DEFALLELEMENTAL,All Elements Resistance,全元素抗性
+UI_TOOLTIP_DEFALLELEMENTAL,All Elements Resistance,元素抗性
 UI_TOOLTIP_DEFFIRE,Fire Resistance,火元素抗性
 UI_TOOLTIP_DEFWIND,Wind Resistance,風元素抗性
 UI_TOOLTIP_DEFWATER,Water Resistance,水元素抗性
@@ -236,7 +236,7 @@ UI_TOOLTIP_DST_MASTRY_FIRE,Mastery: Fire,精通：火
 UI_TOOLTIP_DST_MASTRY_WATER,Mastery: Water,精通：水
 UI_TOOLTIP_DST_MASTRY_ELECTRICITY,Mastery: Electricity,精通：雷
 UI_TOOLTIP_DST_MASTRY_WIND,Mastery: Wind,精通：風
-UI_TOOLTIP_DST_MASTRY_ALL,All Elements Mastery,全元素精通
+UI_TOOLTIP_DST_MASTRY_ALL,All Elements Mastery,元素精通
 UI_TOOLTIP_DST_REFLECT_DAMAGE,Reflect Damage,反彈傷害
 UI_TOOLTIP_DST_MP_DEC_RATE,MP Consumption Decrease,減少魔力消耗
 UI_TOOLTIP_DST_FP_DEC_RATE,FP Consumption Decrease,減少活力消耗
