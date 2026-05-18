@@ -18,7 +18,7 @@ PROPSKILL_TXT_000014,Pan Barrier,遠矢屏障
 PROPSKILL_TXT_000015,Significantly increases Ranged Block.,大幅增加遠距離格擋。
 PROPSKILL_TXT_000016,Blazing Sword,熾焰劍術
 PROPSKILL_TXT_000017,Increases accuracy and enhances the power of the wielded sword.,增加使用劍時的命中率和攻擊力。
-PROPSKILL_TXT_000018,Smite Axe,狂戰斧
+PROPSKILL_TXT_000018,Smite Axe,狂斧戰意
 PROPSKILL_TXT_000019,Increases accuracy and enhances the power of the wielded axe.,增加使用斧時的命中率和攻擊力。
 PROPSKILL_TXT_000020,Empower Weapon,元素賦武
 PROPSKILL_TXT_000021,Enhances the weapon's elemental power.,增加武器的元素等級。
@@ -762,7 +762,7 @@ PROPSKILL_TXT_150178,Strong Impact,強力衝擊
 PROPSKILL_TXT_150179,Bloody Release,血液釋放
 PROPSKILL_TXT_150180,Cross of Blood,血十字烙印
 PROPSKILL_TXT_150181,"Charge your blood and stomp on the ground, hurting and bleeding nearby enemies. Fully charged stomps do extra hits.",凝聚血力猛踏地面，對周圍敵人造成傷害並施加流血效果。蓄力至滿後，踏擊將額外造成多次打擊。
-PROPSKILL_TXT_150183,Berserk,狂暴
+PROPSKILL_TXT_150183,Berserk,狂暴化
 PROPSKILL_TXT_150184,Knockback,擊退
 PROPSKILL_TXT_150185,Bloody Thorn,血棘
 PROPSKILL_TXT_150186,Knocks back and causes bleeding with an explosion. Charging increases range.,發動爆炸攻擊，擊退目標並造成流血效果；蓄力可提升攻擊範圍。

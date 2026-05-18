@@ -225,10 +225,10 @@ CLIENT_HELP_INC_000223,Sneaker,縛敵戰網
 CLIENT_HELP_INC_000224,Holds an enemy in place with a net. This skill is available at Level 20 to Players who have at least 10 Skill Points in Pan Barrier and can be used with any Axe or Sword.,用網子將敵人套在原地。該技能等級為 20 級，技能點數至少為 10 技能點遠矢屏障的玩家可以使用該技能，並且可以與任何斧或劍一起使用。
 CLIENT_HELP_INC_000225,Empower Weapon,元素賦武
 CLIENT_HELP_INC_000226,This Skill strengthens the elemental damage of a weapon. It is not applied if there is no elemental attack power on the weapon. This skill is available at Level 20 to Players who have at least 5 Skill Points in Protection and can be used with any Axe or Sword.,該技能強化武器的元素傷害。如果武器上沒有元素攻擊力，則不適用。該技能在 20 級時可供擁有至少 5 個盾牌防護技能點的玩家使用，並且可以與任何斧或劍一起使用。
-CLIENT_HELP_INC_000227,Smite Axe,狂戰斧
+CLIENT_HELP_INC_000227,Smite Axe,狂斧戰意
 CLIENT_HELP_INC_000228,Increases the attack level of an Axe and gives additional defense. This skill is available at Level 25 to Players who have at least 4 Skill Points in Empower Weapon and can be used with any Axe.,增加斧頭的攻擊等級並提供額外的防禦 該技能在 25 級時適用於在元素賦武中至少有 4 個技能點的玩家，並且可以與任何斧頭一起使用。
 CLIENT_HELP_INC_000229,Axe Mastery,斧之精通
-CLIENT_HELP_INC_000230,Increases the attack level of an Axe. This skill is available at Level 30 to Players who have at least 9 Skill Points in Smite Axe and can be used with any Axe.,提升斧的攻擊等級。該技能在 30 級時適用於在狂戰斧中擁有至少 9 點技能點的玩家，並且可以與任何斧頭一起使用。
+CLIENT_HELP_INC_000230,Increases the attack level of an Axe. This skill is available at Level 30 to Players who have at least 9 Skill Points in Smite Axe and can be used with any Axe.,提升斧的攻擊等級。該技能在 30 級時適用於在狂斧戰意中擁有至少 9 點技能點的玩家，並且可以與任何斧頭一起使用。
 CLIENT_HELP_INC_000231,Blazing Sword,熾焰劍術
 CLIENT_HELP_INC_000232,Increases the attack level and accuracy of a Sword. This skill is available at Level 25 to Players who have at least 4 Skill Points in Empower Weapon and can be used with any Sword.,增加劍的攻擊等級和準度。該技能在 25 級時可供擁有至少 4 點元素賦武技能點的玩家使用，並且可以與任何劍一起使用。
 CLIENT_HELP_INC_000233,Sword Mastery,劍之精通
@@ -372,7 +372,7 @@ CLIENT_HELP_INC_000370,Hawk Attack,鷹墜斬
 CLIENT_HELP_INC_000371,"Jumps, striking the enemy with both weapons. Deals massive damage and possibly blinds the enemy for a short period of time. This skill is available at Level 65 to Players who have at least 5 Skill Points in Silent Strike and can be used with two one handed axes.",跳躍，用雙武器攻擊敵人。 造成巨大傷害，並可能使敵人在短時間內失明。 該技能在 65 級時適用於在寂影突刺中擁有至少 5 個技能點的玩家，並且可以使用兩把單手斧頭。
 CLIENT_HELP_INC_000372,Armor Penetrate,破甲刺擊
 CLIENT_HELP_INC_000373,A melee skill which ignores 50% of target's defense rating. This skill is available at Level 62 and can be used with a one handed Sword or Axe.,成功時，敵人防具會受到損壞。
-CLIENT_HELP_INC_000374,Berserk,狂暴
+CLIENT_HELP_INC_000374,Berserk,狂暴化
 CLIENT_HELP_INC_000375,"Temporarily raises attack power and attack speed, but you can not use any skills for the duration of the spell. This skill is available at Level 65 to Players who have at least 4 Skill Points in Armor Penetrate and can be used with a one handed Sword or Axe.",在短時間內提升攻擊力與攻擊速度，但技能持續期間內無法使用任何其他技能。此技能於角色等級 65 開放，需先在破甲刺擊投入至少 4 點技能點，且可搭配單手劍或單手斧使用。
 CLIENT_HELP_INC_000376,Sonic Blade,音速環斬
 CLIENT_HELP_INC_000377,"Gathers a powerful aura and transfers it to your weapon, and then deals damage to the closest enemy. This skill is available at Level 70 to Players who have at least 7 Skill Points in Berserk and can be used with a one handed Sword or Axe.",暗殺者最強技能！將所有的氣集中在武器後，用盡全力攻擊敵人。
