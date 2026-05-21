@@ -1061,7 +1061,7 @@ UI_NEWCHAR_HAIR_COLOR,Hair Color,Hair Color
 UI_WORLD_ZOOM_LEVEL,%dX Zoom. Press Scroll Lock to cycle zoom levels.,%dX Zoom. Press Scroll Lock to cycle zoom levels.
 UI_KEYBIND_CHAR_CONTROL,Movement Keys,Movement Keys
 UI_KEYBIND_MOVE_FORWARD,Move Forward,Siirry eteenpäin
-UI_KEYBIND_MOVE_BACKWARD,Move Backward,Siirrä taaksepäin
+UI_KEYBIND_MOVE_BACKWARD,Move Backward,Siirry taaksepäin
 UI_KEYBIND_TURN_LEFT,Turn Left,Käänny vasemmalle
 UI_KEYBIND_TURN_RIGHT,Turn Right,Käänny oikealle
 UI_KEYBIND_JUMP,Jump,Hyppy
@@ -2715,8 +2715,8 @@ UI_LIFE_MASTERY_UNIQUE_ORE,Rock with a unique appearance. Yields Common-Rare ore
 UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,Rare rock that is difficult to find. Yields Common-Very Rare ores.
 UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,Legendary rock known to few. Yields Rare-Very Rare ores.
 UI_LIFE_PRODUCTION_START,Production Start,Production Start
-UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc","Kun tuotanto on alkanut, sitä ei voi peruuttaa. Edetä?\n\n#cffffc000Tuotantoaika: %s#nc"
-UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc","Kun tuotanto on alkanut, sitä ei voi peruuttaa. Edetä?\n\n#cffffc000Tuotantoaika: %s~%s#nc"
+UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc","Kun tuotanto on alkanut, sitä ei voi peruuttaa. Jatketaanko?\n\n#cffffc000Tuotantoaika: %s#nc"
+UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc","Kun tuotanto on alkanut, sitä ei voi peruuttaa. Jatketaanko?\n\n#cffffc000Tuotantoaika: %s~%s#nc"
 UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,Mine Ore #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,Cut Trees #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_FISHING,Catch Fish #cffc32f07#b%d/%d#nb#nc,Catch Fish #cffc32f07#b%d/%d#nb#nc
