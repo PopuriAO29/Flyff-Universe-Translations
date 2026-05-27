@@ -405,7 +405,7 @@ TEXTCLIENT_PRIVATE_SHOP_EMPTY,All items of the private shop were sold.,這家個
 TEXTCLIENT_CHEER_MESSAGE1,Cheer Message Point(s): %d/3,鼓勵點數：%d/3
 TEXTCLIENT_CHEER_MESSAGE2,Time left until the next point,剩下時間
 TEXTCLIENT_CHEER_MESSAGE3,%s sent you a cheer message of friendship!,%s 給你鼓勵！
-TEXTCLIENT_CHEER_MESSAGE4,%s sent you a cheer message of love!,%s 給你情侶鼓勵！
+TEXTCLIENT_CHEER_MESSAGE4,%s sent you a cheer message of love!,%s 給你愛的鼓勵！
 TEXTCLIENT_CHEER_MESSAGE5,Your cheer points have increased by 1.,你的鼓勵點數增加 1 點了。
 TEXTCLIENT_CHEER_NO1,Unable to send cheer message. Please try again after %s minutes.,目前沒有可用的鼓勵點數，請在 %s 分鐘後再試。
 TEXTCLIENT_CHEER_NO2,Please select a player to cheer. You can only send cheer messages to players other than yourself.,請選擇一名角色給予鼓勵，只能向你自己以外的角色發送鼓勵。
